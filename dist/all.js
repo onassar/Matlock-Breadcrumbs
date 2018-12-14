@@ -54,7 +54,17 @@
 {
     properties: {
         link: 'https://github.com/FortAwesome/Font-Awesome',
+        notes: [
+            'https://i.imgur.com/3AhoAeu.jpg',
+            'https://i.imgur.com/z3zoICN.jpg',
+            'https://i.imgur.com/nMIVbUf.jpg'
+        ],
         platform: 'GitHub',
+        tests: [
+            'https://tim.fyi',
+            'https://getstencil.com/blog',
+            'https://lodash.com/docs/4.17.11'
+        ],
         type: 'repository'
     },
     tests: {
@@ -69,10 +79,10 @@
     versions: {
         patterns: {
             page: [
-                /<link[^>]+font\-awesome\/([0-9\.]+)\//i,   // https://i.imgur.com/3AhoAeu.jpg
+                /<link[^>]+font\-awesome\/([0-9\.]+)\//i,
                 /Font\-Awesome\/v([0-9\.]+)\//i,
-                /font\-awesome[^>]+ver=v([0-9\.]+)/i,       // https://i.imgur.com/z3zoICN.jpg
-                /fontawesome\/([0-9\.]+)\//i                // https://i.imgur.com/nMIVbUf.jpg
+                /font\-awesome[^>]+ver=v([0-9\.]+)/i,
+                /fontawesome\/([0-9\.]+)\//i
             ]
         }
     }
@@ -253,7 +263,13 @@
 {
     properties: {
         link: 'https://github.com/aFarkas/html5shiv',
+        notes: [
+            'https://i.imgur.com/VaUooX0.png'
+        ],
         platform: 'GitHub',
+        tests: [
+            'https://ca.octobersveryown.com'
+        ],
         type: 'repository'
     },
     tests: {
@@ -270,7 +286,7 @@
     versions: {
         patterns: {
             page: [
-                /html5shiv\/([0-9\.]+)\/html5shiv/i         // https://i.imgur.com/VaUooX0.png, https://i.imgur.com/VaUooX0.png
+                /html5shiv\/([0-9\.]+)\/html5shiv/i
             ]
         },
         references: [
@@ -1257,13 +1273,19 @@
 {
     properties: {
         link: 'https://github.com/google/fonts',
+        notes: [
+            'https://i.imgur.com/5G51k7k.jpg'
+        ],
         platform: 'GitHub',
+        tests: [
+            'https://getstencil.com/blog'
+        ],
         type: 'repository'
     },
     tests: {
         patterns: {
             page: [
-                [/dns-prefetch[^>]+fonts\.googleapis\.com/i],       // https://i.imgur.com/5G51k7k.jpg
+                [/dns-prefetch[^>]+fonts\.googleapis\.com/i],
                 [/href="https?:\/\/fonts\.googleapis\.com/i]
             ]
         }
@@ -1651,9 +1673,13 @@
             link: 'https://js.foundation/about/donate'
         },
         link: 'https://github.com/jquery/jquery',
+        notes: [
+            'https://i.imgur.com/6QH50iS.jpg'
+        ],
         platform: 'GitHub',
         tests: [
-            'http://holderjs.com/'
+            'http://holderjs.com/',
+            'https://stackoverflow.com/'
         ],
         type: 'repository'
     },
@@ -1665,7 +1691,7 @@
     versions: {
         patterns: {
             page: [
-                /<script[^>]+googleapis[^>]+jquery\/([0-9\.]+)\/jquery/i      // https://i.imgur.com/6QH50iS.jpg
+                /<script[^>]+googleapis[^>]+jquery\/([0-9\.]+)\/jquery/i
             ]
         },
         references: [
@@ -2594,14 +2620,20 @@
 {
     properties: {
         link: 'https://github.com/sphinx-doc/sphinx',
+        notes: [
+            'https://i.imgur.com/vTzFde7.jpg'
+        ],
         platform: 'GitHub',
+        tests: [
+            'http://varnish-cache.org/'
+        ],
         type: 'repository'
     },
     tests: {
         patterns: {
             page: [
                 [
-                    /Powered by.{0,200}Sphinx/i     // https://i.imgur.com/vTzFde7.jpg
+                    /Powered by.{0,200}Sphinx/i
                 ]
             ]
         },
@@ -2739,7 +2771,13 @@
 {
     properties: {
         link: 'https://github.com/twbs/bootstrap',
+        notes: [
+            'https://i.imgur.com/BrbdjkX.jpg'
+        ],
         platform: 'GitHub',
+        tests: [
+            'https://www.bootstrapcdn.com/'
+        ],
         type: 'repository'
     },
     tests: {
@@ -2755,7 +2793,7 @@
     versions: {
         patterns: {
             page: [
-                /\<link[^>]+\/bootstrap\/([0-9\.]+)\//i         // https://i.imgur.com/BrbdjkX.jpg
+                /\<link[^>]+\/bootstrap\/([0-9\.]+)\//i
             ]
         },
         references: [
@@ -2767,7 +2805,13 @@
 {
     properties: {
         link: 'https://github.com/twitter/hogan.js',
+        notes: [
+            'https://i.imgur.com/6SVB6Yc.jpg'
+        ],
         platform: 'GitHub',
+        tests: [
+            'https://ocs.ca/collections/dried-flower-cannabis?page=1'
+        ],
         type: 'repository'
     },
     tests: {
@@ -2778,7 +2822,7 @@
     versions: {
         patterns: {
             page: [
-                /hogan\.js\/([0-9\.]+)\/hogan/i         // https://i.imgur.com/6SVB6Yc.jpg
+                /hogan\.js\/([0-9\.]+)\/hogan/i
             ]
         }
     }

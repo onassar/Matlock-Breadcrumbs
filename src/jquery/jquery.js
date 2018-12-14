@@ -4,9 +4,13 @@
             link: 'https://js.foundation/about/donate'
         },
         link: 'https://github.com/jquery/jquery',
+        notes: [
+            'https://i.imgur.com/6QH50iS.jpg'
+        ],
         platform: 'GitHub',
         tests: [
-            'http://holderjs.com/'
+            'http://holderjs.com/',
+            'https://stackoverflow.com/'
         ],
         type: 'repository'
     },
@@ -18,7 +22,7 @@
     versions: {
         patterns: {
             page: [
-                /<script[^>]+googleapis[^>]+jquery\/([0-9\.]+)\/jquery/i      // https://i.imgur.com/6QH50iS.jpg
+                /<script[^>]+googleapis[^>]+jquery\/([0-9\.]+)\/jquery/i
             ]
         },
         references: [

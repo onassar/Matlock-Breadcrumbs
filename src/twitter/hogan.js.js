@@ -1,7 +1,13 @@
 {
     properties: {
         link: 'https://github.com/twitter/hogan.js',
+        notes: [
+            'https://i.imgur.com/6SVB6Yc.jpg'
+        ],
         platform: 'GitHub',
+        tests: [
+            'https://ocs.ca/collections/dried-flower-cannabis?page=1'
+        ],
         type: 'repository'
     },
     tests: {
@@ -12,7 +18,7 @@
     versions: {
         patterns: {
             page: [
-                /hogan\.js\/([0-9\.]+)\/hogan/i         // https://i.imgur.com/6SVB6Yc.jpg
+                /hogan\.js\/([0-9\.]+)\/hogan/i
             ]
         }
     }

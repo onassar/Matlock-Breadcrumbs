@@ -1,7 +1,13 @@
 {
     properties: {
         link: 'https://github.com/twbs/bootstrap',
+        notes: [
+            'https://i.imgur.com/BrbdjkX.jpg'
+        ],
         platform: 'GitHub',
+        tests: [
+            'https://www.bootstrapcdn.com/'
+        ],
         type: 'repository'
     },
     tests: {
@@ -17,7 +23,7 @@
     versions: {
         patterns: {
             page: [
-                /\<link[^>]+\/bootstrap\/([0-9\.]+)\//i         // https://i.imgur.com/BrbdjkX.jpg
+                /\<link[^>]+\/bootstrap\/([0-9\.]+)\//i
             ]
         },
         references: [

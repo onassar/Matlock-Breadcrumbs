@@ -1,6 +1,2 @@
-# Chrome-Matlock
-The Matlock Chrome Extension
-
-## Examples
-![](https://i.imgur.com/tMc4wqL.jpg)
-![](https://i.imgur.com/shl0JKa.jpg)
+# Matlock-Breadcrumbs
+Listing of all the breadcrumbs that are available for Matlock to use for discovery.

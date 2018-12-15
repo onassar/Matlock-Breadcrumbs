@@ -29,6 +29,7 @@ for i in src/*/*.js; do
     if [ "$index" -ne "0" ]; then
         echo ","
     fi
+    echo "// $i"
     echo "$value"
     index=$(expr $index + 1)
 done

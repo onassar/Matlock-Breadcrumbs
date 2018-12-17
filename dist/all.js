@@ -788,8 +788,8 @@
     tests: {
         references: [
             [
-                'window.history',
-                'window.history.scrollRestoration'
+                'window.dead.dead.dead.history',
+                'window.dead.dead.dead.history.scrollRestoration'
             ]
         ]
     }

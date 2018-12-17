@@ -10,11 +10,13 @@
     },
     tests: {
         references: [
+            ['window.jQuery.fn.velocity'],
             ['window.jQuery.Velocity']
         ]
     },
     versions: {
         statements: [
+            'window.jQuery.fn.velocity.version.major + \'.\' + window.jQuery.fn.velocity.version.minor + \'.\' + window.jQuery.fn.velocity.version.patch',
             'window.jQuery.Velocity.version.major + \'.\' + window.jQuery.Velocity.version.minor + \'.\' + window.jQuery.Velocity.version.patch'
         ]
     }

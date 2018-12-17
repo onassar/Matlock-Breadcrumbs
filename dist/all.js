@@ -1337,6 +1337,27 @@
     }
 }
 ,
+// src/fians/Waves.js
+{
+    properties: {
+        link: 'https://github.com/fians/Waves',
+        notes: [],
+        platform: 'GitHub',
+        tests: [
+            'http://fian.my.id/Waves/'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.Waves',
+                'window.Waves.init'
+            ]
+        ]
+    }
+}
+,
 // src/ftlabs/fastclick.js
 {
     properties: {
@@ -1990,11 +2011,13 @@
     },
     tests: {
         references: [
+            ['window.jQuery.fn.velocity'],
             ['window.jQuery.Velocity']
         ]
     },
     versions: {
         statements: [
+            'window.jQuery.fn.velocity.version.major + \'.\' + window.jQuery.fn.velocity.version.minor + \'.\' + window.jQuery.fn.velocity.version.patch',
             'window.jQuery.Velocity.version.major + \'.\' + window.jQuery.Velocity.version.minor + \'.\' + window.jQuery.Velocity.version.patch'
         ]
     }

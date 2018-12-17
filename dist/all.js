@@ -976,6 +976,32 @@
     }
 }
 ,
+// src/cujojs/curl.js
+{
+    properties: {
+        link: 'https://github.com/cujojs/curl',
+        notes: [],
+        platform: 'GitHub',
+        tests: [
+            'http://cujojs.com/'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.curl',
+                'window.curl.version'
+            ]
+        ]
+    },
+    versions: {
+        references: [
+            'window.curl.version'
+        ]
+    }
+}
+,
 // src/d3/d3.js
 {
     properties: {

@@ -13,6 +13,29 @@
     }
 }
 ,
+// src/CSSLint/csslint.js
+{
+    properties: {
+        link: 'https://github.com/CSSLint/csslint',
+        notes: [],
+        platform: 'GitHub',
+        tests: [
+            'http://csslint.net/'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            ['window.CSSLint']
+        ]
+    },
+    versions: {
+        references: [
+            'window.CSSLint.version'
+        ]
+    }
+}
+,
 // src/CanopyTax/single-spa.js
 {
     properties: {
@@ -1641,6 +1664,29 @@
     }
 }
 ,
+// src/htmlhint/HTMLHint.js
+{
+    properties: {
+        link: 'https://github.com/htmlhint/HTMLHint',
+        notes: [],
+        platform: 'GitHub',
+        tests: [
+            'https://htmlhint.io/'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            ['window.HTMLHint']
+        ]
+    },
+    versions: {
+        references: [
+            'window.HTMLHint.version'
+        ]
+    }
+}
+,
 // src/iamcal/js-emoji.js
 {
     properties: {
@@ -3114,6 +3160,29 @@
     versions: {
         statements: [
             'window.tinyMCE.majorVersion + \'.\' + window.tinyMCE.minorVersion'
+        ]
+    }
+}
+,
+// src/tmont/sunlight.js
+{
+    properties: {
+        link: 'https://github.com/tmont/sunlight',
+        notes: [],
+        platform: 'GitHub',
+        tests: [
+            'http://sunlightjs.com/'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            ['window.Sunlight']
+        ]
+    },
+    versions: {
+        references: [
+            'window.Sunlight.version'
         ]
     }
 }

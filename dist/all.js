@@ -865,7 +865,7 @@
 // src/bfintal/Counter-Up.js
 {
     properties: {
-        link: 'https://github.com/dordille/bfintal/Counter-Up',
+        link: 'https://github.com/bfintal/Counter-Up',
         platform: 'GitHub',
         type: 'repository'
     },

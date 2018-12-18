@@ -6,7 +6,11 @@
     },
     tests: {
         references: [
-            ['window.angular']
+            ['window.angular'],
+            [
+                'ng.coreTokens',
+                'ng.probe'
+            ]
         ]
     },
     versions: {

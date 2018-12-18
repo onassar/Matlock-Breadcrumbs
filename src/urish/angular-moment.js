@@ -1,6 +1,6 @@
 {
     properties: {
-        link: 'https://github.com/chieffancypants/angular-loading-bar',
+        link: 'https://github.com/urish/angular-moment',
         notes: [],
         platform: 'GitHub',
         tags: [

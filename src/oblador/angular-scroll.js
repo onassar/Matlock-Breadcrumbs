@@ -15,7 +15,7 @@
     tests: {
         references: [
             [
-                'angular.module(\'duScroll\')'
+                'window.angular.module(\'duScroll\')'
             ]
         ]
     }

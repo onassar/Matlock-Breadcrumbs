@@ -5,6 +5,13 @@
         type: 'repository'
     },
     tests: {
+        strings: [
+            page: [
+                [
+                    'ng-version="'
+                ]
+            ]
+        ],
         references: [
             ['window.angular'],
             [

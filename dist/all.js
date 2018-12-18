@@ -4051,16 +4051,24 @@
         patterns: {
             page: [
                 [
-                    /libs\/clipboard\.js\/([^\/]+)\/clipboard\.js/i
+                    /libs\/clipboard\.js\/[^\/]+\/clipboard\.js/i
                 ],
                 [
-                    /libs\/clipboard\.js\/([^\/]+)\/clipboard\.min\.js/i
+                    /libs\/clipboard\.js\/[^\/]+\/clipboard\.min\.js/i
                 ]
             ]
         },
         references: [
             ['window.ClipboardJS']
         ]
+    },
+    versions: {
+        patterns: {
+            page: [
+                /libs\/clipboard\.js\/([^\/]+)\/clipboard\.js/i,
+                /libs\/clipboard\.js\/([^\/]+)\/clipboard\.min\.js/i
+            ]
+        }
     }
 }
 ,

@@ -617,13 +617,13 @@
         type: 'repository'
     },
     tests: {
-        strings: [
+        strings: {
             page: [
                 [
                     'ng-version="'
                 ]
             ]
-        ],
+        },
         references: [
             ['window.angular'],
             [

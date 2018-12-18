@@ -12,7 +12,7 @@
         references: [
             [
                 'window.System',
-                'window.System.import'
+                'window.System.import',
                 'window.System.register'
             ]
         ]

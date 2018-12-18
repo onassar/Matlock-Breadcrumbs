@@ -1061,6 +1061,29 @@
     }
 }
 ,
+// src/chieffancypants/angular-loading-bar.js
+{
+    properties: {
+        link: 'https://github.com/chieffancypants/angular-loading-bar',
+        notes: [],
+        platform: 'GitHub',
+        tags: [
+            'angular'
+        ],
+        tests: [
+            'https://genius.com/'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        statements: [
+            [
+                'window.angular.module(\'angular-loading-bar\')'
+            ]
+        ]
+    }
+}
+,
 // src/cloudinary/cloudinary_js.js
 {
     properties: {
@@ -1381,6 +1404,30 @@
         statements: [
             ['window.saveAs.toString().match(/blob, name/i)'],
             ['window.saveAs.toString().match(/e,t,n/i)']
+        ]
+    }
+}
+,
+// src/embedly/embedly-jquery.js
+{
+    properties: {
+        link: 'https://github.com/embedly/embedly-jquery',
+        notes: [],
+        platform: 'GitHub',
+        tags: [
+            'embedly',
+            'jQuery'
+        ],
+        tests: [
+            'https://genius.com/'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'jQuery.fn.embedly'
+            ]
         ]
     }
 }
@@ -3860,6 +3907,30 @@
     tests: {
         references: [
             ['window.WebFont']
+        ]
+    }
+}
+,
+// src/urish/angular-moment.js
+{
+    properties: {
+        link: 'https://github.com/chieffancypants/angular-loading-bar',
+        notes: [],
+        platform: 'GitHub',
+        tags: [
+            'angularjs',
+            'moment'
+        ],
+        tests: [
+            'https://genius.com/'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        statements: [
+            [
+                'window.angular.module(\'angularMoment\')'
+            ]
         ]
     }
 }

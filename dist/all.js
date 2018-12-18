@@ -2846,7 +2846,7 @@
         type: 'repository'
     },
     tests: {
-        references: [
+        statements: [
             [
                 'window.angular.module(\'duScroll\')'
             ]

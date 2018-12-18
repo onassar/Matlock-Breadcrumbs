@@ -13,7 +13,6 @@
             ]
         },
         references: [
-            ['window.angular'],
             [
                 'ng.coreTokens',
                 'ng.probe'
@@ -25,9 +24,6 @@
             page: [
                 /ng-version="([^"]+)/i
             ]
-        },
-        references: [
-            'window.angular.version.full'
-        ]
+        }
     }
 }

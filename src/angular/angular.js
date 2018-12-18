@@ -14,6 +14,11 @@
         ]
     },
     versions: {
+        patterns: {
+            page: [
+                /ng-version="([^"]+)/i
+            ]
+        },
         references: [
             'window.angular.version.full'
         ]

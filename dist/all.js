@@ -4051,10 +4051,10 @@
         patterns: {
             page: [
                 [
-                    /libs\/clipboard\.js/([^\/]+)/clipboard\.js/i
+                    /libs\/clipboard\.js\/([^\/]+)\/clipboard\.js/i
                 ],
                 [
-                    /libs\/clipboard\.js/([^\/]+)/clipboard\.min\.js/i
+                    /libs\/clipboard\.js\/([^\/]+)\/clipboard\.min\.js/i
                 ]
             ]
         },

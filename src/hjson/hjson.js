@@ -1,6 +1,6 @@
 {
     properties: {
-        link: 'https://github.com/hjson/hjson',
+        link: 'https://github.com/hjson/hjson-js',
         notes: [],
         platform: 'GitHub',
         tests: [
@@ -11,7 +11,9 @@
     tests: {
         references: [
             [
-                'window.Hjson'
+                'window.Hjson',
+                'window.Hjson.parse',
+                'window.Hjson.stringify'
             ]
         ]
     },

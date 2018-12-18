@@ -1,25 +1,16 @@
 {
     properties: {
-        link: 'https://github.com/hjson/hjson-js',
+        link: 'https://github.com/hjson/hjson',
         notes: [],
         platform: 'GitHub',
-        tests: [
-            'https://onsen.io/'
-        ],
+        tests: [],
         type: 'repository'
     },
     tests: {
         references: [
             [
-                'window.Hjson',
-                'window.Hjson.parse',
-                'window.Hjson.stringify'
+                'window.dead.dead.dead'
             ]
-        ]
-    },
-    versions: {
-        references: [
-            'window.Hjson.version'
         ]
     }
 }

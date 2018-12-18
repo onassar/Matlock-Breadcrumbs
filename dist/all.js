@@ -609,6 +609,29 @@
     }
 }
 ,
+// src/angular-ui/bootstrap.js
+{
+    properties: {
+        link: 'https://github.com/angular-ui/bootstrap',
+        notes: [],
+        platform: 'GitHub',
+        tags: [
+            'angular'
+        ],
+        tests: [
+            'http://angular-ui.github.io/bootstrap/'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        statements: [
+            [
+                'window.angular.module(\'ui.bootstrap\')'
+            ]
+        ]
+    }
+}
+,
 // src/angular/angular.js
 {
     properties: {
@@ -1851,7 +1874,7 @@
     }
 }
 ,
-// src/hjson/hjson.js
+// src/hjson/hjson-js.js
 {
     properties: {
         link: 'https://github.com/hjson/hjson-js',
@@ -1874,6 +1897,24 @@
     versions: {
         references: [
             'window.Hjson.version'
+        ]
+    }
+}
+,
+// src/hjson/hjson.js
+{
+    properties: {
+        link: 'https://github.com/hjson/hjson',
+        notes: [],
+        platform: 'GitHub',
+        tests: [],
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.dead.dead.dead'
+            ]
         ]
     }
 }

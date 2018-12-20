@@ -19,8 +19,8 @@
             ]
         },
         references: [
-            ['
-                window.jQuery.fn.tooltip'
+            [
+                'window.jQuery.fn.tooltip'
             ]
         ]
     },

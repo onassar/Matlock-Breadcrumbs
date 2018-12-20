@@ -9,7 +9,9 @@
     },
     tests: {
         references: [
-            ['window.YUI']
+            [
+                'window.YUI'
+            ]
         ]
     },
     versions: {

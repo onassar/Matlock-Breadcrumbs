@@ -339,7 +339,9 @@
     },
     tests: {
         references: [
-            ['window.JSZip']
+            [
+                'window.JSZip'
+            ]
         ]
     },
     versions: {
@@ -1833,6 +1835,26 @@
         references: [
             [
                 'window.grunticon'
+            ]
+        ]
+    }
+}
+,
+// src/gitHub/filamentgroup/loadCSS.js
+{
+    properties: {
+        link: 'https://github.com/filamentgroup/loadCSS',
+        notes: [],
+        platform: 'GitHub',
+        tests: [
+            'https://www.filamentgroup.com/'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.loadCSS'
             ]
         ]
     }
@@ -3889,7 +3911,9 @@
     },
     tests: {
         references: [
-            ['window.respond']
+            [
+                'window.respond'
+            ]
         ]
     }
 }
@@ -4043,7 +4067,9 @@
     },
     tests: {
         references: [
-            ['window.Cufon']
+            [
+                'window.Cufon'
+            ]
         ]
     }
 }
@@ -4087,7 +4113,9 @@
     },
     tests: {
         references: [
-            ['window.jQuery.fn.payment']
+            [
+                'window.jQuery.fn.payment'
+            ]
         ]
     }
 }
@@ -4117,7 +4145,9 @@
     },
     tests: {
         references: [
-            ['window.swfobject']
+            [
+                'window.swfobject'
+            ]
         ]
     }
 }
@@ -4427,7 +4457,9 @@
     },
     tests: {
         references: [
-            ['window.Vimeo.Player']
+            [
+                'window.Vimeo.Player'
+            ]
         ]
     }
 }
@@ -4502,8 +4534,12 @@
     },
     tests: {
         references: [
-            ['window.webpackJsonp'],
-            ['window.webpackManifest']
+            [
+                'window.webpackJsonp'
+            ],
+            [
+                'window.webpackManifest
+            ']
         ]
     }
 }
@@ -4577,7 +4613,9 @@
     },
     tests: {
         references: [
-            ['window.Handlebars']
+            [
+                'window.Handlebars'
+            ]
         ]
     },
     versions: {
@@ -4620,7 +4658,9 @@
     },
     tests: {
         references: [
-            ['window.YUI']
+            [
+                'window.YUI'
+            ]
         ]
     },
     versions: {
@@ -4690,7 +4730,9 @@
             ]
         },
         references: [
-            ['window.ClipboardJS']
+            [
+                'window.ClipboardJS'
+            ]
         ]
     },
     versions: {
@@ -4712,7 +4754,9 @@
     },
     tests: {
         references: [
-            ['window.ZeroClipboard']
+            [
+                'window.ZeroClipboard'
+            ]
         ]
     },
     versions: {

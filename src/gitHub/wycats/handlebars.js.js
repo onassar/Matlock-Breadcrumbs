@@ -9,7 +9,9 @@
     },
     tests: {
         references: [
-            ['window.Handlebars']
+            [
+                'window.Handlebars'
+            ]
         ]
     },
     versions: {

@@ -9,7 +9,9 @@
     },
     tests: {
         references: [
-            ['window.JSZip']
+            [
+                'window.JSZip'
+            ]
         ]
     },
     versions: {

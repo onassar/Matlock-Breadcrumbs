@@ -6,8 +6,12 @@
     },
     tests: {
         references: [
-            ['window.webpackJsonp'],
-            ['window.webpackManifest']
+            [
+                'window.webpackJsonp'
+            ],
+            [
+                'window.webpackManifest
+            ']
         ]
     }
 }

@@ -6,7 +6,9 @@
     },
     tests: {
         references: [
-            ['window.ZeroClipboard']
+            [
+                'window.ZeroClipboard'
+            ]
         ]
     },
     versions: {

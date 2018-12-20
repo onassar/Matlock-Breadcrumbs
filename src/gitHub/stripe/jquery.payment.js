@@ -6,7 +6,9 @@
     },
     tests: {
         references: [
-            ['window.jQuery.fn.payment']
+            [
+                'window.jQuery.fn.payment'
+            ]
         ]
     }
 }

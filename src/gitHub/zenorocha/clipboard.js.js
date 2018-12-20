@@ -19,7 +19,9 @@
             ]
         },
         references: [
-            ['window.ClipboardJS']
+            [
+                'window.ClipboardJS'
+            ]
         ]
     },
     versions: {

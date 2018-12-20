@@ -13,7 +13,9 @@
     },
     tests: {
         references: [
-            ['window.Vimeo.Player']
+            [
+                'window.Vimeo.Player'
+            ]
         ]
     }
 }

@@ -6,7 +6,9 @@
     },
     tests: {
         references: [
-            ['window.Cufon']
+            [
+                'window.Cufon'
+            ]
         ]
     }
 }

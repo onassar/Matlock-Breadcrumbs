@@ -16,7 +16,9 @@
     },
     tests: {
         references: [
-            ['window.jQuery']
+            [
+                'window.jQuery'
+            ]
         ]
     },
     versions: {

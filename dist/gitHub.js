@@ -2005,6 +2005,33 @@
     }
 }
 ,
+// src/gitHub/guillaumepotier/Parsley.js.js
+{
+    properties: {
+        link: 'https://github.com/guillaumepotier/Parsley.js',
+        notes: [],
+        platform: 'GitHub',
+        tests: [
+            'https://www.helpscout.com/pricing/'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.Parsley',
+                'window.Parsley.options',
+                'window.Parsley.version'
+            ]
+        ]
+    },
+    versions: {
+        references: [
+            'window.Parsley.version'
+        ]
+    }
+}
+,
 // src/gitHub/hakimel/reveal.js.js
 {
     properties: {

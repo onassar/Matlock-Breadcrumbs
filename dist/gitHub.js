@@ -1906,6 +1906,29 @@
     }
 }
 ,
+// src/gitHub/geraintluff/sha256.js
+{
+    properties: {
+        link: 'https://github.com/geraintluff/sha256',
+        notes: [],
+        platform: 'GitHub',
+        tags: [
+            'encryption'
+        ],
+        tests: [
+            'http://geraintluff.github.io/sha256/'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.sha256'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/getsentry/sentry-javascript.js
 {
     properties: {

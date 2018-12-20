@@ -2832,6 +2832,33 @@
     }
 }
 ,
+// src/gitHub/luruke/barba.js.js
+{
+    properties: {
+        link: 'https://github.com/luruke/barba.js',
+        notes: [],
+        platform: 'GitHub',
+        tests: [
+            'https://www.eight.nl/',
+            'http://barbajs.org/'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.Barba',
+                'window.Barba.BaseTransition'
+            ]
+        ]
+    },
+    versions: {
+        references: [
+            'window.Barba.version'
+        ]
+    }
+}
+,
 // src/gitHub/madrobby/keymaster.js
 {
     properties: {

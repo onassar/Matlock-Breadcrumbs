@@ -1338,7 +1338,7 @@
 // src/gitHub/dirkgroenen/jQuery-viewport-checker.js
 {
     properties: {
-        link: 'https://github.com/jQuery-viewport-checker',
+        link: 'https://github.com/dirkgroenen/jQuery-viewport-checker',
         notes: [],
         platform: 'GitHub',
         tests: [

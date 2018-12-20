@@ -2116,7 +2116,9 @@
     },
     tests: {
         references: [
-            ['window.GreenSockGlobals']
+            [
+                'window.GreenSockGlobals'
+            ]
         ]
     }
 }
@@ -3159,6 +3161,22 @@
     versions: {
         references: [
             'window.L.mapbox.VERSION'
+        ]
+    }
+}
+,
+// src/gitHub/marcj/jquery-selectBox.js
+{
+    properties: {
+        link: 'https://github.com/marcj/jquery-selectBox',
+        platform: 'GitHub',
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.jQuery.fn.selectBox'
+            ]
         ]
     }
 }

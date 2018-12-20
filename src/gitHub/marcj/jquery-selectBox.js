@@ -1,13 +1,13 @@
 {
     properties: {
-        link: 'https://github.com/greensock/GreenSock-JS',
+        link: 'https://github.com/marcj/jquery-selectBox',
         platform: 'GitHub',
         type: 'repository'
     },
     tests: {
         references: [
             [
-                'window.GreenSockGlobals'
+                'window.jQuery.fn.selectBox'
             ]
         ]
     }

@@ -10,8 +10,8 @@
                 'window.webpackJsonp'
             ],
             [
-                'window.webpackManifest
-            ']
+                'window.webpackManifest'
+            ]
         ]
     }
 }

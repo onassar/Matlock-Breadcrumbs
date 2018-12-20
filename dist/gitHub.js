@@ -1076,7 +1076,11 @@
     },
     tests: {
         references: [
-            ['window.Chart']
+            [
+                'window.Chart',
+                'window.Chart.canvasHelpers',
+                'window.Chart.helpers'
+            ]
         ]
     }
 }
@@ -2648,6 +2652,24 @@
     tests: {
         statements: [
             ['$(\'body\').slick']
+        ]
+    }
+}
+,
+// src/gitHub/kkapsner/CanvasBlocker.js
+{
+    properties: {
+        link: 'https://github.com/kkapsner/CanvasBlocker',
+        notes: [],
+        platform: 'GitHub',
+        tests: [],
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.dead.dead.dead'
+            ]
         ]
     }
 }

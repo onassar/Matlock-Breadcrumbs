@@ -6,7 +6,11 @@
     },
     tests: {
         references: [
-            ['window.Chart']
+            [
+                'window.Chart',
+                'window.Chart.canvasHelpers',
+                'window.Chart.helpers'
+            ]
         ]
     }
 }

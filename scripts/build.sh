@@ -13,7 +13,7 @@
 rm -rf scripts/build/
 mkdir scripts/build/
 exec 2>&1
-dist=scripts/build/all.js
+dist=scripts/build/gitHub.js
 exec > >(tee -i $dist)
 
 
@@ -23,7 +23,7 @@ exec > >(tee -i $dist)
 ## 
 echo "["
 index=0
-for i in src/*/*.js; do
+for i in src/*/*/*.js; do
     [ -f "$i" ] || break
     value=$(<$i)
     if [ "$index" -ne "0" ]; then
@@ -41,7 +41,7 @@ echo "]"
 ## Overhead
 ## 
 ## 
-mv scripts/build/all.js dist/all.js
+mv scripts/build/gitHub.js dist/gitHub.js
 rm -rf scripts/build/
 
 

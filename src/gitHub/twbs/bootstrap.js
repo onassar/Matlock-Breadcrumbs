@@ -13,11 +13,15 @@
     tests: {
         patterns: {
             page: [
-                [/\<link[^>]+\/bootstrap\//i]
+                [
+                    /\<link[^>]+\/bootstrap\//i
+                ]
             ]
         },
         references: [
-            ['window.jQuery.fn.tooltip']
+            ['
+                window.jQuery.fn.tooltip'
+            ]
         ]
     },
     versions: {

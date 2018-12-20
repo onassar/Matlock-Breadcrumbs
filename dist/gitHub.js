@@ -1,5 +1,5 @@
 [
-// src/AlloyTeam/AlloyFinger.js
+// src/gitHub/AlloyTeam/AlloyFinger.js
 {
     properties: {
         link: 'https://github.com/AlloyTeam/AlloyFinger',
@@ -13,7 +13,7 @@
     }
 }
 ,
-// src/CSSLint/csslint.js
+// src/gitHub/CSSLint/csslint.js
 {
     properties: {
         link: 'https://github.com/CSSLint/csslint',
@@ -36,7 +36,7 @@
     }
 }
 ,
-// src/CanopyTax/single-spa.js
+// src/gitHub/CanopyTax/single-spa.js
 {
     properties: {
         link: 'https://github.com/CanopyTax/single-spa',
@@ -53,7 +53,7 @@
     }
 }
 ,
-// src/CodeSeven/toastr.js
+// src/gitHub/CodeSeven/toastr.js
 {
     properties: {
         link: 'https://github.com/CodeSeven/toastr',
@@ -76,7 +76,7 @@
     }
 }
 ,
-// src/Eonasdan/bootstrap-datetimepicker.js
+// src/gitHub/Eonasdan/bootstrap-datetimepicker.js
 {
     properties: {
         link: 'https://github.com/Eonasdan/bootstrap-datetimepicker',
@@ -90,7 +90,7 @@
     }
 }
 ,
-// src/FezVrasta/popper.js.js
+// src/gitHub/FezVrasta/popper.js.js
 {
     properties: {
         link: 'https://github.com/FezVrasta/popper.js',
@@ -104,7 +104,7 @@
     }
 }
 ,
-// src/FortAwesome/Font-Awesome.js
+// src/gitHub/FortAwesome/Font-Awesome.js
 {
     properties: {
         link: 'https://github.com/FortAwesome/Font-Awesome',
@@ -142,7 +142,7 @@
     }
 }
 ,
-// src/JedWatson/react-select.js
+// src/gitHub/JedWatson/react-select.js
 {
     properties: {
         link: 'https://github.com/JedWatson/react-select',
@@ -158,7 +158,7 @@
     }
 }
 ,
-// src/Leaflet/Leaflet.js
+// src/gitHub/Leaflet/Leaflet.js
 {
     properties: {
         link: 'https://github.com/Leaflet/Leaflet',
@@ -181,7 +181,7 @@
     }
 }
 ,
-// src/MikeMcl/big.js.js
+// src/gitHub/MikeMcl/big.js.js
 {
     properties: {
         link: 'https://github.com/MikeMcl/big.js',
@@ -207,7 +207,7 @@
     }
 }
 ,
-// src/Modernizr/Modernizr.js
+// src/gitHub/Modernizr/Modernizr.js
 {
     properties: {
         donate: {
@@ -229,7 +229,7 @@
     }
 }
 ,
-// src/OwlCarousel2/OwlCarousel2.js
+// src/gitHub/OwlCarousel2/OwlCarousel2.js
 {
     properties: {
         link: 'https://github.com/OwlCarousel2/OwlCarousel2',
@@ -243,7 +243,7 @@
     }
 }
 ,
-// src/Polymer/polymer.js
+// src/gitHub/Polymer/polymer.js
 {
     properties: {
         link: 'https://github.com/Polymer/polymer',
@@ -262,7 +262,7 @@
     }
 }
 ,
-// src/Prinzhorn/skrollr.js
+// src/gitHub/Prinzhorn/skrollr.js
 {
     properties: {
         link: 'https://github.com/Prinzhorn/skrollr',
@@ -285,7 +285,7 @@
     }
 }
 ,
-// src/RubaXa/Sortable.js
+// src/gitHub/RubaXa/Sortable.js
 {
     properties: {
         link: 'https://github.com/RubaXa/Sortable',
@@ -304,7 +304,7 @@
     }
 }
 ,
-// src/SginalR/SginalR.js
+// src/gitHub/SginalR/SginalR.js
 {
     properties: {
         link: 'https://github.com/SignalR/SignalR',
@@ -327,7 +327,7 @@
     }
 }
 ,
-// src/Stuk/jszip.js
+// src/gitHub/Stuk/jszip.js
 {
     uses: [
         'gitHub/nodeca/pako'
@@ -349,7 +349,7 @@
     }
 }
 ,
-// src/TurnWheel/jReject.js
+// src/gitHub/TurnWheel/jReject.js
 {
     properties: {
         link: 'https://github.com/TurnWheel/jReject',
@@ -366,7 +366,7 @@
     }
 }
 ,
-// src/VincentGarreau/particles.js.js
+// src/gitHub/VincentGarreau/particles.js.js
 {
     properties: {
         link: 'https://github.com/VincentGarreau/particles.js',
@@ -380,7 +380,7 @@
     }
 }
 ,
-// src/WordPress/WordPress.js
+// src/gitHub/WordPress/WordPress.js
 {
     dependencies: [
         'gitHub/php/php-src'
@@ -412,7 +412,7 @@
     }
 }
 ,
-// src/aFarkas/html5shiv.js
+// src/gitHub/aFarkas/html5shiv.js
 {
     properties: {
         link: 'https://github.com/aFarkas/html5shiv',
@@ -448,7 +448,7 @@
     }
 }
 ,
-// src/adobe-webplatform/Snap.svg.js
+// src/gitHub/adobe-webplatform/Snap.svg.js
 {
     properties: {
         link: 'https://github.com/adobe-webplatform/Snap.svg',
@@ -467,7 +467,7 @@
     }
 }
 ,
-// src/adobe-webplatform/eve.js
+// src/gitHub/adobe-webplatform/eve.js
 {
     properties: {
         link: 'https://github.com/adobe-webplatform/eve',
@@ -491,7 +491,7 @@
     }
 }
 ,
-// src/akamai/boomerang.js
+// src/gitHub/akamai/boomerang.js
 {
     properties: {
         link: 'https://github.com/akamai/boomerang',
@@ -513,7 +513,7 @@
     }
 }
 ,
-// src/algolia/algoliasearch-client-javascript.js
+// src/gitHub/algolia/algoliasearch-client-javascript.js
 {
     properties: {
         link: 'https://github.com/algolia/algoliasearch-client-javascript',
@@ -532,7 +532,7 @@
     }
 }
 ,
-// src/algolia/docsearch.js
+// src/gitHub/algolia/docsearch.js
 {
     properties: {
         link: 'https://github.com/algolia/docsearch',
@@ -553,7 +553,7 @@
     }
 }
 ,
-// src/algolia/instantsearch.js.js
+// src/gitHub/algolia/instantsearch.js.js
 {
     properties: {
         link: 'https://github.com/algolia/instantsearch.js',
@@ -575,7 +575,7 @@
     }
 }
 ,
-// src/alicelieutier/smoothScroll.js
+// src/gitHub/alicelieutier/smoothScroll.js
 {
     properties: {
         link: 'https://github.com/alicelieutier/smoothScroll',
@@ -591,7 +591,7 @@
     },
 }
 ,
-// src/alvarotrigo/fullPage.js.js
+// src/gitHub/alvarotrigo/fullPage.js.js
 {
     properties: {
         link: 'https://github.com/alvarotrigo/fullPage.js',
@@ -606,7 +606,7 @@
     }
 }
 ,
-// src/andris9/jStorage.js
+// src/gitHub/andris9/jStorage.js
 {
     properties: {
         link: 'https://github.com/andris9/jStorage',
@@ -625,7 +625,7 @@
     }
 }
 ,
-// src/angular-ui/bootstrap.js
+// src/gitHub/angular-ui/bootstrap.js
 {
     properties: {
         link: 'https://github.com/angular-ui/bootstrap',
@@ -648,7 +648,7 @@
     }
 }
 ,
-// src/angular/angular.js
+// src/gitHub/angular/angular.js
 {
     properties: {
         link: 'https://github.com/angular/angular.js',
@@ -679,7 +679,7 @@
     }
 }
 ,
-// src/angular/angular.js.js
+// src/gitHub/angular/angular.js.js
 {
     properties: {
         link: 'https://github.com/angular/angular.js',
@@ -700,7 +700,7 @@
     }
 }
 ,
-// src/angular/zone.js.js
+// src/gitHub/angular/zone.js.js
 {
     properties: {
         link: 'https://github.com/angular/zone.js',
@@ -720,7 +720,7 @@
     }
 }
 ,
-// src/apache/httpd.js
+// src/gitHub/apache/httpd.js
 {
     properties: {
         donate: {
@@ -748,7 +748,7 @@
     }
 }
 ,
-// src/apache/tomcat.js
+// src/gitHub/apache/tomcat.js
 {
     properties: {
         donate: {
@@ -776,7 +776,7 @@
     }
 }
 ,
-// src/aws/aws-sdk-js.js
+// src/gitHub/aws/aws-sdk-js.js
 {
     properties: {
         link: 'https://github.com/aws/aws-sdk-js',
@@ -795,7 +795,7 @@
     }
 }
 ,
-// src/badlerdashy/sails.js
+// src/gitHub/badlerdashy/sails.js
 {
     dependencies: [
         'gitHub/nodejs/node'
@@ -816,7 +816,7 @@
     }
 }
 ,
-// src/bcit-ci/CodeIgniter.js
+// src/gitHub/bcit-ci/CodeIgniter.js
 {
     dependencies: [
         'gitHub/php/php-src'
@@ -837,7 +837,7 @@
     }
 }
 ,
-// src/benoitc/gunicorn.js
+// src/gitHub/benoitc/gunicorn.js
 {
     properties: {
         link: 'https://github.com/benoitc/gunicorn',
@@ -862,7 +862,7 @@
     }
 }
 ,
-// src/bfintal/Counter-Up.js
+// src/gitHub/bfintal/Counter-Up.js
 {
     properties: {
         link: 'https://github.com/bfintal/Counter-Up',
@@ -876,7 +876,7 @@
     }
 }
 ,
-// src/blueimp/jQuery-File-Upload.js
+// src/gitHub/blueimp/jQuery-File-Upload.js
 {
     properties: {
         link: 'https://github.com/blueimp/jQuery-File-Upload',
@@ -892,7 +892,7 @@
     }
 }
 ,
-// src/bramstein/fontfaceobserver.js
+// src/gitHub/bramstein/fontfaceobserver.js
 {
     properties: {
         link: 'https://github.com/bramstein/fontfaceobserver',
@@ -906,7 +906,7 @@
     }
 }
 ,
-// src/bugsnag/bugsnag-js.js
+// src/gitHub/bugsnag/bugsnag-js.js
 {
     properties: {
         link: 'https://github.com/bugsnag/bugsnag-js',
@@ -930,7 +930,7 @@
     }
 }
 ,
-// src/cakephp/cakephp.js
+// src/gitHub/cakephp/cakephp.js
 {
     dependencies: [
         'gitHub/php/php-src'
@@ -951,7 +951,7 @@
     }
 }
 ,
-// src/caolan/async.js
+// src/gitHub/caolan/async.js
 {
     properties: {
         link: 'https://github.com/caolan/async',
@@ -971,7 +971,7 @@
     }
 }
 ,
-// src/carhartl/jquery-cookie.js
+// src/gitHub/carhartl/jquery-cookie.js
 {
     properties: {
         link: 'https://github.com/carhartl/jquery-cookie',
@@ -988,7 +988,7 @@
     }
 }
 ,
-// src/ccampbell/gator.js
+// src/gitHub/ccampbell/gator.js
 {
     properties: {
         donate: {
@@ -1008,7 +1008,7 @@
     },
 }
 ,
-// src/ccampbell/mousetrap.js
+// src/gitHub/ccampbell/mousetrap.js
 {
     properties: {
         donate: {
@@ -1029,7 +1029,7 @@
     },
 }
 ,
-// src/ccampbell/rainbow.js
+// src/gitHub/ccampbell/rainbow.js
 {
     properties: {
         link: 'https://github.com/ccampbell/rainbow',
@@ -1047,7 +1047,7 @@
     },
 }
 ,
-// src/chartjs/Chart.js.js
+// src/gitHub/chartjs/Chart.js.js
 {
     properties: {
         link: 'https://github.com/chartjs/Chart.js',
@@ -1061,7 +1061,7 @@
     }
 }
 ,
-// src/chieffancypants/angular-loading-bar.js
+// src/gitHub/chieffancypants/angular-loading-bar.js
 {
     properties: {
         link: 'https://github.com/chieffancypants/angular-loading-bar',
@@ -1084,7 +1084,7 @@
     }
 }
 ,
-// src/cloudinary/cloudinary_js.js
+// src/gitHub/cloudinary/cloudinary_js.js
 {
     properties: {
         link: 'https://github.com/cloudinary/cloudinary_js',
@@ -1108,7 +1108,7 @@
     }
 }
 ,
-// src/codemirror/CodeMirror.js
+// src/gitHub/codemirror/CodeMirror.js
 {
     properties: {
         link: 'https://github.com/codemirror/CodeMirror',
@@ -1127,7 +1127,7 @@
     }
 }
 ,
-// src/craftcms/cms.js
+// src/gitHub/craftcms/cms.js
 {
     dependencies: [
         'gitHub/yiisoft/yii'
@@ -1148,7 +1148,7 @@
     }
 }
 ,
-// src/cujojs/curl.js
+// src/gitHub/cujojs/curl.js
 {
     properties: {
         link: 'https://github.com/cujojs/curl',
@@ -1174,7 +1174,7 @@
     }
 }
 ,
-// src/d3/d3.js
+// src/gitHub/d3/d3.js
 {
     properties: {
         link: 'https://github.com/d3/d3',
@@ -1196,7 +1196,7 @@
     }
 }
 ,
-// src/desandro/imagesloaded.js
+// src/gitHub/desandro/imagesloaded.js
 {
     properties: {
         link: 'https://github.com/desandro/imagesloaded',
@@ -1210,7 +1210,7 @@
     }
 }
 ,
-// src/dimsemenov/Magnific-Popup.js
+// src/gitHub/dimsemenov/Magnific-Popup.js
 {
     properties: {
         link: 'https://github.com/dimsemenov/Magnific-Popup',
@@ -1225,7 +1225,7 @@
     }
 }
 ,
-// src/dinbror/blazy.js
+// src/gitHub/dinbror/blazy.js
 {
     properties: {
         link: 'https://github.com/dinbror/blazy',
@@ -1239,7 +1239,7 @@
     }
 }
 ,
-// src/django/django.js
+// src/gitHub/django/django.js
 {
     dependencies: [
         'gitHub/python/cpython'
@@ -1261,7 +1261,7 @@
     }
 }
 ,
-// src/dojo/framework.js
+// src/gitHub/dojo/framework.js
 {
     properties: {
         link: 'https://github.com/dojo/framework',
@@ -1280,7 +1280,7 @@
     }
 }
 ,
-// src/dollarshaveclub/shave.js
+// src/gitHub/dollarshaveclub/shave.js
 {
     properties: {
         link: 'https://github.com/dollarshaveclub/shave',
@@ -1303,7 +1303,7 @@
     }
 }
 ,
-// src/dordille/moment-isoduration.js
+// src/gitHub/dordille/moment-isoduration.js
 {
     properties: {
         link: 'https://github.com/dordille/moment-isoduration',
@@ -1317,7 +1317,7 @@
     }
 }
 ,
-// src/douglascrockford/JSON-js.js
+// src/gitHub/douglascrockford/JSON-js.js
 {
     properties: {
         link: 'https://github.com/douglascrockford/JSON-js',
@@ -1337,7 +1337,7 @@
     }
 }
 ,
-// src/drupal/drupal.js
+// src/gitHub/drupal/drupal.js
 {
     dependencies: [
         'gitHub/php/php-src'
@@ -1371,7 +1371,7 @@
     }
 }
 ,
-// src/dtao/lazy.js.js
+// src/gitHub/dtao/lazy.js.js
 {
     properties: {
         link: 'https://github.com/dtao/lazy.js',
@@ -1393,7 +1393,7 @@
     }
 }
 ,
-// src/eligrey/FileSaver.js
+// src/gitHub/eligrey/FileSaver.js
 {
     properties: {
         link: 'https://github.com/eligrey/FileSaver.js',
@@ -1408,7 +1408,7 @@
     }
 }
 ,
-// src/embedly/embedly-jquery.js
+// src/gitHub/embedly/embedly-jquery.js
 {
     properties: {
         link: 'https://github.com/embedly/embedly-jquery',
@@ -1432,7 +1432,7 @@
     }
 }
 ,
-// src/emberjs/ember.js.js
+// src/gitHub/emberjs/ember.js.js
 {
     properties: {
         donate: {
@@ -1454,7 +1454,7 @@
     }
 }
 ,
-// src/emojione/emojione.js
+// src/gitHub/emojione/emojione.js
 {
     properties: {
         link: 'https://github.com/emojione/emojione',
@@ -1475,7 +1475,7 @@
     }
 }
 ,
-// src/enyo/dropzone.js
+// src/gitHub/enyo/dropzone.js
 {
     properties: {
         donate: {
@@ -1501,7 +1501,7 @@
     }
 }
 ,
-// src/expressjs/express.js
+// src/gitHub/expressjs/express.js
 {
     properties: {
         link: 'https://github.com/expressjs/express',
@@ -1519,7 +1519,7 @@
     }
 }
 ,
-// src/fabricjs/fabric.js.js
+// src/gitHub/fabricjs/fabric.js.js
 {
     properties: {
         link: 'https://github.com/fabricjs/fabric.js',
@@ -1538,7 +1538,7 @@
     }
 }
 ,
-// src/facebook/hhvm.js
+// src/gitHub/facebook/hhvm.js
 {
     properties: {
         link: 'https://github.com/facebook/hhvm',
@@ -1563,7 +1563,7 @@
     }
 }
 ,
-// src/facebook/react.js
+// src/gitHub/facebook/react.js
 {
     properties: {
         link: 'https://github.com/facebook/react',
@@ -1592,7 +1592,7 @@
     }
 }
 ,
-// src/faisalman/ua-parser-js.js
+// src/gitHub/faisalman/ua-parser-js.js
 {
     properties: {
         donate: {
@@ -1614,7 +1614,7 @@
     }
 }
 ,
-// src/fancyapps/fancyBox.js
+// src/gitHub/fancyapps/fancyBox.js
 {
     properties: {
         link: 'https://github.com/fancyapps/fancyBox',
@@ -1633,7 +1633,7 @@
     }
 }
 ,
-// src/fengyuanchen/cropper.js
+// src/gitHub/fengyuanchen/cropper.js
 {
     properties: {
         link: 'https://github.com/fengyuanchen/cropper',
@@ -1647,7 +1647,7 @@
     }
 }
 ,
-// src/fengyuanchen/cropperjs.js
+// src/gitHub/fengyuanchen/cropperjs.js
 {
     properties: {
         link: 'https://github.com/fengyuanchen/cropperjs',
@@ -1664,7 +1664,7 @@
     }
 }
 ,
-// src/fengyuanchen/datepicker.js
+// src/gitHub/fengyuanchen/datepicker.js
 {
     properties: {
         link: 'https://github.com/fengyuanchen/datepicker',
@@ -1681,7 +1681,7 @@
     }
 }
 ,
-// src/fians/Waves.js
+// src/gitHub/fians/Waves.js
 {
     properties: {
         link: 'https://github.com/fians/Waves',
@@ -1702,7 +1702,7 @@
     }
 }
 ,
-// src/filamentgroup/grunticon.js
+// src/gitHub/filamentgroup/grunticon.js
 {
     properties: {
         link: 'https://github.com/filamentgroup/grunticon',
@@ -1722,7 +1722,7 @@
     }
 }
 ,
-// src/filepicker/filepicker-js.js
+// src/gitHub/filepicker/filepicker-js.js
 {
     properties: {
         link: 'https://github.com/filepicker/filepicker-js',
@@ -1748,7 +1748,7 @@
     }
 }
 ,
-// src/ftlabs/fastclick.js
+// src/gitHub/ftlabs/fastclick.js
 {
     properties: {
         link: 'https://github.com/ftlabs/fastclick',
@@ -1762,7 +1762,7 @@
     }
 }
 ,
-// src/fullcalendar/fullcalendar.js
+// src/gitHub/fullcalendar/fullcalendar.js
 {
     properties: {
         link: 'https://github.com/fullcalendar/fullcalendar',
@@ -1789,7 +1789,7 @@
     }
 }
 ,
-// src/getsentry/sentry-javascript.js
+// src/gitHub/getsentry/sentry-javascript.js
 {
     properties: {
         link: 'https://github.com/getsentry/sentry-javascript',
@@ -1810,7 +1810,7 @@
     }
 }
 ,
-// src/gka/chroma.js.js
+// src/gitHub/gka/chroma.js.js
 {
     properties: {
         link: 'https://github.com/gka/chroma.js',
@@ -1829,7 +1829,7 @@
     }
 }
 ,
-// src/gohugoio/hugo.js
+// src/gitHub/gohugoio/hugo.js
 {
     properties: {
         link: 'https://github.com/gohugoio/hugo',
@@ -1855,7 +1855,7 @@
     }
 }
 ,
-// src/goldfire/howler.js.js
+// src/gitHub/goldfire/howler.js.js
 {
     properties: {
         link: 'https://github.com/goldfire/howler.js',
@@ -1869,7 +1869,7 @@
     }
 }
 ,
-// src/google/code-prettify.js
+// src/gitHub/google/code-prettify.js
 {
     properties: {
         link: 'https://github.com/google/code-prettify',
@@ -1883,7 +1883,7 @@
     }
 }
 ,
-// src/google/fonts.js
+// src/gitHub/google/fonts.js
 {
     properties: {
         link: 'https://github.com/google/fonts',
@@ -1906,7 +1906,7 @@
     }
 }
 ,
-// src/google/recaptcha.js
+// src/gitHub/google/recaptcha.js
 {
     properties: {
         link: 'https://github.com/google/recaptcha',
@@ -1925,7 +1925,7 @@
     }
 }
 ,
-// src/greensock/GreenSock-JS.js
+// src/gitHub/greensock/GreenSock-JS.js
 {
     properties: {
         link: 'https://github.com/greensock/GreenSock-JS',
@@ -1939,7 +1939,7 @@
     }
 }
 ,
-// src/hakimel/reveal.js.js
+// src/gitHub/hakimel/reveal.js.js
 {
     properties: {
         link: 'https://github.com/hakimel/reveal.js',
@@ -1958,7 +1958,7 @@
     }
 }
 ,
-// src/hammerjs/hammer.js.js
+// src/gitHub/hammerjs/hammer.js.js
 {
     properties: {
         link: 'https://github.com/hammerjs/hammer.js',
@@ -1981,7 +1981,7 @@
     }
 }
 ,
-// src/harvesthq/chosen.js
+// src/gitHub/harvesthq/chosen.js
 {
     properties: {
         link: 'https://github.com/harvesthq/chosen',
@@ -1995,7 +1995,7 @@
     }
 }
 ,
-// src/headjs/headjs.js
+// src/gitHub/headjs/headjs.js
 {
     properties: {
         link: 'https://github.com/headjs/headjs',
@@ -2009,7 +2009,7 @@
     }
 }
 ,
-// src/hgoebl/mobile-detect.js
+// src/gitHub/hgoebl/mobile-detect.js
 {
     properties: {
         link: 'https://github.com/hgoebl/mobile-detect.js',
@@ -2026,7 +2026,7 @@
     }
 }
 ,
-// src/highcharts/highcharts.js
+// src/gitHub/highcharts/highcharts.js
 {
     properties: {
         link: 'https://github.com/highcharts/highcharts',
@@ -2047,7 +2047,7 @@
     }
 }
 ,
-// src/highlightjs/highlight.js.js
+// src/gitHub/highlightjs/highlight.js.js
 {
     properties: {
         link: 'https://github.com/highlightjs/highlight.js',
@@ -2061,7 +2061,7 @@
     }
 }
 ,
-// src/hjson/hjson-js.js
+// src/gitHub/hjson/hjson-js.js
 {
     properties: {
         link: 'https://github.com/hjson/hjson-js',
@@ -2088,7 +2088,7 @@
     }
 }
 ,
-// src/hjson/hjson.js
+// src/gitHub/hjson/hjson.js
 {
     properties: {
         link: 'https://github.com/hjson/hjson',
@@ -2106,7 +2106,7 @@
     }
 }
 ,
-// src/htmlhint/HTMLHint.js
+// src/gitHub/htmlhint/HTMLHint.js
 {
     properties: {
         link: 'https://github.com/htmlhint/HTMLHint',
@@ -2129,7 +2129,7 @@
     }
 }
 ,
-// src/iamcal/js-emoji.js
+// src/gitHub/iamcal/js-emoji.js
 {
     properties: {
         link: 'https://github.com/iamcal/js-emoji',
@@ -2143,7 +2143,7 @@
     }
 }
 ,
-// src/ianstormtaylor/slate.js
+// src/gitHub/ianstormtaylor/slate.js
 {
     properties: {
         link: 'https://github.com/ianstormtaylor/slate',
@@ -2161,7 +2161,7 @@
     }
 }
 ,
-// src/imakewebthings/jquery-waypoints.js
+// src/gitHub/imakewebthings/jquery-waypoints.js
 {
     properties: {
         link: 'https://github.com/imakewebthings/jquery-waypoints',
@@ -2178,7 +2178,7 @@
     }
 }
 ,
-// src/imakewebthings/waypoints.js
+// src/gitHub/imakewebthings/waypoints.js
 {
     properties: {
         link: 'https://github.com/imakewebthings/waypoints',
@@ -2192,7 +2192,7 @@
     }
 }
 ,
-// src/impress/impress.js
+// src/gitHub/impress/impress.js
 {
     properties: {
         link: 'https://github.com/impress/impress.js',
@@ -2206,7 +2206,7 @@
     }
 }
 ,
-// src/imsky/holder.js
+// src/gitHub/imsky/holder.js
 {
     properties: {
         link: 'https://github.com/imsky/holder',
@@ -2233,7 +2233,7 @@
     }
 }
 ,
-// src/jackocnr/intl-tel-input.js
+// src/gitHub/jackocnr/intl-tel-input.js
 {
     properties: {
         donate: {
@@ -2255,7 +2255,7 @@
     }
 }
 ,
-// src/janl/mustache.js
+// src/gitHub/janl/mustache.js
 {
     properties: {
         link: 'https://github.com/janl/mustache.js',
@@ -2274,7 +2274,7 @@
     }
 }
 ,
-// src/jashkenas/backbone.js
+// src/gitHub/jashkenas/backbone.js
 {
     dependencies: [
         'gitHub/jashkenas/underscore'
@@ -2296,7 +2296,7 @@
     }
 }
 ,
-// src/jashkenas/underscore.js
+// src/gitHub/jashkenas/underscore.js
 {
     properties: {
         link: 'https://github.com/jashkenas/underscore',
@@ -2319,7 +2319,7 @@
     }
 }
 ,
-// src/jaywcjlove/hotkeys.js
+// src/gitHub/jaywcjlove/hotkeys.js
 {
     properties: {
         link: 'https://github.com/jaywcjlove/hotkeys',
@@ -2342,7 +2342,7 @@
     }
 }
 ,
-// src/jquery/jquery-migrate.js
+// src/gitHub/jquery/jquery-migrate.js
 {
     properties: {
         donate: {
@@ -2367,7 +2367,7 @@
     }
 }
 ,
-// src/jquery/jquery-mousewheel.js
+// src/gitHub/jquery/jquery-mousewheel.js
 {
     properties: {
         donate: {
@@ -2392,7 +2392,7 @@
     }
 }
 ,
-// src/jquery/jquery-ui.js
+// src/gitHub/jquery/jquery-ui.js
 {
     properties: {
         donate: {
@@ -2414,7 +2414,7 @@
     }
 }
 ,
-// src/jquery/jquery.js
+// src/gitHub/jquery/jquery.js
 {
     properties: {
         donate: {
@@ -2448,7 +2448,7 @@
     }
 }
 ,
-// src/jrburke/requirejs.js
+// src/gitHub/jrburke/requirejs.js
 {
     properties: {
         link: 'https://github.com/requirejs/requirejs',
@@ -2467,7 +2467,7 @@
     }
 }
 ,
-// src/js-cookie/js-cookie.js
+// src/gitHub/js-cookie/js-cookie.js
 {
     properties: {
         link: 'https://github.com/js-cookie/js-cookie',
@@ -2486,7 +2486,7 @@
     }
 }
 ,
-// src/jsor/jcarousel.js
+// src/gitHub/jsor/jcarousel.js
 {
     properties: {
         link: 'https://github.com/jsor/jcarousel',
@@ -2509,7 +2509,7 @@
     }
 }
 ,
-// src/jsor/lity.js
+// src/gitHub/jsor/lity.js
 {
     properties: {
         link: 'https://github.com/jsor/lity',
@@ -2532,7 +2532,7 @@
     }
 }
 ,
-// src/julianshapiro/velocity.js
+// src/gitHub/julianshapiro/velocity.js
 {
     properties: {
         link: 'https://github.com/julianshapiro/velocity',
@@ -2557,7 +2557,7 @@
     }
 }
 ,
-// src/jwplayer/jwplayer.js
+// src/gitHub/jwplayer/jwplayer.js
 {
     properties: {
         link: 'https://github.com/jwplayer/jwplayer',
@@ -2576,7 +2576,7 @@
     }
 }
 ,
-// src/kenwheeler/slick.js
+// src/gitHub/kenwheeler/slick.js
 {
     properties: {
         link: 'https://github.com/kenwheeler/slick',
@@ -2590,7 +2590,7 @@
     }
 }
 ,
-// src/knockout/knockout.js
+// src/gitHub/knockout/knockout.js
 {
     properties: {
         link: 'https://github.com/knockout/knockout',
@@ -2612,7 +2612,7 @@
     }
 }
 ,
-// src/kriskowal/q.js
+// src/gitHub/kriskowal/q.js
 {
     properties: {
         link: 'https://github.com/kriskowal/q',
@@ -2630,7 +2630,7 @@
     }
 }
 ,
-// src/krux/postscribe.js
+// src/gitHub/krux/postscribe.js
 {
     properties: {
         link: 'https://github.com/krux/postscribe',
@@ -2644,7 +2644,7 @@
     }
 }
 ,
-// src/laravel/laravel.js
+// src/gitHub/laravel/laravel.js
 {
     dependencies: [
         'gitHub/php/php-src'
@@ -2665,7 +2665,7 @@
     }
 }
 ,
-// src/leongersen/noUiSlider.js
+// src/gitHub/leongersen/noUiSlider.js
 {
     properties: {
         link: 'https://github.com/leongersen/noUiSlider',
@@ -2684,7 +2684,7 @@
     }
 }
 ,
-// src/linkedin/dustjs.js
+// src/gitHub/linkedin/dustjs.js
 {
     properties: {
         link: 'https://github.com/linkedin/dustjs',
@@ -2706,7 +2706,7 @@
     }
 }
 ,
-// src/lodash/lodash.js
+// src/gitHub/lodash/lodash.js
 {
     properties: {
         link: 'https://github.com/lodash/lodash',
@@ -2725,7 +2725,7 @@
     }
 }
 ,
-// src/madrobby/keymaster.js
+// src/gitHub/madrobby/keymaster.js
 {
     properties: {
         link: 'https://github.com/madrobby/keymaster',
@@ -2744,7 +2744,7 @@
     }
 }
 ,
-// src/madrobby/zepto.js
+// src/gitHub/madrobby/zepto.js
 {
     properties: {
         link: 'https://github.com/madrobby/zepto',
@@ -2760,7 +2760,7 @@
     }
 }
 ,
-// src/mapbox/mapbox.js
+// src/gitHub/mapbox/mapbox.js
 {
     properties: {
         link: 'https://github.com/mapbox/mapbox.js',
@@ -2779,7 +2779,7 @@
     }
 }
 ,
-// src/marionettejs/backbone.marionette.js
+// src/gitHub/marionettejs/backbone.marionette.js
 {
     properties: {
         link: 'https://github.com/marionettejs/backbone.marionette',
@@ -2805,7 +2805,7 @@
     }
 }
 ,
-// src/markedjs/marked.js
+// src/gitHub/markedjs/marked.js
 {
     properties: {
         link: 'https://github.com/markedjs/marked',
@@ -2819,7 +2819,7 @@
     }
 }
 ,
-// src/mathiasbynens/jquery-placeholder.js
+// src/gitHub/mathiasbynens/jquery-placeholder.js
 {
     properties: {
         link: 'https://github.com/mathiasbynens/jquery-placeholder',
@@ -2839,7 +2839,7 @@
     }
 }
 ,
-// src/matomo-org/matomo.js
+// src/gitHub/matomo-org/matomo.js
 {
     properties: {
         link: 'https://github.com/matomo-org/matomo',
@@ -2856,7 +2856,7 @@
     }
 }
 ,
-// src/mattbryson/TouchSwipe-Jquery-Plugin.js
+// src/gitHub/mattbryson/TouchSwipe-Jquery-Plugin.js
 {
     properties: {
         link: 'https://github.com/mattbryson/TouchSwipe-Jquery-Plugin',
@@ -2881,7 +2881,7 @@
     }
 }
 ,
-// src/maxwellito/vivus.js
+// src/gitHub/maxwellito/vivus.js
 {
     properties: {
         link: 'https://github.com/maxwellito/vivus',
@@ -2895,7 +2895,7 @@
     }
 }
 ,
-// src/meltingice/CamanJS.js
+// src/gitHub/meltingice/CamanJS.js
 {
     properties: {
         link: 'https://github.com/meltingice/CamanJS',
@@ -2914,7 +2914,7 @@
     }
 }
 ,
-// src/meteor/meteor.js
+// src/gitHub/meteor/meteor.js
 {
     properties: {
         link: 'https://github.com/meteor/meteor',
@@ -2940,7 +2940,7 @@
     }
 }
 ,
-// src/mnater/Hyphenator.js
+// src/gitHub/mnater/Hyphenator.js
 {
     properties: {
         link: 'https://github.com/mnater/Hyphenator',
@@ -2962,7 +2962,7 @@
     }
 }
 ,
-// src/mobxjs/mobx.js
+// src/gitHub/mobxjs/mobx.js
 {
     properties: {
         link: 'https://github.com/mobxjs/mobx',
@@ -2976,7 +2976,7 @@
     }
 }
 ,
-// src/moment/moment.js
+// src/gitHub/moment/moment.js
 {
     properties: {
         link: 'https://github.com/moment/moment',
@@ -2995,7 +2995,7 @@
     }
 }
 ,
-// src/mootools/mootools-core.js
+// src/gitHub/mootools/mootools-core.js
 {
     properties: {
         link: 'https://github.com/mootools/mootools-core',
@@ -3014,7 +3014,7 @@
     }
 }
 ,
-// src/mozilla/pdf.js.js
+// src/gitHub/mozilla/pdf.js.js
 {
     properties: {
         donate: {
@@ -3038,7 +3038,7 @@
     }
 }
 ,
-// src/mrdoob/three.js
+// src/gitHub/mrdoob/three.js
 {
     properties: {
         link: 'https://github.com/mrdoob/three.js',
@@ -3057,7 +3057,7 @@
     }
 }
 ,
-// src/nfl/react-helmet.js
+// src/gitHub/nfl/react-helmet.js
 {
     properties: {
         link: 'https://github.com/nfl/react-helmet',
@@ -3079,7 +3079,7 @@
     }
 }
 ,
-// src/nginx/nginx.js
+// src/gitHub/nginx/nginx.js
 {
     properties: {
         donate: {
@@ -3107,7 +3107,7 @@
     }
 }
 ,
-// src/nienines/cowboy.js
+// src/gitHub/nienines/cowboy.js
 {
     properties: {
         link: 'https://github.com/ninenines/cowboy',
@@ -3125,7 +3125,7 @@
     }
 }
 ,
-// src/niklasvh/html2canvas.js
+// src/gitHub/niklasvh/html2canvas.js
 {
     properties: {
         link: 'https://github.com/niklasvh/html2canvas',
@@ -3139,7 +3139,7 @@
     }
 }
 ,
-// src/nk-o/jarallax.js
+// src/gitHub/nk-o/jarallax.js
 {
     properties: {
         link: 'https://github.com/nk-o/jarallax',
@@ -3153,7 +3153,7 @@
     }
 }
 ,
-// src/noelboss/featherlight.js
+// src/gitHub/noelboss/featherlight.js
 {
     properties: {
         link: 'https://github.com/noelboss/featherlight',
@@ -3167,7 +3167,7 @@
     }
 }
 ,
-// src/novus/nvd3.js
+// src/gitHub/novus/nvd3.js
 {
     properties: {
         link: 'https://github.com/novus/nvd3',
@@ -3190,7 +3190,7 @@
     }
 }
 ,
-// src/oblador/angular-scroll.js
+// src/gitHub/oblador/angular-scroll.js
 {
     properties: {
         link: 'https://github.com/oblador/angular-scroll',
@@ -3214,7 +3214,7 @@
     }
 }
 ,
-// src/olado/doT.js
+// src/gitHub/olado/doT.js
 {
     properties: {
         link: 'https://github.com/olado/doT',
@@ -3237,7 +3237,7 @@
     }
 }
 ,
-// src/olivernn/lunr.js.js
+// src/gitHub/olivernn/lunr.js.js
 {
     properties: {
         link: 'https://github.com/olivernn/lunr.js',
@@ -3259,7 +3259,7 @@
     }
 }
 ,
-// src/openexchangerates/accounting.js.js
+// src/gitHub/openexchangerates/accounting.js.js
 {
     properties: {
         link: 'https://github.com/openexchangerates/accounting.js',
@@ -3281,7 +3281,7 @@
     }
 }
 ,
-// src/openresty/openresty.js
+// src/gitHub/openresty/openresty.js
 {
     dependencies: [
         'gitHub/nginx/nginx'
@@ -3305,7 +3305,7 @@
     }
 }
 ,
-// src/oyvindkinsey/easyXDM.js
+// src/gitHub/oyvindkinsey/easyXDM.js
 {
     properties: {
         link: 'https://github.com/oyvindkinsey/easyXDM',
@@ -3326,7 +3326,7 @@
     }
 }
 ,
-// src/paperjs/paper.js.js
+// src/gitHub/paperjs/paper.js.js
 {
     properties: {
         link: 'https://github.com/paperjs/paper.js',
@@ -3347,7 +3347,7 @@
     }
 }
 ,
-// src/parcel-bundler/parcel.js
+// src/gitHub/parcel-bundler/parcel.js
 {
     properties: {
         link: 'https://github.com/parcel-bundler/parcel',
@@ -3363,7 +3363,7 @@
     }
 }
 ,
-// src/php/php-src.js
+// src/gitHub/php/php-src.js
 {
     properties: {
         link: 'https://github.com/php/php-src',
@@ -3388,7 +3388,7 @@
     }
 }
 ,
-// src/quilljs/quill.js
+// src/gitHub/quilljs/quill.js
 {
     properties: {
         link: 'https://github.com/quilljs/quill',
@@ -3407,7 +3407,7 @@
     }
 }
 ,
-// src/rails/rails.js
+// src/gitHub/rails/rails.js
 {
     properties: {
         link: 'https://github.com/AlloyTeam/AlloyFinger',
@@ -3421,7 +3421,7 @@
     }
 }
 ,
-// src/robflaherty/jquery-scrolldepth.js
+// src/gitHub/robflaherty/jquery-scrolldepth.js
 {
     properties: {
         link: 'https://github.com/robflaherty/jquery-scrolldepth',
@@ -3444,7 +3444,7 @@
     }
 }
 ,
-// src/rstacruz/jquery.transit.js
+// src/gitHub/rstacruz/jquery.transit.js
 {
     properties: {
         link: 'https://github.com/rstacruz/jquery.transit',
@@ -3458,7 +3458,7 @@
     }
 }
 ,
-// src/scaron/prettyphoto.js
+// src/gitHub/scaron/prettyphoto.js
 {
     properties: {
         link: 'https://github.com/scaron/prettyphoto',
@@ -3472,7 +3472,7 @@
     }
 }
 ,
-// src/scottjehl/Respond.js
+// src/gitHub/scottjehl/Respond.js
 {
     properties: {
         link: 'https://github.com/scottjehl/Respond',
@@ -3486,7 +3486,7 @@
     }
 }
 ,
-// src/scottjehl/picturefill.js
+// src/gitHub/scottjehl/picturefill.js
 {
     properties: {
         link: 'https://github.com/scottjehl/picturefill',
@@ -3500,7 +3500,7 @@
     }
 }
 ,
-// src/segmentio/analytics.js.js
+// src/gitHub/segmentio/analytics.js.js
 {
     properties: {
         link: 'https://github.com/segmentio/analytics.js',
@@ -3519,7 +3519,7 @@
     }
 }
 ,
-// src/select2/select2.js
+// src/gitHub/select2/select2.js
 {
     properties: {
         link: 'https://github.com/select2/select2',
@@ -3534,7 +3534,7 @@
     }
 }
 ,
-// src/simonwhitaker/github-fork-ribbon-css.js
+// src/gitHub/simonwhitaker/github-fork-ribbon-css.js
 {
     properties: {
         link: 'https://github.com/simonwhitaker/github-fork-ribbon-css',
@@ -3550,7 +3550,7 @@
     }
 }
 ,
-// src/sindresorhus/screenfull.js.js
+// src/gitHub/sindresorhus/screenfull.js.js
 {
     properties: {
         link: 'https://github.com/sindresorhus/screenfull.js',
@@ -3568,7 +3568,7 @@
     }
 }
 ,
-// src/slevithan/xregexp.js
+// src/gitHub/slevithan/xregexp.js
 {
     properties: {
         link: 'https://github.com/slevithan/xregexp',
@@ -3590,7 +3590,7 @@
     }
 }
 ,
-// src/snapappointments/bootstrap-select.js
+// src/gitHub/snapappointments/bootstrap-select.js
 {
     properties: {
         link: 'https://github.com/snapappointments/bootstrap-select',
@@ -3611,7 +3611,7 @@
     }
 }
 ,
-// src/somewebmedia/hc-sticky.js
+// src/gitHub/somewebmedia/hc-sticky.js
 {
     properties: {
         link: 'https://github.com/somewebmedia/hc-sticky',
@@ -3626,7 +3626,7 @@
     }
 }
 ,
-// src/sorccu/cufon.js
+// src/gitHub/sorccu/cufon.js
 {
     properties: {
         link: 'https://github.com/sorccu/cufon',
@@ -3640,7 +3640,7 @@
     }
 }
 ,
-// src/sphinx-doc/sphinx.js
+// src/gitHub/sphinx-doc/sphinx.js
 {
     properties: {
         link: 'https://github.com/sphinx-doc/sphinx',
@@ -3670,7 +3670,7 @@
     }
 }
 ,
-// src/stripe/jquery.payment.js
+// src/gitHub/stripe/jquery.payment.js
 {
     properties: {
         link: 'https://github.com/stripe/jquery.payment',
@@ -3684,7 +3684,7 @@
     }
 }
 ,
-// src/styled-components/styled-components.js
+// src/gitHub/styled-components/styled-components.js
 {
     properties: {
         link: 'https://github.com/styled-components/styled-components',
@@ -3700,7 +3700,7 @@
     }
 }
 ,
-// src/swfobject/swfobject.js
+// src/gitHub/swfobject/swfobject.js
 {
     properties: {
         link: 'https://github.com/swfobject/swfobject',
@@ -3714,7 +3714,7 @@
     }
 }
 ,
-// src/systemjs/systemjs.js
+// src/gitHub/systemjs/systemjs.js
 {
     properties: {
         link: 'https://github.com/systemjs/systemjs',
@@ -3741,7 +3741,7 @@
     }
 }
 ,
-// src/tinymce/tinymce.js
+// src/gitHub/tinymce/tinymce.js
 {
     properties: {
         link: 'https://github.com/tinymce/tinymce',
@@ -3760,7 +3760,7 @@
     }
 }
 ,
-// src/tmont/sunlight.js
+// src/gitHub/tmont/sunlight.js
 {
     properties: {
         link: 'https://github.com/tmont/sunlight',
@@ -3783,7 +3783,7 @@
     }
 }
 ,
-// src/totaljs/framework.js
+// src/gitHub/totaljs/framework.js
 {
     dependencies: [
         'gitHub/nodejs/node'
@@ -3804,7 +3804,7 @@
     }
 }
 ,
-// src/transloadit/uppy.js
+// src/gitHub/transloadit/uppy.js
 {
     properties: {
         link: 'https://github.com/transloadit/uppy',
@@ -3818,7 +3818,7 @@
     }
 }
 ,
-// src/turbolinks/turbolinks.js
+// src/gitHub/turbolinks/turbolinks.js
 {
     properties: {
         link: 'https://github.com/turbolinks/turbolinks',
@@ -3832,7 +3832,7 @@
     }
 }
 ,
-// src/tuupola/jquery_lazyload.js
+// src/gitHub/tuupola/jquery_lazyload.js
 {
     properties: {
         link: 'https://github.com/tuupola/jquery_lazyload',
@@ -3850,7 +3850,7 @@
     }
 }
 ,
-// src/twbs/bootstrap.js
+// src/gitHub/twbs/bootstrap.js
 {
     properties: {
         link: 'https://github.com/twbs/bootstrap',
@@ -3866,11 +3866,15 @@
     tests: {
         patterns: {
             page: [
-                [/\<link[^>]+\/bootstrap\//i]
+                [
+                    /\<link[^>]+\/bootstrap\//i
+                ]
             ]
         },
         references: [
-            ['window.jQuery.fn.tooltip']
+            ['
+                window.jQuery.fn.tooltip'
+            ]
         ]
     },
     versions: {
@@ -3885,7 +3889,7 @@
     }
 }
 ,
-// src/twitter/hogan.js.js
+// src/gitHub/twitter/hogan.js.js
 {
     properties: {
         link: 'https://github.com/twitter/hogan.js',
@@ -3912,7 +3916,7 @@
     }
 }
 ,
-// src/twitter/twemoji.js
+// src/gitHub/twitter/twemoji.js
 {
     properties: {
         link: 'https://github.com/twitter/twemoji',
@@ -3926,7 +3930,7 @@
     }
 }
 ,
-// src/twitter/typeahead.js.js
+// src/gitHub/twitter/typeahead.js.js
 {
     properties: {
         link: 'https://github.com/twitter/typeahead.js',
@@ -3940,7 +3944,7 @@
     }
 }
 ,
-// src/typekit/webfontloader.js
+// src/gitHub/typekit/webfontloader.js
 {
     properties: {
         link: 'https://github.com/typekit/webfontloader',
@@ -3954,7 +3958,7 @@
     }
 }
 ,
-// src/urish/angular-moment.js
+// src/gitHub/urish/angular-moment.js
 {
     properties: {
         link: 'https://github.com/urish/angular-moment',
@@ -3978,7 +3982,7 @@
     }
 }
 ,
-// src/videojs/video.js.js
+// src/gitHub/videojs/video.js.js
 {
     properties: {
         link: 'https://github.com/videojs/video.js',
@@ -3997,7 +4001,7 @@
     }
 }
 ,
-// src/vimeo/player.js.js
+// src/gitHub/vimeo/player.js.js
 {
     properties: {
         link: 'https://github.com/vimeo/player.js',
@@ -4018,7 +4022,7 @@
     }
 }
 ,
-// src/vitch/jScrollPane.js
+// src/gitHub/vitch/jScrollPane.js
 {
     properties: {
         link: 'https://github.com/vitch/jScrollPane',
@@ -4032,7 +4036,7 @@
     }
 }
 ,
-// src/vuejs/vue.js
+// src/gitHub/vuejs/vue.js
 {
     properties: {
         donate: {
@@ -4061,7 +4065,7 @@
     }
 }
 ,
-// src/weareoutman/clockpicker.js
+// src/gitHub/weareoutman/clockpicker.js
 {
     properties: {
         link: 'https://github.com/weareoutman/clockpicker',
@@ -4079,7 +4083,7 @@
     }
 }
 ,
-// src/webpack/webpack.js
+// src/gitHub/webpack/webpack.js
 {
     properties: {
         link: 'https://github.com/webpack/webpack',
@@ -4094,7 +4098,7 @@
     }
 }
 ,
-// src/wilddeer/Peppermint.js
+// src/gitHub/wilddeer/Peppermint.js
 {
     properties: {
         link: 'https://github.com/wilddeer/Peppermint',
@@ -4115,7 +4119,7 @@
     }
 }
 ,
-// src/wilddeer/Sniffer.js
+// src/gitHub/wilddeer/Sniffer.js
 {
     properties: {
         link: 'https://github.com/wilddeer/Sniffer',
@@ -4134,7 +4138,7 @@
     }
 }
 ,
-// src/wilddeer/stickyfill.js
+// src/gitHub/wilddeer/stickyfill.js
 {
     properties: {
         link: 'https://github.com/wilddeer/stickyfill',
@@ -4151,7 +4155,7 @@
     }
 }
 ,
-// src/wycats/handlebars.js.js
+// src/gitHub/wycats/handlebars.js.js
 {
     implies: [
         'gitHub/emberjs/ember.js'
@@ -4173,7 +4177,7 @@
     }
 }
 ,
-// src/yiisoft/yii.js
+// src/gitHub/yiisoft/yii.js
 {
     dependencies: [
         'gitHub/php/php-src'
@@ -4194,7 +4198,7 @@
     }
 }
 ,
-// src/yui/yui3.js
+// src/gitHub/yui/yui3.js
 {
     properties: {
         link: 'https://github.com/yui/yui3',
@@ -4216,7 +4220,7 @@
     }
 }
 ,
-// src/zachleat/BixText.js
+// src/gitHub/zachleat/BixText.js
 {
     properties: {
         link: 'https://github.com/zachleat/BigText',
@@ -4236,7 +4240,7 @@
     }
 }
 ,
-// src/zeit/next.js.js
+// src/gitHub/zeit/next.js.js
 {
     properties: {
         link: 'https://github.com/zeit/next.js',
@@ -4254,7 +4258,7 @@
     }
 }
 ,
-// src/zenorocha/clipboard.js.js
+// src/gitHub/zenorocha/clipboard.js.js
 {
     properties: {
         link: 'https://github.com/zenorocha/clipboard.js',
@@ -4289,7 +4293,7 @@
     }
 }
 ,
-// src/zeroclipboard/zeroclipboard.js
+// src/gitHub/zeroclipboard/zeroclipboard.js
 {
     properties: {
         link: 'https://github.com/zeroclipboard/zeroclipboard',
@@ -4308,7 +4312,7 @@
     }
 }
 ,
-// src/zloirock/core-js.js
+// src/gitHub/zloirock/core-js.js
 {
     properties: {
         link: 'https://github.com/zloirock/core-js',
@@ -4333,7 +4337,7 @@
     }
 }
 ,
-// src/zurb/foundation-sites.js
+// src/gitHub/zurb/foundation-sites.js
 {
     properties: {
         link: 'https://github.com/zurb/foundation-sites',

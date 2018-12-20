@@ -10,9 +10,9 @@
     tests: {
         references: [
             [
-                'window.publish',
-                'window.subscribe',
-                'window.unsubscribe'
+                'window.jQuery.publish',
+                'window.jQuery.subscribe',
+                'window.jQuery.unsubscribe'
             ]
         ]
     }

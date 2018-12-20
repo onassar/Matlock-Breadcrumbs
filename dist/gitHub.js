@@ -2871,6 +2871,29 @@
     }
 }
 ,
+// src/gitHub/likeastore/ngDialog.js
+{
+    properties: {
+        link: 'https://github.com/likeastore/ngDialog',
+        notes: [],
+        platform: 'GitHub',
+        tags: [
+            'angular'
+        ],
+        tests: [
+            'https://www.bestbuy.ca/'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        statements: [
+            [
+                'window.angular.module(\'ngDialog\')'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/linkedin/dustjs.js
 {
     properties: {

@@ -1803,8 +1803,8 @@
     tests: {
         references: [
             [
-                'window.jQuery.fn.Constructor',
-                'window.jQuery.fn.tabCollapse'
+                'window.jQuery.fn.tabCollapse',
+                'window.jQuery.fn.tabCollapse.Constructor'
             ]
         ]
     }

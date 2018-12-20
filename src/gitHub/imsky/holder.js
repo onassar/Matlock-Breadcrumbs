@@ -14,7 +14,9 @@
     },
     tests: {
         references: [
-            ['window.Holder']
+            [
+                'window.Holder'
+            ]
         ]
     },
     versions: {

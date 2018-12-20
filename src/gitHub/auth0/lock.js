@@ -1,19 +1,23 @@
 {
     properties: {
-        link: 'https://github.com/videojs/video.js',
+        link: 'https://github.com/auth0/lock',
+        notes: [],
         platform: 'GitHub',
+        tests: [
+            'https://www.browserstack.com/docs'
+        ],
         type: 'repository'
     },
     tests: {
         references: [
             [
-                'window.videojs'
+                'window.Auth0Lock'
             ]
         ]
     },
     versions: {
         references: [
-            'window.videojs.VERSION'
+            'window.Auth0Lock.version'
         ]
     }
 }

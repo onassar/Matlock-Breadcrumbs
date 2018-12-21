@@ -1,17 +1,16 @@
 {
     properties: {
-        link: 'https://github.com/gohugoio/hugo',
+        link: 'https://github.com/hexojs/hexo',
+        notes: [],
         platform: 'GitHub',
-        tests: [
-            'https://1password.com/'
-        ],
+        tests: [],
         type: 'repository'
     },
     tests: {
         patterns: {
             page: [
                 [
-                    /<meta[^>]+content\="Hugo /i
+                    /<meta[^>]+content\="Hexos /i
                 ]
             ]
         }
@@ -19,7 +18,7 @@
     versions: {
         patterns: {
             page: [
-                /<meta[^>]+content\="Hugo ([^"]+)/i
+                /<meta[^>]+content\="Hexos ([^"]+)/i
             ]
         }
     }

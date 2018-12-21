@@ -4613,8 +4613,12 @@
     },
     tests: {
         references: [
-            ['window.Select2'],
-            ['window.jQuery.fn.select2']
+            [
+                'window.Select2'
+            ],
+            [
+                'window.jQuery.fn.select2'
+            ]
         ]
     }
 }
@@ -5299,6 +5303,26 @@
             [
                 'window.Stickyfill',
                 'window.Stickyfill.stickies'
+            ]
+        ]
+    }
+}
+,
+// src/gitHub/woocommerce/selectWoo.js
+{
+    properties: {
+        link: 'https://github.com/woocommerce/selectWoo',
+        notes: [],
+        platform: 'GitHub',
+        tests: [
+            'https://www.bundestag.de/en/'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.jQuery.fn.selectWoo'
             ]
         ]
     }

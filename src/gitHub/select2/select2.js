@@ -6,8 +6,12 @@
     },
     tests: {
         references: [
-            ['window.Select2'],
-            ['window.jQuery.fn.select2']
+            [
+                'window.Select2'
+            ],
+            [
+                'window.jQuery.fn.select2'
+            ]
         ]
     }
 }

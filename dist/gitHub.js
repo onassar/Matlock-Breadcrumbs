@@ -5466,6 +5466,27 @@
     }
 }
 ,
+// src/gitHub/sofish/pen.js
+{
+    properties: {
+        link: 'https://github.com/sofish/pen',
+        notes: [],
+        platform: 'GitHub',
+        tests: [
+            'https://sofish.github.io/pen/'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.Pen',
+                'window.Pen.prototype.toMd'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/somewebmedia/hc-sticky.js
 {
     properties: {

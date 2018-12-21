@@ -4644,11 +4644,6 @@
                 'window.Squire.empty'
             ]
         ]
-    },
-    versions: {
-        references: [
-            'window.Squire'
-        ]
     }
 }
 ,

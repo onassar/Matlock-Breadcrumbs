@@ -11,21 +11,13 @@
     tests: {
         references: [
             [
-                'window.ContentTools',
-                'window.ContentTools.Tools'
-            ]
-        ]
-    },
-    tests: {
-        references: [
-            [
-                'window.CKEDITOR'
+                'window.CKEDITOR_VERSION'
             ]
         ]
     },
     versions: {
         references: [
-            'window.CKEDITOR.version'
+            'window.CKEDITOR_VERSION'
         ]
     }
 }

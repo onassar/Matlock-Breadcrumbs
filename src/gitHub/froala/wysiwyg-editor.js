@@ -11,13 +11,13 @@
     tests: {
         references: [
             [
-                'window.FroalaEditor'
+                'window.jQuery.FroalaEditor'
             ]
         ]
     },
     versions: {
         references: [
-            'window.FroalaEditor.VERSION'
+            'window.jQuery.FroalaEditor.VERSION'
         ]
     }
 }

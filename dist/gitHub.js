@@ -1341,6 +1341,26 @@
     }
 }
 ,
+// src/gitHub/cburgmer/rasterizeHTML.js.js
+{
+    properties: {
+        link: 'https://github.com/cburgmer/rasterizeHTML.js',
+        notes: [],
+        platform: 'GitHub',
+        tests: [
+            'http://cburgmer.github.io/rasterizeHTML.js/'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.rasterizeHTML'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/ccampbell/gator.js
 {
     properties: {

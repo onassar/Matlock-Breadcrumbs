@@ -4,8 +4,8 @@
         notes: [],
         platform: 'GitHub',
         tests: [
-            'https://greensock.com/',
-            'https://flowplayer.com/help/demos/basic'
+            'https://flowplayer.com/blog/flowplayer-native',
+            'https://greensock.com/'
         ],
         type: 'repository'
     },

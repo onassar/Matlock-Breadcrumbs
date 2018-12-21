@@ -4809,6 +4809,26 @@
     }
 }
 ,
+// src/gitHub/nuxt/nuxt.js.js
+{
+    properties: {
+        link: 'https://github.com/nuxt/nuxt.js',
+        notes: [],
+        platform: 'GitHub',
+        tests: [
+            'https://nuxtjs.org/'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.$nuxt'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/oblador/angular-scroll.js
 {
     properties: {

@@ -11,13 +11,15 @@
     tests: {
         references: [
             [
-                'window.rangy'
+                'window.Medium',
+                'window.Medium.Action',
+                'window.Medium.Cache'
             ]
         ]
     },
     versions: {
         references: [
-            'window.rangy.version'
+            'window.Medium.version'
         ]
     }
 }

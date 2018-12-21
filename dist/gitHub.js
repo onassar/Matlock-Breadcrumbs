@@ -1947,7 +1947,8 @@
             'video'
         ],
         tests: [
-            'https://crooked.com/'
+            'https://crooked.com/',
+            'http://playerjs.io/'
         ],
         type: 'repository'
     },
@@ -3665,6 +3666,29 @@
     versions: {
         references: [
             'window.Barba.version'
+        ]
+    }
+}
+,
+// src/gitHub/maaaaark/bcSwipe.js
+{
+    properties: {
+        link: 'https://github.com/maaaaark/bcSwipe',
+        notes: [],
+        platform: 'GitHub',
+        tags: [
+            'jQuery'
+        ],
+        tests: [
+            'https://crooked.com/'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.jQuery.fn.bcSwipe'
+            ]
         ]
     }
 }

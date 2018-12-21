@@ -8,7 +8,8 @@
             'video'
         ],
         tests: [
-            'https://crooked.com/'
+            'https://crooked.com/',
+            'http://playerjs.io/'
         ],
         type: 'repository'
     },

@@ -225,9 +225,13 @@
     tests: {
         references: [
             [
-                'window.ContentTools',
-                'window.ContentTools.Tools'
+                'window.CKEDITOR_VERSION'
             ]
+        ]
+    },
+    versions: {
+        references: [
+            'window.CKEDITOR_VERSION'
         ]
     }
 }
@@ -1536,6 +1540,31 @@
         platform: 'GitHub',
         tests: [
             'https://ckeditor.com/ckeditor-4/demo/'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.CKEDITOR'
+            ]
+        ]
+    },
+    versions: {
+        references: [
+            'window.CKEDITOR.version'
+        ]
+    }
+}
+,
+// src/gitHub/ckeditor/ckeditor5.js
+{
+    properties: {
+        link: 'https://github.com/ckeditor/ckeditor5',
+        notes: [],
+        platform: 'GitHub',
+        tests: [
+            'https://ckeditor.com/ckeditor-5/demo/#classic'
         ],
         type: 'repository'
     },

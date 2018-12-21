@@ -4690,6 +4690,38 @@
     }
 }
 ,
+// src/gitHub/running-coder/jquery-typeahead.js
+{
+    properties: {
+        link: 'https://github.com/running-coder/jquery-typeahead',
+        notes: [],
+        platform: 'GitHub',
+        see: [
+            'https://github.com/twitter/typeahead.js'
+        ],
+        tags: [
+            'jQuery'
+        ],
+        tests: [
+            'http://www.runningcoder.org/jquerytypeahead/'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.jQuery.fn.typeahead',
+                'window.Typeahead'
+            ]
+        ]
+    },
+    versions: {
+        references: [
+            'window.Typeahead.version'
+        ]
+    }
+}
+,
 // src/gitHub/scaron/prettyphoto.js
 {
     properties: {
@@ -5200,12 +5232,19 @@
     properties: {
         link: 'https://github.com/twitter/typeahead.js',
         platform: 'GitHub',
+        see: [
+            'https://github.com/running-coder/jquery-typeahead'
+        ],
+        tests: [
+            'http://twitter.github.io/typeahead.js/'
+        ],
         type: 'repository'
     },
     tests: {
         statements: [
             [
-                'window.jQuery(\'html\').typeahead'
+                'window.jQuery(\'html\').typeahead',
+                '!window.Typeahead'
             ]
         ]
     }

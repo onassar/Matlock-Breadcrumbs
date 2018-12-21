@@ -6,7 +6,9 @@
     },
     tests: {
         references: [
-            ['window.CodeMirror']
+            [
+                'window.CodeMirror'
+            ]
         ]
     },
     versions: {

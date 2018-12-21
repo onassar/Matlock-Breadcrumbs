@@ -211,6 +211,27 @@
     }
 }
 ,
+// src/gitHub/GetmeUK/ContentTools.js
+{
+    properties: {
+        link: 'https://github.com/GetmeUK/ContentTools',
+        notes: [],
+        platform: 'GitHub',
+        tests: [
+            'http://getcontenttools.com/demo#what-are-you-waiting-for'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.ContentTools',
+                'window.ContentTools.Tools'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/JedWatson/react-select.js
 {
     properties: {
@@ -1540,7 +1561,9 @@
     },
     tests: {
         references: [
-            ['window.CodeMirror']
+            [
+                'window.CodeMirror'
+            ]
         ]
     },
     versions: {
@@ -5199,7 +5222,9 @@
     },
     tests: {
         references: [
-            ['window.tinyMCE']
+            [
+                'window.tinyMCE'
+            ]
         ]
     },
     versions: {

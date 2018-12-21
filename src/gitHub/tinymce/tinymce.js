@@ -6,7 +6,9 @@
     },
     tests: {
         references: [
-            ['window.tinyMCE']
+            [
+                'window.tinyMCE'
+            ]
         ]
     },
     versions: {

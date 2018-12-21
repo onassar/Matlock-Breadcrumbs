@@ -925,6 +925,27 @@
     }
 }
 ,
+// src/gitHub/babel/babel.js
+{
+    properties: {
+        link: 'https://github.com/babel/babel',
+        platform: 'GitHub',
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.Babel'
+            ]
+        ]
+    },
+    versions: {
+        references: [
+            'window.Babel.version'
+        ]
+    }
+}
+,
 // src/gitHub/badlerdashy/sails.js
 {
     dependencies: [

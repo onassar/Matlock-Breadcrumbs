@@ -1,21 +1,22 @@
 {
     properties: {
-        link: 'https://github.com/adobe-webplatform/eve',
+        link: 'https://github.com/DmitryBaranovskiy/raphael',
         platform: 'GitHub',
+        tests: [
+            'http://lisperator.net/uglifyjs/'
+        ],
         type: 'repository'
     },
     tests: {
         references: [
             [
-                'window.eve',
-                'window.eve.listeners',
-                'window.eve.on'
+                'window.Raphael'
             ]
         ]
     },
     versions: {
         references: [
-            'window.eve.version'
+            'window.Raphael.version'
         ]
     }
 }

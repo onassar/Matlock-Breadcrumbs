@@ -76,6 +76,30 @@
     }
 }
 ,
+// src/gitHub/DmitryBaranovskiy/raphael.js
+{
+    properties: {
+        link: 'https://github.com/DmitryBaranovskiy/raphael',
+        platform: 'GitHub',
+        tests: [
+            'http://lisperator.net/uglifyjs/'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.Raphael'
+            ]
+        ]
+    },
+    versions: {
+        references: [
+            'window.Raphael.version'
+        ]
+    }
+}
+,
 // src/gitHub/Eonasdan/bootstrap-datetimepicker.js
 {
     properties: {
@@ -535,7 +559,6 @@
             [
                 'window.eve',
                 'window.eve.listeners',
-                'window.eve.separator',
                 'window.eve.on'
             ]
         ]
@@ -2603,6 +2626,9 @@
     properties: {
         link: 'https://github.com/ionic-team/ionic',
         platform: 'GitHub',
+        tests: [
+            'https://ionicframework.com/'
+        ],
         type: 'repository'
     },
     tests: {

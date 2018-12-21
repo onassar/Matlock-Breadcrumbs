@@ -1387,6 +1387,26 @@
     }
 }
 ,
+// src/gitHub/blueimp/Gallery.js
+{
+    properties: {
+        link: 'https://github.com/blueimp/Gallery',
+        platform: 'GitHub',
+        tags: [],
+        tests: [
+            'https://blueimp.github.io/Gallery/'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        statements: [
+            [
+                'window.blueimp.Gallery'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/blueimp/JavaScript-MD5.js
 {
     properties: {

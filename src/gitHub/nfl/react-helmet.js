@@ -13,7 +13,9 @@
     tests: {
         strings: {
             page: [
-                ['data-react-helmet']
+                [
+                    'data-react-helmet'
+                ]
             ]
         }
     }

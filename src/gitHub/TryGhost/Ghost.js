@@ -7,7 +7,7 @@
         notes: [],
         platform: 'GitHub',
         tests: [
-            'https://ghost.org/'
+            'https://blog.ghost.org/'
         ],
         type: 'repository'
     },

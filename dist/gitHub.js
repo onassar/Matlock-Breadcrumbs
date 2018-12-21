@@ -2887,7 +2887,7 @@
         patterns: {
             page: [
                 [
-                    /<meta[^>]+content\="Hexos /i
+                    /<meta[^>]+content\="Hexo /i
                 ]
             ]
         }
@@ -2895,7 +2895,7 @@
     versions: {
         patterns: {
             page: [
-                /<meta[^>]+content\="Hexos ([^"]+)/i
+                /<meta[^>]+content\="Hexo ([^"]+)/i
             ]
         }
     }

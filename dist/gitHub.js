@@ -5780,8 +5780,7 @@
     tests: {
         statements: [
             [
-                'window.jQuery(\'html\').typeahead',
-                '!window.Typeahead'
+                'window.jQuery(\'html\').typeahead && !window.Typeahead'
             ]
         ]
     }

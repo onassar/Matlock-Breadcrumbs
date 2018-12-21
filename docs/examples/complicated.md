@@ -39,7 +39,12 @@
             ['b', 'c'],
             ['d', '!e', 'f']
         ],
-        statements: [],
+        statements: [
+            [
+                'jQuery.fun()',
+                'jQuery.boring()'
+            ]
+        ],
         strings: {
             cookies: [],
             headers: [],

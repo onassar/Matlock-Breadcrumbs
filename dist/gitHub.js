@@ -1606,6 +1606,11 @@
         type: 'repository'
     },
     tests: {
+        references: [
+            [
+                'window.ngFileUpload'
+            ]
+        ],
         statements: [
             [
                 'window.angular.module(\'ngFileUpload\')'
@@ -1613,7 +1618,10 @@
         ]
     },
     versions: {
-        sttements: [
+        references: [
+            'window.ngFileUpload.version'
+        ],
+        statements: [
             'window.angular.module(\'ngFileUpload\').version'
         ]
     }

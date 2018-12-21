@@ -13,6 +13,26 @@
     }
 }
 ,
+// src/gitHub/Appboy/appboy-web-sdk.js
+{
+    properties: {
+        link: 'https://github.com/Appboy/appboy-web-sdk',
+        notes: [],
+        platform: 'GitHub',
+        tests: [
+            'https://www.mynbc5.com/article/trump-says-gen-mattis-to-retire-as-defense-secretary-in-early-2019/25647058'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.appboy'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/CSSLint/csslint.js
 {
     properties: {
@@ -2455,6 +2475,26 @@
                 ['g-recaptcha']
             ]
         }
+    }
+}
+,
+// src/gitHub/googleads/videojs-ima.js
+{
+    properties: {
+        link: 'https://github.com/googleads/videojs-ima',
+        notes: [],
+        platform: 'GitHub',
+        tests: [
+            'https://www.mynbc5.com/article/trump-says-gen-mattis-to-retire-as-defense-secretary-in-early-2019/25647058'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        statements: [
+            [
+                'window.videojs(document.createElement(\'div\')).ima'
+            ]
+        ]
     }
 }
 ,
@@ -4901,7 +4941,9 @@
     },
     tests: {
         statements: [
-            ['window.jQuery(\'html\').typeahead']
+            [
+                'window.jQuery(\'html\').typeahead'
+            ]
         ]
     }
 }

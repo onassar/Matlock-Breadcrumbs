@@ -6,7 +6,9 @@
     },
     tests: {
         references: [
-            ['window.MooTools']
+            [
+                'window.MooTools'
+            ]
         ]
     },
     versions: {

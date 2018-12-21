@@ -6,8 +6,12 @@
     },
     tests: {
         references: [
-            ['window.hcSticky',],
-            ['window.jQuery.fn.hcSticky']
+            [
+                'window.hcSticky'
+            ],
+            [
+                'window.jQuery.fn.hcSticky'
+            ]
         ]
     }
 }

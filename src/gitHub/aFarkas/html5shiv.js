@@ -18,7 +18,9 @@
             ]
         },
         references: [
-            ['window.html5']
+            [
+                'window.html5'
+            ]
         ]
     },
     versions: {

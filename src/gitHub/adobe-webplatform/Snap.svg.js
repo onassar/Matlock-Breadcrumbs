@@ -6,7 +6,9 @@
     },
     tests: {
         references: [
-            ['window.Snap']
+            [
+                'window.Snap'
+            ]
         ]
     },
     versions: {

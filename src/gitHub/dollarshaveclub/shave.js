@@ -14,8 +14,12 @@
     },
     tests: {
         references: [
-            ['window.jQuery.fn.shave'],
-            ['window.shave']
+            [
+                'window.jQuery.fn.shave'
+            ],
+            [
+                'window.shave'
+            ]
         ]
     }
 }

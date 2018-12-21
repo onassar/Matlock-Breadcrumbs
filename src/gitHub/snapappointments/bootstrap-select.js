@@ -13,7 +13,9 @@
     },
     tests: {
         references: [
-            ['window.jQuery.fn.selectpicker']
+            [
+                'window.jQuery.fn.selectpicker'
+            ]
         ]
     }
 }

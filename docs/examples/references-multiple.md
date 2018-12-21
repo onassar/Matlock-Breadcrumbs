@@ -7,8 +7,12 @@
     },
     tests: {
         references: [
-            ['window.var1'],
-            ['window.var2']
+            [
+                'window.var1'
+            ],
+            [
+                'window.var2'
+            ]
         ]
     }
 }

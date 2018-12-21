@@ -6,7 +6,9 @@
     },
     tests: {
         references: [
-            ['window.L.mapbox']
+            [
+                'window.L.mapbox'
+            ]
         ]
     },
     versions: {

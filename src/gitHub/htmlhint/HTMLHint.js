@@ -10,7 +10,9 @@
     },
     tests: {
         references: [
-            ['window.HTMLHint']
+            [
+                'window.HTMLHint'
+            ]
         ]
     },
     versions: {

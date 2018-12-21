@@ -9,7 +9,9 @@
     },
     tests: {
         references: [
-            ['window.jQuery.reject']
+            [
+                'window.jQuery.reject'
+            ]
         ]
     }
 }

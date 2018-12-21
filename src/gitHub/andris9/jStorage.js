@@ -6,7 +6,9 @@
     },
     tests: {
         references: [
-            ['window.jQuery.jStorage']
+            [
+                'window.jQuery.jStorage'
+            ]
         ]
     },
     versions: {

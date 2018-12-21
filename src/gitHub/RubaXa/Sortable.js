@@ -6,7 +6,9 @@
     },
     tests: {
         references: [
-            ['window.Sortable']
+            [
+                'window.Sortable'
+            ]
         ]
     },
     versions: {

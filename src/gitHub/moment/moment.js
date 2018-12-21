@@ -6,7 +6,9 @@
     },
     tests: {
         references: [
-            ['window.moment']
+            [
+                'window.moment'
+            ]
         ]
     },
     versions: {

@@ -6,7 +6,9 @@
     },
     tests: {
         references: [
-            ['window.__mobxGlobal']
+            [
+                'window.__mobxGlobal'
+            ]
         ]
     }
 }

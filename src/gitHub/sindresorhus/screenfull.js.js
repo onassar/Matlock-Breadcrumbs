@@ -10,7 +10,9 @@
     },
     tests: {
         references: [
-            ['window.screenfull']
+            [
+                'window.screenfull'
+            ]
         ]
     }
 }

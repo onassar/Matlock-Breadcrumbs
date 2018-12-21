@@ -10,8 +10,12 @@
     },
     tests: {
         references: [
-            ['window.jQuery.fn.velocity'],
-            ['window.jQuery.Velocity']
+            [
+                'window.jQuery.fn.velocity'
+            ],
+            [
+                'window.jQuery.Velocity'
+            ]
         ]
     },
     versions: {

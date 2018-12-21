@@ -10,7 +10,9 @@
     },
     tests: {
         references: [
-            ['window.toastr']
+            [
+                'window.toastr'
+            ]
         ]
     },
     versions: {

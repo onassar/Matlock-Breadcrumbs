@@ -10,7 +10,9 @@
     },
     tests: {
         references: [
-            ['window.skrollr']
+            [
+                'window.skrollr'
+            ]
         ]
     },
     versions: {

@@ -6,8 +6,12 @@
     },
     tests: {
         references: [
-            ['window.Raven'],
-            ['window.Sentry']
+            [
+                'window.Raven'
+            ],
+            [
+                'window.Sentry'
+            ]
         ]
     },
     versions: {

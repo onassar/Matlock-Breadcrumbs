@@ -11,8 +11,12 @@
     },
     tests: {
         references: [
-            ['window.Marionette'],
-            ['window.Backbone.Marionette']
+            [
+                'window.Marionette'
+            ],
+            [
+                'window.Backbone.Marionette'
+            ]
         ]
     },
     versions: {

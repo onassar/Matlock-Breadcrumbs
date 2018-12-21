@@ -12,7 +12,9 @@
     },
     tests: {
         references: [
-            ['window.vttjs']
+            [
+                'window.vttjs'
+            ]
         ]
     }
 }

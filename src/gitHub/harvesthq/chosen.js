@@ -6,7 +6,9 @@
     },
     tests: {
         references: [
-            ['window.jQuery.fn.chosen']
+            [
+                'window.jQuery.fn.chosen'
+            ]
         ]
     }
 }

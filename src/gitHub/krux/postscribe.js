@@ -6,7 +6,9 @@
     },
     tests: {
         references: [
-            ['window.postscribe']
+            [
+                'window.postscribe'
+            ]
         ]
     }
 }

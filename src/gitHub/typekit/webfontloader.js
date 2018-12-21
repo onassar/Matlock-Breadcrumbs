@@ -6,7 +6,9 @@
     },
     tests: {
         references: [
-            ['window.WebFont']
+            [
+                'window.WebFont'
+            ]
         ]
     }
 }

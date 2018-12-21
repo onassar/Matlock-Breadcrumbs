@@ -6,7 +6,9 @@
     },
     tests: {
         statements: [
-            ['window.jQuery(\'html\').owlCarousel']
+            [
+                'window.jQuery(\'html\').owlCarousel'
+            ]
         ]
     }
 }

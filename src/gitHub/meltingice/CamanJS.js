@@ -6,7 +6,9 @@
     },
     tests: {
         references: [
-            ['window.Caman']
+            [
+                'window.Caman'
+            ]
         ]
     },
     versions: {

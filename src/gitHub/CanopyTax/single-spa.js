@@ -9,7 +9,9 @@
     },
     tests: {
         references: [
-            ['window.singleSpaNavigate']
+            [
+                'window.singleSpaNavigate'
+            ]
         ]
     }
 }

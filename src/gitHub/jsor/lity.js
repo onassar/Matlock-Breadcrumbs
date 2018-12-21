@@ -10,7 +10,9 @@
     },
     tests: {
         references: [
-            ['window.lity']
+            [
+                'window.lity'
+            ]
         ]
     },
     versions: {

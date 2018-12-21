@@ -10,7 +10,9 @@
     },
     tests: {
         references: [
-            ['window.CSSLint']
+            [
+                'window.CSSLint'
+            ]
         ]
     },
     versions: {

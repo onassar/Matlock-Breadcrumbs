@@ -9,7 +9,9 @@
     },
     tests: {
         references: [
-            ['window.Hyphenator']
+            [
+                'window.Hyphenator'
+            ]
         ]
     },
     versions: {

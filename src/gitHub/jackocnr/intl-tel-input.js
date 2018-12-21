@@ -9,7 +9,9 @@
     },
     tests: {
         references: [
-            ['window.jQuery.fn.intlTelInput']
+            [
+                'window.jQuery.fn.intlTelInput'
+            ]
         ]
     },
     versions: {

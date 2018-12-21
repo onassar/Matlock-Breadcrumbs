@@ -6,7 +6,9 @@
     },
     tests: {
         references: [
-            ['window.picturefill']
+            [
+                'window.picturefill'
+            ]
         ]
     }
 }

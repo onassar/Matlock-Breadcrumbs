@@ -10,7 +10,9 @@
     },
     tests: {
         references: [
-            ['window.Hammer']
+            [
+                'window.Hammer'
+            ]
         ]
     },
     versions: {

@@ -6,7 +6,9 @@
     },
     tests: {
         references: [
-            ['window.jQuery.featherlight']
+            [
+                'window.jQuery.featherlight'
+            ]
         ]
     }
 }

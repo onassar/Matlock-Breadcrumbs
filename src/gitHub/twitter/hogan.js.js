@@ -12,7 +12,9 @@
     },
     tests: {
         references: [
-            ['window.Hogan']
+            [
+                'window.Hogan'
+            ]
         ]
     },
     versions: {

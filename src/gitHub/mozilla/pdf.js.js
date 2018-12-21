@@ -9,8 +9,12 @@
     },
     tests: {
         references: [
-            ['window.pdfjsLib'],
-            ['window.PDFJS']
+            [
+                'window.pdfjsLib'
+            ],
+            [
+                'window.PDFJS'
+            ]
         ]
     },
     versions: {

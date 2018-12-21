@@ -6,7 +6,9 @@
     },
     tests: {
         references: [
-            ['window.moment.duration.fromIsoduration']
+            [
+                'window.moment.duration.fromIsoduration'
+            ]
         ]
     }
 }

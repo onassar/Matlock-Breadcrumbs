@@ -10,7 +10,9 @@
     },
     tests: {
         references: [
-            ['window.jQuery.fn.matchHeight']
+            [
+                'window.jQuery.fn.matchHeight'
+            ]
         ]
     },
     versions: {

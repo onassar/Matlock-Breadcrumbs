@@ -6,7 +6,9 @@
     },
     tests: {
         references: [
-            ['window.FontFaceObserver']
+            [
+                'window.FontFaceObserver'
+            ]
         ]
     }
 }

@@ -12,7 +12,9 @@
             ]
         ],
         statements: [
-            ['window.jQuery(\'body\').bigtext']
+            [
+                'window.jQuery(\'body\').bigtext'
+            ]
         ]
     }
 }

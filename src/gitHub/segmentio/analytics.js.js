@@ -6,7 +6,9 @@
     },
     tests: {
         references: [
-            ['window.analytics.Integrations']
+            [
+                'window.analytics.Integrations'
+            ]
         ]
     },
     versions: {

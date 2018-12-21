@@ -13,7 +13,9 @@
             ]
         },
         references: [
-            ['window.Meteor']
+            [
+                'window.Meteor'
+            ]
         ]
     },
     versions: {

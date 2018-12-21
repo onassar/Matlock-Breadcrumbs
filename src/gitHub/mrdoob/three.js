@@ -6,7 +6,9 @@
     },
     tests: {
         references: [
-            ['window.THREE']
+            [
+                'window.THREE'
+            ]
         ]
     },
     versions: {

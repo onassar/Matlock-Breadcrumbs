@@ -6,7 +6,9 @@
     },
     tests: {
         references: [
-            ['window.twemoji.parse']
+            [
+                'window.twemoji.parse'
+            ]
         ]
     }
 }

@@ -6,7 +6,9 @@
     },
     tests: {
         references: [
-            ['window.jQuery.fn.jScrollPane']
+            [
+                'window.jQuery.fn.jScrollPane'
+            ]
         ]
     }
 }

@@ -10,7 +10,9 @@
     },
     tests: {
         references: [
-            ['window.jQuery.jCarousel']
+            [
+                'window.jQuery.jCarousel'
+            ]
         ]
     },
     versions: {

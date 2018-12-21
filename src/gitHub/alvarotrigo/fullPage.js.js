@@ -6,8 +6,12 @@
     },
     tests: {
         references: [
-            ['window.fullpage'],
-            ['window.jQuery.fn.fullpage']
+            [
+                'window.fullpage'
+            ],
+            [
+                'window.jQuery.fn.fullpage'
+            ]
         ]
     }
 }

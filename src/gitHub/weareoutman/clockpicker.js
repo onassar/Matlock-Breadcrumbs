@@ -10,7 +10,9 @@
     },
     tests: {
         references: [
-            ['window.jQuery.fn.clockpicker']
+            [
+                'window.jQuery.fn.clockpicker'
+            ]
         ]
     }
 }

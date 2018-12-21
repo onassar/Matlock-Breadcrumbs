@@ -6,7 +6,9 @@
     },
     tests: {
         references: [
-            ['window.chroma']
+            [
+                'window.chroma'
+            ]
         ]
     },
     versions: {

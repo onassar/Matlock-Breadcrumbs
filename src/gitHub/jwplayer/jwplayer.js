@@ -6,7 +6,9 @@
     },
     tests: {
         references: [
-            ['window.jwplayer']
+            [
+                'window.jwplayer'
+            ]
         ]
     },
     versions: {

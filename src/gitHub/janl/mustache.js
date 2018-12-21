@@ -6,7 +6,9 @@
     },
     tests: {
         references: [
-            ['window.Mustache']
+            [
+                'window.Mustache'
+            ]
         ]
     },
     versions: {

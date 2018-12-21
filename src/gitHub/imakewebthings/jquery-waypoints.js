@@ -9,7 +9,9 @@
     },
     tests: {
         references: [
-            ['window.dead.dead.dead']
+            [
+                'window.dead.dead.dead'
+            ]
         ]
     }
 }

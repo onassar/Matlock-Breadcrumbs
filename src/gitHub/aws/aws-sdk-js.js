@@ -6,7 +6,9 @@
     },
     tests: {
         references: [
-            ['window.AWS']
+            [
+                'window.AWS'
+            ]
         ]
     },
     versions: {

@@ -6,7 +6,9 @@
     },
     tests: {
         references: [
-            ['window.jQuery.fancybox']
+            [
+                'window.jQuery.fancybox'
+            ]
         ]
     },
     versions: {

@@ -6,7 +6,9 @@
     },
     tests: {
         statements: [
-            ['window.jQuery(\'body\').datetimepicker']
+            [
+                'window.jQuery(\'body\').datetimepicker'
+            ]
         ]
     }
 }

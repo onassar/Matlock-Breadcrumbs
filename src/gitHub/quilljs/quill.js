@@ -6,7 +6,9 @@
     },
     tests: {
         references: [
-            ['window.Quill']
+            [
+                'window.Quill'
+            ]
         ]
     },
     versions: {

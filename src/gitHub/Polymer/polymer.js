@@ -6,7 +6,9 @@
     },
     tests: {
         references: [
-            ['window.Polymer']
+            [
+                'window.Polymer'
+            ]
         ]
     },
     versions: {

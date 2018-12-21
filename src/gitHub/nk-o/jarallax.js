@@ -6,7 +6,9 @@
     },
     tests: {
         references: [
-            ['window.jarallax']
+            [
+                'window.jarallax'
+            ]
         ]
     }
 }

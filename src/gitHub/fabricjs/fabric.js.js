@@ -6,7 +6,9 @@
     },
     tests: {
         references: [
-            ['window.fabric']
+            [
+                'window.fabric'
+            ]
         ]
     },
     versions: {

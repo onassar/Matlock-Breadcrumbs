@@ -6,8 +6,12 @@
     },
     tests: {
         references: [
-            ['window.jQuery.magnificPopup'],
-            ['window.Zepto.fn.magnificPopup']
+            [
+                'window.jQuery.magnificPopup'
+            ],
+            [
+                'window.Zepto.fn.magnificPopup'
+            ]
         ]
     }
 }

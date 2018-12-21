@@ -6,7 +6,9 @@
     },
     tests: {
         references: [
-            ['window.Vivus']
+            [
+                'window.Vivus'
+            ]
         ]
     }
 }

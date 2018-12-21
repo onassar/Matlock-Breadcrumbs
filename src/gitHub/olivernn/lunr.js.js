@@ -9,7 +9,9 @@
     },
     tests: {
         references: [
-            ['window.lunr']
+            [
+                'window.lunr'
+            ]
         ]
     },
     versions: {

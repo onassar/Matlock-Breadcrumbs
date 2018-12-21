@@ -6,7 +6,9 @@
     },
     tests: {
         references: [
-            ['window.recaptcha']
+            [
+                'window.recaptcha'
+            ]
         ],
         strings: {
             page: [

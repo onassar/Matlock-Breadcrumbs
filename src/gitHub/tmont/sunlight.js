@@ -10,7 +10,9 @@
     },
     tests: {
         references: [
-            ['window.Sunlight']
+            [
+                'window.Sunlight'
+            ]
         ]
     },
     versions: {

@@ -9,7 +9,9 @@
     },
     tests: {
         references: [
-            ['window.UAParser']
+            [
+                'window.UAParser'
+            ]
         ]
     },
     versions: {

@@ -16,7 +16,9 @@
             ]
         },
         references: [
-            ['window.React']
+            [
+                'window.React'
+            ]
         ]
     },
     versions: {

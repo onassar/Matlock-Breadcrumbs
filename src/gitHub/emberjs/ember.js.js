@@ -9,7 +9,9 @@
     },
     tests: {
         references: [
-            ['window.Ember']
+            [
+                'window.Ember'
+            ]
         ]
     },
     versions: {

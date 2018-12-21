@@ -6,7 +6,9 @@
     },
     tests: {
         references: [
-            ['window.particlesJS']
+            [
+                'window.particlesJS'
+            ]
         ]
     }
 }

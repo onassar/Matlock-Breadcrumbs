@@ -6,7 +6,9 @@
     },
     tests: {
         references: [
-            ['window.head.js']
+            [
+                'window.head.js'
+            ]
         ]
     }
 }

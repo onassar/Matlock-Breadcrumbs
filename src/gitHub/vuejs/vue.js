@@ -15,8 +15,12 @@
             ]
         },
         references: [
-            ['window.Vue'],
-            ['window.__VUE_HOT_MAP__']
+            [
+                'window.Vue'
+            ],
+            [
+                'window.__VUE_HOT_MAP__'
+            ]
         ]
     },
     versions: {

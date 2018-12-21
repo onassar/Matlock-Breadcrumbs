@@ -9,7 +9,9 @@
     },
     tests: {
         references: [
-            ['window.Modernizr']
+            [
+                'window.Modernizr'
+            ]
         ]
     },
     versions: {

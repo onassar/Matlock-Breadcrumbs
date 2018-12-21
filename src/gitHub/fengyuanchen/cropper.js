@@ -6,7 +6,9 @@
     },
     tests: {
         references: [
-            ['window.jQuery.fn.cropper']
+            [
+                'window.jQuery.fn.cropper'
+            ]
         ]
     }
 }

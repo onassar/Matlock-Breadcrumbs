@@ -14,7 +14,9 @@
     },
     tests: {
         references: [
-            ['window.FullCalendar']
+            [
+                'window.FullCalendar'
+            ]
         ]
     },
     versions: {

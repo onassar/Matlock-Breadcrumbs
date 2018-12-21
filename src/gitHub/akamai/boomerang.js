@@ -9,7 +9,9 @@
     },
     tests: {
         references: [
-            ['window.BOOMR']
+            [
+                'window.BOOMR'
+            ]
         ]
     },
     versions: {

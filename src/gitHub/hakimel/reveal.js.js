@@ -6,7 +6,9 @@
     },
     tests: {
         references: [
-            ['window.Reveal']
+            [
+                'window.Reveal'
+            ]
         ]
     },
     versions: {

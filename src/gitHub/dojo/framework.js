@@ -6,7 +6,9 @@
     },
     tests: {
         references: [
-            ['window.dojo']
+            [
+                'window.dojo'
+            ]
         ]
     },
     versions: {

@@ -6,7 +6,9 @@
     },
     tests: {
         references: [
-            ['window.jQuery.fn.counterUp']
+            [
+                'window.jQuery.fn.counterUp'
+            ]
         ]
     }
 }

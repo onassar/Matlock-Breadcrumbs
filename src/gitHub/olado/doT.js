@@ -10,7 +10,9 @@
     },
     tests: {
         references: [
-            ['window.doT']
+            [
+                'window.doT'
+            ]
         ]
     },
     versions: {

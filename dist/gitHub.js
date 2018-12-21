@@ -8,7 +8,9 @@
     },
     tests: {
         references: [
-            ['window.AlloyFinger']
+            [
+                'window.AlloyFinger'
+            ]
         ]
     }
 }
@@ -46,7 +48,9 @@
     },
     tests: {
         references: [
-            ['window.CSSLint']
+            [
+                'window.CSSLint'
+            ]
         ]
     },
     versions: {
@@ -68,7 +72,9 @@
     },
     tests: {
         references: [
-            ['window.singleSpaNavigate']
+            [
+                'window.singleSpaNavigate'
+            ]
         ]
     }
 }
@@ -86,7 +92,9 @@
     },
     tests: {
         references: [
-            ['window.toastr']
+            [
+                'window.toastr'
+            ]
         ]
     },
     versions: {
@@ -154,7 +162,9 @@
     },
     tests: {
         statements: [
-            ['window.jQuery(\'body\').datetimepicker']
+            [
+                'window.jQuery(\'body\').datetimepicker'
+            ]
         ]
     }
 }
@@ -168,7 +178,9 @@
     },
     tests: {
         references: [
-            ['window.Popper']
+            [
+                'window.Popper'
+            ]
         ]
     }
 }
@@ -338,7 +350,9 @@
     },
     tests: {
         references: [
-            ['window.Modernizr']
+            [
+                'window.Modernizr'
+            ]
         ]
     },
     versions: {
@@ -357,7 +371,9 @@
     },
     tests: {
         statements: [
-            ['window.jQuery(\'html\').owlCarousel']
+            [
+                'window.jQuery(\'html\').owlCarousel'
+            ]
         ]
     }
 }
@@ -371,7 +387,9 @@
     },
     tests: {
         references: [
-            ['window.Polymer']
+            [
+                'window.Polymer'
+            ]
         ]
     },
     versions: {
@@ -394,7 +412,9 @@
     },
     tests: {
         references: [
-            ['window.skrollr']
+            [
+                'window.skrollr'
+            ]
         ]
     },
     versions: {
@@ -413,7 +433,9 @@
     },
     tests: {
         references: [
-            ['window.Sortable']
+            [
+                'window.Sortable'
+            ]
         ]
     },
     versions: {
@@ -436,7 +458,9 @@
     },
     tests: {
         references: [
-            ['window.jQuery.signalR']
+            [
+                'window.jQuery.signalR'
+            ]
         ]
     },
     versions: {
@@ -521,7 +545,9 @@
     },
     tests: {
         references: [
-            ['window.jQuery.reject']
+            [
+                'window.jQuery.reject'
+            ]
         ]
     }
 }
@@ -560,7 +586,9 @@
     },
     tests: {
         references: [
-            ['window.particlesJS']
+            [
+                'window.particlesJS'
+            ]
         ]
     }
 }
@@ -618,7 +646,9 @@
             ]
         },
         references: [
-            ['window.html5']
+            [
+                'window.html5'
+            ]
         ]
     },
     versions: {
@@ -642,7 +672,9 @@
     },
     tests: {
         references: [
-            ['window.Snap']
+            [
+                'window.Snap'
+            ]
         ]
     },
     versions: {
@@ -735,7 +767,9 @@
     },
     tests: {
         references: [
-            ['window.BOOMR']
+            [
+                'window.BOOMR'
+            ]
         ]
     },
     versions: {
@@ -834,8 +868,12 @@
     },
     tests: {
         references: [
-            ['window.fullpage'],
-            ['window.jQuery.fn.fullpage']
+            [
+                'window.fullpage'
+            ],
+            [
+                'window.jQuery.fn.fullpage'
+            ]
         ]
     }
 }
@@ -874,7 +912,9 @@
     },
     tests: {
         references: [
-            ['window.jQuery.jStorage']
+            [
+                'window.jQuery.jStorage'
+            ]
         ]
     },
     versions: {
@@ -1098,7 +1138,9 @@
     },
     tests: {
         references: [
-            ['window.AWS']
+            [
+                'window.AWS'
+            ]
         ]
     },
     versions: {
@@ -1223,7 +1265,9 @@
     },
     tests: {
         references: [
-            ['window.jQuery.fn.counterUp']
+            [
+                'window.jQuery.fn.counterUp'
+            ]
         ]
     }
 }
@@ -1253,7 +1297,9 @@
     },
     tests: {
         references: [
-            ['window.FontFaceObserver']
+            [
+                'window.FontFaceObserver'
+            ]
         ]
     }
 }
@@ -1782,7 +1828,9 @@
     },
     tests: {
         statements: [
-            ['window.jQuery(\'html\').imagesLoaded']
+            [
+                'window.jQuery(\'html\').imagesLoaded'
+            ]
         ]
     }
 }
@@ -1796,8 +1844,12 @@
     },
     tests: {
         references: [
-            ['window.jQuery.magnificPopup'],
-            ['window.Zepto.fn.magnificPopup']
+            [
+                'window.jQuery.magnificPopup'
+            ],
+            [
+                'window.Zepto.fn.magnificPopup'
+            ]
         ]
     }
 }
@@ -1811,7 +1863,9 @@
     },
     tests: {
         references: [
-            ['window.Blazy']
+            [
+                'window.Blazy'
+            ]
         ]
     }
 }
@@ -1867,7 +1921,9 @@
     },
     tests: {
         references: [
-            ['window.dojo']
+            [
+                'window.dojo'
+            ]
         ]
     },
     versions: {
@@ -1894,8 +1950,12 @@
     },
     tests: {
         references: [
-            ['window.jQuery.fn.shave'],
-            ['window.shave']
+            [
+                'window.jQuery.fn.shave'
+            ],
+            [
+                'window.shave'
+            ]
         ]
     }
 }
@@ -1909,7 +1969,9 @@
     },
     tests: {
         references: [
-            ['window.moment.duration.fromIsoduration']
+            [
+                'window.moment.duration.fromIsoduration'
+            ]
         ]
     }
 }
@@ -1999,8 +2061,12 @@
     },
     tests: {
         statements: [
-            ['window.saveAs.toString().match(/blob, name/i)'],
-            ['window.saveAs.toString().match(/e,t,n/i)']
+            [
+                'window.saveAs.toString().match(/blob, name/i)'
+            ],
+            [
+                'window.saveAs.toString().match(/e,t,n/i)'
+            ]
         ]
     }
 }
@@ -2072,7 +2138,9 @@
     },
     tests: {
         references: [
-            ['window.Ember']
+            [
+                'window.Ember'
+            ]
         ]
     },
     versions: {
@@ -2156,7 +2224,9 @@
     },
     tests: {
         references: [
-            ['window.fabric']
+            [
+                'window.fabric'
+            ]
         ]
     },
     versions: {
@@ -2235,7 +2305,9 @@
             ]
         },
         references: [
-            ['window.React']
+            [
+                'window.React'
+            ]
         ]
     },
     versions: {
@@ -2257,7 +2329,9 @@
     },
     tests: {
         references: [
-            ['window.UAParser']
+            [
+                'window.UAParser'
+            ]
         ]
     },
     versions: {
@@ -2276,7 +2350,9 @@
     },
     tests: {
         references: [
-            ['window.jQuery.fancybox']
+            [
+                'window.jQuery.fancybox'
+            ]
         ]
     },
     versions: {
@@ -2295,7 +2371,9 @@
     },
     tests: {
         references: [
-            ['window.jQuery.fn.cropper']
+            [
+                'window.jQuery.fn.cropper'
+            ]
         ]
     }
 }
@@ -2502,7 +2580,9 @@
     },
     tests: {
         references: [
-            ['window.FastClick']
+            [
+                'window.FastClick'
+            ]
         ]
     }
 }
@@ -2524,7 +2604,9 @@
     },
     tests: {
         references: [
-            ['window.FullCalendar']
+            [
+                'window.FullCalendar'
+            ]
         ]
     },
     versions: {
@@ -2566,8 +2648,12 @@
     },
     tests: {
         references: [
-            ['window.Raven'],
-            ['window.Sentry']
+            [
+                'window.Raven'
+            ],
+            [
+                'window.Sentry'
+            ]
         ]
     },
     versions: {
@@ -2613,7 +2699,9 @@
     },
     tests: {
         references: [
-            ['window.chroma']
+            [
+                'window.chroma'
+            ]
         ]
     },
     versions: {
@@ -2660,7 +2748,9 @@
     },
     tests: {
         references: [
-            ['window.Howler']
+            [
+                'window.Howler'
+            ]
         ]
     }
 }
@@ -2674,7 +2764,9 @@
     },
     tests: {
         references: [
-            ['window.prettyPrint']
+            [
+                'window.prettyPrint'
+            ]
         ]
     }
 }
@@ -2711,7 +2803,9 @@
     },
     tests: {
         references: [
-            ['window.recaptcha']
+            [
+                'window.recaptcha'
+            ]
         ],
         strings: {
             page: [
@@ -2793,7 +2887,9 @@
     },
     tests: {
         references: [
-            ['window.Reveal']
+            [
+                'window.Reveal'
+            ]
         ]
     },
     versions: {
@@ -2816,7 +2912,9 @@
     },
     tests: {
         references: [
-            ['window.Hammer']
+            [
+                'window.Hammer'
+            ]
         ]
     },
     versions: {
@@ -2835,7 +2933,9 @@
     },
     tests: {
         references: [
-            ['window.jQuery.fn.chosen']
+            [
+                'window.jQuery.fn.chosen'
+            ]
         ]
     }
 }
@@ -2849,7 +2949,9 @@
     },
     tests: {
         references: [
-            ['window.head.js']
+            [
+                'window.head.js'
+            ]
         ]
     }
 }
@@ -2948,7 +3050,9 @@
     },
     tests: {
         references: [
-            ['window.hljs']
+            [
+                'window.hljs'
+            ]
         ]
     }
 }
@@ -3011,7 +3115,9 @@
     },
     tests: {
         references: [
-            ['window.HTMLHint']
+            [
+                'window.HTMLHint'
+            ]
         ]
     },
     versions: {
@@ -3030,7 +3136,9 @@
     },
     tests: {
         references: [
-            ['window.EmojiConvertor']
+            [
+                'window.EmojiConvertor'
+            ]
         ]
     }
 }
@@ -3065,7 +3173,9 @@
     },
     tests: {
         references: [
-            ['window.dead.dead.dead']
+            [
+                'window.dead.dead.dead'
+            ]
         ]
     }
 }
@@ -3079,7 +3189,9 @@
     },
     tests: {
         references: [
-            ['window.Waypoint']
+            [
+                'window.Waypoint'
+            ]
         ]
     }
 }
@@ -3093,7 +3205,9 @@
     },
     tests: {
         references: [
-            ['window.impress']
+            [
+                'window.impress'
+            ]
         ]
     }
 }
@@ -3158,7 +3272,9 @@
     },
     tests: {
         references: [
-            ['window.jQuery.fn.intlTelInput']
+            [
+                'window.jQuery.fn.intlTelInput'
+            ]
         ]
     },
     versions: {
@@ -3177,7 +3293,9 @@
     },
     tests: {
         references: [
-            ['window.Mustache']
+            [
+                'window.Mustache'
+            ]
         ]
     },
     versions: {
@@ -3199,7 +3317,9 @@
     },
     tests: {
         references: [
-            ['window.Backbone']
+            [
+                'window.Backbone'
+            ]
         ]
     },
     versions: {
@@ -3317,7 +3437,9 @@
     },
     tests: {
         references: [
-            ['window.jQuery.ui']
+            [
+                'window.jQuery.ui'
+            ]
         ]
     },
     versions: {
@@ -3398,7 +3520,9 @@
     },
     tests: {
         references: [
-            ['window.requirejs']
+            [
+                'window.requirejs'
+            ]
         ]
     },
     versions: {
@@ -3460,7 +3584,9 @@
     },
     tests: {
         references: [
-            ['window.jQuery.jCarousel']
+            [
+                'window.jQuery.jCarousel'
+            ]
         ]
     },
     versions: {
@@ -3483,7 +3609,9 @@
     },
     tests: {
         references: [
-            ['window.lity']
+            [
+                'window.lity'
+            ]
         ]
     },
     versions: {
@@ -3506,8 +3634,12 @@
     },
     tests: {
         references: [
-            ['window.jQuery.fn.velocity'],
-            ['window.jQuery.Velocity']
+            [
+                'window.jQuery.fn.velocity'
+            ],
+            [
+                'window.jQuery.Velocity'
+            ]
         ]
     },
     versions: {
@@ -3527,7 +3659,9 @@
     },
     tests: {
         references: [
-            ['window.jwplayer']
+            [
+                'window.jwplayer'
+            ]
         ]
     },
     versions: {
@@ -3618,7 +3752,9 @@
     },
     tests: {
         references: [
-            ['window.postscribe']
+            [
+                'window.postscribe'
+            ]
         ]
     }
 }
@@ -3673,7 +3809,9 @@
     },
     tests: {
         references: [
-            ['window.noUiSlider']
+            [
+                'window.noUiSlider'
+            ]
         ]
     },
     versions: {
@@ -3696,7 +3834,9 @@
     },
     tests: {
         references: [
-            ['window.jQuery.fn.matchHeight']
+            [
+                'window.jQuery.fn.matchHeight'
+            ]
         ]
     },
     versions: {
@@ -3760,7 +3900,9 @@
     },
     tests: {
         references: [
-            ['window._.at']
+            [
+                'window._.at'
+            ]
         ]
     },
     versions: {
@@ -3938,7 +4080,9 @@
     },
     tests: {
         references: [
-            ['window.L.mapbox']
+            [
+                'window.L.mapbox'
+            ]
         ]
     },
     versions: {
@@ -3991,8 +4135,12 @@
     },
     tests: {
         references: [
-            ['window.Marionette'],
-            ['window.Backbone.Marionette']
+            [
+                'window.Marionette'
+            ],
+            [
+                'window.Backbone.Marionette'
+            ]
         ]
     },
     versions: {
@@ -4012,7 +4160,9 @@
     },
     tests: {
         references: [
-            ['window.marked']
+            [
+                'window.marked'
+            ]
         ]
     }
 }
@@ -4117,7 +4267,9 @@
     },
     tests: {
         references: [
-            ['window.Vivus']
+            [
+                'window.Vivus'
+            ]
         ]
     }
 }
@@ -4156,7 +4308,9 @@
     },
     tests: {
         references: [
-            ['window.Caman']
+            [
+                'window.Caman'
+            ]
         ]
     },
     versions: {
@@ -4182,7 +4336,9 @@
             ]
         },
         references: [
-            ['window.Meteor']
+            [
+                'window.Meteor'
+            ]
         ]
     },
     versions: {
@@ -4204,7 +4360,9 @@
     },
     tests: {
         references: [
-            ['window.Hyphenator']
+            [
+                'window.Hyphenator'
+            ]
         ]
     },
     versions: {
@@ -4223,7 +4381,9 @@
     },
     tests: {
         references: [
-            ['window.__mobxGlobal']
+            [
+                'window.__mobxGlobal'
+            ]
         ]
     }
 }
@@ -4288,7 +4448,9 @@
     },
     tests: {
         references: [
-            ['window.moment']
+            [
+                'window.moment'
+            ]
         ]
     },
     versions: {
@@ -4307,7 +4469,9 @@
     },
     tests: {
         references: [
-            ['window.MooTools']
+            [
+                'window.MooTools'
+            ]
         ]
     },
     versions: {
@@ -4329,8 +4493,12 @@
     },
     tests: {
         references: [
-            ['window.pdfjsLib'],
-            ['window.PDFJS']
+            [
+                'window.pdfjsLib'
+            ],
+            [
+                'window.PDFJS'
+            ]
         ]
     },
     versions: {
@@ -4356,7 +4524,9 @@
     },
     tests: {
         references: [
-            ['window.vttjs']
+            [
+                'window.vttjs'
+            ]
         ]
     }
 }
@@ -4370,7 +4540,9 @@
     },
     tests: {
         references: [
-            ['window.THREE']
+            [
+                'window.THREE'
+            ]
         ]
     },
     versions: {
@@ -4496,7 +4668,9 @@
     },
     tests: {
         references: [
-            ['window.jarallax']
+            [
+                'window.jarallax'
+            ]
         ]
     }
 }
@@ -4510,7 +4684,9 @@
     },
     tests: {
         references: [
-            ['window.jQuery.featherlight']
+            [
+                'window.jQuery.featherlight'
+            ]
         ]
     }
 }
@@ -4575,7 +4751,9 @@
     },
     tests: {
         references: [
-            ['window.doT']
+            [
+                'window.doT'
+            ]
         ]
     },
     versions: {
@@ -4597,7 +4775,9 @@
     },
     tests: {
         references: [
-            ['window.lunr']
+            [
+                'window.lunr'
+            ]
         ]
     },
     versions: {
@@ -4828,7 +5008,9 @@
     },
     tests: {
         references: [
-            ['window.Quill']
+            [
+                'window.Quill'
+            ]
         ]
     },
     versions: {
@@ -4847,7 +5029,9 @@
     },
     tests: {
         references: [
-            ['window.AlloyFinger']
+            [
+                'window.AlloyFinger'
+            ]
         ]
     }
 }
@@ -4980,7 +5164,9 @@
     },
     tests: {
         references: [
-            ['window.jQuery.fn.prettyPhoto']
+            [
+                'window.jQuery.fn.prettyPhoto'
+            ]
         ]
     }
 }
@@ -5036,7 +5222,9 @@
     },
     tests: {
         references: [
-            ['window.picturefill']
+            [
+                'window.picturefill'
+            ]
         ]
     }
 }
@@ -5050,7 +5238,9 @@
     },
     tests: {
         references: [
-            ['window.analytics.Integrations']
+            [
+                'window.analytics.Integrations'
+            ]
         ]
     },
     versions: {
@@ -5108,7 +5298,9 @@
     },
     tests: {
         references: [
-            ['window.screenfull']
+            [
+                'window.screenfull'
+            ]
         ]
     }
 }
@@ -5151,7 +5343,9 @@
     },
     tests: {
         references: [
-            ['window.jQuery.fn.selectpicker']
+            [
+                'window.jQuery.fn.selectpicker'
+            ]
         ]
     }
 }
@@ -5186,8 +5380,12 @@
     },
     tests: {
         references: [
-            ['window.hcSticky',],
-            ['window.jQuery.fn.hcSticky']
+            [
+                'window.hcSticky'
+            ],
+            [
+                'window.jQuery.fn.hcSticky'
+            ]
         ]
     }
 }
@@ -5347,7 +5545,9 @@
     },
     tests: {
         references: [
-            ['window.Sunlight']
+            [
+                'window.Sunlight'
+            ]
         ]
     },
     versions: {
@@ -5387,7 +5587,9 @@
     },
     tests: {
         references: [
-            ['window.Uppy']
+            [
+                'window.Uppy'
+            ]
         ]
     }
 }
@@ -5430,7 +5632,9 @@
     },
     tests: {
         references: [
-            ['window.Turbolinks']
+            [
+                'window.Turbolinks'
+            ]
         ]
     }
 }
@@ -5507,7 +5711,9 @@
     },
     tests: {
         references: [
-            ['window.Hogan']
+            [
+                'window.Hogan'
+            ]
         ]
     },
     versions: {
@@ -5528,7 +5734,9 @@
     },
     tests: {
         references: [
-            ['window.twemoji.parse']
+            [
+                'window.twemoji.parse'
+            ]
         ]
     }
 }
@@ -5565,7 +5773,9 @@
     },
     tests: {
         references: [
-            ['window.WebFont']
+            [
+                'window.WebFont'
+            ]
         ]
     }
 }
@@ -5647,7 +5857,9 @@
     },
     tests: {
         references: [
-            ['window.jQuery.fn.jScrollPane']
+            [
+                'window.jQuery.fn.jScrollPane'
+            ]
         ]
     }
 }
@@ -5697,8 +5909,12 @@
             ]
         },
         references: [
-            ['window.Vue'],
-            ['window.__VUE_HOT_MAP__']
+            [
+                'window.Vue'
+            ],
+            [
+                'window.__VUE_HOT_MAP__'
+            ]
         ]
     },
     versions: {
@@ -5721,7 +5937,9 @@
     },
     tests: {
         references: [
-            ['window.jQuery.fn.clockpicker']
+            [
+                'window.jQuery.fn.clockpicker'
+            ]
         ]
     }
 }
@@ -5953,7 +6171,9 @@
             ]
         ],
         statements: [
-            ['window.jQuery(\'body\').bigtext']
+            [
+                'window.jQuery(\'body\').bigtext'
+            ]
         ]
     }
 }
@@ -5971,7 +6191,9 @@
                 'window.next',
                 'window.next.router'
             ],
-            ['window.__NEXT_DATA__']
+            [
+                'window.__NEXT_DATA__'
+            ]
         ]
     }
 }

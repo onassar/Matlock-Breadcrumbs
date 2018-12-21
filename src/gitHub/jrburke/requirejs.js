@@ -6,7 +6,9 @@
     },
     tests: {
         references: [
-            ['window.requirejs']
+            [
+                'window.requirejs'
+            ]
         ]
     },
     versions: {

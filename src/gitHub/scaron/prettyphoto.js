@@ -6,7 +6,9 @@
     },
     tests: {
         references: [
-            ['window.jQuery.fn.prettyPhoto']
+            [
+                'window.jQuery.fn.prettyPhoto'
+            ]
         ]
     }
 }

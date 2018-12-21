@@ -9,7 +9,9 @@
     },
     tests: {
         references: [
-            ['window.jQuery.ui']
+            [
+                'window.jQuery.ui'
+            ]
         ]
     },
     versions: {

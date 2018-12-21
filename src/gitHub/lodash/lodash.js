@@ -6,7 +6,9 @@
     },
     tests: {
         references: [
-            ['window._.at']
+            [
+                'window._.at'
+            ]
         ]
     },
     versions: {

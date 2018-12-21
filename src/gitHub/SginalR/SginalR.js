@@ -10,7 +10,9 @@
     },
     tests: {
         references: [
-            ['window.jQuery.signalR']
+            [
+                'window.jQuery.signalR'
+            ]
         ]
     },
     versions: {

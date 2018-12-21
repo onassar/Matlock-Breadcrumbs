@@ -6,7 +6,9 @@
     },
     tests: {
         references: [
-            ['window.noUiSlider']
+            [
+                'window.noUiSlider'
+            ]
         ]
     },
     versions: {

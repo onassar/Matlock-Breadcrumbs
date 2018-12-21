@@ -6,7 +6,9 @@
     },
     tests: {
         references: [
-            ['window.Turbolinks']
+            [
+                'window.Turbolinks'
+            ]
         ]
     }
 }

@@ -6,7 +6,9 @@
     },
     tests: {
         statements: [
-            ['window.jQuery(\'html\').imagesLoaded']
+            [
+                'window.jQuery(\'html\').imagesLoaded'
+            ]
         ]
     }
 }

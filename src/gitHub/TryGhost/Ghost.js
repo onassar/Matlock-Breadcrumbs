@@ -25,5 +25,13 @@
                 ]
             ]
         }
+    },
+    versions: {
+        patterns: {
+            cookies: [
+                /<meta[^>]+name="generator"[^>]+content="Ghost ([^"]+)"/i,
+                /<meta[^>]+content="Ghost ([^"]+)"[^>]+name="generator"/i
+            ]
+        }
     }
 }

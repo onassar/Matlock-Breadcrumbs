@@ -1930,7 +1930,7 @@
     tests: {
         references: [
             [
-                'jQuery.fn.embedly'
+                'window.jQuery.fn.embedly'
             ]
         ]
     }
@@ -4587,6 +4587,34 @@
         patterns: {
             headers: [
                 /x\-powered\-by.+Phusion Passenger ([0-9\.]+)/i
+            ]
+        }
+    }
+}
+,
+// src/gitHub/pure-css/pure.js
+{
+    properties: {
+        link: 'https://github.com/pure-css/pure',
+        notes: [],
+        platform: 'GitHub',
+        tags: [
+            'css'
+        ],
+        tests: [
+            'https://stores.kotisdesign.com/gimlet'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        patterns: {
+            page: [
+                [
+                    /<div[^>]+class="[^"]*pure-u-(?:sm-|md-|lg-|xl-)?\d-\d/i
+                ],
+                [
+                    /class="[^"]*pure-g[^"]*"/i
+                ]
             ]
         }
     }

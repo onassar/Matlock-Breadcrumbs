@@ -15,7 +15,7 @@
     tests: {
         references: [
             [
-                'jQuery.fn.embedly'
+                'window.jQuery.fn.embedly'
             ]
         ]
     }

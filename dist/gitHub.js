@@ -362,6 +362,26 @@
     }
 }
 ,
+// src/gitHub/NYTimes/pourover.js
+{
+    properties: {
+        link: 'https://github.com/NYTimes/pourover',
+        notes: [],
+        platform: 'GitHub',
+        tests: [
+            'http://nytimes.github.io/pourover/'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.PourOver'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/OwlCarousel2/OwlCarousel2.js
 {
     properties: {
@@ -763,6 +783,9 @@
     properties: {
         link: 'https://github.com/ajaxorg/ace',
         platform: 'GitHub',
+        tests: [
+            'https://ace.c9.io/'
+        ],
         type: 'repository'
     },
     tests: {

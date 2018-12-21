@@ -1,6 +1,6 @@
 {
     properties: {
-        link: 'https://github.com/timdown/rangy',
+        link: 'https://github.com/jakiestfu/Medium.js',
         notes: [],
         platform: 'GitHub',
         tests: [
@@ -11,10 +11,13 @@
     tests: {
         references: [
             [
-                'window.Medium',
-                'window.Medium.Action',
-                'window.Medium.Cache'
+                'window.rangy'
             ]
+        ]
+    },
+    versions: {
+        references: [
+            'window.rangy.version'
         ]
     }
 }

@@ -3330,6 +3330,31 @@
     }
 }
 ,
+// src/gitHub/jakiestfu/Medium.js.js
+{
+    properties: {
+        link: 'https://github.com/jakiestfu/Medium.js',
+        notes: [],
+        platform: 'GitHub',
+        tests: [
+            'http://jakiestfu.github.io/Medium.js/docs/'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.rangy'
+            ]
+        ]
+    },
+    versions: {
+        references: [
+            'window.rangy.version'
+        ]
+    }
+}
+,
 // src/gitHub/janl/mustache.js
 {
     properties: {
@@ -5707,13 +5732,10 @@
     tests: {
         references: [
             [
-                'window.rangy'
+                'window.Medium',
+                'window.Medium.Action',
+                'window.Medium.Cache'
             ]
-        ]
-    },
-    versions: {
-        references: [
-            'window.rangy.version'
         ]
     }
 }

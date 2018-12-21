@@ -1,6 +1,6 @@
 {
     properties: {
-        link: 'https://github.com/moment-timezone',
+        link: 'https://github.com/moment/moment-timezone',
         platform: 'GitHub',
         tags: [
             'datetime'

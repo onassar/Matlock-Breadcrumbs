@@ -6,7 +6,9 @@
     },
     tests: {
         references: [
-            ['window.algoliasearch']
+            [
+                'window.algoliasearch'
+            ]
         ]
     },
     versions: {

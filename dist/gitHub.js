@@ -733,7 +733,9 @@
     },
     tests: {
         references: [
-            ['window.algoliasearch']
+            [
+                'window.algoliasearch'
+            ]
         ]
     },
     versions: {
@@ -1585,6 +1587,34 @@
     versions: {
         references: [
             'window.d3.version'
+        ]
+    }
+}
+,
+// src/gitHub/danialfarid/ng-file-upload.js
+{
+    properties: {
+        link: 'https://github.com/danialfarid/ng-file-upload',
+        notes: [],
+        platform: 'GitHub',
+        tags: [
+            'angular'
+        ],
+        tests: [
+            'https://www.algolia.com/users/sign_in'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        statements: [
+            [
+                'window.angular.module(\'ngFileUpload\')'
+            ]
+        ]
+    },
+    versions: {
+        sttements: [
+            'window.angular.module(\'ngFileUpload\').version'
         ]
     }
 }

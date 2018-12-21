@@ -362,6 +362,24 @@
     }
 }
 ,
+// src/gitHub/NYTimes/backbone.stickit.js
+{
+    properties: {
+        link: 'https://github.com/backbone.stickit',
+        notes: [],
+        platform: 'GitHub',
+        tests: [],
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.Backbone.Stickit'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/NYTimes/ice.js
 {
     properties: {

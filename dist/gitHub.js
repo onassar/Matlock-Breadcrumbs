@@ -1387,6 +1387,28 @@
     }
 }
 ,
+// src/gitHub/blueimp/JavaScript-MD5.js
+{
+    properties: {
+        link: 'https://github.com/blueimp/JavaScript-MD5',
+        platform: 'GitHub',
+        tags: [
+            'encryption'
+        ],
+        tests: [
+            'https://getstencil.com/app'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        statements: [
+            [
+                'window.md5'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/blueimp/jQuery-File-Upload.js
 {
     properties: {
@@ -3675,7 +3697,11 @@
             'http://holderjs.com/',
             'https://stackoverflow.com/'
         ],
-        type: 'repository'
+        type: 'repository',
+        wikipedia: {
+            get: true,
+            key: 'JQuery'
+        }
     },
     tests: {
         references: [

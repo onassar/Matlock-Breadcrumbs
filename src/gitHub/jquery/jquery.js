@@ -12,7 +12,11 @@
             'http://holderjs.com/',
             'https://stackoverflow.com/'
         ],
-        type: 'repository'
+        type: 'repository',
+        wikipedia: {
+            get: true,
+            key: 'JQuery'
+        }
     },
     tests: {
         references: [

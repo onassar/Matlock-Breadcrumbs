@@ -4328,7 +4328,9 @@
     },
     tests: {
         references: [
-            ['window.html2canvas']
+            [
+                'window.html2canvas'
+            ]
         ]
     }
 }
@@ -5156,6 +5158,35 @@
     tests: {
         references: [
             ['window.Uppy']
+        ]
+    }
+}
+,
+// src/gitHub/travist/jsencrypt.js
+{
+    properties: {
+        link: 'https://github.com/travist/jsencrypt',
+        notes: [],
+        platform: 'GitHub',
+        tags: [
+            'encryption',
+            'security'
+        ],
+        tests: [
+            'https://makitweb.com/take-screenshot-of-webpage-with-html2canvas/'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.JSEncrypt'
+            ]
+        ]
+    },
+    versions: {
+        references: [
+            'window.JSEncrypt.version'
         ]
     }
 }

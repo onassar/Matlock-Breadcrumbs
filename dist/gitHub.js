@@ -2598,6 +2598,22 @@
     }
 }
 ,
+// src/gitHub/ionic-team/ionic.js
+{
+    properties: {
+        link: 'https://github.com/ionic-team/ionic',
+        platform: 'GitHub',
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.IonicSiteComponents.components'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/jackocnr/intl-tel-input.js
 {
     properties: {

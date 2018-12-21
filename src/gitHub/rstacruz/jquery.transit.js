@@ -6,7 +6,9 @@
     },
     tests: {
         references: [
-            ['window.jQuery.transit']
+            [
+                'window.jQuery.transit'
+            ]
         ]
     }
 }

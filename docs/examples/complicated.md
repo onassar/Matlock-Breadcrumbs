@@ -22,6 +22,7 @@
                 }
             }
         ],
+        name: 'Formatted name',
         platform: 'GitHub',
         related: [],
         similar: [],

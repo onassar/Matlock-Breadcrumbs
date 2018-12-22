@@ -4912,6 +4912,12 @@
         },
         link: 'https://github.com/nginx/nginx',
         platform: 'GitHub',
+        related: [
+            'https://github.com/apache/httpd'
+        ],
+        similar: [
+            'https://github.com/apache/httpd'
+        ],
         type: 'repository',
         wikiPedia: {
             load: true,

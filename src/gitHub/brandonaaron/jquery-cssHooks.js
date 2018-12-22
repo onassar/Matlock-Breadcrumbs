@@ -3,6 +3,9 @@
         link: 'https://github.com/brandonaaron/jquery-cssHooks',
         notes: [],
         platform: 'GitHub',
+        notes: [
+            'https://i.imgur.com/vqFVVa8.jpg'
+        ],
         tests: [
             'https://sumo.com/'
         ],
@@ -11,6 +14,7 @@
     tests: {
         references: [
             [
+                'window.jQuery.dead.dead.dead',
                 'window.jQuery.cssHooks',
                 'window.jQuery.cssHooks.height'
             ]

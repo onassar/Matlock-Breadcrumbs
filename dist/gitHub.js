@@ -3044,9 +3044,15 @@
         link: 'https://github.com/gohugoio/hugo',
         platform: 'GitHub',
         tests: [
-            'https://1password.com/'
+            'https://1password.com/',
+            'https://www.louisdurrant.co.uk/'
         ],
-        type: 'repository'
+        type: 'repository',
+        wikiPedia: {
+            load: true,
+            title: 'Hugo_(software)',
+            sections: []
+        }
     },
     tests: {
         patterns: {

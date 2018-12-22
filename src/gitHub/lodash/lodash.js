@@ -2,7 +2,15 @@
     properties: {
         link: 'https://github.com/lodash/lodash',
         platform: 'GitHub',
-        type: 'repository'
+        tests: [
+            'https://lodash.com/'
+        ],
+        type: 'repository',
+        wikiPedia: {
+            load: true,
+            title: 'Lodash',
+            sections: []
+        }
     },
     tests: {
         references: [

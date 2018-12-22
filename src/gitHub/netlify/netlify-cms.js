@@ -5,7 +5,12 @@
         tests: [
             'https://www.netlifycms.org/'
         ],
-        type: 'repository'
+        type: 'repository',
+        wikiPedia: {
+            load: true,
+            title: 'Netlify',
+            sections: []
+        }
     },
     tests: {
         patterns: {

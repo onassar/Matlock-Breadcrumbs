@@ -3963,7 +3963,15 @@
     properties: {
         link: 'https://github.com/jwplayer/jwplayer',
         platform: 'GitHub',
-        type: 'repository'
+        tests: [
+            'http://www.news-gazette.com/'
+        ],
+        type: 'repository',
+        wikiPedia: {
+            load: true,
+            title: 'JW_Player',
+            sections: []
+        }
     },
     tests: {
         references: [
@@ -4204,7 +4212,15 @@
     properties: {
         link: 'https://github.com/lodash/lodash',
         platform: 'GitHub',
-        type: 'repository'
+        tests: [
+            'https://lodash.com/'
+        ],
+        type: 'repository',
+        wikiPedia: {
+            load: true,
+            title: 'Lodash',
+            sections: []
+        }
     },
     tests: {
         references: [
@@ -4917,7 +4933,12 @@
         tests: [
             'https://www.netlifycms.org/'
         ],
-        type: 'repository'
+        type: 'repository',
+        wikiPedia: {
+            load: true,
+            title: 'Netlify',
+            sections: []
+        }
     },
     tests: {
         patterns: {

@@ -2461,7 +2461,15 @@
     properties: {
         link: 'https://github.com/facebook/hhvm',
         platform: 'GitHub',
-        type: 'repository'
+        tests: [
+            'https://www.mediawiki.org/wiki/API:Query#Title_normalization'
+        ],
+        type: 'repository',
+        wikiPedia: {
+            load: true,
+            title: 'HHVM',
+            sections: []
+        }
     },
     tests: {
         patterns: {

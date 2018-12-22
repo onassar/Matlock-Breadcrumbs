@@ -3,22 +3,25 @@
     dependencies: [
         'gitHub/onassar/Stencil'
     ],
-    meta: [
-        {
-            icon: function() {
-                return null;
-            },
-            name: function() {
-                return null;
-            },
-            tooltip: function() {
-                // pattern: /<link[^>]+fonts\.googleapis.com[^>]+family=([a-z]+)/gi
-                return 'Roboto, Alpha, etc';
-            }
-        }
-    ],
     properties: {
+        alternatives: [
+            'gitHub/onassar/Stencil'
+        ],
         link: 'https://github.com/username/name',
+        meta: [
+            {
+                icon: function() {
+                    return null;
+                },
+                name: function() {
+                    return null;
+                },
+                tooltip: function() {
+                    // pattern: /<link[^>]+fonts\.googleapis.com[^>]+family=([a-z]+)/gi
+                    return 'Roboto, Alpha, etc';
+                }
+            }
+        ],
         platform: 'GitHub',
         related: [],
         similar: [],

@@ -5,7 +5,12 @@
         },
         link: 'https://github.com/nginx/nginx',
         platform: 'GitHub',
-        type: 'repository'
+        type: 'repository',
+        wikiPedia: {
+            load: true,
+            title: 'Nginx',
+            sections: []
+        }
     },
     tests: {
         patterns: {

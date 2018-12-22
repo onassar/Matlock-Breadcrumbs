@@ -13,9 +13,10 @@
             'https://stackoverflow.com/'
         ],
         type: 'repository',
-        wikipedia: {
-            get: true,
-            key: 'JQuery'
+        wikiPedia: {
+            load: true,
+            title: 'JQuery',
+            sections: []
         }
     },
     tests: {

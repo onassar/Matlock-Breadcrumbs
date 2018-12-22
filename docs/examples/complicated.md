@@ -20,16 +20,26 @@
     properties: {
         link: 'https://github.com/username/name',
         platform: 'GitHub',
+        related: [],
+        similar: [],
         tags: [],
         tests: [],
-        type: 'repository'
+        type: 'repository',
+        videos: [],
+        wikiPedia: {
+            load: true,
+            title: 'JQuery',
+            sections: []
+        }
     },
     tests: {
         patterns: {
             cookies: [],
             headers: [],
             page: [
-                ['<link[^]+googlefonts']
+                [
+                    /<link[^]+googlefonts/
+                ]
             ],
             scripts: [],
             stylesheets: []

@@ -3718,9 +3718,10 @@
             'https://stackoverflow.com/'
         ],
         type: 'repository',
-        wikipedia: {
-            get: true,
-            key: 'JQuery'
+        wikiPedia: {
+            load: true,
+            title: 'JQuery',
+            sections: []
         }
     },
     tests: {
@@ -4911,7 +4912,12 @@
         },
         link: 'https://github.com/nginx/nginx',
         platform: 'GitHub',
-        type: 'repository'
+        type: 'repository',
+        wikiPedia: {
+            load: true,
+            title: 'Nginx',
+            sections: []
+        }
     },
     tests: {
         patterns: {

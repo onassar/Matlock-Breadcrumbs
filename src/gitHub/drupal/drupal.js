@@ -8,7 +8,15 @@
         },
         link: 'https://github.com/drupal/drupal',
         platform: 'GitHub',
-        type: 'repository'
+        tests: [
+            'https://www.drupal.org/'
+        ],
+        type: 'repository',
+        wikiPedia: {
+            load: true,
+            title: 'Drupal',
+            sections: []
+        }
     },
     tests: {
         patterns: {

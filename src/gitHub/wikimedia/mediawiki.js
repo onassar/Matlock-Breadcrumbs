@@ -5,7 +5,12 @@
         tests: [
             'https://en.wikipedia.org/wiki/Fire_at_Sea'
         ],
-        type: 'repository'
+        type: 'repository',
+        wikiPedia: {
+            load: true,
+            title: 'MediaWiki',
+            sections: []
+        }
     },
     tests: {
         patterns: {

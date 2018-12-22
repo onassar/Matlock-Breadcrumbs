@@ -697,7 +697,12 @@
         },
         link: 'https://github.com/WordPress/WordPress',
         platform: 'GitHub',
-        type: 'repository'
+        type: 'repository',
+        wikiPedia: {
+            load: true,
+            title: 'WordPress',
+            sections: []
+        }
     },
     tests: {
         patterns: {
@@ -6499,7 +6504,12 @@
         tests: [
             'https://en.wikipedia.org/wiki/Fire_at_Sea'
         ],
-        type: 'repository'
+        type: 'repository',
+        wikiPedia: {
+            load: true,
+            title: 'MediaWiki',
+            sections: []
+        }
     },
     tests: {
         patterns: {

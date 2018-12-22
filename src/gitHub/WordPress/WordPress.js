@@ -8,7 +8,12 @@
         },
         link: 'https://github.com/WordPress/WordPress',
         platform: 'GitHub',
-        type: 'repository'
+        type: 'repository',
+        wikiPedia: {
+            load: true,
+            title: 'WordPress',
+            sections: []
+        }
     },
     tests: {
         patterns: {

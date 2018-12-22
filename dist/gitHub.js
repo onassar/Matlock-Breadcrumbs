@@ -455,7 +455,12 @@
     properties: {
         link: 'https://github.com/Polymer/polymer',
         platform: 'GitHub',
-        type: 'repository'
+        type: 'repository',
+        wikiPedia: {
+            load: true,
+            title: 'Polymer_(library)',
+            sections: []
+        }
     },
     tests: {
         references: [

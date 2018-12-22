@@ -4058,6 +4058,7 @@
 {
     properties: {
         link: 'https://github.com/jsor/lity',
+        name: 'Lity',
         notes: [],
         platform: 'GitHub',
         tests: [
@@ -4381,6 +4382,7 @@
     tests: {
         references: [
             [
+                'window._',
                 'window._.at'
             ]
         ]

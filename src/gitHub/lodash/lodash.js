@@ -15,6 +15,7 @@
     tests: {
         references: [
             [
+                'window._',
                 'window._.at'
             ]
         ]

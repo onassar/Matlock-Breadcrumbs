@@ -2,7 +2,15 @@
     properties: {
         link: 'https://github.com/meteor/meteor',
         platform: 'GitHub',
-        type: 'repository'
+        tests: [
+            'https://www.meteor.com/'
+        ],
+        type: 'repository',
+        wikiPedia: {
+            load: true,
+            title: 'Meteor_(web_framework)',
+            sections: []
+        }
     },
     tests: {
         patterns: {

@@ -1,6 +1,7 @@
 {
     properties: {
         link: 'https://github.com/filamentgroup/grunticon',
+        name: 'Grunticon',
         notes: [],
         platform: 'GitHub',
         tests: [

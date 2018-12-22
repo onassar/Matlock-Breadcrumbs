@@ -3601,7 +3601,12 @@
     properties: {
         link: 'https://github.com/jashkenas/backbone',
         platform: 'GitHub',
-        type: 'repository'
+        type: 'repository',
+        wikiPedia: {
+            load: true,
+            title: 'Backbone.js',
+            sections: []
+        }
     },
     tests: {
         references: [
@@ -6156,7 +6161,12 @@
         tests: [
             'https://www.bootstrapcdn.com/'
         ],
-        type: 'repository'
+        type: 'repository',
+        wikiPedia: {
+            load: true,
+            title: 'Underscore.js',
+            sections: []
+        }
     },
     tests: {
         patterns: {

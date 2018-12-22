@@ -8,7 +8,12 @@
         tests: [
             'https://www.bootstrapcdn.com/'
         ],
-        type: 'repository'
+        type: 'repository',
+        wikiPedia: {
+            load: true,
+            title: 'Underscore.js',
+            sections: []
+        }
     },
     tests: {
         patterns: {

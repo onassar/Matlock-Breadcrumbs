@@ -1566,6 +1566,27 @@
     }
 }
 ,
+// src/gitHub/brandonaaron/jquery-cssHooks.js
+{
+    properties: {
+        link: 'https://github.com/brandonaaron/jquery-cssHooks',
+        notes: [],
+        platform: 'GitHub',
+        tests: [
+            'https://sumo.com/'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.jQuery.cssHooks',
+                'window.jQuery.cssHooks.height'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/bugsnag/bugsnag-js.js
 {
     properties: {
@@ -4622,6 +4643,36 @@
             [
                 'window.jQuery.fn.placeholder'
             ]
+        ]
+    }
+}
+,
+// src/gitHub/mathjax/MathJax.js
+{
+    properties: {
+        link: 'https://github.com/mathjax/MathJax',
+        notes: [],
+        platform: 'GitHub',
+        tests: [
+            'https://www.mathjax.org/'
+        ],
+        type: 'repository',
+        wikiPedia: {
+            load: true,
+            title: 'MathJax',
+            sections: []
+        }
+    },
+    tests: {
+        references: [
+            [
+                'window.MathJax'
+            ]
+        ]
+    },
+    versions: {
+        references: [
+            'window.MathJax.version'
         ]
     }
 }

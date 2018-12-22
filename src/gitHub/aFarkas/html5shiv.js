@@ -8,7 +8,12 @@
         tests: [
             'https://ca.octobersveryown.com'
         ],
-        type: 'repository'
+        type: 'repository',
+        wikiPedia: {
+            load: true,
+            title: 'HTML5_Shiv',
+            sections: []
+        }
     },
     tests: {
         patterns: {

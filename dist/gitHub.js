@@ -739,7 +739,12 @@
         tests: [
             'https://ca.octobersveryown.com'
         ],
-        type: 'repository'
+        type: 'repository',
+        wikiPedia: {
+            load: true,
+            title: 'HTML5_Shiv',
+            sections: []
+        }
     },
     tests: {
         patterns: {
@@ -2849,6 +2854,9 @@
     properties: {
         link: 'https://github.com/getsentry/sentry-javascript',
         platform: 'GitHub',
+        tests: [
+            'https://getstencil.com/app'
+        ],
         type: 'repository'
     },
     tests: {

@@ -2,6 +2,9 @@
     properties: {
         link: 'https://github.com/getsentry/sentry-javascript',
         platform: 'GitHub',
+        tests: [
+            'https://getstencil.com/app'
+        ],
         type: 'repository'
     },
     tests: {

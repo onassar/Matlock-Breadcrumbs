@@ -270,7 +270,15 @@
     properties: {
         link: 'https://github.com/Leaflet/Leaflet',
         platform: 'GitHub',
-        type: 'repository'
+        tests: [
+            'https://www.meteor.com/'
+        ],
+        type: 'repository',
+        wikiPedia: {
+            load: true,
+            title: 'Leaflet_(software)',
+            sections: []
+        }
     },
     tests: {
         references: [

@@ -5341,7 +5341,15 @@
     properties: {
         link: 'https://github.com/php/php-src',
         platform: 'GitHub',
-        type: 'repository'
+        tests: [
+            'http://www.cbc.radio-canada.ca/en/'
+        ],
+        type: 'repository',
+        wikiPedia: {
+            load: true,
+            title: 'PHP',
+            sections: []
+        }
     },
     tests: {
         patterns: {
@@ -6487,6 +6495,9 @@
     properties: {
         link: 'https://github.com/webpack/webpack',
         platform: 'GitHub',
+        tests: [
+            'https://www.cbc.ca/'
+        ],
         type: 'repository',
         wikiPedia: {
             load: true,

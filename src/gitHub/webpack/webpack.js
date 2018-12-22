@@ -2,6 +2,9 @@
     properties: {
         link: 'https://github.com/webpack/webpack',
         platform: 'GitHub',
+        tests: [
+            'https://www.cbc.ca/'
+        ],
         type: 'repository',
         wikiPedia: {
             load: true,

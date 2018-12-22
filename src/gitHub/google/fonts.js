@@ -8,7 +8,7 @@
         tests: [
             'https://getstencil.com/blog'
         ],
-        type: 'repository'
+        type: 'repository',
         wikiPedia: {
             load: true,
             title: 'Google_Fonts',

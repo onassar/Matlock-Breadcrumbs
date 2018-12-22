@@ -2,7 +2,12 @@
     properties: {
         link: 'https://github.com/jashkenas/underscore',
         platform: 'GitHub',
-        type: 'repository'
+        type: 'repository',
+        wikiPedia: {
+            load: true,
+            title: 'Underscore.js',
+            sections: []
+        }
     },
     tests: {
         references: [

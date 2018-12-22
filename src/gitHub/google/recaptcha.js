@@ -2,7 +2,12 @@
     properties: {
         link: 'https://github.com/google/recaptcha',
         platform: 'GitHub',
-        type: 'repository'
+        type: 'repository',
+        wikiPedia: {
+            load: true,
+            title: 'ReCAPTCHA',
+            sections: []
+        }
     },
     tests: {
         references: [

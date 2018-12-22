@@ -11,7 +11,7 @@
         type: 'repository',
         wikiPedia: {
             load: true,
-            title: 'Underscore.js',
+            title: 'Bootstrap_(front-end_framework)',
             sections: []
         }
     },

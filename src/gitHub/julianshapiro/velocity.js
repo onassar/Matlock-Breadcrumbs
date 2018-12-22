@@ -4,9 +4,15 @@
         notes: [],
         platform: 'GitHub',
         tests: [
-            'https://appsumo.com/stencil-2018/'
+            'https://appsumo.com/stencil-2018/',
+            'https://account.microsoft.com/privacy/ad-settings/signedout'
         ],
-        type: 'repository'
+        type: 'repository',
+        wikiPedia: {
+            load: true,
+            title: 'Velocity_(JavaScript_library)',
+            sections: []
+        }
     },
     tests: {
         references: [

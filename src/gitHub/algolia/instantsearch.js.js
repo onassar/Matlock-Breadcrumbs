@@ -2,7 +2,12 @@
     properties: {
         link: 'https://github.com/algolia/instantsearch.js',
         platform: 'GitHub',
-        type: 'repository'
+        type: 'repository',
+        wikiPedia: {
+            load: true,
+            title: 'Algolia',
+            sections: []
+        }
     },
     tests: {
         references: [

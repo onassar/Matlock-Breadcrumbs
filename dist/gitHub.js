@@ -4961,7 +4961,15 @@
     properties: {
         link: 'https://github.com/mrdoob/three.js',
         platform: 'GitHub',
-        type: 'repository'
+        tests: [
+            'http://goinghome.302chanwoo.com/'
+        ],
+        type: 'repository',
+        wikiPedia: {
+            load: true,
+            title: 'Three.js',
+            sections: []
+        }
     },
     tests: {
         references: [

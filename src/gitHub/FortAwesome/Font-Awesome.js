@@ -12,7 +12,12 @@
             'https://getstencil.com/blog',
             'https://lodash.com/docs/4.17.11'
         ],
-        type: 'repository'
+        type: 'repository',
+        wikiPedia: {
+            load: true,
+            title: 'Font_Awesome',
+            sections: []
+        }
     },
     tests: {
         patterns: {

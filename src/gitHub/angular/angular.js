@@ -2,7 +2,12 @@
     properties: {
         link: 'https://github.com/angular/angular.js',
         platform: 'GitHub',
-        type: 'repository'
+        type: 'repository',
+        wikiPedia: {
+            load: true,
+            title: 'Angular_(application_platform)',
+            sections: []
+        }
     },
     tests: {
         strings: {

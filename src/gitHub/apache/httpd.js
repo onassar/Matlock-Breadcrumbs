@@ -5,7 +5,12 @@
         },
         link: 'https://github.com/apache/httpd',
         platform: 'GitHub',
-        type: 'repository'
+        type: 'repository',
+        wikiPedia: {
+            load: true,
+            title: 'Apache_HTTP_Server',
+            sections: []
+        }
     },
     tests: {
         patterns: {

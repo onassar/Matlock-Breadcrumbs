@@ -5,7 +5,12 @@
         tests: [
             'https://www.cbc.ca/'
         ],
-        type: 'repository'
+        type: 'repository',
+        wikiPedia: {
+            load: true,
+            title: 'React_(JavaScript_library)',
+            sections: []
+        }
     },
     tests: {
         patterns: {

@@ -5,7 +5,12 @@
         },
         link: 'https://github.com/Modernizr/Modernizr',
         platform: 'GitHub',
-        type: 'repository'
+        type: 'repository',
+        wikiPedia: {
+            load: true,
+            title: 'Modernizr',
+            sections: []
+        }
     },
     tests: {
         references: [

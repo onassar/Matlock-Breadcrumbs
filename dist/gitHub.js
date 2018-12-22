@@ -200,7 +200,12 @@
             'https://getstencil.com/blog',
             'https://lodash.com/docs/4.17.11'
         ],
-        type: 'repository'
+        type: 'repository',
+        wikiPedia: {
+            load: true,
+            title: 'Font_Awesome',
+            sections: []
+        }
     },
     tests: {
         patterns: {
@@ -346,7 +351,12 @@
         },
         link: 'https://github.com/Modernizr/Modernizr',
         platform: 'GitHub',
-        type: 'repository'
+        type: 'repository',
+        wikiPedia: {
+            load: true,
+            title: 'Modernizr',
+            sections: []
+        }
     },
     tests: {
         references: [
@@ -1042,7 +1052,12 @@
     properties: {
         link: 'https://github.com/angular/angular.js',
         platform: 'GitHub',
-        type: 'repository'
+        type: 'repository',
+        wikiPedia: {
+            load: true,
+            title: 'Angular_(application_platform)',
+            sections: []
+        }
     },
     tests: {
         strings: {
@@ -1073,7 +1088,12 @@
     properties: {
         link: 'https://github.com/angular/angular.js',
         platform: 'GitHub',
-        type: 'repository'
+        type: 'repository',
+        wikiPedia: {
+            load: true,
+            title: 'AngularJS',
+            sections: []
+        }
     },
     tests: {
         references: [
@@ -1117,7 +1137,12 @@
         },
         link: 'https://github.com/apache/httpd',
         platform: 'GitHub',
-        type: 'repository'
+        type: 'repository',
+        wikiPedia: {
+            load: true,
+            title: 'Apache_HTTP_Server',
+            sections: []
+        }
     },
     tests: {
         patterns: {
@@ -2451,7 +2476,12 @@
         tests: [
             'https://www.cbc.ca/'
         ],
-        type: 'repository'
+        type: 'repository',
+        wikiPedia: {
+            load: true,
+            title: 'React_(JavaScript_library)',
+            sections: []
+        }
     },
     tests: {
         patterns: {
@@ -2940,6 +2970,11 @@
             'https://getstencil.com/blog'
         ],
         type: 'repository'
+        wikiPedia: {
+            load: true,
+            title: 'Google_Fonts',
+            sections: []
+        }
     },
     tests: {
         patterns: {

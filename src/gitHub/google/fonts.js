@@ -9,6 +9,11 @@
             'https://getstencil.com/blog'
         ],
         type: 'repository'
+        wikiPedia: {
+            load: true,
+            title: 'Google_Fonts',
+            sections: []
+        }
     },
     tests: {
         patterns: {

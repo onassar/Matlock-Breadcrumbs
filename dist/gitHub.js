@@ -1188,6 +1188,27 @@
     }
 }
 ,
+// src/gitHub/ankane/chartkick.js.js
+{
+    properties: {
+        link: 'https://github.com/ankane/chartkick.js',
+        notes: [],
+        platform: 'GitHub',
+        tests: [
+            'https://www.accountdock.com/'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.Chartkick',
+                'window.Chartkick.options'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/apache/httpd.js
 {
     properties: {
@@ -6641,6 +6662,26 @@
             ],
             [
                 'window.webpackManifest'
+            ]
+        ]
+    }
+}
+,
+// src/gitHub/wenzhixin/bootstrap-table.js
+{
+    properties: {
+        link: 'https://github.com/wenzhixin/bootstrap-table',
+        notes: [],
+        platform: 'GitHub',
+        tests: [
+            'https://www.accountdock.com/'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.jQuery.fn.bootstrapTable'
             ]
         ]
     }

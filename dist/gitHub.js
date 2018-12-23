@@ -6178,7 +6178,7 @@
                 paid: true
             }
         },
-        link: 'https://github.com/sachinchoolur/lightGallery',
+        link: 'https://github.com/sachinchoolur/strip',
         notes: [],
         platform: 'GitHub',
         tests: [],

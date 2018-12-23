@@ -11,8 +11,12 @@
     tests: {
         references: [
             [
-                'window.jQuery.selectize',
-                'window.jQuery.selectize.defaults'
+                'window.Selectize',
+                'window.Selectize.defaults'
+            ],
+            [
+                'window.jQuery.fn.selectize',
+                'window.jQuery.fn.selectize.defaults'
             ]
         ]
     }

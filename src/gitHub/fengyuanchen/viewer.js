@@ -2,6 +2,9 @@
     properties: {
         link: 'https://github.com/fengyuanchen/viewer',
         platform: 'GitHub',
+        tests: [
+            'https://fengyuanchen.github.io/viewer/'
+        ],
         type: 'repository'
     },
     tests: {

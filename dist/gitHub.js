@@ -1762,6 +1762,27 @@
     }
 }
 ,
+// src/gitHub/brianreavis/sifter.js.js
+{
+    properties: {
+        link: 'https://github.com/brianreavis/sifter.js',
+        notes: [],
+        platform: 'GitHub',
+        tests: [
+            'http://selectize.github.io/selectize.js/'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        statements: [
+            [
+                'new Sifter()',
+                'new Sifter().settings'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/bugsnag/bugsnag-js.js
 {
     properties: {
@@ -2991,6 +3012,9 @@
     properties: {
         link: 'https://github.com/fengyuanchen/viewer',
         platform: 'GitHub',
+        tests: [
+            'https://fengyuanchen.github.io/viewer/'
+        ],
         type: 'repository'
     },
     tests: {
@@ -6491,8 +6515,12 @@
     tests: {
         references: [
             [
-                'window.jQuery.selectize',
-                'window.jQuery.selectize.defaults'
+                'window.Selectize',
+                'window.Selectize.defaults'
+            ],
+            [
+                'window.jQuery.fn.selectize',
+                'window.jQuery.fn.selectize.defaults'
             ]
         ]
     }

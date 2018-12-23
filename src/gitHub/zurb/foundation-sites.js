@@ -2,7 +2,15 @@
     properties: {
         link: 'https://github.com/zurb/foundation-sites',
         platform: 'GitHub',
-        type: 'repository'
+        tests: [
+            'https://foundation.zurb.com/'
+        ],
+        type: 'repository',
+        wikiPedia: {
+            load: true,
+            title: 'Foundation_(framework)',
+            sections: []
+        }
     },
     tests: {
         references: [

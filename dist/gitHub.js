@@ -3820,6 +3820,7 @@
 {
     properties: {
         link: 'https://github.com/highlightjs/highlight.js',
+        name: 'Highlight.js',
         platform: 'GitHub',
         type: 'repository'
     },
@@ -5655,6 +5656,7 @@
 {
     properties: {
         link: 'https://github.com/moment/luxon',
+        name: 'Luxon',
         platform: 'GitHub',
         tags: [
             'datetime'
@@ -5678,6 +5680,7 @@
 {
     properties: {
         link: 'https://github.com/moment/moment-timezone',
+        name: 'Moment Timezone',
         platform: 'GitHub',
         tags: [
             'datetime'
@@ -5706,6 +5709,7 @@
 {
     properties: {
         link: 'https://github.com/moment/moment',
+        name: 'Moment.js',
         platform: 'GitHub',
         type: 'repository'
     },

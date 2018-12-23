@@ -1,6 +1,7 @@
 {
     properties: {
         link: 'https://github.com/moment/moment',
+        name: 'Moment.js',
         platform: 'GitHub',
         type: 'repository'
     },

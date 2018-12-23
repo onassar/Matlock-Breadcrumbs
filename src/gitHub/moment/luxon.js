@@ -1,6 +1,7 @@
 {
     properties: {
         link: 'https://github.com/moment/luxon',
+        name: 'Luxon',
         platform: 'GitHub',
         tags: [
             'datetime'

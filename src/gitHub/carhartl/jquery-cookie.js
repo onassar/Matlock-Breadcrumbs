@@ -1,6 +1,7 @@
 {
     properties: {
         link: 'https://github.com/carhartl/jquery-cookie',
+        name: 'jQuery.cookie',
         platform: 'GitHub',
         type: 'repository'
     },

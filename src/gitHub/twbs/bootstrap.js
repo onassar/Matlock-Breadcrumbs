@@ -1,6 +1,7 @@
 {
     properties: {
         link: 'https://github.com/twbs/bootstrap',
+        name: 'Bootstrap',
         notes: [
             'https://i.imgur.com/BrbdjkX.jpg'
         ],

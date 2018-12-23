@@ -1703,6 +1703,7 @@
 {
     properties: {
         link: 'https://github.com/carhartl/jquery-cookie',
+        name: 'jQuery.cookie',
         platform: 'GitHub',
         type: 'repository'
     },
@@ -3973,6 +3974,7 @@
             link: 'https://js.foundation/about/donate'
         },
         link: 'https://github.com/jquery/jquery-ui',
+        name: 'jQuery',
         platform: 'GitHub',
         type: 'repository'
     },
@@ -6591,6 +6593,7 @@
 {
     properties: {
         link: 'https://github.com/twbs/bootstrap',
+        name: 'Bootstrap',
         notes: [
             'https://i.imgur.com/BrbdjkX.jpg'
         ],

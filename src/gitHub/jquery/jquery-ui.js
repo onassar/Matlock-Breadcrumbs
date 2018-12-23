@@ -4,7 +4,7 @@
             link: 'https://js.foundation/about/donate'
         },
         link: 'https://github.com/jquery/jquery-ui',
-        name: 'jQuery',
+        name: 'jQuery UI',
         platform: 'GitHub',
         type: 'repository'
     },

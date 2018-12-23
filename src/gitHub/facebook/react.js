@@ -28,7 +28,8 @@
     },
     versions: {
         references: [
-            'window.React.version'
+            'window.React.version',
+            'window.ReactDOM.version'
         ]
     }
 }

@@ -2169,6 +2169,9 @@
     tests: {
         statements: [
             [
+                'window.imagesLoaded'
+            ],
+            [
                 'window.jQuery(\'html\').imagesLoaded'
             ]
         ]

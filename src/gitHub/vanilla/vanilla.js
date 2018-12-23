@@ -11,7 +11,7 @@
         patterns: {
             page: [
                 [
-                    /<body id=\"vanilla/i
+                    /\<body id=\"vanilla/i
                 ]
             ]
         }

@@ -3606,6 +3606,24 @@
     }
 }
 ,
+// src/gitHub/hammerjs/jquery.hammer.js.js
+{
+    properties: {
+        link: 'https://github.com/hammerjs/jquery.hammer.js',
+        platform: 'GitHub',
+        tags: [],
+        tests: [],
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.jQuery.fn.hammer'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/harvesthq/chosen.js
 {
     properties: {

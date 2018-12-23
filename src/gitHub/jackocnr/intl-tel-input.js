@@ -20,6 +20,7 @@
     },
     versions: {
         references: [
+            'window.intlTelInputGlobals.version',
             'window.jQuery.fn.intlTelInput.version'
         ]
     }

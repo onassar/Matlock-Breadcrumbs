@@ -22,6 +22,11 @@
         },
         references: [
             [
+                'window.Vanilla',
+                'window.Vanilla.parent',
+                'window.Vanilla.scrollTo'
+            ],
+            [
                 'window.vanillaforum'
             ]
         ]

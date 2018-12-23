@@ -4926,6 +4926,84 @@
     }
 }
 ,
+// src/gitHub/metafizzy/flickity.js
+{
+    properties: {
+        licenses: {
+            commercial: {
+                paid: true
+            }
+        },
+        link: 'https://github.com/metafizzy/flickity',
+        notes: [],
+        platform: 'GitHub',
+        tests: [
+            'https://flickity.metafizzy.co/'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.Flickity',
+                'window.Flickity.createMethods'
+            ]
+        ]
+    }
+}
+,
+// src/gitHub/metafizzy/infinite-scroll.js
+{
+    properties: {
+        licenses: {
+            commercial: {
+                paid: true
+            }
+        },
+        link: 'https://github.com/metafizzy/infinite-scroll',
+        notes: [],
+        platform: 'GitHub',
+        tests: [
+            'https://infinite-scroll.com/'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.InfiniteScroll',
+                'window.InfiniteScroll.create'
+            ]
+        ]
+    }
+}
+,
+// src/gitHub/metafizzy/packery.js
+{
+    properties: {
+        licenses: {
+            commercial: {
+                paid: true
+            }
+        },
+        link: 'https://github.com/metafizzy/packery',
+        notes: [],
+        platform: 'GitHub',
+        tests: [
+            'https://packery.metafizzy.co/'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.Packery',
+                'window.Packery.Item'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/meteor/meteor.js
 {
     properties: {

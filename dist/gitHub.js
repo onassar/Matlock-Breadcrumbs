@@ -632,6 +632,27 @@
     }
 }
 ,
+// src/gitHub/Sjeiti/TinySort.js
+{
+    properties: {
+        link: 'https://github.com/Sjeiti/TinySort',
+        notes: [],
+        platform: 'GitHub',
+        tests: [
+            'http://tinysort.sjeiti.com/'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.tinysort',
+                'window.tinysort.defaults'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/Stuk/jszip.js
 {
     uses: [
@@ -3615,8 +3636,29 @@
 // src/gitHub/highcharts/highcharts.js
 {
     properties: {
+        licenses: {
+            commercial: {
+                currency: 'USD',
+                paid: true,
+                range: [
+                    1510,
+                    635,
+                    615,
+                    445,
+                    2770,
+                    2005,
+                    5230,
+                    3780,
+                    50,
+                    165
+                ]
+            }
+        },
         link: 'https://github.com/highcharts/highcharts',
         platform: 'GitHub',
+        tests: [
+            'https://www.tsn.ca/'
+        ],
         type: 'repository'
     },
     tests: {
@@ -6430,6 +6472,27 @@
             ],
             [
                 'window.jQuery.fn.select2'
+            ]
+        ]
+    }
+}
+,
+// src/gitHub/selectize/selectize.js.js
+{
+    properties: {
+        link: 'https://github.com/selectize/selectize.js',
+        notes: [],
+        platform: 'GitHub',
+        tests: [
+            'http://selectize.github.io/selectize.js/'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.jQuery.selectize',
+                'window.jQuery.selectize.defaults'
             ]
         ]
     }

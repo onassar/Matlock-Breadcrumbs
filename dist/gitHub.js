@@ -2170,6 +2170,29 @@
     }
 }
 ,
+// src/gitHub/dimsemenov/photoswipe.js
+{
+    properties: {
+        licenses: {
+            commercial: {
+                paid: true
+            }
+        },
+        link: 'https://github.com/dimsemenov/photoswipe',
+        notes: [],
+        platform: 'GitHub',
+        tests: [],
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.PhotoSwipe'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/dinbror/blazy.js
 {
     properties: {

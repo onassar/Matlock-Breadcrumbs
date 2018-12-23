@@ -4,8 +4,14 @@
             link: 'https://vuejs.org/support-vuejs/'
         },
         link: 'https://github.com/vuejs/vue',
+        name: 'Vue.js',
         platform: 'GitHub',
-        type: 'repository'
+        type: 'repository',
+        wikiPedia: {
+            load: true,
+            title: 'Vue.js',
+            sections: []
+        }
     },
     tests: {
         patterns: {

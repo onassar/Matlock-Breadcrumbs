@@ -7,6 +7,7 @@
             link: 'https://openresty.org/en/donate-online.html'
         },
         link: 'https://github.com/openresty/openresty',
+        name: 'OpenResty',
         platform: 'GitHub',
         type: 'repository'
     },

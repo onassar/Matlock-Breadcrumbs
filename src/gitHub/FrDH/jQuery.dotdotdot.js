@@ -1,5 +1,10 @@
 {
     properties: {
+        licenses: {
+            commercial: {
+                paid: true
+            }
+        },
         link: 'https://github.com/FrDH/jQuery.dotdotdot',
         platform: 'GitHub',
         tests: [

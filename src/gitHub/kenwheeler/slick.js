@@ -6,7 +6,9 @@
     },
     tests: {
         statements: [
-            ['$(\'body\').slick']
+            [
+                '$(\'body\').slick'
+            ]
         ]
     }
 }

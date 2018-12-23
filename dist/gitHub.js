@@ -416,7 +416,8 @@
         link: 'https://github.com/Mottie/tablesorter',
         platform: 'GitHub',
         tests: [
-            'https://newscapegroup.com/'
+            'https://newscapegroup.com/',
+            'https://mottie.github.io/tablesorter/docs/'
         ],
         type: 'repository'
     },
@@ -4030,6 +4031,23 @@
                 'window.hotkeys.deleteScope',
                 'window.hotkeys.filter',
                 'window.hotkeys.isPressed'
+            ]
+        ]
+    }
+}
+,
+// src/gitHub/jmosbech/StickyTableHeaders.js
+{
+    properties: {
+        link: 'https://github.com/jmosbech/StickyTableHeaders',
+        platform: 'GitHub',
+        tests: [],
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.jQuery.fn.stickyTableHeaders'
             ]
         ]
     }

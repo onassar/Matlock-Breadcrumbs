@@ -3,7 +3,8 @@
         link: 'https://github.com/Mottie/tablesorter',
         platform: 'GitHub',
         tests: [
-            'https://newscapegroup.com/'
+            'https://newscapegroup.com/',
+            'https://mottie.github.io/tablesorter/docs/'
         ],
         type: 'repository'
     },

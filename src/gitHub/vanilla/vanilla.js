@@ -19,6 +19,11 @@
                     /<body[^>]id=\"(?:DiscussionsPage|vanilla)/i
                 ]
             ]
-        }
+        },
+        references: [
+            [
+                'window.vanillaforum'
+            ]
+        ]
     }
 }

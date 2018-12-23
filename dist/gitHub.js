@@ -7391,7 +7391,7 @@
         patterns: {
             page: [
                 [
-                    /<body id=\"(?:DiscussionsPage|vanilla)/i
+                    /<body id=\"vanilla/i
                 ]
             ]
         }

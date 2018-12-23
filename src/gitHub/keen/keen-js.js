@@ -1,18 +1,16 @@
 {
     properties: {
-        link: 'https://github.com/hammerjs/jquery.hammer.js',
+        link: 'https://github.com/keen/keen-js',
         platform: 'GitHub',
-        tags: [],
         tests: [
-            'https://www.cnbc.com/'
+            'https://open.vanillaforums.com/'
         ],
-        tests: [],
         type: 'repository'
     },
     tests: {
         references: [
             [
-                'window.jQuery.fn.hammer'
+                'window.dead.dead.dead'
             ]
         ]
     }

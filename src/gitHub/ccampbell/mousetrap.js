@@ -4,6 +4,9 @@
             link: 'https://craig.is/accepting-donations?ref=mousetrap'
         },
         link: 'https://github.com/ccampbell/mousetrap',
+        tests: [
+            'https://twitter.com/alfonsocuaron'
+        ],
         platform: 'GitHub',
         type: 'repository'
     },

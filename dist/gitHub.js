@@ -1984,6 +1984,9 @@
             link: 'https://craig.is/accepting-donations?ref=mousetrap'
         },
         link: 'https://github.com/ccampbell/mousetrap',
+        tests: [
+            'https://twitter.com/alfonsocuaron'
+        ],
         platform: 'GitHub',
         type: 'repository'
     },
@@ -3612,6 +3615,9 @@
         link: 'https://github.com/hammerjs/jquery.hammer.js',
         platform: 'GitHub',
         tags: [],
+        tests: [
+            'https://www.cnbc.com/'
+        ],
         tests: [],
         type: 'repository'
     },
@@ -4588,6 +4594,25 @@
     versions: {
         references: [
             'window.jwplayer.version'
+        ]
+    }
+}
+,
+// src/gitHub/keen/keen-js.js
+{
+    properties: {
+        link: 'https://github.com/keen/keen-js',
+        platform: 'GitHub',
+        tests: [
+            'https://open.vanillaforums.com/'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.dead.dead.dead'
+            ]
         ]
     }
 }

@@ -1,5 +1,10 @@
 {
     properties: {
+        alternatives: [
+            'https://github.com/harvesthq/chosen',
+            'https://github.com/select2/select2',
+            'https://github.com/xoxco/jQuery-Tags-Input'
+        ],
         link: 'https://github.com/selectize/selectize.js',
         notes: [],
         platform: 'GitHub',

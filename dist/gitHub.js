@@ -6504,6 +6504,11 @@
 // src/gitHub/selectize/selectize.js.js
 {
     properties: {
+        alternatives: [
+            'https://github.com/harvesthq/chosen',
+            'https://github.com/select2/select2',
+            'https://github.com/xoxco/jQuery-Tags-Input'
+        ],
         link: 'https://github.com/selectize/selectize.js',
         notes: [],
         platform: 'GitHub',
@@ -7691,6 +7696,27 @@
         references: [
             [
                 'window.Jodit'
+            ]
+        ]
+    }
+}
+,
+// src/gitHub/xoxco/jQuery-Tags-Input.js
+{
+    properties: {
+        link: 'https://github.com/xoxco/jQuery-Tags-Input',
+        notes: [],
+        platform: 'GitHub',
+        tests: [
+            'http://xoxco.com/projects/code/tagsinput/example.html'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.jQuery.fn.tagsInput',
+                'window.jQuery.fn.tagsInput.importTags'
             ]
         ]
     }

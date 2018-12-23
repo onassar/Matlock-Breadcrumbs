@@ -3703,6 +3703,9 @@
     tests: {
         references: [
             [
+                'window.intlTelInput'
+            ],
+            [
                 'window.jQuery.fn.intlTelInput'
             ]
         ]

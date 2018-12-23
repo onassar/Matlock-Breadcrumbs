@@ -3564,6 +3564,31 @@
     }
 }
 ,
+// src/gitHub/honeybadger-io/honeybadger-js.js
+{
+    properties: {
+        link: 'https://github.com/honeybadger-io/honeybadger-js',
+        platform: 'GitHub',
+        tests: [
+            'https://foundation.zurb.com/'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.Honeybadger',
+                'window.Honeybadger.log'
+            ]
+        ]
+    },
+    versions: {
+        references: [
+            'window.Honeybadger.version'
+        ]
+    }
+}
+,
 // src/gitHub/htmlhint/HTMLHint.js
 {
     properties: {

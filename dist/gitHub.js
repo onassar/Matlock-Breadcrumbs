@@ -4381,6 +4381,7 @@
 ,
 // src/gitHub/jquery/jquery.js
 {
+    isolate: true,
     properties: {
         donate: {
             link: 'https://js.foundation/about/donate'

@@ -2470,7 +2470,7 @@
 {
     properties: {
         link: 'https://github.com/devbridge/jQuery-Autocomplete',
-        name: 'Airbrake-JS',
+        name: 'Ajax Autocomplete for jQuery',
         platform: 'GitHub',
         tests: [
             'https://www.newyorkjets.com/'

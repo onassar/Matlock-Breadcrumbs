@@ -22,7 +22,8 @@
     },
     versions: {
         references: [
-            'window.jQuery.swipetp.version'
+            'window.jQuery.fn.swipe.version',
+            'window.jQuery.fn.swipetp.version'
         ]
     }
 }

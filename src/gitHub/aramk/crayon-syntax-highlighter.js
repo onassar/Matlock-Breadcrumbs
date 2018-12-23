@@ -11,6 +11,7 @@
     tests: {
         references: [
             [
+                'window.CrayonSyntax',
                 'window.CrayonSyntaxSettings'
             ]
         ]

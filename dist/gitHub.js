@@ -1716,6 +1716,29 @@
     }
 }
 ,
+// src/gitHub/cbopp-art/lightcase.js
+{
+    properties: {
+        link: 'https://github.com/cbopp-art/lightcase',
+        notes: [],
+        platform: 'GitHub',
+        tags: [
+            'lightbox'
+        ],
+        tests: [],
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.lightcase',
+                'window.lightcase.init',
+                'window.lightcase.start'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/cburgmer/rasterizeHTML.js.js
 {
     properties: {

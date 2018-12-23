@@ -6859,6 +6859,26 @@
     }
 }
 ,
+// src/gitHub/snookca/prepareTransition.js
+{
+    properties: {
+        link: 'https://github.com/snookca/prepareTransition',
+        name: 'prepareTransition jQuery Plugin',
+        platform: 'GitHub',
+        tests: [
+            'https://ca.octobersveryown.com/'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.jQuery.fn.prepareTransition'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/socketio/socket.io.js
 {
     properties: {

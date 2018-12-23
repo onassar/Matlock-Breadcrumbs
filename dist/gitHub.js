@@ -4270,11 +4270,11 @@
     tests: {
         references: [
             [
-                'window.jQuery.ajaxForm',
-                'window.jQuery.ajaxSubmit',
-                'window.jQuery.formSerialize',
-                'window.jQuery.fieldSerialize',
-                'window.jQuery.fieldValue'
+                'window.jQuery.fn.ajaxForm',
+                'window.jQuery.fn.ajaxSubmit',
+                'window.jQuery.fn.formSerialize',
+                'window.jQuery.fn.fieldSerialize',
+                'window.jQuery.fn.fieldValue'
             ]
         ]
     }

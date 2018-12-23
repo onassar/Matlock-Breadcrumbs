@@ -7420,7 +7420,7 @@
         patterns: {
             page: [
                 [
-                    /<body[^>]id=\"vanilla/i
+                    /<body[^>]id=\"(?:DiscussionsPage|vanilla)/i
                 ]
             ]
         }

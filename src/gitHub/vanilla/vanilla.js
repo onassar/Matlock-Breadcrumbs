@@ -13,11 +13,21 @@
         }
     },
     tests: {
+        patterns: {
+            page: [
+                [
+                    /<body[^>]id=\"(?:DiscussionsPage|vanilla)/i
+                ]
+            ]
+        },
         references: [
             [
                 'window.Vanilla',
                 'window.Vanilla.parent',
                 'window.Vanilla.scrollTo'
+            ],
+            [
+                'window.vanillaforum'
             ]
         ]
     }

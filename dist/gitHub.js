@@ -231,7 +231,7 @@
 // src/gitHub/FrDH/jQuery.dotdotdot.js
 {
     properties: {
-        link: 'https://github.com/keen/keen-tracking.js',
+        link: 'https://github.com/FrDH/jQuery.dotdotdot',
         platform: 'GitHub',
         tests: [
             'https://keen.io/'

@@ -17,7 +17,7 @@
     },
     versions: {
         references: [
-            'window.skrollr.version'
+            'window.skrollr.VERSION'
         ]
     }
 }

@@ -4381,7 +4381,6 @@
 ,
 // src/gitHub/jquery/jquery.js
 {
-    isolate: true,
     properties: {
         donate: {
             link: 'https://js.foundation/about/donate'
@@ -7404,6 +7403,7 @@
 ,
 // src/gitHub/vanilla/vanilla.js
 {
+    isolate: true,
     properties: {
         link: 'https://github.com/vanilla/vanilla',
         platform: 'GitHub',

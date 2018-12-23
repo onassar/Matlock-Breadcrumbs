@@ -1,4 +1,5 @@
 {
+    isolate: true,
     properties: {
         link: 'https://github.com/vanilla/vanilla',
         platform: 'GitHub',

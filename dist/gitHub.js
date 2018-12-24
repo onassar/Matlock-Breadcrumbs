@@ -3406,6 +3406,28 @@
     }
 }
 ,
+// src/gitHub/flot/flot.js
+{
+    properties: {
+        link: 'https://github.com/flot/flot',
+        notes: [],
+        platform: 'GitHub',
+        tests: [
+            'http://www.flotcharts.org/flot/examples/basic-usage/index.html'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.jQuery.plot',
+                'window.jQuery.plot.plugins',
+                'window.jQuery.plot.version'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/flowplayer/flowplayer.js
 {
     properties: {

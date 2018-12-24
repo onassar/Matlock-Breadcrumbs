@@ -4416,6 +4416,9 @@
     properties: {
         link: 'https://github.com/jashkenas/underscore',
         platform: 'GitHub',
+        tests: [
+            'https://torontolife.com/food/torontos-best-pies/'
+        ],
         type: 'repository',
         wikiPedia: {
             load: true,
@@ -6753,6 +6756,26 @@
         references: [
             [
                 'window.AlloyFinger'
+            ]
+        ]
+    }
+}
+,
+// src/gitHub/rnmp/salvattore.js
+{
+    properties: {
+        link: 'https://github.com/rnmp/salvattore',
+        name: 'Salvattore',
+        platform: 'GitHub',
+        tests: [
+            'https://www.allrecipes.com/recipes/367/desserts/pies/'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.salvattore'
             ]
         ]
     }

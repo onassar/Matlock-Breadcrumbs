@@ -2,6 +2,9 @@
     properties: {
         link: 'https://github.com/jashkenas/underscore',
         platform: 'GitHub',
+        tests: [
+            'https://torontolife.com/food/torontos-best-pies/'
+        ],
         type: 'repository',
         wikiPedia: {
             load: true,

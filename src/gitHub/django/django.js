@@ -13,7 +13,9 @@
     tests: {
         strings: {
             page: [
-                ['csrfmiddlewaretoken']
+                [
+                    'csrfmiddlewaretoken'
+                ]
             ]
         }
     }

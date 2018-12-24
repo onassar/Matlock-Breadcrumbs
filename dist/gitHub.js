@@ -2758,7 +2758,9 @@
     tests: {
         strings: {
             page: [
-                ['csrfmiddlewaretoken']
+                [
+                    'csrfmiddlewaretoken'
+                ]
             ]
         }
     }
@@ -3576,6 +3578,31 @@
         references: [
             'window.FullCalendar.version'
         ]
+    }
+}
+,
+// src/gitHub/gatsbyjs/gatsby.js
+{
+    properties: {
+        link: 'https://github.com/hjson/hjson-js',
+        notes: [],
+        platform: 'GitHub',
+        tests: [
+            'https://onsen.io/'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        strings: {
+            page: [
+                [
+                    '<div id="___gatsby">'
+                ],
+                [
+                    '<style id="gatsby-inlined-css">'
+                ]
+            ]
+        }
     }
 }
 ,

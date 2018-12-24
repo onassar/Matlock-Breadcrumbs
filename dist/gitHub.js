@@ -1053,6 +1053,33 @@
     }
 }
 ,
+// src/gitHub/adamwdraper/Numeral-js.js
+{
+    properties: {
+        link: 'https://github.com/adamwdraper/Numeral-js',
+        platform: 'GitHub',
+        tests: [
+            'https://themeforest.net/item/soledad-multiconcept-blogmagazine-wp-theme/12945398',
+            'http://numeraljs.com/'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.numeral',
+                'window.numeral.isNumeral',
+                'window.numeral.defaultFormat'
+            ]
+        ]
+    },
+    versions: {
+        references: [
+            'window.numeral.version'
+        ]
+    }
+}
+,
 // src/gitHub/adobe-webplatform/Snap.svg.js
 {
     properties: {

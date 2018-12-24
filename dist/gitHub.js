@@ -7429,12 +7429,10 @@
     },
     tests: {
         patterns: {
-            cookies: [
+            headers: [
                 [
                     /PHPSESSID/i
-                ]
-            ],
-            headers: [
+                ],
                 [
                     /x\-powered\-by\: php/i
                 ]

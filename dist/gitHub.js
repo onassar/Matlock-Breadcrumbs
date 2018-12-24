@@ -8027,6 +8027,25 @@
     }
 }
 ,
+// src/gitHub/virgiliud/jquery.anchorScroll.js
+{
+    properties: {
+        link: 'https://github.com/haltu/muuri',
+        platform: 'GitHub',
+        tests: [
+            'https://haltu.github.io/muuri/'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.jquery.anchorScroll'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/vitch/jScrollPane.js
 {
     properties: {

@@ -1,6 +1,6 @@
 {
     properties: {
-        link: 'https://github.com/FrDH/jQuery.TosRUs',
+        link: 'https://github.com/FrDH/jQuery.hamburgers',
         platform: 'GitHub',
         tests: [
             'http://tosrus.frebsite.nl/'

@@ -2880,7 +2880,12 @@
         },
         link: 'https://github.com/emberjs/ember.js',
         platform: 'GitHub',
-        type: 'repository'
+        type: 'repository',
+        wikiPedia: {
+            load: true,
+            title: 'Ember.js',
+            sections: []
+        }
     },
     tests: {
         references: [

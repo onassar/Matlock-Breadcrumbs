@@ -1212,6 +1212,9 @@
         statements: [
             [
                 'new window.Slinky().jump'
+            ],
+            [
+                'window.jQuery.fn.slinky'
             ]
         ]
     }

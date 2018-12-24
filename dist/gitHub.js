@@ -706,6 +706,31 @@
     }
 }
 ,
+// src/gitHub/SoapBox/linkifyjs.js
+{
+    properties: {
+        link: 'https://github.com/SoapBox/linkifyjs',
+        name: 'Linkify',
+        platform: 'GitHub',
+        tests: [
+            'https://soapbox.github.io/linkifyjs/'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.linkify'
+            ]
+        ]
+    },
+    versions: {
+        references: [
+            'window.linkify.version'
+        ]
+    }
+}
+,
 // src/gitHub/Stuk/jszip.js
 {
     uses: [

@@ -1,6 +1,6 @@
 {
     properties: {
-        link: 'https://github.com/ionic-team/ionicons',
+        link: 'https://github.com/google/material-design-icons',
         platform: 'GitHub',
         tests: [
             'https://lto.network/',

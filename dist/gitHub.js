@@ -8040,7 +8040,7 @@
     tests: {
         references: [
             [
-                'window.jquery.anchorScroll'
+                'window.jQuery.anchorScroll'
             ]
         ]
     }

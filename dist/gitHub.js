@@ -2559,10 +2559,12 @@
         type: 'repository'
     },
     tests: {
-        statements: [
+        references: [
             [
                 'window.imagesLoaded'
-            ],
+            ]
+        ],
+        statements: [
             [
                 'window.jQuery(\'html\').imagesLoaded'
             ]

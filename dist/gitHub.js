@@ -1793,6 +1793,24 @@
     }
 }
 ,
+// src/gitHub/blueimp/Bootstrap-Image-Gallery.js
+{
+    properties: {
+        link: 'https://github.com/blueimp/Bootstrap-Image-Gallery',
+        platform: 'GitHub',
+        tags: [],
+        tests: [],
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.dead.dead.dead'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/blueimp/Gallery.js
 {
     properties: {
@@ -2563,7 +2581,7 @@
         type: 'repository'
     },
     tests: {
-        statements: [
+        references: [
             [
                 'window.Masonry',
                 'window.Masonry.Item',

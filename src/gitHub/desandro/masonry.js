@@ -8,7 +8,7 @@
         type: 'repository'
     },
     tests: {
-        statements: [
+        references: [
             [
                 'window.Masonry',
                 'window.Masonry.Item',

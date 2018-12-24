@@ -13,7 +13,10 @@
     tests: {
         references: [
             [
-                'window.MagriGrid'
+                'window.MagriGrid',
+                'window.MagriGrid.prototype.init',
+                'window.MagriGrid.prototype.positionItems',
+                'window.MagriGrid.prototype.ready'
             ]
         ]
     }

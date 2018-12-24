@@ -704,7 +704,6 @@
 ,
 // src/gitHub/TryGhost/Ghost.js
 {
-    isolate: true,
     properties: {
         donate: {
             link: 'https://opencollective.com/ghost'
@@ -728,6 +727,11 @@
             headers: [
                 [
                     /x-ghost-cache-status/i
+                ]
+            ],
+            page: [
+                [
+                    /<meta[^>]+content\="Ghost /i
                 ]
             ]
         }

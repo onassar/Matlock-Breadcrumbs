@@ -9,7 +9,7 @@
         type: 'repository'
     },
     tests: {
-        statements: [
+        references: [
             [
                 'window.blueimp.Gallery'
             ]

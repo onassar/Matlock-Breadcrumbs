@@ -4691,8 +4691,17 @@
     tests: {
         references: [
             [
+                'window.jsbin',
+                'window.jsbin.static'
+            ],
+            [
                 'window.jsbinified'
             ]
+        ]
+    },
+    versions: {
+        references: [
+            'window.jsbin.version'
         ]
     }
 }

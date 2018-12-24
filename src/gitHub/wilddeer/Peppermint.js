@@ -12,7 +12,7 @@
         ],
         statements: [
             [
-                'jQuery(\'test\').Peppermint'
+                'window.jQuery(\'test\').Peppermint'
             ]
         ]
     }

@@ -1209,10 +1209,9 @@
         type: 'repository'
     },
     tests: {
-        references: [
+        statements: [
             [
-                'window.Slinky',
-                'window.jQuery.fn.slinky'
+                'new window.Slinky().jump'
             ]
         ]
     }
@@ -8309,7 +8308,7 @@
         ],
         statements: [
             [
-                'jQuery(\'test\').Peppermint'
+                'window.jQuery(\'test\').Peppermint'
             ]
         ]
     }

@@ -8,10 +8,9 @@
         type: 'repository'
     },
     tests: {
-        references: [
+        statements: [
             [
-                'window.Slinky',
-                'window.jQuery.fn.slinky'
+                'new window.Slinky().jump'
             ]
         ]
     }

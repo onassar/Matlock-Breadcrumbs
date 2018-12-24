@@ -56,8 +56,8 @@
         ],
         statements: [
             [
-                'jQuery.fun()',
-                'jQuery.boring()'
+                'window.jQuery.fun()',
+                'window.jQuery.boring()'
             ]
         ],
         strings: {

@@ -3425,6 +3425,11 @@
                 'window.jQuery.plot.version'
             ]
         ]
+    },
+    versions: {
+        references: [
+            'window.jQuery.plot.version'
+        ]
     }
 }
 ,

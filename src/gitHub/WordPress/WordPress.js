@@ -18,10 +18,21 @@
     tests: {
         patterns: {
             page: [
-                [/\<link[^>]+wp\-content\/plugins/i],
-                [/\<link[^>]+wp\-content\/themes/i],
-                [/\<link[^>]+wp\-content\/uploads/i],
-                [/\<link[^>]+wp\-includes/i]
+                [
+                    /\<link[^>]+wp\-content\/plugins/i
+                ],
+                [
+                    /\<link[^>]+wp\-content\/themes/i
+                ],
+                [
+                    /\<link[^>]+wp\-content\/uploads/i
+                ],
+                [
+                    /\<link[^>]+wp\-includes/i
+                ],
+                [
+                    /<meta[^>]+content\="WordPress /i
+                ]
             ]
         }
     },

@@ -7077,6 +7077,25 @@
     }
 }
 ,
+// src/gitHub/nnattawat/flip.js
+{
+    properties: {
+        link: 'https://github.com/nnattawat/flip',
+        platform: 'GitHub',
+        tests: [
+            'https://www.universalstudioshollywood.com/'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.jQuery.fn.flip'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/noelboss/featherlight.js
 {
     properties: {

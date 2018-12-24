@@ -6741,6 +6741,25 @@
     }
 }
 ,
+// src/gitHub/pixxelfactory/jInvertScroll.js
+{
+    properties: {
+        link: 'https://github.com/pixxelfactory/jInvertScroll',
+        platform: 'GitHub',
+        tests: [
+            'https://www.pixxelfactory.net/jInvertScroll/'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.jQuery.jInvertScroll'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/pure-css/pure.js
 {
     properties: {

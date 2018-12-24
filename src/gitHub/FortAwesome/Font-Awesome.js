@@ -23,10 +23,10 @@
         patterns: {
             page: [
                 [
-                    /\<link[^>]+fontawesome/i
+                    /<link[^>]+fontawesome/i
                 ],
                 [
-                    /\<link[^>]+font\-awesome/i
+                    /<link[^>]+font\-awesome/i
                 ],
                 [
                     /href="https?:\/\/use\.fontawesome\.com/i

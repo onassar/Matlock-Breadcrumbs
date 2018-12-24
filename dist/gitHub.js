@@ -211,10 +211,10 @@
         patterns: {
             page: [
                 [
-                    /\<link[^>]+fontawesome/i
+                    /<link[^>]+fontawesome/i
                 ],
                 [
-                    /\<link[^>]+font\-awesome/i
+                    /<link[^>]+font\-awesome/i
                 ],
                 [
                     /href="https?:\/\/use\.fontawesome\.com/i
@@ -908,16 +908,16 @@
         patterns: {
             page: [
                 [
-                    /\<link[^>]+wp\-content\/plugins/i
+                    /<link[^>]+wp\-content\/plugins/i
                 ],
                 [
-                    /\<link[^>]+wp\-content\/themes/i
+                    /<link[^>]+wp\-content\/themes/i
                 ],
                 [
-                    /\<link[^>]+wp\-content\/uploads/i
+                    /<link[^>]+wp\-content\/uploads/i
                 ],
                 [
-                    /\<link[^>]+wp\-includes/i
+                    /<link[^>]+wp\-includes/i
                 ],
                 [
                     /<meta[^>]+content\="WordPress /i
@@ -8461,7 +8461,7 @@
         patterns: {
             page: [
                 [
-                    /\<link[^>]+\/bootstrap\//i
+                    /<link[^>]+\/bootstrap\//i
                 ]
             ]
         },

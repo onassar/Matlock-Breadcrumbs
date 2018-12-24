@@ -20,7 +20,7 @@
         patterns: {
             page: [
                 [
-                    /\<link[^>]+\/bootstrap\//i
+                    /<link[^>]+\/bootstrap\//i
                 ]
             ]
         },

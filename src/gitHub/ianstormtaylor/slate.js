@@ -7,9 +7,15 @@
     tests: {
         patterns: {
             page: [
-                [/data\-slate\-content/i],
-                [/data\-slate\-editor/i],
-                [/data\-slate\-leaf/i]
+                [
+                    /data\-slate\-content/i
+                ],
+                [
+                    /data\-slate\-editor/i
+                ],
+                [
+                    /data\-slate\-leaf/i
+                ]
             ]
         }
     }

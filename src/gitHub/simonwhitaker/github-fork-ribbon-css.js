@@ -7,7 +7,9 @@
     tests: {
         patterns: {
             page: [
-                [/\[github\-fork\-ribbon\]/i]
+                [
+                    /\[github\-fork\-ribbon\]/i
+                ]
             ]
         }
     }

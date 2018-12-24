@@ -18,8 +18,12 @@
     tests: {
         patterns: {
             page: [
-                [/dns-prefetch[^>]+fonts\.googleapis\.com/i],
-                [/href="https?:\/\/fonts\.googleapis\.com/i]
+                [
+                    /dns-prefetch[^>]+fonts\.googleapis\.com/i
+                ],
+                [
+                    /href="https?:\/\/fonts\.googleapis\.com/i
+                ]
             ]
         }
     }

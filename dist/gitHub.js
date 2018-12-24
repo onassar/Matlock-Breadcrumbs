@@ -210,9 +210,15 @@
     tests: {
         patterns: {
             page: [
-                [/\<link[^>]+fontawesome/i],
-                [/\<link[^>]+font\-awesome/i],
-                [/href="https?:\/\/use\.fontawesome\.com/i]
+                [
+                    /\<link[^>]+fontawesome/i
+                ],
+                [
+                    /\<link[^>]+font\-awesome/i
+                ],
+                [
+                    /href="https?:\/\/use\.fontawesome\.com/i
+                ]
             ]
         }
     },
@@ -289,7 +295,9 @@
     tests: {
         patterns: {
             page: [
-                [/id="react-select/i]
+                [
+                    /id="react-select/i
+                ]
             ]
         }
     }
@@ -936,8 +944,12 @@
     tests: {
         patterns: {
             page: [
-                [/\/html5shiv\./i],
-                [/\/html5shiv\//i]
+                [
+                    /\/html5shiv\./i
+                ],
+                [
+                    /\/html5shiv\//i
+                ]
             ]
         },
         references: [
@@ -3313,9 +3325,15 @@
     tests: {
         patterns: {
             page: [
-                [/data\-reactroot/i],
-                [/data\-reactid/i],
-                [/react\-root/i]
+                [
+                    /data\-reactroot/i
+                ],
+                [
+                    /data\-reactid/i
+                ],
+                [
+                    /react\-root/i
+                ]
             ]
         },
         references: [
@@ -3914,8 +3932,12 @@
     tests: {
         patterns: {
             page: [
-                [/dns-prefetch[^>]+fonts\.googleapis\.com/i],
-                [/href="https?:\/\/fonts\.googleapis\.com/i]
+                [
+                    /dns-prefetch[^>]+fonts\.googleapis\.com/i
+                ],
+                [
+                    /href="https?:\/\/fonts\.googleapis\.com/i
+                ]
             ]
         }
     }
@@ -4435,9 +4457,15 @@
     tests: {
         patterns: {
             page: [
-                [/data\-slate\-content/i],
-                [/data\-slate\-editor/i],
-                [/data\-slate\-leaf/i]
+                [
+                    /data\-slate\-content/i
+                ],
+                [
+                    /data\-slate\-editor/i
+                ],
+                [
+                    /data\-slate\-leaf/i
+                ]
             ]
         }
     }
@@ -7753,7 +7781,9 @@
     tests: {
         patterns: {
             page: [
-                [/\[github\-fork\-ribbon\]/i]
+                [
+                    /\[github\-fork\-ribbon\]/i
+                ]
             ]
         }
     }
@@ -8083,7 +8113,9 @@
     tests: {
         patterns: {
             page: [
-                [/data\-styled\-components/i]
+                [
+                    /data\-styled\-components/i
+                ]
             ]
         }
     }
@@ -8771,8 +8803,12 @@
     tests: {
         patterns: {
             page: [
-                [/data\-vue\-meta/i],
-                [/data\-vue\-meta\-server\-rendered/i]
+                [
+                    /data\-vue\-meta/i
+                ],
+                [
+                    /data\-vue\-meta\-server\-rendered/i
+                ]
             ]
         },
         references: [

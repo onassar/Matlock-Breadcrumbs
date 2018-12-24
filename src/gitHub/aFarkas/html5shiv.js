@@ -18,8 +18,12 @@
     tests: {
         patterns: {
             page: [
-                [/\/html5shiv\./i],
-                [/\/html5shiv\//i]
+                [
+                    /\/html5shiv\./i
+                ],
+                [
+                    /\/html5shiv\//i
+                ]
             ]
         },
         references: [

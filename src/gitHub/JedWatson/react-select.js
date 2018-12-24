@@ -7,7 +7,9 @@
     tests: {
         patterns: {
             page: [
-                [/id="react-select/i]
+                [
+                    /id="react-select/i
+                ]
             ]
         }
     }

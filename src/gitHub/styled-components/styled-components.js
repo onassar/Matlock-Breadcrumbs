@@ -7,7 +7,9 @@
     tests: {
         patterns: {
             page: [
-                [/data\-styled\-components/i]
+                [
+                    /data\-styled\-components/i
+                ]
             ]
         }
     }

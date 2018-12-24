@@ -15,9 +15,15 @@
     tests: {
         patterns: {
             page: [
-                [/data\-reactroot/i],
-                [/data\-reactid/i],
-                [/react\-root/i]
+                [
+                    /data\-reactroot/i
+                ],
+                [
+                    /data\-reactid/i
+                ],
+                [
+                    /react\-root/i
+                ]
             ]
         },
         references: [

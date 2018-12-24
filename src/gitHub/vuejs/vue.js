@@ -16,8 +16,12 @@
     tests: {
         patterns: {
             page: [
-                [/data\-vue\-meta/i],
-                [/data\-vue\-meta\-server\-rendered/i]
+                [
+                    /data\-vue\-meta/i
+                ],
+                [
+                    /data\-vue\-meta\-server\-rendered/i
+                ]
             ]
         },
         references: [

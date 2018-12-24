@@ -14,6 +14,11 @@
     },
     tests: {
         patterns: {
+            cookies: [
+                [
+                    /PHPSESSID/i
+                ]
+            ],
             headers: [
                 [
                     /x\-powered\-by\: php/i

@@ -2604,6 +2604,26 @@
     }
 }
 ,
+// src/gitHub/davatron5000/FitText.js.js
+{
+    properties: {
+        link: 'https://github.com/davatron5000/FitText.js',
+        notes: [],
+        platform: 'GitHub',
+        tests: [
+            'http://fittextjs.com/'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.jQuery.fn.fitText'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/davatron5000/FitVids.js.js
 {
     properties: {

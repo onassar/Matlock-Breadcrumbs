@@ -4118,6 +4118,28 @@
     }
 }
 ,
+// src/gitHub/ionic-team/ionicons.js
+{
+    properties: {
+        link: 'https://github.com/ionic-team/ionicons',
+        platform: 'GitHub',
+        tests: [
+            'https://lto.network/',
+            'https://ionicons.com/'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        patterns: {
+            page: [
+                [
+                    /\bion ion-\b/i
+                ]
+            ]
+        }
+    }
+}
+,
 // src/gitHub/jackocnr/intl-tel-input.js
 {
     properties: {

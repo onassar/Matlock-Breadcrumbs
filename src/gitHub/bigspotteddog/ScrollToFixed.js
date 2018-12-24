@@ -1,6 +1,6 @@
 {
     properties: {
-        link: 'https://github.com/insites/ScrollToFixed',
+        link: 'https://github.com/bigspotteddog/ScrollToFixed',
         name: 'ScrollToFixed',
         platform: 'GitHub',
         tests: [

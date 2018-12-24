@@ -11,8 +11,7 @@
         references: [
             [
                 'window.Slinky',
-                'window.Slinky.menu',
-                'window.Slinky.settings'
+                'window.jQuery.fn.slinky'
             ]
         ]
     }

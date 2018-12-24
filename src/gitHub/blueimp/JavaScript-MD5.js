@@ -11,7 +11,7 @@
         type: 'repository'
     },
     tests: {
-        statements: [
+        references: [
             [
                 'window.md5'
             ]

@@ -11,8 +11,8 @@
     tests: {
         statements: [
             [
-                'new Sifter()',
-                'new Sifter().settings'
+                'new window.Sifter()',
+                'new window.Sifter().settings'
             ]
         ]
     }

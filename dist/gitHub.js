@@ -1845,7 +1845,7 @@
         type: 'repository'
     },
     tests: {
-        statements: [
+        references: [
             [
                 'window.md5'
             ]
@@ -1925,8 +1925,8 @@
     tests: {
         statements: [
             [
-                'new Sifter()',
-                'new Sifter().settings'
+                'new window.Sifter()',
+                'new window.Sifter().settings'
             ]
         ]
     }
@@ -2556,6 +2556,9 @@
     properties: {
         link: 'https://github.com/desandro/imagesloaded',
         platform: 'GitHub',
+        tests: [
+            'https://imagesloaded.desandro.com/'
+        ],
         type: 'repository'
     },
     tests: {

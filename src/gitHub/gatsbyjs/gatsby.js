@@ -12,6 +12,13 @@
         type: 'repository'
     },
     tests: {
+        patterns: {
+            page: [
+                [
+                    /<meta[^>]+content\="Gatsby /i
+                ]
+            ]
+        },
         strings: {
             page: [
                 [
@@ -20,6 +27,13 @@
                 [
                     '<style id="gatsby-inlined-css">'
                 ]
+            ]
+        }
+    },
+    versions: {
+        patterns: {
+            page: [
+                /<meta[^>]+content\="Gatsby ([^"]+)/i
             ]
         }
     }

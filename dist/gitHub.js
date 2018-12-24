@@ -2818,8 +2818,8 @@
     tests: {
         references: [
             [
-                'window.pjax',
-                'window.pjax.reload'
+                'window.jQuery.pjax',
+                'window.jQuery.pjax.reload'
             ]
         ]
     }

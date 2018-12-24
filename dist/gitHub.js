@@ -816,6 +816,31 @@
     }
 }
 ,
+// src/gitHub/TarekRaafat/autoComplete.js.js
+{
+    properties: {
+        link: 'https://github.com/TarekRaafat/autoComplete.js',
+        platform: 'GitHub',
+        tags: [
+            'search'
+        ],
+        tests: [
+            'https://tarekraafat.github.io/autoComplete.js/demo/'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.autoComplete',
+                'window.autoComplete.prototype.init',
+                'window.autoComplete.prototype.listMatchedResults',
+                'window.autoComplete.prototype.search'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/TryGhost/Ghost.js
 {
     properties: {
@@ -3286,10 +3311,10 @@
     tests: {
         references: [
             [
-                'window.MagriGrid',
-                'window.MagriGrid.prototype.init',
-                'window.MagriGrid.prototype.positionItems',
-                'window.MagriGrid.prototype.ready'
+                'window.MagicGrid',
+                'window.MagicGrid.prototype.init',
+                'window.MagicGrid.prototype.positionItems',
+                'window.MagicGrid.prototype.ready'
             ]
         ]
     }

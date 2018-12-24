@@ -7817,6 +7817,32 @@
     }
 }
 ,
+// src/gitHub/sockjs/sockjs-client.js
+{
+    properties: {
+        link: 'https://github.com/sockjs/sockjs-client',
+        platform: 'GitHub',
+        tests: [
+            'https://www.nytimes.com/interactive/2016/sports/olympics/rio-olympics-photo-firehose.html'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.SockJS',
+                'window.SockJS.prototype._debug',
+                'window.SockJS.prototype._dispatchOpen'
+            ]
+        ]
+    },
+    versions: {
+        references: [
+            'window.SockJS.version'
+        ]
+    }
+}
+,
 // src/gitHub/sofish/pen.js
 {
     properties: {

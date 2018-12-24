@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/grevory/angular-local-storage',
-        name: 'Salvattore',
         platform: 'GitHub',
         tests: [
             'https://www.allrecipes.com/recipes/367/desserts/pies/'

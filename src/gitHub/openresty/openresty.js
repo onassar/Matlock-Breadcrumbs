@@ -1,6 +1,6 @@
 {
     dependencies: [
-        'gitHub/nginx/nginx'
+        'https://github.com/nginx/nginx'
     ],
     properties: {
         donate: {

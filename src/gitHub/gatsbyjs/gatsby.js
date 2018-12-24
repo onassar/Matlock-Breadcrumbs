@@ -1,4 +1,7 @@
 {
+    dependencies: [
+        'https://github.com/facebook/react'
+    ],
     properties: {
         link: 'https://github.com/gatsbyjs/gatsby',
         notes: [],

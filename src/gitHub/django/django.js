@@ -1,6 +1,6 @@
 {
     dependencies: [
-        'gitHub/python/cpython'
+        'https://github.com/python/cpython'
     ],
     properties: {
         donate: {

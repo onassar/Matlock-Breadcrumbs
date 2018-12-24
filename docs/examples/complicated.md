@@ -2,7 +2,7 @@
 {
     isolate: true,
     dependencies: [
-        'gitHub/onassar/Stencil'
+        'https://github.com/onassar/Stencil'
     ],
     properties: {
         alternatives: [

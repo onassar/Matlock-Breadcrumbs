@@ -1,6 +1,6 @@
 {
     dependencies: [
-        'gitHub/php/php-src'
+        'https://github.com/php/php-src'
     ],
     properties: {
         donate: {

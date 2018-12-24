@@ -1,6 +1,6 @@
 {
     dependencies: [
-        'gitHub/nodejs/node'
+        'https://github.com/nodejs/node'
     ],
     properties: {
         link: 'https://github.com/totaljs/framework',

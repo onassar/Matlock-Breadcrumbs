@@ -1,6 +1,6 @@
 {
     dependencies: [
-        'gitHub/jashkenas/underscore'
+        'https://github.com/jashkenas/underscore'
     ],
     properties: {
         link: 'https://github.com/jashkenas/backbone',

@@ -835,7 +835,7 @@
 // src/gitHub/WordPress/WordPress.js
 {
     dependencies: [
-        'gitHub/php/php-src'
+        'https://github.com/php/php-src'
     ],
     properties: {
         donate: {
@@ -1688,7 +1688,7 @@
 // src/gitHub/badlerdashy/sails.js
 {
     dependencies: [
-        'gitHub/nodejs/node'
+        'https://github.com/nodejs/node'
     ],
     properties: {
         link: 'https://github.com/balderdashy/sails',
@@ -1761,7 +1761,7 @@
 // src/gitHub/bcit-ci/CodeIgniter.js
 {
     dependencies: [
-        'gitHub/php/php-src'
+        'https://github.com/php/php-src'
     ],
     properties: {
         link: 'https://github.com/bcit-ci/CodeIgniter',
@@ -2030,7 +2030,7 @@
 // src/gitHub/cakephp/cakephp.js
 {
     dependencies: [
-        'gitHub/php/php-src'
+        'https://github.com/php/php-src'
     ],
     properties: {
         link: 'https://github.com/cakephp/cakephp',
@@ -2397,7 +2397,7 @@
 // src/gitHub/craftcms/cms.js
 {
     dependencies: [
-        'gitHub/yiisoft/yii'
+        'https://github.com/yiisoft/yii'
     ],
     properties: {
         link: 'https://github.com/craftcms/cms',
@@ -2745,7 +2745,7 @@
 // src/gitHub/django/django.js
 {
     dependencies: [
-        'gitHub/python/cpython'
+        'https://github.com/python/cpython'
     ],
     properties: {
         donate: {
@@ -2873,7 +2873,7 @@
 // src/gitHub/drupal/drupal.js
 {
     dependencies: [
-        'gitHub/php/php-src'
+        'https://github.com/php/php-src'
     ],
     properties: {
         donate: {
@@ -3583,6 +3583,9 @@
 ,
 // src/gitHub/gatsbyjs/gatsby.js
 {
+    dependencies: [
+        'https://github.com/facebook/react'
+    ],
     properties: {
         link: 'https://github.com/gatsbyjs/gatsby',
         notes: [],
@@ -4591,7 +4594,7 @@
 // src/gitHub/jashkenas/backbone.js
 {
     dependencies: [
-        'gitHub/jashkenas/underscore'
+        'https://github.com/jashkenas/underscore'
     ],
     properties: {
         link: 'https://github.com/jashkenas/backbone',
@@ -5398,7 +5401,7 @@
 // src/gitHub/laravel/laravel.js
 {
     dependencies: [
-        'gitHub/php/php-src'
+        'https://github.com/php/php-src'
     ],
     properties: {
         link: 'https://github.com/laravel/laravel',
@@ -6838,7 +6841,7 @@
 // src/gitHub/openresty/openresty.js
 {
     dependencies: [
-        'gitHub/nginx/nginx'
+        'https://github.com/nginx/nginx'
     ],
     properties: {
         donate: {
@@ -8008,7 +8011,7 @@
 // src/gitHub/totaljs/framework.js
 {
     dependencies: [
-        'gitHub/nodejs/node'
+        'https://github.com/nodejs/node'
     ],
     properties: {
         link: 'https://github.com/totaljs/framework',
@@ -8850,7 +8853,7 @@
 // src/gitHub/yiisoft/yii.js
 {
     dependencies: [
-        'gitHub/php/php-src'
+        'https://github.com/php/php-src'
     ],
     properties: {
         link: 'https://github.com/yiisoft/yii',

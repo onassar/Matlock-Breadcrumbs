@@ -1,6 +1,6 @@
 {
     dependencies: [
-        'gitHub/yiisoft/yii'
+        'https://github.com/yiisoft/yii'
     ],
     properties: {
         link: 'https://github.com/craftcms/cms',

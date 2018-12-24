@@ -3925,6 +3925,7 @@
 {
     properties: {
         link: 'https://github.com/google/material-design-icons',
+        name: 'Material design icons',
         platform: 'GitHub',
         tests: [
             'https://lto.network/',

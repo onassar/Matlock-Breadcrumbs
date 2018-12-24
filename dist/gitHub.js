@@ -8447,6 +8447,32 @@
     }
 }
 ,
+// src/gitHub/soney/jsep.js
+{
+    properties: {
+        link: 'https://github.com/soney/jsep',
+        platform: 'GitHub',
+        tags: [],
+        tests: [
+            'http://jsep.from.so/'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.jsep',
+                'window.jsep.noConflict'
+            ]
+        ]
+    },
+    versions: {
+        references: [
+            'window.jsep.version'
+        ]
+    }
+}
+,
 // src/gitHub/sorccu/cufon.js
 {
     properties: {

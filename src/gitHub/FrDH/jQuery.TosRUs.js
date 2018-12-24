@@ -8,16 +8,14 @@
         type: 'repository'
     },
     tests: {
-        references: [
-            [
-                'window.jQuery.tosrus',
-                'window.jQuery.tosrus.defaults'
+        strings: {
+            page: [
+                [
+                    'hamburger',
+                    'hamburger-box',
+                    'hamburger-inner'
+                ]
             ]
-        ]
-    },
-    versions: {
-        references: [
-            'window.jQuery.tosrus.version'
-        ]
+        }
     }
 }

@@ -4696,7 +4696,7 @@
 // src/gitHub/jonsamwell/angular-auto-validate.js
 {
     properties: {
-        link: 'https://github.com/sachinchoolur/lightGallery',
+        link: 'https://github.com/jonsamwell/angular-auto-validate',
         notes: [],
         platform: 'GitHub',
         tests: [

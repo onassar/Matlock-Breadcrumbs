@@ -11,7 +11,8 @@
     tests: {
         references: [
             [
-                'window.linkify'
+                'window.linkify',
+                'window.linkify.find'
             ]
         ]
     },

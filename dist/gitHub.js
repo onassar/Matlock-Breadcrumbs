@@ -4551,6 +4551,28 @@
     }
 }
 ,
+// src/gitHub/jaysalvat/buzz.js
+{
+    properties: {
+        link: 'https://github.com/jaysalvat/buzz',
+        platform: 'GitHub',
+        tests: [
+            'http://buzz.jaysalvat.com/'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.buzz',
+                'window.buzz.defaults',
+                'window.buzz.sounds',
+                'window.buzz.type'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/jaysalvat/jquery.facedetection.js
 {
     properties: {

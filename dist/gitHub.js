@@ -7388,7 +7388,7 @@
                 'window.jQuery.fn.roundSlider'
             ]
         ]
-    }
+    },
     versions: {
         references: [
             'window.jQuery.fn.roundSlider.prototype.version'

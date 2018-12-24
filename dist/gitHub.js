@@ -3270,6 +3270,28 @@
     }
 }
 ,
+// src/gitHub/e-oj/Magic-Grid.js
+{
+    properties: {
+        link: 'https://github.com/e-oj/Magic-Grid',
+        platform: 'GitHub',
+        tags: [
+            'search'
+        ],
+        tests: [
+            'https://jsfiddle.net/eolaojo/4pov0rdf/'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.MagriGrid'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/eligrey/FileSaver.js
 {
     properties: {

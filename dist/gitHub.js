@@ -8030,10 +8030,10 @@
 // src/gitHub/virgiliud/jquery.anchorScroll.js
 {
     properties: {
-        link: 'https://github.com/haltu/muuri',
+        link: 'https://github.com/virgiliud/jquery.anchorScroll',
         platform: 'GitHub',
         tests: [
-            'https://haltu.github.io/muuri/'
+            'http://www.virgiliudiaconu.com/work/anchor-scroll'
         ],
         type: 'repository'
     },

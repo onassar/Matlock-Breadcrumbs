@@ -4191,6 +4191,25 @@
     }
 }
 ,
+// src/gitHub/hernansartorio/jquery-nice-select.js
+{
+    properties: {
+        link: 'https://github.com/hernansartorio/jquery-nice-select',
+        platform: 'GitHub',
+        tests: [
+            'https://www.jesusfilm.org/'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.jQuery.fn.niceSelect'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/hexojs/hexo.js
 {
     properties: {

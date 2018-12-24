@@ -8,7 +8,12 @@
         tests: [
             'https://videojs.com/'
         ],
-        type: 'repository'
+        type: 'repository',
+        wikiPedia: {
+            load: true,
+            title: 'WebVTT',
+            sections: []
+        }
     },
     tests: {
         references: [

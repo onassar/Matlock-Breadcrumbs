@@ -3049,6 +3049,11 @@
                 [
                     /x\-drupal\-cache/i
                 ]
+            ],
+            page: [
+                [
+                    /<meta[^>]+content\="Drupal /i
+                ]
             ]
         }
     },
@@ -3056,6 +3061,10 @@
         patterns: {
             headers: [
                 /x\-generator\: drupal ([0-9\.]+)/i
+            ],
+            page: [
+                /<meta[^>]+name="generator"[^>]+content="Drupal ([^"]+)"/i,
+                /<meta[^>]+content="Drupal ([^"]+)"[^>]+name="generator"/i
             ]
         }
     }

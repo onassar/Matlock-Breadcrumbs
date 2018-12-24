@@ -9,6 +9,9 @@
             [
                 'window.Matomo',
                 'window.Matomo.addPlugin'
+            ],
+            [
+                'window._paq'
             ]
         ]
     }

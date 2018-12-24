@@ -6844,6 +6844,26 @@
     }
 }
 ,
+// src/gitHub/peachananr/tiltedpage_scroll.js
+{
+    properties: {
+        link: 'https://github.com/peachananr/tiltedpage_scroll',
+        notes: [],
+        platform: 'GitHub',
+        tests: [
+            'http://www.thepetedesign.com/demos/tiltedpage_scroll_demo.html'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.jQuery.fn.tiltedpage_scroll'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/php/php-src.js
 {
     properties: {

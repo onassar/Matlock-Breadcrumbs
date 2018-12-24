@@ -1211,9 +1211,9 @@
     tests: {
         references: [
             [
-                'window.slinky',
-                'window.slinky.menu',
-                'window.slinky.settings'
+                'window.Slinky',
+                'window.Slinky.menu',
+                'window.Slinky.settings'
             ]
         ]
     }

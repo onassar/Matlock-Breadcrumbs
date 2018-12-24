@@ -2805,12 +2805,32 @@
     }
 }
 ,
+// src/gitHub/defunkt/facebox.js
+{
+    properties: {
+        link: 'https://github.com/defunkt/facebox',
+        platform: 'GitHub',
+        tests: [
+            'http://defunkt.io/facebox/'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.jQuery.fn.facebox'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/defunkt/jquery-pjax.js
 {
     properties: {
         link: 'https://github.com/defunkt/jquery-pjax',
         platform: 'GitHub',
         tests: [
+            'https://pjax.herokuapp.com/',
             'https://themeforest.net/item/soledad-multiconcept-blogmagazine-wp-theme/12945398'
         ],
         type: 'repository'

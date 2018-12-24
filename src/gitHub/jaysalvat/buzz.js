@@ -13,7 +13,7 @@
                 'window.buzz',
                 'window.buzz.defaults',
                 'window.buzz.sounds',
-                'window.buzz.type'
+                'window.buzz.types'
             ]
         ]
     }

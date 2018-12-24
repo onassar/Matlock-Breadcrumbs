@@ -3736,6 +3736,26 @@
     }
 }
 ,
+// src/gitHub/grevory/angular-local-storage.js
+{
+    properties: {
+        link: 'https://github.com/grevory/angular-local-storage',
+        name: 'Salvattore',
+        platform: 'GitHub',
+        tests: [
+            'https://www.allrecipes.com/recipes/367/desserts/pies/'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        statements: [
+            [
+                'window.angular.module(\'LocalStorageModule\')'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/guillaumepotier/Parsley.js.js
 {
     properties: {

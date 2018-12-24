@@ -2604,6 +2604,26 @@
     }
 }
 ,
+// src/gitHub/davatron5000/Lettering.js.js
+{
+    properties: {
+        link: 'https://github.com/davatron5000/Lettering.js',
+        notes: [],
+        platform: 'GitHub',
+        tests: [
+            'http://letteringjs.com/'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.jQuery.fn.lettering'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/davidbau/seedrandom.js
 {
     properties: {

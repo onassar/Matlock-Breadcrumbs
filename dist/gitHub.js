@@ -5033,12 +5033,16 @@
             [
                 'window._',
                 'window._.at'
+            ],
+            [
+                'window.__lodash'
             ]
         ]
     },
     versions: {
         references: [
-            'window._.VERSION'
+            'window._.VERSION',
+            'window.__lodash.VERSION'
         ]
     }
 }

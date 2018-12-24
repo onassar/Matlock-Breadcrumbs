@@ -1,4 +1,5 @@
 {
+    isolate: true,
     properties: {
         donate: {
             link: 'https://opencollective.com/ghost'

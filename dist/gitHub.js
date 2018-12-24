@@ -704,6 +704,7 @@
 ,
 // src/gitHub/TryGhost/Ghost.js
 {
+    isolate: true,
     properties: {
         donate: {
             link: 'https://opencollective.com/ghost'

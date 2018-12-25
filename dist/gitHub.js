@@ -9341,6 +9341,7 @@
 {
     properties: {
         link: 'https://github.com/phusion/passenger',
+        name: 'Phusion Passenger',
         notes: [],
         platform: 'GitHub',
         tests: [

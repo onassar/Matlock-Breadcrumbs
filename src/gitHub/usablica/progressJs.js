@@ -4,7 +4,7 @@
         notes: [],
         platform: 'GitHub',
         tests: [
-            'https://introjs.com/'
+            'http://usablica.github.io/progress.js/'
         ],
         type: 'repository'
     },

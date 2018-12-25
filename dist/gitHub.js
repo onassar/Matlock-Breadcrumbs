@@ -5417,9 +5417,10 @@
         link: 'https://github.com/iamkun/dayjs',
         notes: [],
         platform: 'GitHub',
-        tests: [
-            'https://introjs.com/'
+        tags: [
+            'date-time'
         ],
+        tests: [],
         type: 'repository'
     },
     tests: {
@@ -5427,11 +5428,6 @@
             [
                 'window.dayjs'
             ]
-        ]
-    },
-    versions: {
-        references: [
-            'window.dayjs.version'
         ]
     }
 }
@@ -10040,7 +10036,7 @@
         notes: [],
         platform: 'GitHub',
         tests: [
-            'https://introjs.com/'
+            'http://usablica.github.io/progress.js/'
         ],
         type: 'repository'
     },
@@ -10066,7 +10062,7 @@
         notes: [],
         platform: 'GitHub',
         tests: [
-            'https://introjs.com/'
+            'http://usablica.github.io/widearea/'
         ],
         type: 'repository'
     },

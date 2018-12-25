@@ -3,9 +3,10 @@
         link: 'https://github.com/iamkun/dayjs',
         notes: [],
         platform: 'GitHub',
-        tests: [
-            'https://introjs.com/'
+        tags: [
+            'date-time'
         ],
+        tests: [],
         type: 'repository'
     },
     tests: {
@@ -13,11 +14,6 @@
             [
                 'window.dayjs'
             ]
-        ]
-    },
-    versions: {
-        references: [
-            'window.dayjs.version'
         ]
     }
 }

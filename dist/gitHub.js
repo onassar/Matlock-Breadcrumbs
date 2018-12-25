@@ -2739,6 +2739,26 @@
     }
 }
 ,
+// src/gitHub/corbanbrook/dsp.js.js
+{
+    properties: {
+        link: 'https://github.com/corbanbrook/dsp.js',
+        platform: 'GitHub',
+        tests: [
+            'https://lab.hakim.se/radar/'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.FFT',
+                'window.FFT.prototype.calculateReverseTable',
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/cowboy/jquery-tiny-pubsub.js
 {
     properties: {

@@ -30,7 +30,7 @@
             ],
             page: [
                 [
-                    /<meta[^>]+content\="Drupal /i
+                    /<meta[^>]+content\="Drupal\b/i
                 ]
             ]
         }

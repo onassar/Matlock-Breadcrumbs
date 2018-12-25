@@ -10,7 +10,7 @@
         patterns: {
             page: [
                 [
-                    /<meta[^>]+content\="Hexo /i
+                    /<meta[^>]+content\="Hexo\b/i
                 ]
             ]
         }

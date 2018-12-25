@@ -26,7 +26,7 @@
             ],
             page: [
                 [
-                    /<meta[^>]+content\="Ghost /i
+                    /<meta[^>]+content\="Ghost\b/i
                 ]
             ]
         }

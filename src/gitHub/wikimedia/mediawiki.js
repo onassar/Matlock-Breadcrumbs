@@ -16,7 +16,7 @@
         patterns: {
             page: [
                 [
-                    /<meta[^>]+content\="MediaWiki /i
+                    /<meta[^>]+content\="MediaWiki\b/i
                 ]
             ]
         }

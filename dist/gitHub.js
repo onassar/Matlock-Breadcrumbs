@@ -1150,7 +1150,7 @@
             ],
             page: [
                 [
-                    /<meta[^>]+content\="Ghost /i
+                    /<meta[^>]+content\="Ghost\b/i
                 ]
             ]
         }
@@ -1359,7 +1359,7 @@
                     /<link[^>]+wp\-includes/i
                 ],
                 [
-                    /<meta[^>]+content\="WordPress /i
+                    /<meta[^>]+content\="WordPress\b/i
                 ]
             ]
         }
@@ -4057,7 +4057,7 @@
             ],
             page: [
                 [
-                    /<meta[^>]+content\="Drupal /i
+                    /<meta[^>]+content\="Drupal\b/i
                 ]
             ]
         }
@@ -4837,7 +4837,7 @@
         patterns: {
             page: [
                 [
-                    /<meta[^>]+content\="Gatsby /i
+                    /<meta[^>]+content\="Gatsby\b/i
                 ]
             ]
         },
@@ -5096,7 +5096,7 @@
         patterns: {
             page: [
                 [
-                    /<meta[^>]+content\="Hugo /i
+                    /<meta[^>]+content\="Hugo\b/i
                 ]
             ]
         }
@@ -5667,7 +5667,7 @@
         patterns: {
             page: [
                 [
-                    /<meta[^>]+content\="Hexo /i
+                    /<meta[^>]+content\="Hexo\b/i
                 ]
             ]
         }
@@ -11412,7 +11412,7 @@
         patterns: {
             page: [
                 [
-                    /<meta[^>]+content\="MediaWiki /i
+                    /<meta[^>]+content\="MediaWiki\b/i
                 ]
             ]
         }

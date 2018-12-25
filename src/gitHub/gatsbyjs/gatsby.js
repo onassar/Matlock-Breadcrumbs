@@ -15,7 +15,7 @@
         patterns: {
             page: [
                 [
-                    /<meta[^>]+content\="Gatsby /i
+                    /<meta[^>]+content\="Gatsby\b/i
                 ]
             ]
         },

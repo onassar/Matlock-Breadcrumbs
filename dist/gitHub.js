@@ -3027,6 +3027,28 @@
     }
 }
 ,
+// src/gitHub/chriso/validator.js.js
+{
+    properties: {
+        link: 'https://github.com/chriso/validator.js',
+        notes: [],
+        platform: 'GitHub',
+        tests: [],
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.validator',
+                'window.validator',
+                'window.validator',
+                'window.validator',
+                'window.validator'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/ckeditor/ckeditor-dev.js
 {
     properties: {
@@ -3273,6 +3295,31 @@
     versions: {
         references: [
             'window.curl.version'
+        ]
+    }
+}
+,
+// src/gitHub/cure53/DOMPurify.js
+{
+    properties: {
+        link: 'https://github.com/cure53/DOMPurify',
+        notes: [],
+        platform: 'GitHub',
+        tests: [
+            'https://cure53.de/purify'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.DOMPurify'
+            ]
+        ]
+    },
+    versions: {
+        references: [
+            'window.DOMPurify.version'
         ]
     }
 }

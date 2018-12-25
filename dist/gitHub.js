@@ -188,7 +188,7 @@
         notes: [],
         platform: 'GitHub',
         tests: [
-            'http://jscolor.com/examples/'
+            'http://jscolor.com/'
         ],
         type: 'repository'
     },

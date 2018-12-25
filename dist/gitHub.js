@@ -6071,6 +6071,31 @@
     }
 }
 ,
+// src/gitHub/jacomyal/sigma.js.js
+{
+    properties: {
+        link: 'https://github.com/jacomyal/sigma.js',
+        platform: 'GitHub',
+        tests: [
+            'http://sigmajs.org/'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.sigma',
+                'window.sigma.canvas'
+            ]
+        ]
+    },
+    versions: {
+        references: [
+            'window.sigma.version'
+        ]
+    }
+}
+,
 // src/gitHub/jakiestfu/Medium.js.js
 {
     properties: {

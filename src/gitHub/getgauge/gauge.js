@@ -15,6 +15,11 @@
                     /_gauges_/i
                 ]
             ]
-        }
+        },
+        references: [
+            [
+                'window._gauges'
+            ]
+        ]
     }
 }

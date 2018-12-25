@@ -3620,7 +3620,7 @@
 // src/gitHub/defunkt/reqwest.js
 {
     properties: {
-        link: 'https://github.com/defunkt/reqwest',
+        link: 'https://github.com/ded/reqwest',
         platform: 'GitHub',
         tests: [
             'https://ngryman.sh/obelisk-buildr/'

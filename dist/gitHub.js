@@ -3209,6 +3209,27 @@
     }
 }
 ,
+// src/gitHub/dobtco/formbuilder.js
+{
+    properties: {
+        link: 'https://github.com/dobtco/formbuilder',
+        notes: [],
+        platform: 'GitHub',
+        tests: [
+            'http://dobtco.github.io/formbuilder/'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.Formbuilder',
+                'window.Formbuilder.fields'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/dobtco/starrr.js
 {
     properties: {

@@ -1132,6 +1132,30 @@
     }
 }
 ,
+// src/gitHub/WickyNilliams/headroom.js.js
+{
+    properties: {
+        link: 'https://github.com/WickyNilliams/headroom.js',
+        notes: [],
+        platform: 'GitHub',
+        tags: [
+            'scrolling'
+        ],
+        tests: [
+            'https://wicky.nillia.ms/headroom.js/'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.Headroom',
+                'window.Headroom.options'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/WordPress/WordPress.js
 {
     dependencies: [
@@ -6041,7 +6065,7 @@
             'scrolling'
         ],
         tests: [
-            'https://wicky.nillia.ms/headroom.js/'
+            'http://scrollnav.com/'
         ],
         type: 'repository'
     },

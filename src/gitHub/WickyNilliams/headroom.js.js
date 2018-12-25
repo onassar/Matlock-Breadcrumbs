@@ -1,13 +1,13 @@
 {
     properties: {
-        link: 'https://github.com/jimmynotjim/scrollnav',
+        link: 'https://github.com/WickyNilliams/headroom.js',
         notes: [],
         platform: 'GitHub',
         tags: [
             'scrolling'
         ],
         tests: [
-            'http://scrollnav.com/'
+            'https://wicky.nillia.ms/headroom.js/'
         ],
         type: 'repository'
     },

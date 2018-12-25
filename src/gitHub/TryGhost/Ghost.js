@@ -18,12 +18,6 @@
     },
     tests: {
         patterns: {
-            cookies: [
-                [
-                    /ghost-auth/i,
-                    /ghost-auth\.sig/i
-                ]
-            ],
             headers: [
                 [
                     /x-ghost-cache-status/i

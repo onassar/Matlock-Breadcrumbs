@@ -10100,6 +10100,28 @@
     }
 }
 ,
+// src/gitHub/summernote/summernote.js
+{
+    properties: {
+        link: 'https://github.com/summernote/summernote',
+        notes: [],
+        platform: 'GitHub',
+        tests: [
+            'https://www.buymeacoffee.com/robinherbots',
+            'https://summernote.org/'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.Inputmask',
+                'window.Inputmask.escapeRegex'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/sweetalert2/sweetalert2.js
 {
     properties: {

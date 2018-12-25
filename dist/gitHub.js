@@ -4575,6 +4575,9 @@
     properties: {
         link: 'https://github.com/hakimel/reveal.js',
         platform: 'GitHub',
+        tests: [
+            'https://revealjs.com/#/'
+        ],
         type: 'repository'
     },
     tests: {
@@ -8535,6 +8538,25 @@
         references: [
             [
                 'window.screenfull'
+            ]
+        ]
+    }
+}
+,
+// src/gitHub/slevithan/regex-colorizer.js
+{
+    properties: {
+        link: 'https://github.com/slevithan/regex-colorizer',
+        platform: 'GitHub',
+        tests: [
+            'http://stevenlevithan.com/regex/colorizer/'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.RegexColorizer'
             ]
         ]
     }

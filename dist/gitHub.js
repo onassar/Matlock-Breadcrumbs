@@ -968,7 +968,7 @@
     tests: {
         references: [
             [
-                'window.annyang'
+                'window.annyang',
                 'window.annyang.init'
             ]
         ]

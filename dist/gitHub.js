@@ -2265,6 +2265,29 @@
     }
 }
 ,
+// src/gitHub/bevacqua/dragula.js
+{
+    properties: {
+        link: 'https://github.com/bevacqua/dragula',
+        notes: [],
+        platform: 'GitHub',
+        tags: [
+            'drag-and-drop'
+        ],
+        tests: [
+            'https://bevacqua.github.io/dragula/'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.dragula'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/bfintal/Counter-Up.js
 {
     properties: {

@@ -784,7 +784,7 @@
         patterns: {
             page: [
                 [
-                    /<meta[^>]+content\="Postleaf /i
+                    /<meta[^>]+content\="Postleaf\b/i
                 ]
             ]
         }

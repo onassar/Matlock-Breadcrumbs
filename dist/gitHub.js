@@ -3973,6 +3973,26 @@
     }
 }
 ,
+// src/gitHub/farbelous/bootstrap-colorpicker.js
+{
+    properties: {
+        link: 'https://github.com/farbelous/bootstrap-colorpicker',
+        notes: [],
+        platform: 'GitHub',
+        tests: [
+            'https://farbelous.io/bootstrap-colorpicker/'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.jQuery.fn.colorpicker'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/fengyuanchen/cropper.js
 {
     properties: {

@@ -6031,6 +6031,30 @@
     }
 }
 ,
+// src/gitHub/jimmynotjim/scrollnav.js
+{
+    properties: {
+        link: 'https://github.com/jimmynotjim/scrollnav',
+        notes: [],
+        platform: 'GitHub',
+        tags: [
+            'scrolling'
+        ],
+        tests: [
+            'https://wicky.nillia.ms/headroom.js/'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.Headroom',
+                'window.Headroom.options'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/jmosbech/StickyTableHeaders.js
 {
     properties: {
@@ -9064,6 +9088,17 @@
 // src/gitHub/scrollreveal/scrollreveal.js
 {
     properties: {
+        licenses: {
+            commercial: {
+                currency: 'USD',
+                paid: true,
+                range: [
+                    30,
+                    100,
+                    400
+                ]
+            }
+        },
         link: 'https://github.com/scrollreveal/scrollreveal',
         notes: [],
         platform: 'GitHub',

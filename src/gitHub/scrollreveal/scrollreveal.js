@@ -1,5 +1,16 @@
 {
     properties: {
+        licenses: {
+            commercial: {
+                currency: 'USD',
+                paid: true,
+                range: [
+                    30,
+                    100,
+                    400
+                ]
+            }
+        },
         link: 'https://github.com/scrollreveal/scrollreveal',
         notes: [],
         platform: 'GitHub',

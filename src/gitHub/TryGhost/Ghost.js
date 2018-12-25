@@ -9,7 +9,12 @@
         tests: [
             'https://blog.ghost.org/'
         ],
-        type: 'repository'
+        type: 'repository',
+        wikiPedia: {
+            load: true,
+            title: 'Ghost_(blogging_platform)',
+            sections: []
+        }
     },
     tests: {
         patterns: {

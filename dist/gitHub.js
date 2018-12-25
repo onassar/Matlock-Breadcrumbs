@@ -4205,11 +4205,13 @@
         type: 'repository'
     },
     tests: {
-        references: [
-            [
-                'window._gauges'
+        patterns: {
+            cookies: [
+                [
+                    /_gauges_/i
+                ]
             ]
-        ]
+        }
     }
 }
 ,

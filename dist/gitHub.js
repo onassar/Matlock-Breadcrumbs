@@ -6685,6 +6685,29 @@
     }
 }
 ,
+// src/gitHub/kni-labs/rrssb.js
+{
+    properties: {
+        link: 'https://github.com/kni-labs/rrssb',
+        notes: [],
+        platform: 'GitHub',
+        tags: [
+            'social-sharing'
+        ],
+        tests: [
+            'https://rrssb.netlify.com/'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.jQuery.fn.rrssb'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/knockout/knockout.js
 {
     properties: {

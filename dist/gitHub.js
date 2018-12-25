@@ -4193,6 +4193,26 @@
     }
 }
 ,
+// src/gitHub/getgauge/gauge.js
+{
+    properties: {
+        link: 'https://github.com/getgauge/gauge',
+        notes: [],
+        platform: 'GitHub',
+        tests: [
+            'http://hood.ie/'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window._gauges'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/getsentry/sentry-javascript.js
 {
     properties: {

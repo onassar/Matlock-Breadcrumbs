@@ -7917,7 +7917,7 @@
 // src/gitHub/mholt/caddy.js
 {
     properties: {
-        link: 'https://github.com/minio/minio',
+        link: 'https://github.com/mholt/caddy',
         notes: [],
         platform: 'GitHub',
         tests: [

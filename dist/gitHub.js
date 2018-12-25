@@ -1321,7 +1321,7 @@
 // src/gitHub/Yomguithereal/gexf.js
 {
     properties: {
-        link: 'https://github.com/jacomyal/sigma.js',
+        link: 'https://github.com/Yomguithereal/gexf.js',
         platform: 'GitHub',
         tests: [
             'http://sigmajs.org/'

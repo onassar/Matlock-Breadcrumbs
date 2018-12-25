@@ -10115,9 +10115,13 @@
     tests: {
         references: [
             [
-                'window.Inputmask',
-                'window.Inputmask.escapeRegex'
+                'window.jQuery.summernote'
             ]
+        ]
+    },
+    versions: {
+        references: [
+            'window.jQuery.summernote.version'
         ]
     }
 }

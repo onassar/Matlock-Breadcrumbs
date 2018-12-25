@@ -1,6 +1,6 @@
 {
     properties: {
-        link: 'https://github.com/nosir/obelisk.js',
+        link: 'https://github.com/defunkt/reqwest',
         platform: 'GitHub',
         tests: [
             'https://ngryman.sh/obelisk-buildr/'
@@ -10,8 +10,7 @@
     tests: {
         references: [
             [
-                'window.obelisk',
-                'window.obelisk.version'
+                'window.reqwest'
             ]
         ]
     }

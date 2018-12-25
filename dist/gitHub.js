@@ -3617,6 +3617,25 @@
     }
 }
 ,
+// src/gitHub/defunkt/reqwest.js
+{
+    properties: {
+        link: 'https://github.com/defunkt/reqwest',
+        platform: 'GitHub',
+        tests: [
+            'https://ngryman.sh/obelisk-buildr/'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.reqwest'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/desandro/imagesloaded.js
 {
     properties: {
@@ -8851,7 +8870,7 @@
         link: 'https://github.com/nosir/obelisk.js',
         platform: 'GitHub',
         tests: [
-            'https://nosir.github.io/cleave.js/'
+            'https://ngryman.sh/obelisk-buildr/'
         ],
         type: 'repository'
     },

@@ -4836,6 +4836,27 @@
     }
 }
 ,
+// src/gitHub/ghiculescu/jekyll-table-of-contents.js
+{
+    properties: {
+        link: 'https://github.com/ghiculescu/jekyll-table-of-contents',
+        notes: [],
+        platform: 'GitHub',
+        tags: [],
+        tests: [
+            'https://summernote.org/'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.jQuery.fn.toc'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/gionkunz/chartist-js.js
 {
     properties: {
@@ -10106,6 +10127,9 @@
         link: 'https://github.com/summernote/summernote',
         notes: [],
         platform: 'GitHub',
+        tags: [
+            'wysiwyg'
+        ],
         tests: [
             'https://www.buymeacoffee.com/robinherbots',
             'https://summernote.org/'

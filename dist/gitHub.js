@@ -6089,15 +6089,15 @@
             'scrolling'
         ],
         tests: [
-            'http://scrollnav.com/'
+            'https://codepen.io/jimmynotjim/pen/OZKeyd'
         ],
         type: 'repository'
     },
     tests: {
         references: [
             [
-                'window.Headroom',
-                'window.Headroom.options'
+                'window.scrollnav',
+                'window.scrollnav.settings'
             ]
         ]
     }

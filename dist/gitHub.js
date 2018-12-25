@@ -3040,10 +3040,13 @@
         references: [
             [
                 'window.validator',
-                'window.validator',
-                'window.validator',
-                'window.validator',
-                'window.validator'
+                'window.validator.isEmail',
+                'window.validator.isAfter',
+                'window.validator.isAlpha',
+                'window.validator.isDecimal',
+                'window.validator.isJWT',
+                'window.validator.isWhitelisted',
+                'window.validator.normalizeEmail'
             ]
         ]
     }

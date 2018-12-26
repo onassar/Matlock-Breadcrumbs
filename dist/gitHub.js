@@ -9777,6 +9777,20 @@
     }
 }
 ,
+// src/gitHub/ruby/ruby.js
+{
+    properties: {
+        link: 'https://github.com/ruby/ruby',
+        platform: 'GitHub',
+        tests: [
+            'https://getmatlock.github.io/'
+        ],
+        type: 'repository'
+    },
+    tests: {
+    }
+}
+,
 // src/gitHub/running-coder/jquery-typeahead.js
 {
     properties: {

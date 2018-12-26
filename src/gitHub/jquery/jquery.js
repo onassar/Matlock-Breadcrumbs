@@ -1,4 +1,5 @@
 {
+    isolate: true,
     properties: {
         alternatives: [
             'https://github.com/madrobby/zepto'
@@ -26,6 +27,21 @@
         references: [
             [
                 'window.jQuery'
+            ]
+        ],
+        statements: [
+            [
+                function() {
+                    var reference = window,
+                        index;
+                    for (index in reference) {
+                        if (index.match(/^jQuery/) === null) {
+                            continue;
+                        }
+                        return true;
+                    }
+                    return false;
+                }
             ]
         ]
     },

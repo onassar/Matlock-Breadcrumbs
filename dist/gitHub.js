@@ -3695,7 +3695,8 @@
     tests: {
         references: [
             [
-                'window.SimpleLightbox',
+                'window.SimpleLightbox'
+            ],
                 'window.jQuery.fn.simpleLightbox'
             ]
         ]

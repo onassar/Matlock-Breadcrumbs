@@ -1,7 +1,11 @@
 {
     properties: {
+        examples: [
+            'https://www.algolia.com/'
+        ],
         link: 'https://github.com/algolia/algoliasearch-client-javascript',
         platform: 'GitHub',
+        name: 'Algolia Search API Client for JavaScript',
         type: 'repository',
         wikiPedia: {
             load: true,

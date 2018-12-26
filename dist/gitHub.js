@@ -3622,6 +3622,27 @@
     }
 }
 ,
+// src/gitHub/darklow/social-share-kit.js
+{
+    properties: {
+        examples: [
+            'https://socialsharekit.com/'
+        ],
+        link: 'https://github.com/darklow/social-share-kit',
+        name: 'Social Share Kit',
+        platform: 'GitHub',
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.SocialShareKit',
+                'window.SocialShareKit.init'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/davatron5000/FitText.js.js
 {
     properties: {

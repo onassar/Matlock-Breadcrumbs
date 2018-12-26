@@ -6091,6 +6091,7 @@
         notes: [],
         platform: 'GitHub',
         examples: [
+            'https://imgix.github.io/drift/',
             'https://codepen.io/imgix/pen/WrRmLb'
         ],
         tags: [
@@ -7748,6 +7749,30 @@
         references: [
             'window._.VERSION',
             'window.__lodash.VERSION'
+        ]
+    }
+}
+,
+// src/gitHub/lokesh/lightbox2.js
+{
+    properties: {
+        link: 'https://github.com/lokesh/lightbox2',
+        notes: [],
+        platform: 'GitHub',
+        examples: [
+            'https://lokeshdhakar.com/projects/lightbox2/'
+        ],
+        tags: [
+            'lightbox'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.lightbox',
+                'window.lightbox.options'
+            ]
         ]
     }
 }

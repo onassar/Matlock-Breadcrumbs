@@ -1,11 +1,10 @@
 {
     properties: {
-        link: 'https://github.com/imgix/drift',
+        link: 'https://github.com/lokesh/lightbox2',
         notes: [],
         platform: 'GitHub',
         examples: [
-            'https://imgix.github.io/drift/',
-            'https://codepen.io/imgix/pen/WrRmLb'
+            'https://lokeshdhakar.com/projects/lightbox2/'
         ],
         tags: [
             'lightbox'
@@ -15,8 +14,8 @@
     tests: {
         references: [
             [
-                'window.Drift',
-                'window.Drift.prototype._buildTrigger'
+                'window.lightbox',
+                'window.lightbox.options'
             ]
         ]
     }

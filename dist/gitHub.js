@@ -10904,7 +10904,8 @@
 {
     properties: {
         examples: [
-            'http://swisnl.github.io/jQuery-contextMenu/'
+            'http://swisnl.github.io/jQuery-contextMenu/',
+            'http://swisnl.github.io/jQuery-contextMenu/demo.html'
         ],
         link: 'https://github.com/swisnl/jQuery-contextMenu',
         platform: 'GitHub',
@@ -10913,7 +10914,8 @@
     tests: {
         references: [
             [
-                'window.jQuery.fn.contextMenu'
+                'window.jQuery.contextMenu',
+                'window.jQuery.contextMenu.fromMenu'
             ]
         ]
     }

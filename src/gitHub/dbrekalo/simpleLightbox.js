@@ -16,6 +16,7 @@
             [
                 'window.SimpleLightbox'
             ],
+            [
                 'window.jQuery.fn.simpleLightbox'
             ]
         ]

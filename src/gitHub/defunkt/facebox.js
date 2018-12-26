@@ -2,7 +2,7 @@
     properties: {
         link: 'https://github.com/defunkt/facebox',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://defunkt.io/facebox/'
         ],
         type: 'repository'

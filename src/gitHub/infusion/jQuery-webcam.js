@@ -6,7 +6,7 @@
         tags: [
             'math'
         ],
-        tests: [
+        examples: [
             'https://www.xarg.org/project/jquery-webcam-plugin/'
         ],
         type: 'repository'

@@ -3,7 +3,7 @@
         link: 'https://github.com/auxiliary/rater',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://auxiliary.github.io/rater/'
         ],
         type: 'repository'

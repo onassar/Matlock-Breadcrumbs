@@ -3,7 +3,7 @@
         link: 'https://github.com/openlayers/ol2',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://www.mercycorps.org/articles/climate-change-affects-poverty',
             'http://openlayers.org/two/'
         ],

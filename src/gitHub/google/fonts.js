@@ -5,7 +5,7 @@
             'https://i.imgur.com/5G51k7k.jpg'
         ],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://getstencil.com/blog'
         ],
         type: 'repository',

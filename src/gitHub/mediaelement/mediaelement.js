@@ -3,7 +3,7 @@
         link: 'https://github.com/mediaelement/mediaelement',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://council.gov.ru/en/'
         ],
         type: 'repository'

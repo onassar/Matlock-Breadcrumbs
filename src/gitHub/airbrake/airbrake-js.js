@@ -3,7 +3,7 @@
         link: 'https://github.com/airbrake/airbrake-js',
         name: 'Airbrake-JS',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://headwayapp.co/stencil-updates#/settings/profile'
         ],
         type: 'repository'

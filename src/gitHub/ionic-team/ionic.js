@@ -2,7 +2,7 @@
     properties: {
         link: 'https://github.com/ionic-team/ionic',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://ionicframework.com/'
         ],
         type: 'repository'

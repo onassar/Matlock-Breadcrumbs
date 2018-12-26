@@ -8,7 +8,7 @@
         link: 'https://github.com/selectize/selectize.js',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://selectize.github.io/selectize.js/'
         ],
         type: 'repository'

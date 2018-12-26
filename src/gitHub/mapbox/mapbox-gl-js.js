@@ -2,7 +2,7 @@
     properties: {
         link: 'https://github.com/mapbox/mapbox-gl-js',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://www.jesusfilm.org/'
         ],
         type: 'repository'

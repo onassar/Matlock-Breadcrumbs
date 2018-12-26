@@ -6,7 +6,7 @@
         tags: [
             'angular'
         ],
-        tests: [
+        examples: [
             'https://www.algolia.com/users/sign_in'
         ],
         type: 'repository'

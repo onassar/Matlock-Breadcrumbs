@@ -2,7 +2,7 @@
     properties: {
         link: 'https://github.com/adobe-webplatform/Snap.svg',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://snapsvg.io/'
         ],
         type: 'repository'

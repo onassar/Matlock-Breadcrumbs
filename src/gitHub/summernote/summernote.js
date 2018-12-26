@@ -6,7 +6,7 @@
         tags: [
             'wysiwyg'
         ],
-        tests: [
+        examples: [
             'https://www.buymeacoffee.com/robinherbots',
             'https://summernote.org/'
         ],

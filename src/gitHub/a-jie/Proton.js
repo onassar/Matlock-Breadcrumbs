@@ -3,7 +3,7 @@
         link: 'https://github.com/a-jie/Proton',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://a-jie.github.io/Proton/example/sparks/sun/fireball.html'
         ],
         type: 'repository'

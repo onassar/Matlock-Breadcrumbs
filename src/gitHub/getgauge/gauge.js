@@ -3,7 +3,7 @@
         link: 'https://github.com/getgauge/gauge',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://hood.ie/'
         ],
         type: 'repository'

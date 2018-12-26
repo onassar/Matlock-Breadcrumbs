@@ -8,7 +8,7 @@
             'https://i.imgur.com/6QH50iS.jpg'
         ],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://holderjs.com/',
             'https://stackoverflow.com/'
         ],

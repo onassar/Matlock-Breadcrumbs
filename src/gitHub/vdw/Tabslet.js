@@ -3,7 +3,7 @@
         link: 'https://github.com/vdw/Tabslet',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://vdw.github.io/Tabslet/'
         ],
         type: 'repository'

@@ -3,7 +3,7 @@
         link: 'https://github.com/hjson/hjson',
         notes: [],
         platform: 'GitHub',
-        tests: [],
+        examples: [],
         type: 'repository'
     },
     tests: {

@@ -6,7 +6,7 @@
         tags: [
             'lightbox'
         ],
-        tests: [],
+        examples: [],
         type: 'repository'
     },
     tests: {

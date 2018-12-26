@@ -2,7 +2,7 @@
     properties: {
         link: 'https://github.com/haltu/muuri',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://haltu.github.io/muuri/'
         ],
         type: 'repository'

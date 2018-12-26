@@ -2,7 +2,7 @@
     properties: {
         link: 'https://github.com/hakimel/Fokus',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://lab.hakim.se/fokus/'
         ],
         type: 'repository'

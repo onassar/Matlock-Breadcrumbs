@@ -2,7 +2,7 @@
     properties: {
         link: 'https://github.com/corbanbrook/dsp.js',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://lab.hakim.se/radar/'
         ],
         type: 'repository'

@@ -2,7 +2,7 @@
     properties: {
         link: 'https://github.com/w3co/jcf',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://www.psd2html.com/js-custom-forms/'
         ],
         type: 'repository'

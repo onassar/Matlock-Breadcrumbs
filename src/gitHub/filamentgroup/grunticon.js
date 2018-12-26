@@ -4,7 +4,7 @@
         name: 'Grunticon',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://www.bbc.com/news/entertainment-arts-46524504'
         ],
         type: 'repository'

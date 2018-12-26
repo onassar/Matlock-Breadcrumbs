@@ -3,7 +3,7 @@
         link: 'https://github.com/dirkgroenen/jQuery-viewport-checker',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://www.spiegel.de/'
         ],
         type: 'repository'

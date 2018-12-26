@@ -3,7 +3,7 @@
         link: 'https://github.com/GetmeUK/ContentTools',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://getcontenttools.com/demo#what-are-you-waiting-for'
         ],
         type: 'repository'

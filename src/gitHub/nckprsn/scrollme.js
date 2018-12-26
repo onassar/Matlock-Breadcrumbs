@@ -3,7 +3,7 @@
         link: 'https://github.com/nckprsn/scrollme',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://scrollme.nckprsn.com/'
         ],
         type: 'repository'

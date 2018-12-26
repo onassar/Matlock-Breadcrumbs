@@ -6,7 +6,7 @@
             'https://i.imgur.com/BrbdjkX.jpg'
         ],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://www.bootstrapcdn.com/'
         ],
         type: 'repository',

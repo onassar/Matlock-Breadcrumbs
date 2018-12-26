@@ -7,7 +7,7 @@
             'embedly',
             'video'
         ],
-        tests: [
+        examples: [
             'https://crooked.com/',
             'http://playerjs.io/'
         ],

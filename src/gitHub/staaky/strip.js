@@ -8,7 +8,7 @@
         link: 'https://github.com/staaky/strip',
         notes: [],
         platform: 'GitHub',
-        tests: [],
+        examples: [],
         type: 'repository'
     },
     tests: {

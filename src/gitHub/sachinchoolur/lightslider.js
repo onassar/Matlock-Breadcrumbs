@@ -3,7 +3,7 @@
         link: 'https://github.com/sachinchoolur/lightslider',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://sachinchoolur.github.io/lightslider/'
         ],
         type: 'repository'

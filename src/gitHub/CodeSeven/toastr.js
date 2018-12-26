@@ -3,7 +3,7 @@
         link: 'https://github.com/CodeSeven/toastr',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://appsumo.com/stencil-2018/'
         ],
         type: 'repository'

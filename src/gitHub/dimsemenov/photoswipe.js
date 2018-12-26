@@ -8,7 +8,7 @@
         link: 'https://github.com/dimsemenov/photoswipe',
         notes: [],
         platform: 'GitHub',
-        tests: [],
+        examples: [],
         type: 'repository'
     },
     tests: {

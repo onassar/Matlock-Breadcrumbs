@@ -6,7 +6,7 @@
         link: 'https://github.com/syntaxhighlighter/syntaxhighlighter',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://alexgorbatchev.com/SyntaxHighlighter/'
         ],
         type: 'repository'

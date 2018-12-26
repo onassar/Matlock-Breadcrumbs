@@ -2,7 +2,7 @@
     properties: {
         link: 'https://github.com/chancejs/chancejs',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://chancejs.com/'
         ],
         type: 'repository'

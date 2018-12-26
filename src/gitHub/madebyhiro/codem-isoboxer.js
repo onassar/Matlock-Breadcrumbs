@@ -2,7 +2,7 @@
     properties: {
         link: 'https://github.com/madebyhiro/codem-isoboxer',
         platform: 'GitHub',
-        tests: [],
+        examples: [],
         type: 'repository'
     },
     tests: {

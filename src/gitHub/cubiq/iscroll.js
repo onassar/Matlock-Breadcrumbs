@@ -3,7 +3,7 @@
         link: 'https://github.com/cubiq/iscroll',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://www.thewatergatehotel.com/offers/good-morning',
             'http://iscrolljs.com/'
         ],

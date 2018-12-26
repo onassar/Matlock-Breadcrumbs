@@ -3,7 +3,7 @@
         link: 'https://github.com/javve/list.js',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://listjs.com/examples/add-get-remove/'
         ],
         type: 'repository'

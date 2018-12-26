@@ -3,7 +3,7 @@
         link: 'https://github.com/CSSLint/csslint',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://csslint.net/'
         ],
         type: 'repository'

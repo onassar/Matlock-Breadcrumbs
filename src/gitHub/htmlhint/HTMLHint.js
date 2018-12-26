@@ -3,7 +3,7 @@
         link: 'https://github.com/htmlhint/HTMLHint',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://htmlhint.io/'
         ],
         type: 'repository'

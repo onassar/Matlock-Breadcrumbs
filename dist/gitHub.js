@@ -21,7 +21,7 @@
         link: 'https://github.com/Appboy/appboy-web-sdk',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://www.mynbc5.com/article/trump-says-gen-mattis-to-retire-as-defense-secretary-in-early-2019/25647058'
         ],
         type: 'repository'
@@ -43,7 +43,7 @@
         tags: [
             'video-players'
         ],
-        tests: [
+        examples: [
             'http://bilibili.github.io/flv.js/demo/'
         ],
         type: 'repository'
@@ -69,7 +69,7 @@
         link: 'https://github.com/CSSLint/csslint',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://csslint.net/'
         ],
         type: 'repository'
@@ -93,7 +93,7 @@
     properties: {
         link: 'https://github.com/CanopyTax/single-spa',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://single-spa.surge.sh/'
         ],
         type: 'repository'
@@ -113,7 +113,7 @@
         link: 'https://github.com/CodeSeven/toastr',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://appsumo.com/stencil-2018/'
         ],
         type: 'repository'
@@ -137,7 +137,7 @@
     properties: {
         link: 'https://github.com/DmitryBaranovskiy/raphael',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://lisperator.net/uglifyjs/'
         ],
         type: 'repository'
@@ -161,7 +161,7 @@
     properties: {
         link: 'https://github.com/Dogfalo/materialize',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://materializecss.com/'
         ],
         type: 'repository'
@@ -187,7 +187,7 @@
         link: 'https://github.com/EastDesire/jscolor',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://jscolor.com/'
         ],
         type: 'repository'
@@ -243,7 +243,7 @@
             'https://i.imgur.com/nMIVbUf.jpg'
         ],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://tim.fyi',
             'https://getstencil.com/blog',
             'https://lodash.com/docs/4.17.11'
@@ -287,7 +287,7 @@
     properties: {
         link: 'https://github.com/FrDH/jQuery.TosRUs',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://tosrus.frebsite.nl/'
         ],
         type: 'repository'
@@ -317,7 +317,7 @@
         },
         link: 'https://github.com/FrDH/jQuery.dotdotdot',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://keen.io/'
         ],
         type: 'repository'
@@ -352,7 +352,7 @@
         },
         link: 'https://github.com/FrDH/jQuery.mmenu',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://mmenu.frebsite.nl/'
         ],
         type: 'repository'
@@ -378,7 +378,7 @@
         link: 'https://github.com/GetmeUK/ContentTools',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://getcontenttools.com/demo#what-are-you-waiting-for'
         ],
         type: 'repository'
@@ -416,7 +416,7 @@
     properties: {
         link: 'https://github.com/KaTeX/KaTeX',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://slides.com/'
         ],
         type: 'repository'
@@ -444,7 +444,7 @@
         tags: [
             'search'
         ],
-        tests: [
+        examples: [
             'http://leaverou.github.io/awesomplete/'
         ],
         type: 'repository'
@@ -464,7 +464,7 @@
     properties: {
         link: 'https://github.com/LeaVerou/prefixfree',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://leaverou.github.io/prefixfree/'
         ],
         type: 'repository'
@@ -484,7 +484,7 @@
     properties: {
         link: 'https://github.com/Leaflet/Leaflet',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://www.meteor.com/'
         ],
         type: 'repository',
@@ -516,7 +516,7 @@
         link: 'https://github.com/MikeMcl/big.js',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://mikemcl.github.io/big.js/'
         ],
         type: 'repository'
@@ -542,7 +542,7 @@
         link: 'https://github.com/MithrilJS/mithril.js',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://www.pexels.com/',
             'https://mithril.js.org/api.html'
         ],
@@ -599,7 +599,7 @@
     properties: {
         link: 'https://github.com/Mottie/tablesorter',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://newscapegroup.com/',
             'https://mottie.github.io/tablesorter/docs/'
         ],
@@ -626,7 +626,7 @@
         link: 'https://github.com/NYTimes/backbone.stickit',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://nytimes.github.io/backbone.stickit/'
         ],
         type: 'repository'
@@ -646,7 +646,7 @@
         link: 'https://github.com/NYTimes/ice',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://nytimes.github.io/ice/demo/'
         ],
         type: 'repository'
@@ -668,7 +668,7 @@
         link: 'https://github.com/NYTimes/pourover',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://nytimes.github.io/pourover/'
         ],
         type: 'repository'
@@ -688,7 +688,7 @@
         link: 'https://github.com/OwlCarousel2/OwlCarousel2',
         name: 'Owl Carousel 2',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://www.newyorkjets.com/'
         ],
         type: 'repository'
@@ -708,7 +708,7 @@
         link: 'https://github.com/PaulAdamDavis/Arctic-Scroll',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://pauladamdavis.github.io/Arctic-Scroll/'
         ],
         type: 'repository'
@@ -728,7 +728,7 @@
         link: 'https://github.com/Pixabay/jQuery-autoComplete',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://goodies.pixabay.com/jquery/auto-complete/demo.html'
         ],
         type: 'repository'
@@ -775,7 +775,7 @@
         link: 'https://github.com/Postleaf/postleaf',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://www.postleaf.org/'
         ],
         type: 'repository'
@@ -805,7 +805,7 @@
         link: 'https://github.com/Prinzhorn/skrollr',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://prinzhorn.github.io/skrollr/'
         ],
         type: 'repository'
@@ -830,7 +830,7 @@
         link: 'https://github.com/PrismJS/prism',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://prismjs.com/'
         ],
         type: 'repository'
@@ -854,7 +854,7 @@
         link: 'https://github.com/RobinHerbots/Inputmask',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://ultimatecourses.com/',
             'https://robinherbots.github.io/Inputmask/'
         ],
@@ -897,7 +897,7 @@
         link: 'https://github.com/SignalR/SignalR',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://www.wsj.com/'
         ],
         type: 'repository'
@@ -921,7 +921,7 @@
     properties: {
         link: 'https://github.com/SheetJS/js-xlsx',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://oss.sheetjs.com/'
         ],
         type: 'repository'
@@ -947,7 +947,7 @@
         link: 'https://github.com/Sjeiti/TinySort',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://tinysort.sjeiti.com/'
         ],
         type: 'repository'
@@ -968,7 +968,7 @@
         link: 'https://github.com/SoapBox/linkifyjs',
         name: 'Linkify',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://soapbox.github.io/linkifyjs/'
         ],
         type: 'repository'
@@ -1018,7 +1018,7 @@
         link: 'https://github.com/TTLabs/EvaporateJS',
         platform: 'GitHub',
         tags: [],
-        tests: [],
+        examples: [],
         type: 'repository'
     },
     tests: {
@@ -1038,7 +1038,7 @@
         notes: [],
         platform: 'GitHub',
         tags: [],
-        tests: [],
+        examples: [],
         type: 'repository'
     },
     tests: {
@@ -1057,7 +1057,7 @@
         notes: [],
         platform: 'GitHub',
         tags: [],
-        tests: [
+        examples: [
             'https://www.talater.com/upup/'
         ],
         type: 'repository'
@@ -1081,7 +1081,7 @@
         tags: [
             'audio'
         ],
-        tests: [
+        examples: [
             'https://www.talater.com/annyang/'
         ],
         type: 'repository'
@@ -1104,7 +1104,7 @@
         tags: [
             'search'
         ],
-        tests: [
+        examples: [
             'https://tarekraafat.github.io/autoComplete.js/demo/'
         ],
         type: 'repository'
@@ -1130,7 +1130,7 @@
         link: 'https://github.com/TryGhost/Ghost',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://blog.ghost.org/'
         ],
         type: 'repository',
@@ -1169,7 +1169,7 @@
     properties: {
         link: 'https://github.com/TurnWheel/jReject',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://jreject.turnwheel.com/'
         ],
         type: 'repository'
@@ -1189,7 +1189,7 @@
         link: 'https://github.com/Valve/fingerprintjs2',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://valve.github.io/fingerprintjs2/'
         ],
         type: 'repository'
@@ -1237,7 +1237,7 @@
         link: 'https://github.com/Voog/wysihtml',
         name: 'wysihtml',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://wysihtml.com/'
         ],
         type: 'repository'
@@ -1262,7 +1262,7 @@
         link: 'https://github.com/WeCodePixels/theia-sticky-sidebar',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://htmlpreview.github.io/?https://github.com/liviucmg/theia-sticky-sidebar/blob/master/examples/4-columns.html'
         ],
         type: 'repository'
@@ -1285,7 +1285,7 @@
         tags: [
             'css'
         ],
-        tests: [
+        examples: [
             'http://wicky.nillia.ms/enquire.js/'
         ],
         type: 'repository'
@@ -1309,7 +1309,7 @@
         tags: [
             'scrolling'
         ],
-        tests: [
+        examples: [
             'https://wicky.nillia.ms/headroom.js/'
         ],
         type: 'repository'
@@ -1377,7 +1377,7 @@
     properties: {
         link: 'https://github.com/Yomguithereal/gexf.js',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://sigmajs.org/'
         ],
         type: 'repository'
@@ -1402,7 +1402,7 @@
     properties: {
         link: 'https://github.com/ZaDarkSide/simpleStorage',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://tahvel.info/simpleStorage/example/'
         ],
         type: 'repository'
@@ -1428,7 +1428,7 @@
         link: 'https://github.com/a-jie/Proton',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://a-jie.github.io/Proton/example/sparks/sun/fireball.html'
         ],
         type: 'repository'
@@ -1451,7 +1451,7 @@
             'https://i.imgur.com/VaUooX0.png'
         ],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://ca.octobersveryown.com'
         ],
         type: 'repository',
@@ -1496,7 +1496,7 @@
         link: 'https://github.com/aFarkas/lazysizes',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://www.microsoft.com/en-ca'
         ],
         type: 'repository'
@@ -1517,7 +1517,7 @@
         link: 'https://github.com/aFarkas/respimage',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://ca.octobersveryown.com'
         ],
         type: 'repository'
@@ -1542,7 +1542,7 @@
     properties: {
         link: 'https://github.com/adamwdraper/Numeral-js',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://themeforest.net/item/soledad-multiconcept-blogmagazine-wp-theme/12945398',
             'http://numeraljs.com/'
         ],
@@ -1569,7 +1569,7 @@
     properties: {
         link: 'https://github.com/adobe-webplatform/Snap.svg',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://snapsvg.io/'
         ],
         type: 'repository'
@@ -1618,7 +1618,7 @@
         link: 'https://github.com/airbnb/polyglot.js',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://www.bestbuy.ca/'
         ],
         type: 'repository'
@@ -1644,7 +1644,7 @@
         link: 'https://github.com/airbrake/airbrake-js',
         name: 'Airbrake-JS',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://headwayapp.co/stencil-updates#/settings/profile'
         ],
         type: 'repository'
@@ -1664,7 +1664,7 @@
     properties: {
         link: 'https://github.com/ajaxorg/ace',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://ace.c9.io/'
         ],
         type: 'repository'
@@ -1689,7 +1689,7 @@
     properties: {
         link: 'https://github.com/akamai/boomerang',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://www.cbc.ca/'
         ],
         type: 'repository'
@@ -1808,7 +1808,7 @@
     properties: {
         link: 'https://github.com/alizahid/slinky',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://alizahid.github.io/slinky/'
         ],
         type: 'repository'
@@ -1850,7 +1850,7 @@
         link: 'https://github.com/ampproject/amphtml',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://www.independent.co.uk/news/world/americas/us-politics/trump-james-mattis-defense-secretary-white-house-tweet-replace-retire-latest-a8693756.html'
         ],
         type: 'repository'
@@ -1899,7 +1899,7 @@
         tags: [
             'angular'
         ],
-        tests: [
+        examples: [
             'http://angular-ui.github.io/bootstrap/'
         ],
         type: 'repository'
@@ -1980,7 +1980,7 @@
     properties: {
         link: 'https://github.com/angular/zone.js',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://ui-router.github.io/sample-app-angular/#/home'
         ],
         type: 'repository'
@@ -2001,7 +2001,7 @@
         link: 'https://github.com/ankane/chartkick.js',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://www.accountdock.com/'
         ],
         type: 'repository'
@@ -2022,7 +2022,7 @@
         link: 'https://github.com/ansman/validate.js',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://basecamp.com/',
             'https://validatejs.org/'
         ],
@@ -2049,7 +2049,7 @@
         link: 'https://github.com/antennaio/jquery-bar-rating',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://antenna.io/demo/jquery-bar-rating/examples/'
         ],
         type: 'repository'
@@ -2131,7 +2131,7 @@
         link: 'https://github.com/appleple/SmartPhoto',
         notes: [],
         platform: 'GitHub',
-        tests: [],
+        examples: [],
         type: 'repository'
     },
     tests: {
@@ -2150,7 +2150,7 @@
         link: 'https://github.com/aramk/crayon-syntax-highlighter',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://wecodepixels.com/shop/theia-sticky-sidebar-for-wordpress/'
         ],
         type: 'repository'
@@ -2176,7 +2176,7 @@
         link: 'https://github.com/arasatasaygin/is.js',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://www.bundestag.de/en/'
         ],
         type: 'repository'
@@ -2204,7 +2204,7 @@
     properties: {
         link: 'https://github.com/artpolikarpov/fotorama',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://fotorama.io/'
         ],
         type: 'repository'
@@ -2231,7 +2231,7 @@
     properties: {
         link: 'https://github.com/artpolikarpov/scrollyeah',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://fotorama.io/'
         ],
         type: 'repository'
@@ -2250,7 +2250,7 @@
     properties: {
         link: 'https://github.com/artpolikarpov/upyachka.js',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://chatra.io/'
         ],
         type: 'repository'
@@ -2270,7 +2270,7 @@
         link: 'https://github.com/auth0/auth0.js',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://community.dentistry.com/'
         ],
         type: 'repository'
@@ -2296,7 +2296,7 @@
         link: 'https://github.com/auth0/lock',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://www.browserstack.com/docs'
         ],
         type: 'repository'
@@ -2321,7 +2321,7 @@
         link: 'https://github.com/auxiliary/rater',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://auxiliary.github.io/rater/'
         ],
         type: 'repository'
@@ -2366,7 +2366,7 @@
         link: 'https://github.com/axios/axios',
         notes: [],
         platform: 'GitHub',
-        tests: [],
+        examples: [],
         type: 'repository'
     },
     tests: {
@@ -2426,7 +2426,7 @@
         link: 'https://github.com/basecamp/trix',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://trix-editor.org/'
         ],
         type: 'repository'
@@ -2451,7 +2451,7 @@
         link: 'https://github.com/bchanx/slidr',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://bchanx.com/slidr'
         ],
         type: 'repository'
@@ -2501,7 +2501,7 @@
         tags: [
             'color-picker'
         ],
-        tests: [
+        examples: [
             'http://bebraw.github.io/colorjoe/'
         ],
         type: 'repository'
@@ -2550,7 +2550,7 @@
         tags: [
             'drag-and-drop'
         ],
-        tests: [
+        examples: [
             'https://bevacqua.github.io/dragula/'
         ],
         type: 'repository'
@@ -2573,7 +2573,7 @@
         tags: [
             'date-picker'
         ],
-        tests: [
+        examples: [
             'https://bevacqua.github.io/horsey/'
         ],
         type: 'repository'
@@ -2596,7 +2596,7 @@
         tags: [
             'date-picker'
         ],
-        tests: [
+        examples: [
             'https://bevacqua.github.io/rome/'
         ],
         type: 'repository'
@@ -2636,7 +2636,7 @@
         tags: [
             'color'
         ],
-        tests: [
+        examples: [
             'https://bgrins.github.io/spectrum/'
         ],
         type: 'repository'
@@ -2660,7 +2660,7 @@
         tags: [
             'color-pickers'
         ],
-        tests: [
+        examples: [
             'https://bgrins.github.io/spectrum/'
         ],
         type: 'repository'
@@ -2680,7 +2680,7 @@
         link: 'https://github.com/bigspotteddog/ScrollToFixed',
         name: 'ScrollToFixed',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://bigspotteddog.github.io/ScrollToFixed/'
         ],
         type: 'repository'
@@ -2700,7 +2700,7 @@
         link: 'https://github.com/blueimp/Bootstrap-Image-Gallery',
         platform: 'GitHub',
         tags: [],
-        tests: [],
+        examples: [],
         type: 'repository'
     },
     tests: {
@@ -2718,7 +2718,7 @@
         link: 'https://github.com/blueimp/Gallery',
         platform: 'GitHub',
         tags: [],
-        tests: [
+        examples: [
             'https://blueimp.github.io/Gallery/'
         ],
         type: 'repository'
@@ -2740,7 +2740,7 @@
         tags: [
             'encryption'
         ],
-        tests: [
+        examples: [
             'https://getstencil.com/app'
         ],
         type: 'repository'
@@ -2796,7 +2796,7 @@
         notes: [
             'https://i.imgur.com/vqFVVa8.jpg'
         ],
-        tests: [
+        examples: [
             'https://sumo.com/'
         ],
         type: 'repository'
@@ -2818,7 +2818,7 @@
         link: 'https://github.com/brianreavis/sifter.js',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://selectize.github.io/selectize.js/'
         ],
         type: 'repository'
@@ -2839,7 +2839,7 @@
         link: 'https://github.com/bryanbraun/anchorjs',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://domvm.github.io/domvm/',
             'https://www.bryanbraun.com/anchorjs/'
         ],
@@ -2860,7 +2860,7 @@
     properties: {
         link: 'https://github.com/bugsnag/bugsnag-js',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://mailchimp.com/'
         ],
         type: 'repository'
@@ -2927,7 +2927,7 @@
     properties: {
         link: 'https://github.com/caolan/async',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://caolan.github.io/async/'
         ],
         type: 'repository'
@@ -2969,7 +2969,7 @@
         tags: [
             'lightbox'
         ],
-        tests: [],
+        examples: [],
         type: 'repository'
     },
     tests: {
@@ -2989,7 +2989,7 @@
         link: 'https://github.com/cburgmer/rasterizeHTML.js',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://cburgmer.github.io/rasterizeHTML.js/'
         ],
         type: 'repository'
@@ -3030,7 +3030,7 @@
             link: 'https://craig.is/accepting-donations?ref=mousetrap'
         },
         link: 'https://github.com/ccampbell/mousetrap',
-        tests: [
+        examples: [
             'https://twitter.com/alfonsocuaron'
         ],
         platform: 'GitHub',
@@ -3071,7 +3071,7 @@
         link: 'https://github.com/cferdinandi/smooth-scroll',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://www.london.gov.uk/'
         ],
         type: 'repository'
@@ -3091,7 +3091,7 @@
         link: 'https://github.com/chaijs/chai',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://www.chaijs.com/'
         ],
         type: 'repository'
@@ -3116,7 +3116,7 @@
     properties: {
         link: 'https://github.com/chancejs/chancejs',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://chancejs.com/'
         ],
         type: 'repository'
@@ -3168,7 +3168,7 @@
         tags: [
             'angular'
         ],
-        tests: [
+        examples: [
             'https://genius.com/'
         ],
         type: 'repository'
@@ -3188,7 +3188,7 @@
         link: 'https://github.com/chriso/validator.js',
         notes: [],
         platform: 'GitHub',
-        tests: [],
+        examples: [],
         type: 'repository'
     },
     tests: {
@@ -3213,7 +3213,7 @@
         link: 'https://github.com/ckeditor/ckeditor-dev',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://ckeditor.com/ckeditor-4/demo/'
         ],
         type: 'repository'
@@ -3238,7 +3238,7 @@
         link: 'https://github.com/ckeditor/ckeditor5',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://ckeditor.com/ckeditor-5/demo/#classic'
         ],
         type: 'repository'
@@ -3263,7 +3263,7 @@
         link: 'https://github.com/claviska/jquery-minicolors',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://labs.abeautifulsite.net/jquery-minicolors/'
         ],
         type: 'repository'
@@ -3282,7 +3282,7 @@
     properties: {
         link: 'https://github.com/cloudinary/cloudinary_js',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://cloudinary.com/console'
         ],
         type: 'repository'
@@ -3327,7 +3327,7 @@
     properties: {
         link: 'https://github.com/corbanbrook/dsp.js',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://lab.hakim.se/radar/'
         ],
         type: 'repository'
@@ -3347,7 +3347,7 @@
     properties: {
         link: 'https://github.com/cowboy/jquery-tiny-pubsub',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://www.spotify.com/us/'
         ],
         type: 'repository'
@@ -3389,7 +3389,7 @@
     properties: {
         link: 'https://github.com/cshold/social-sharing-buttons',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://labs.carsonshold.com/social-sharing-buttons/'
         ],
         type: 'repository'
@@ -3410,7 +3410,7 @@
         link: 'https://github.com/cubiq/iscroll',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://www.thewatergatehotel.com/offers/good-morning',
             'http://iscrolljs.com/'
         ],
@@ -3437,7 +3437,7 @@
         link: 'https://github.com/cujojs/curl',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://cujojs.com/'
         ],
         type: 'repository'
@@ -3463,7 +3463,7 @@
         link: 'https://github.com/cure53/DOMPurify',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://cure53.de/purify'
         ],
         type: 'repository'
@@ -3487,7 +3487,7 @@
     properties: {
         link: 'https://github.com/d3/d3',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://bower.io/'
         ],
         type: 'repository',
@@ -3521,7 +3521,7 @@
         tags: [
             'angular'
         ],
-        tests: [
+        examples: [
             'https://www.algolia.com/users/sign_in'
         ],
         type: 'repository'
@@ -3553,7 +3553,7 @@
     properties: {
         link: 'https://github.com/dankogai/js-base64',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://www.iconfinder.com/'
         ],
         type: 'repository'
@@ -3578,7 +3578,7 @@
         link: 'https://github.com/davatron5000/FitText.js',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://fittextjs.com/'
         ],
         type: 'repository'
@@ -3598,7 +3598,7 @@
         link: 'https://github.com/davatron5000/FitVids.js',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://fitvidsjs.com/'
         ],
         type: 'repository'
@@ -3618,7 +3618,7 @@
         link: 'https://github.com/davatron5000/Lettering.js',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://letteringjs.com/'
         ],
         type: 'repository'
@@ -3638,7 +3638,7 @@
         link: 'https://github.com/davidbau/seedrandom',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://d3js.org/'
         ],
         type: 'repository'
@@ -3657,7 +3657,7 @@
     properties: {
         link: 'https://github.com/defunkt/facebox',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://defunkt.io/facebox/'
         ],
         type: 'repository'
@@ -3676,7 +3676,7 @@
     properties: {
         link: 'https://github.com/defunkt/jquery-pjax',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://pjax.herokuapp.com/',
             'https://themeforest.net/item/soledad-multiconcept-blogmagazine-wp-theme/12945398'
         ],
@@ -3697,7 +3697,7 @@
     properties: {
         link: 'https://github.com/ded/reqwest',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://ngryman.sh/obelisk-buildr/'
         ],
         type: 'repository'
@@ -3716,7 +3716,7 @@
     properties: {
         link: 'https://github.com/desandro/imagesloaded',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://imagesloaded.desandro.com/'
         ],
         type: 'repository'
@@ -3740,7 +3740,7 @@
     properties: {
         link: 'https://github.com/desandro/masonry',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://masonry.desandro.com/'
         ],
         type: 'repository'
@@ -3762,7 +3762,7 @@
         link: 'https://github.com/devbridge/jQuery-Autocomplete',
         name: 'Ajax Autocomplete for jQuery',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://www.newyorkjets.com/'
         ],
         type: 'repository'
@@ -3807,7 +3807,7 @@
         link: 'https://github.com/dimsemenov/photoswipe',
         notes: [],
         platform: 'GitHub',
-        tests: [],
+        examples: [],
         type: 'repository'
     },
     tests: {
@@ -3841,7 +3841,7 @@
         link: 'https://github.com/dirkgroenen/SVGMagic',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://dirkgroenen.nl/SVGMagic/index.html'
         ],
         type: 'repository'
@@ -3861,7 +3861,7 @@
         link: 'https://github.com/dirkgroenen/jQuery-viewport-checker',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://www.spiegel.de/'
         ],
         type: 'repository'
@@ -3905,7 +3905,7 @@
         link: 'https://github.com/dobtco/formbuilder',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://dobtco.github.io/formbuilder/'
         ],
         type: 'repository'
@@ -3926,7 +3926,7 @@
         link: 'https://github.com/dobtco/starrr',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://dobtco.github.io/starrr/'
         ],
         type: 'repository'
@@ -3970,7 +3970,7 @@
             'company',
             'truncate',
         ],
-        tests: [
+        examples: [
             'https://www.washingtonpost.com/local/legal-issues/russian-maria-butina-pleads-guilty-in-effort-to-forge-kremlin-bond-with-us-conservatives/2018/12/13/c27f2d26-fe4f-11e8-ad40-cdfd0e0dd65a_story.html?utm_term=.f0ae9474d229',
             'https://dollarshaveclub.github.io/shave/'
         ],
@@ -3994,7 +3994,7 @@
         link: 'https://github.com/domvm/domvm',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://www.sporcle.com/games/RaysRule2010/daily_dose'
         ],
         type: 'repository'
@@ -4030,7 +4030,7 @@
         link: 'https://github.com/douglascrockford/JSON-js',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://onsen.io/'
         ],
         type: 'repository'
@@ -4055,7 +4055,7 @@
         },
         link: 'https://github.com/drupal/drupal',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://www.drupal.org/'
         ],
         type: 'repository',
@@ -4125,7 +4125,7 @@
         tags: [
             'search'
         ],
-        tests: [
+        examples: [
             'https://jsfiddle.net/eolaojo/4pov0rdf/'
         ],
         type: 'repository'
@@ -4148,7 +4148,7 @@
         link: 'https://github.com/ejci/favico.js',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://lab.ejci.net/favico.js/'
         ],
         type: 'repository'
@@ -4192,7 +4192,7 @@
             'embedly',
             'jQuery'
         ],
-        tests: [
+        examples: [
             'https://genius.com/'
         ],
         type: 'repository'
@@ -4216,7 +4216,7 @@
             'embedly',
             'video'
         ],
-        tests: [
+        examples: [
             'https://crooked.com/',
             'http://playerjs.io/'
         ],
@@ -4318,7 +4318,7 @@
     properties: {
         link: 'https://github.com/expressjs/express',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://www.nbcnews.com/politics/national-security/russians-launched-pro-jill-stein-social-media-blitz-help-trump-n951166'
         ],
         type: 'repository',
@@ -4365,7 +4365,7 @@
     properties: {
         link: 'https://github.com/facebook/hhvm',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://www.mediawiki.org/wiki/API:Query#Title_normalization'
         ],
         type: 'repository',
@@ -4399,7 +4399,7 @@
         link: 'https://github.com/facebook/immutable-js',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://facebook.github.io/immutable-js/'
         ],
         type: 'repository'
@@ -4423,7 +4423,7 @@
     properties: {
         link: 'https://github.com/facebook/react',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://www.cbc.ca/'
         ],
         type: 'repository',
@@ -4515,7 +4515,7 @@
         tags: [
             'color-pickers'
         ],
-        tests: [
+        examples: [
             'https://farbelous.io/bootstrap-colorpicker/'
         ],
         type: 'repository'
@@ -4568,7 +4568,7 @@
         alternatives: [
             'https://github.com/Eonasdan/bootstrap-datetimepicker'
         ],
-        tests: [
+        examples: [
             'https://fengyuanchen.github.io/datepicker/'
         ],
         link: 'https://github.com/fengyuanchen/datepicker',
@@ -4591,7 +4591,7 @@
     properties: {
         link: 'https://github.com/fengyuanchen/viewer',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://fengyuanchen.github.io/viewer/'
         ],
         type: 'repository'
@@ -4613,7 +4613,7 @@
         link: 'https://github.com/fians/Waves',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://fian.my.id/Waves/'
         ],
         type: 'repository'
@@ -4635,7 +4635,7 @@
         name: 'Grunticon',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://www.bbc.com/news/entertainment-arts-46524504'
         ],
         type: 'repository'
@@ -4655,7 +4655,7 @@
         link: 'https://github.com/filamentgroup/loadCSS',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://www.filamentgroup.com/'
         ],
         type: 'repository'
@@ -4675,7 +4675,7 @@
         link: 'https://github.com/filepicker/filepicker-js',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://www.accountdock.com/'
         ],
         type: 'repository'
@@ -4701,7 +4701,7 @@
         link: 'https://github.com/flatlogic/bootstrap-tabcollapse',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://www.toronto.ca/'
         ],
         type: 'repository'
@@ -4722,7 +4722,7 @@
         link: 'https://github.com/flot/flot',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://www.flotcharts.org/flot/examples/basic-usage/index.html'
         ],
         type: 'repository'
@@ -4749,7 +4749,7 @@
         link: 'https://github.com/flowplayer/flowplayer',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://flowplayer.com/blog/flowplayer-native',
             'https://greensock.com/'
         ],
@@ -4775,7 +4775,7 @@
         link: 'https://github.com/froala/wysiwyg-editor',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://www.froala.com/wysiwyg-editor'
         ],
         type: 'repository'
@@ -4819,7 +4819,7 @@
         tags: [
             'calendars'
         ],
-        tests: [
+        examples: [
             'https://www.primefaces.org/primeng/#/',
             'https://fullcalendar.io/'
         ],
@@ -4848,7 +4848,7 @@
         link: 'https://github.com/gatsbyjs/gatsby',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://insomnia.rest/blog/sustainable-profit'
         ],
         type: 'repository'
@@ -4890,7 +4890,7 @@
         tags: [
             'encryption'
         ],
-        tests: [
+        examples: [
             'http://geraintluff.github.io/sha256/'
         ],
         type: 'repository'
@@ -4910,7 +4910,7 @@
         link: 'https://github.com/getgauge/gauge',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://hood.ie/'
         ],
         type: 'repository'
@@ -4936,7 +4936,7 @@
     properties: {
         link: 'https://github.com/getpelican/pelican',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://blog.getpelican.com/'
         ],
         type: 'repository'
@@ -4957,7 +4957,7 @@
     properties: {
         link: 'https://github.com/getsentry/sentry-javascript',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://getstencil.com/app'
         ],
         type: 'repository'
@@ -4986,7 +4986,7 @@
         link: 'https://github.com/gfranko/jquery.tocify.js',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://developers.coinbase.com/api/v2',
             'http://gregfranko.com/jquery.tocify.js/'
         ],
@@ -5013,7 +5013,7 @@
         notes: [],
         platform: 'GitHub',
         tags: [],
-        tests: [
+        examples: [
             'https://summernote.org/'
         ],
         type: 'repository'
@@ -5035,7 +5035,7 @@
         tags: [
             'charts'
         ],
-        tests: [
+        examples: [
             'http://gionkunz.github.io/chartist-js/'
         ],
         type: 'repository'
@@ -5060,7 +5060,7 @@
         link: 'https://github.com/gjunge/rateit.js',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://gjunge.github.io/rateit.js/examples/'
         ],
         type: 'repository'
@@ -5101,7 +5101,7 @@
     properties: {
         link: 'https://github.com/gohugoio/hugo',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://1password.com/',
             'https://www.louisdurrant.co.uk/'
         ],
@@ -5135,7 +5135,7 @@
     properties: {
         link: 'https://github.com/goldfire/CanvasInput',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://goldfirestudios.com/blog/108/CanvasInput-HTML5-Canvas-Text-Input'
         ],
         type: 'repository'
@@ -5189,7 +5189,7 @@
             'https://i.imgur.com/5G51k7k.jpg'
         ],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://getstencil.com/blog'
         ],
         type: 'repository',
@@ -5219,7 +5219,7 @@
         link: 'https://github.com/google/material-design-icons',
         name: 'Material design icons',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://lto.network/',
             'https://ionicons.com/'
         ],
@@ -5268,7 +5268,7 @@
         link: 'https://github.com/googleads/videojs-ima',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://www.mynbc5.com/article/trump-says-gen-mattis-to-retire-as-defense-secretary-in-early-2019/25647058'
         ],
         type: 'repository'
@@ -5303,7 +5303,7 @@
     properties: {
         link: 'https://github.com/gregjacobs/Autolinker.js',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://greg-jacobs.com/Autolinker.js/examples/live-example/'
         ],
         type: 'repository'
@@ -5328,7 +5328,7 @@
     properties: {
         link: 'https://github.com/grevory/angular-local-storage',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://www.allrecipes.com/recipes/367/desserts/pies/'
         ],
         type: 'repository'
@@ -5348,7 +5348,7 @@
         link: 'https://github.com/guillaumepotier/Parsley.js',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://www.helpscout.com/pricing/'
         ],
         type: 'repository'
@@ -5374,7 +5374,7 @@
     properties: {
         link: 'https://github.com/hakimel/Avgrund',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://lab.hakim.se/avgrund/'
         ],
         type: 'repository'
@@ -5394,7 +5394,7 @@
     properties: {
         link: 'https://github.com/hakimel/Fokus',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://lab.hakim.se/fokus/'
         ],
         type: 'repository'
@@ -5413,7 +5413,7 @@
     properties: {
         link: 'https://github.com/hakimel/Ladda',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://lab.hakim.se/ladda/'
         ],
         type: 'repository'
@@ -5433,7 +5433,7 @@
     properties: {
         link: 'https://github.com/hakimel/kontext',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://lab.hakim.se/kontext/'
         ],
         type: 'repository'
@@ -5453,7 +5453,7 @@
     properties: {
         link: 'https://github.com/hakimel/meny',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://lab.hakim.se/meny/'
         ],
         type: 'repository'
@@ -5473,7 +5473,7 @@
     properties: {
         link: 'https://github.com/hakimel/reveal.js',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://revealjs.com/#/'
         ],
         type: 'repository'
@@ -5497,7 +5497,7 @@
     properties: {
         link: 'https://github.com/hakimel/stroll.js',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://lab.hakim.se/scroll-effects/'
         ],
         type: 'repository'
@@ -5518,7 +5518,7 @@
     properties: {
         link: 'https://github.com/hakimel/zoom.js',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://lab.hakim.se/zoom-js/'
         ],
         type: 'repository'
@@ -5541,7 +5541,7 @@
     properties: {
         link: 'https://github.com/haltu/muuri',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://haltu.github.io/muuri/'
         ],
         type: 'repository'
@@ -5562,7 +5562,7 @@
         link: 'https://github.com/hammerjs/hammer.js',
         platform: 'GitHub',
         tags: [],
-        tests: [
+        examples: [
             'https://www.wired.co.uk/article/yuval-noah-harari-extract-21-lessons-for-the-21st-century'
         ],
         type: 'repository'
@@ -5587,10 +5587,10 @@
         link: 'https://github.com/hammerjs/jquery.hammer.js',
         platform: 'GitHub',
         tags: [],
-        tests: [
+        examples: [
             'https://www.cnbc.com/'
         ],
-        tests: [],
+        examples: [],
         type: 'repository'
     },
     tests: {
@@ -5641,7 +5641,7 @@
         link: 'https://github.com/heiseonline/shariff',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://www.bundestag.de/en/'
         ],
         type: 'repository'
@@ -5660,7 +5660,7 @@
     properties: {
         link: 'https://github.com/hernansartorio/jquery-nice-select',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://www.jesusfilm.org/'
         ],
         type: 'repository'
@@ -5680,7 +5680,7 @@
         link: 'https://github.com/hexojs/hexo',
         notes: [],
         platform: 'GitHub',
-        tests: [],
+        examples: [],
         type: 'repository'
     },
     tests: {
@@ -5741,7 +5741,7 @@
         },
         link: 'https://github.com/highcharts/highcharts',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://www.tsn.ca/'
         ],
         type: 'repository'
@@ -5783,7 +5783,7 @@
         link: 'https://github.com/hjson/hjson-js',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://onsen.io/'
         ],
         type: 'repository'
@@ -5810,7 +5810,7 @@
         link: 'https://github.com/hjson/hjson',
         notes: [],
         platform: 'GitHub',
-        tests: [],
+        examples: [],
         type: 'repository'
     },
     tests: {
@@ -5827,7 +5827,7 @@
     properties: {
         link: 'https://github.com/honeybadger-io/honeybadger-js',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://foundation.zurb.com/'
         ],
         type: 'repository'
@@ -5853,7 +5853,7 @@
         link: 'https://github.com/htmlhint/HTMLHint',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://htmlhint.io/'
         ],
         type: 'repository'
@@ -5897,7 +5897,7 @@
         tags: [
             'date-time'
         ],
-        tests: [],
+        examples: [],
         type: 'repository'
     },
     tests: {
@@ -5938,7 +5938,7 @@
     properties: {
         link: 'https://github.com/ilkeryilmaz/timelinejs',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://ilkeryilmaz.github.io/timelinejs/'
         ],
         type: 'repository'
@@ -5960,7 +5960,7 @@
         link: 'https://github.com/ilyabirman/Jouele',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://ilyabirman.net/projects/jouele/'
         ],
         type: 'repository'
@@ -5985,7 +5985,7 @@
         link: 'https://github.com/ilyabirman/Likely',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://ilyabirman.net/projects/likely/'
         ],
         type: 'repository'
@@ -6060,7 +6060,7 @@
             'placeholders',
             'javascript'
         ],
-        tests: [
+        examples: [
             'http://holderjs.com/'
         ],
         type: 'repository'
@@ -6088,7 +6088,7 @@
         tags: [
             'math'
         ],
-        tests: [
+        examples: [
             'https://www.xarg.org/2014/03/rational-numbers-in-javascript/'
         ],
         type: 'repository'
@@ -6112,7 +6112,7 @@
         tags: [
             'math'
         ],
-        tests: [
+        examples: [
             'https://www.xarg.org/project/jquery-webcam-plugin/'
         ],
         type: 'repository'
@@ -6135,7 +6135,7 @@
         tags: [
             'color'
         ],
-        tests: [
+        examples: [
             'https://www.xarg.org/project/jquery-color-plugin-xcolor/'
         ],
         type: 'repository'
@@ -6156,7 +6156,7 @@
         link: 'https://github.com/insites/cookieconsent',
         name: 'Cookie Consent',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://cookieconsent.insites.com/app/themes/insites-cookie-consent/examples/example-1-themes.html'
         ],
         type: 'repository'
@@ -6176,7 +6176,7 @@
     properties: {
         link: 'https://github.com/ionic-team/ionic',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://ionicframework.com/'
         ],
         type: 'repository'
@@ -6195,7 +6195,7 @@
     properties: {
         link: 'https://github.com/ionic-team/ionicons',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://lto.network/',
             'https://ionicons.com/'
         ],
@@ -6246,7 +6246,7 @@
     properties: {
         link: 'https://github.com/jacomyal/conrad.js',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://sigmajs.org/'
         ],
         type: 'repository'
@@ -6271,7 +6271,7 @@
     properties: {
         link: 'https://github.com/jacomyal/sigma.js',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://sigmajs.org/'
         ],
         type: 'repository'
@@ -6297,7 +6297,7 @@
         link: 'https://github.com/jakiestfu/Medium.js',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://jakiestfu.github.io/Medium.js/docs/'
         ],
         type: 'repository'
@@ -6324,7 +6324,7 @@
         link: 'https://github.com/jakiestfu/Ripple.js',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://jakiestfu.github.io/Ripple.js/demo/'
         ],
         type: 'repository'
@@ -6350,7 +6350,7 @@
         link: 'https://github.com/jakiestfu/Snap.js',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://jakiestfu.github.io/Snap.js/demo/apps/default.html'
         ],
         type: 'repository'
@@ -6391,7 +6391,7 @@
         link: 'https://github.com/janpaepke/ScrollMagic',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://scrollmagic.io/'
         ],
         type: 'repository'
@@ -6416,7 +6416,7 @@
         link: 'https://github.com/jaredreich/pell',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://www.cssscript.com/demo/minimalist-wysiwyg-editor-pell-js/'
         ],
         type: 'repository'
@@ -6467,7 +6467,7 @@
     properties: {
         link: 'https://github.com/jashkenas/underscore',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://torontolife.com/food/torontos-best-pies/'
         ],
         type: 'repository',
@@ -6505,7 +6505,7 @@
         link: 'https://github.com/jasny/bootstrap',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://animals.howstuffworks.com/fish/sharks/shark.htm'
         ],
         type: 'repository'
@@ -6527,7 +6527,7 @@
         link: 'https://github.com/jasonlong/cayman-theme',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://auxiliary.github.io/rater/'
         ],
         type: 'repository'
@@ -6550,7 +6550,7 @@
         link: 'https://github.com/javve/list.js',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://listjs.com/examples/add-get-remove/'
         ],
         type: 'repository'
@@ -6572,7 +6572,7 @@
     properties: {
         link: 'https://github.com/jaysalvat/buzz',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://buzz.jaysalvat.com/'
         ],
         type: 'repository'
@@ -6594,7 +6594,7 @@
     properties: {
         link: 'https://github.com/jaysalvat/jquery.facedetection',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://facedetection.jaysalvat.com/'
         ],
         type: 'repository'
@@ -6613,7 +6613,7 @@
     properties: {
         link: 'https://github.com/jaysalvat/vegas',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://vegas.jaysalvat.com/'
         ],
         type: 'repository'
@@ -6635,7 +6635,7 @@
         link: 'https://github.com/jaywcjlove/hotkeys',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://wangchujiang.com/hotkeys/'
         ],
         type: 'repository'
@@ -6658,7 +6658,7 @@
         link: 'https://github.com/jekyll/jekyll',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://jekyllrb.com/'
         ],
         type: 'repository',
@@ -6696,7 +6696,7 @@
         tags: [
             'scrolling'
         ],
-        tests: [
+        examples: [
             'https://codepen.io/jimmynotjim/pen/OZKeyd'
         ],
         type: 'repository'
@@ -6716,7 +6716,7 @@
     properties: {
         link: 'https://github.com/jmosbech/StickyTableHeaders',
         platform: 'GitHub',
-        tests: [],
+        examples: [],
         type: 'repository'
     },
     tests: {
@@ -6734,7 +6734,7 @@
         link: 'https://github.com/jonom/jquery-focuspoint',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://jonom.github.io/jquery-focuspoint/demos/grid/lizard.html'
         ],
         type: 'repository'
@@ -6754,7 +6754,7 @@
         link: 'https://github.com/jonsamwell/angular-auto-validate',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://jonsamwell.github.io/angular-auto-validate/'
         ],
         type: 'repository'
@@ -6773,7 +6773,7 @@
     properties: {
         link: 'https://github.com/jonschlinkert/remarkable',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://jonschlinkert.github.io/remarkable/demo/'
         ],
         type: 'repository'
@@ -6797,7 +6797,7 @@
         link: 'https://github.com/jplayer/jPlayer',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://www.roblox.com/groups/group.aspx?gid=2788849'
         ],
         type: 'repository'
@@ -6823,7 +6823,7 @@
         link: 'https://github.com/jquery-form/form',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://malsup.com/jquery/form/#ajaxForm'
         ],
         type: 'repository'
@@ -6847,7 +6847,7 @@
         link: 'https://github.com/jquery-validation/jquery-validation',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://jqueryvalidation.org/files/demo/errorcontainer-demo.html'
         ],
         type: 'repository'
@@ -6951,7 +6951,7 @@
             'https://i.imgur.com/6QH50iS.jpg'
         ],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://holderjs.com/',
             'https://stackoverflow.com/'
         ],
@@ -6987,7 +6987,7 @@
         link: 'https://github.com/jquerytools/jquerytools',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://jquerytools.org/'
         ],
         type: 'repository'
@@ -7054,7 +7054,7 @@
         link: 'https://github.com/jsbin/jsbin',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://api.nasa.gov/'
         ],
         type: 'repository'
@@ -7083,7 +7083,7 @@
         link: 'https://github.com/jsor/jcarousel',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://sorgalla.com/jcarousel/'
         ],
         type: 'repository'
@@ -7109,7 +7109,7 @@
         name: 'Lity',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://sorgalla.com/lity/'
         ],
         type: 'repository'
@@ -7134,7 +7134,7 @@
         link: 'https://github.com/julianshapiro/velocity',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://appsumo.com/stencil-2018/',
             'https://account.microsoft.com/privacy/ad-settings/signedout'
         ],
@@ -7171,7 +7171,7 @@
         tags: [
             'cropping'
         ],
-        tests: [
+        examples: [
             'https://29a.ch/sandbox/2014/smartcrop/examples/testsuite.html'
         ],
         type: 'repository'
@@ -7191,7 +7191,7 @@
     properties: {
         link: 'https://github.com/jwplayer/jwplayer',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://www.news-gazette.com/'
         ],
         type: 'repository',
@@ -7222,7 +7222,7 @@
         notes: [],
         platform: 'GitHub',
         tags: [],
-        tests: [
+        examples: [
             'https://rawgit.com/kamens/jQuery-menu-aim/master/example/example.html'
         ],
         type: 'repository'
@@ -7242,7 +7242,7 @@
         link: 'https://github.com/karpathy/convnetjs',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://cs.stanford.edu/~karpathy/convnetjs/demo/mnist.html'
         ],
         type: 'repository'
@@ -7261,7 +7261,7 @@
     properties: {
         link: 'https://github.com/keen/keen-js',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://open.vanillaforums.com/'
         ],
         type: 'repository'
@@ -7280,7 +7280,7 @@
     properties: {
         link: 'https://github.com/keen/keen-tracking.js',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://keen.io/'
         ],
         type: 'repository'
@@ -7322,7 +7322,7 @@
         link: 'https://github.com/kkapsner/CanvasBlocker',
         notes: [],
         platform: 'GitHub',
-        tests: [],
+        examples: [],
         type: 'repository'
     },
     tests: {
@@ -7343,7 +7343,7 @@
         tags: [
             'social-sharing'
         ],
-        tests: [
+        examples: [
             'https://rrssb.netlify.com/'
         ],
         type: 'repository'
@@ -7388,7 +7388,7 @@
             'autcomplete'
         ],
         tags: [],
-        tests: [
+        examples: [
             'https://kraaden.github.io/autocomplete/'
         ],
         type: 'repository'
@@ -7410,7 +7410,7 @@
         tags: [
             'search'
         ],
-        tests: [
+        examples: [
             'http://fusejs.io/'
         ],
         type: 'repository'
@@ -7527,7 +7527,7 @@
         link: 'https://github.com/liabru/jquery-match-height',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://www.london.gov.uk/'
         ],
         type: 'repository'
@@ -7555,7 +7555,7 @@
         tags: [
             'angular'
         ],
-        tests: [
+        examples: [
             'https://www.bestbuy.ca/'
         ],
         type: 'repository'
@@ -7596,7 +7596,7 @@
     properties: {
         link: 'https://github.com/lodash/lodash',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://lodash.com/'
         ],
         type: 'repository',
@@ -7631,7 +7631,7 @@
         link: 'https://github.com/lord/slate',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://docs.dwolla.com/'
         ],
         type: 'repository'
@@ -7653,7 +7653,7 @@
         link: 'https://github.com/lukaszfiszer/selectnav.js',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://www.lrs.org/library-user-surveys-on-the-web/'
         ],
         type: 'repository'
@@ -7673,7 +7673,7 @@
         link: 'https://github.com/luruke/barba.js',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://www.eight.nl/',
             'http://barbajs.org/'
         ],
@@ -7703,7 +7703,7 @@
         tags: [
             'jQuery'
         ],
-        tests: [
+        examples: [
             'https://crooked.com/'
         ],
         type: 'repository'
@@ -7722,7 +7722,7 @@
     properties: {
         link: 'https://github.com/madebyhiro/codem-isoboxer',
         platform: 'GitHub',
-        tests: [],
+        examples: [],
         type: 'repository'
     },
     tests: {
@@ -7775,7 +7775,7 @@
         link: 'https://github.com/malsup/blockui',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://www.bestbuy.ca/'
         ],
         type: 'repository'
@@ -7803,7 +7803,7 @@
         link: 'https://github.com/malsup/cycle2',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://www.sandiego.gov/'
         ],
         type: 'repository'
@@ -7828,7 +7828,7 @@
     properties: {
         link: 'https://github.com/mapbox/mapbox-gl-js',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://www.jesusfilm.org/'
         ],
         type: 'repository'
@@ -7873,7 +7873,7 @@
     properties: {
         link: 'https://github.com/marcandre/detect_swipe',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://www.lonelyplanet.com/vietnam'
         ],
         type: 'repository'
@@ -7899,7 +7899,7 @@
     properties: {
         link: 'https://github.com/marcj/css-element-queries',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://htmlpreview.github.io/?https://github.com/liviucmg/theia-sticky-sidebar/blob/master/examples/4-columns.html'
         ],
         type: 'repository'
@@ -7919,7 +7919,7 @@
     properties: {
         link: 'https://github.com/marcj/jquery-selectBox',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://greensock.com/',
             'http://marcj.github.io/jquery-selectBox/'
         ],
@@ -7949,7 +7949,7 @@
         link: 'https://github.com/marioizquierdo/jquery.serializeJSON',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://www.foodora.ca/fr/?r=1'
         ],
         type: 'repository'
@@ -7969,7 +7969,7 @@
         link: 'https://github.com/marionettejs/backbone.marionette',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://secure.helpscout.net/conversation/630081877/9026/?folderId=1453481',
             'https://marionettejs.com/docs/v3.5.1/marionette.configuration.html'
         ],
@@ -8014,7 +8014,7 @@
     properties: {
         link: 'https://github.com/marmelab/gremlins.js',
         platform: 'GitHub',
-        tests: [],
+        examples: [],
         type: 'repository'
     },
     tests: {
@@ -8033,7 +8033,7 @@
         link: 'https://github.com/mathiasbynens/jquery-placeholder',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://mathiasbynens.github.io/jquery-placeholder/'
         ],
         type: 'repository'
@@ -8053,7 +8053,7 @@
         link: 'https://github.com/mathjax/MathJax',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://www.mathjax.org/'
         ],
         type: 'repository',
@@ -8102,7 +8102,7 @@
     properties: {
         link: 'https://github.com/mattbryson/TouchSwipe-Jquery-Plugin',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://www.tsx.com/',
             'http://www.africa-business.com/news-africa/wp-content/plugins/bwp-minify/cache/minify_jquery.themepunch.tools.min,jquery.themepunch.revolution.min_68fa8acd2b8e0474c1b74ef316b329fa'
         ],
@@ -8137,7 +8137,7 @@
         tags: [
             'Shopify'
         ],
-        tests: [
+        examples: [
             'https://makitweb.com/take-screenshot-of-webpage-with-html2canvas/'
         ],
         type: 'repository'
@@ -8165,7 +8165,7 @@
         tags: [
             'search'
         ],
-        tests: [
+        examples: [
             'https://mavo.io/'
         ],
         type: 'repository'
@@ -8207,7 +8207,7 @@
         link: 'https://github.com/mediaelement/mediaelement',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://council.gov.ru/en/'
         ],
         type: 'repository'
@@ -8258,7 +8258,7 @@
         link: 'https://github.com/metafizzy/flickity',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://flickity.metafizzy.co/'
         ],
         type: 'repository'
@@ -8284,7 +8284,7 @@
         link: 'https://github.com/metafizzy/infinite-scroll',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://infinite-scroll.com/'
         ],
         type: 'repository'
@@ -8310,7 +8310,7 @@
         link: 'https://github.com/metafizzy/packery',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://packery.metafizzy.co/'
         ],
         type: 'repository'
@@ -8330,7 +8330,7 @@
     properties: {
         link: 'https://github.com/meteor/meteor',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://www.meteor.com/'
         ],
         type: 'repository',
@@ -8367,7 +8367,7 @@
         link: 'https://github.com/mholt/PapaParse',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://www.papaparse.com/demo'
         ],
         type: 'repository'
@@ -8388,7 +8388,7 @@
         link: 'https://github.com/mholt/caddy',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://minio.io/downloads.html#download-server'
         ],
         type: 'repository'
@@ -8413,7 +8413,7 @@
         link: 'https://github.com/michelson/Dante',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://michelson.github.io/Dante/'
         ],
         type: 'repository'
@@ -8440,7 +8440,7 @@
             'https://i.imgur.com/6QH50iS.jpg'
         ],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://missive.github.io/emoji-mart/'
         ]
     },
@@ -8458,7 +8458,7 @@
     properties: {
         link: 'https://github.com/mnater/Hyphenator',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://new.siemens.com/global/en.html'
         ],
         type: 'repository'
@@ -8502,7 +8502,7 @@
         tags: [
             'datetime'
         ],
-        tests: [
+        examples: [
             'https://moment.github.io/luxon/docs/'
         ],
         type: 'repository'
@@ -8526,7 +8526,7 @@
         tags: [
             'datetime'
         ],
-        tests: [
+        examples: [
             'http://momentjs.com/timezone/'
         ],
         type: 'repository'
@@ -8573,7 +8573,7 @@
     properties: {
         link: 'https://github.com/mootools/mootools-core',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://updates.getstencil.com/60+-new-google-fonts-83564'
         ],
         type: 'repository',
@@ -8656,7 +8656,7 @@
         },
         link: 'https://github.com/mozilla/vtt.js',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://videojs.com/'
         ],
         type: 'repository',
@@ -8680,7 +8680,7 @@
     properties: {
         link: 'https://github.com/mrdoob/stats.js',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://mrdoob.github.io/stats.js/'
         ],
         type: 'repository'
@@ -8701,7 +8701,7 @@
     properties: {
         link: 'https://github.com/mrdoob/three.js',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://goinghome.302chanwoo.com/'
         ],
         type: 'repository',
@@ -8734,7 +8734,7 @@
         tags: [
             'lightbox'
         ],
-        tests: [],
+        examples: [],
         type: 'repository'
     },
     tests: {
@@ -8759,7 +8759,7 @@
         link: 'https://github.com/naptha/tesseract.js',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://tesseract.projectnaptha.com/'
         ],
         type: 'repository'
@@ -8784,7 +8784,7 @@
         link: 'https://github.com/nashio/star-rating-svg',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://nashio.github.io/star-rating-svg/demo/'
         ],
         type: 'repository'
@@ -8803,7 +8803,7 @@
     properties: {
         link: 'https://github.com/naver/billboard.js',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://github.com/naver/billboard.js'
         ],
         type: 'repository'
@@ -8830,7 +8830,7 @@
         link: 'https://github.com/nckprsn/scrollme',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://scrollme.nckprsn.com/'
         ],
         type: 'repository'
@@ -8852,7 +8852,7 @@
         link: 'https://github.com/neilj/Squire',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://neilj.github.io/Squire/'
         ],
         type: 'repository'
@@ -8872,7 +8872,7 @@
     properties: {
         link: 'https://github.com/netlify/netlify-cms',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://www.netlifycms.org/'
         ],
         type: 'repository',
@@ -8901,7 +8901,7 @@
         tags: [
             'react'
         ],
-        tests: [
+        examples: [
             'https://www.cbc.ca/'
         ],
         type: 'repository'
@@ -9011,7 +9011,7 @@
     properties: {
         link: 'https://github.com/nnattawat/flip',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://www.universalstudioshollywood.com/'
         ],
         type: 'repository'
@@ -9030,7 +9030,7 @@
     properties: {
         link: 'https://github.com/nnattawat/slideReveal',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://nnattawat.github.io/slideReveal/'
         ],
         type: 'repository'
@@ -9065,7 +9065,7 @@
     properties: {
         link: 'https://github.com/nosir/cleave.js',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://nosir.github.io/cleave.js/'
         ],
         type: 'repository'
@@ -9085,7 +9085,7 @@
     properties: {
         link: 'https://github.com/nosir/obelisk.js',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://ngryman.sh/obelisk-buildr/'
         ],
         type: 'repository'
@@ -9129,7 +9129,7 @@
         link: 'https://github.com/nuxt/nuxt.js',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://nuxtjs.org/'
         ],
         type: 'repository'
@@ -9152,7 +9152,7 @@
         tags: [
             'angular'
         ],
-        tests: [
+        examples: [
             'https://www.emojicopy.com/',
             'http://oblador.github.io/angular-scroll/'
         ],
@@ -9173,7 +9173,7 @@
         link: 'https://github.com/olado/doT',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://olado.github.io/doT/'
         ],
         type: 'repository'
@@ -9197,7 +9197,7 @@
     properties: {
         link: 'https://github.com/olivernn/lunr.js',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://trello.com/b/Gh237agh/indigo-me',
             'https://vanillaforums.com/en/'
         ],
@@ -9246,7 +9246,7 @@
         link: 'https://github.com/openlayers/ol2',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://www.mercycorps.org/articles/climate-change-affects-poverty',
             'http://openlayers.org/two/'
         ],
@@ -9322,7 +9322,7 @@
             'd3',
             'charts'
         ],
-        tests: [
+        examples: [
             'https://bower.io/'
         ],
         type: 'repository'
@@ -9347,7 +9347,7 @@
         link: 'https://github.com/paldepind/flyd',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://paldepind.github.io/flyd/examples/sum/'
         ],
         type: 'repository'
@@ -9405,7 +9405,7 @@
         link: 'https://github.com/peachananr/tiltedpage_scroll',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://www.thepetedesign.com/demos/tiltedpage_scroll_demo.html'
         ],
         type: 'repository'
@@ -9424,7 +9424,7 @@
     properties: {
         link: 'https://github.com/php/php-src',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://www.cbc.radio-canada.ca/en/'
         ],
         type: 'repository',
@@ -9462,7 +9462,7 @@
         name: 'Phusion Passenger',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://blog.ghost.org/'
         ],
         type: 'repository'
@@ -9490,7 +9490,7 @@
     properties: {
         link: 'https://github.com/pixxelfactory/jInvertScroll',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://www.pixxelfactory.net/jInvertScroll/'
         ],
         type: 'repository'
@@ -9509,7 +9509,7 @@
     properties: {
         link: 'https://github.com/pmsi-alignalytics/dimple',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://dimplejs.org/examples_viewer.html?id=lines_dual_measure'
         ],
         type: 'repository'
@@ -9536,7 +9536,7 @@
         link: 'https://github.com/prrashi/rateYo',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://rateyo.fundoocode.ninja/'
         ],
         type: 'repository'
@@ -9559,7 +9559,7 @@
         tags: [
             'css'
         ],
-        tests: [
+        examples: [
             'https://stores.kotisdesign.com/gimlet'
         ],
         type: 'repository'
@@ -9584,7 +9584,7 @@
         link: 'https://github.com/pusher/pusher-js',
         name: 'Pusher Javascript Client',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://www.nytimes.com/interactive/2016/sports/olympics/rio-olympics-photo-firehose.html'
         ],
         type: 'repository'
@@ -9613,7 +9613,7 @@
         },
         link: 'https://github.com/qTip2/qTip2',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://qtip2.com/'
         ],
         type: 'repository'
@@ -9675,7 +9675,7 @@
     properties: {
         link: 'https://github.com/rgrove/lazyload',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://www.michaelhill.ca/engagement'
         ],
         type: 'repository'
@@ -9697,7 +9697,7 @@
         link: 'https://github.com/rnmp/salvattore',
         name: 'Salvattore',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://www.allrecipes.com/recipes/367/desserts/pies/'
         ],
         type: 'repository'
@@ -9755,7 +9755,7 @@
     properties: {
         link: 'https://github.com/rstacruz/js2coffee',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://js2.coffee/'
         ],
         type: 'repository'
@@ -9779,7 +9779,7 @@
     properties: {
         link: 'https://github.com/rstacruz/nprogress',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://ricostacruz.com/nprogress/'
         ],
         type: 'repository'
@@ -9803,7 +9803,7 @@
     properties: {
         link: 'https://github.com/ruby/ruby',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://getmatlock.github.io/'
         ],
         type: 'repository'
@@ -9824,7 +9824,7 @@
         tags: [
             'jQuery'
         ],
-        tests: [
+        examples: [
             'http://www.runningcoder.org/jquerytypeahead/'
         ],
         type: 'repository'
@@ -9850,7 +9850,7 @@
         link: 'https://github.com/sachinchoolur/lightGallery',
         notes: [],
         platform: 'GitHub',
-        tests: [],
+        examples: [],
         type: 'repository'
     },
     tests: {
@@ -9869,7 +9869,7 @@
         link: 'https://github.com/sachinchoolur/lightgallery.js',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://sachinchoolur.github.io/lightgallery.js/'
         ],
         type: 'repository'
@@ -9889,7 +9889,7 @@
         link: 'https://github.com/sachinchoolur/lightslider',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://sachinchoolur.github.io/lightslider/'
         ],
         type: 'repository'
@@ -9911,7 +9911,7 @@
         tags: [
             'video-players'
         ],
-        tests: [
+        examples: [
             'https://plyr.io/'
         ],
         type: 'repository'
@@ -9934,7 +9934,7 @@
         tags: [
             'touch'
         ],
-        tests: [
+        examples: [
             'https://rangetouch.com/'
         ],
         type: 'repository'
@@ -9957,7 +9957,7 @@
         tags: [
             'social-media-links'
         ],
-        tests: [
+        examples: [
             'https://shr.one/'
         ],
         type: 'repository'
@@ -9994,7 +9994,7 @@
         link: 'https://github.com/sciactive/pnotify',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://sciactive.com/pnotify/',
             'https://packagemapping.com/'
         ],
@@ -10036,7 +10036,7 @@
         link: 'https://github.com/scottjehl/picturefill',
         name: 'Picturefill',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://www.newyorkjets.com/'
         ],
         type: 'repository'
@@ -10070,7 +10070,7 @@
         tags: [
             'scrolling'
         ],
-        tests: [
+        examples: [
             'https://scrollrevealjs.org/'
         ],
         type: 'repository'
@@ -10141,7 +10141,7 @@
         link: 'https://github.com/selectize/selectize.js',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://selectize.github.io/selectize.js/'
         ],
         type: 'repository'
@@ -10184,7 +10184,7 @@
         link: 'https://github.com/sindresorhus/screenfull.js',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://sindresorhus.com/screenfull.js/'
         ],
         type: 'repository'
@@ -10203,7 +10203,7 @@
     properties: {
         link: 'https://github.com/slevithan/regex-colorizer',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://stevenlevithan.com/regex/colorizer/'
         ],
         type: 'repository'
@@ -10248,7 +10248,7 @@
             'bootstrap',
             'dropdown'
         ],
-        tests: [
+        examples: [
             'https://snappa.com/'
         ],
         type: 'repository'
@@ -10268,7 +10268,7 @@
         link: 'https://github.com/snookca/prepareTransition',
         name: 'prepareTransition jQuery Plugin',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://ca.octobersveryown.com/'
         ],
         type: 'repository'
@@ -10288,7 +10288,7 @@
         link: 'https://github.com/socketio/socket.io',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://socket.io/'
         ],
         type: 'repository'
@@ -10309,7 +10309,7 @@
         link: 'https://github.com/sockjs/sockjs-client',
         name: 'SockJS-client',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://www.nytimes.com/interactive/2016/sports/olympics/rio-olympics-photo-firehose.html'
         ],
         type: 'repository'
@@ -10336,7 +10336,7 @@
         link: 'https://github.com/sofish/pen',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://sofish.github.io/pen/'
         ],
         type: 'repository'
@@ -10376,7 +10376,7 @@
         link: 'https://github.com/soney/jsep',
         platform: 'GitHub',
         tags: [],
-        tests: [
+        examples: [
             'http://jsep.from.so/'
         ],
         type: 'repository'
@@ -10417,7 +10417,7 @@
     properties: {
         link: 'https://github.com/soundar24/roundSlider',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://roundsliderui.com/'
         ],
         type: 'repository'
@@ -10444,7 +10444,7 @@
             'https://i.imgur.com/vTzFde7.jpg'
         ],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://varnish-cache.org/'
         ],
         type: 'repository'
@@ -10472,7 +10472,7 @@
         link: 'https://github.com/square/crossfilter',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://square.github.io/crossfilter/'
         ],
         type: 'repository'
@@ -10503,7 +10503,7 @@
         link: 'https://github.com/staaky/strip',
         notes: [],
         platform: 'GitHub',
-        tests: [],
+        examples: [],
         type: 'repository'
     },
     tests: {
@@ -10564,7 +10564,7 @@
         tags: [
             'wysiwyg'
         ],
-        tests: [
+        examples: [
             'https://www.buymeacoffee.com/robinherbots',
             'https://summernote.org/'
         ],
@@ -10593,7 +10593,7 @@
         link: 'https://github.com/sweetalert2/sweetalert2',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://sweetalert2.github.io/'
         ],
         type: 'repository'
@@ -10658,7 +10658,7 @@
         link: 'https://github.com/syntaxhighlighter/syntaxhighlighter',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://alexgorbatchev.com/SyntaxHighlighter/'
         ],
         type: 'repository'
@@ -10678,7 +10678,7 @@
         link: 'https://github.com/systemjs/systemjs',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://ng-semantic.herokuapp.com/#/'
         ],
         type: 'repository'
@@ -10705,7 +10705,7 @@
         link: 'https://github.com/ten1seven/what-input',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://ten1seven.github.io/what-input/'
         ],
         type: 'repository'
@@ -10726,7 +10726,7 @@
         notes: [],
         platform: 'GitHub',
         tags: [],
-        tests: [
+        examples: [
             'http://thorst.github.io/jquery-idletimer/prod/demos/'
         ],
         type: 'repository'
@@ -10746,7 +10746,7 @@
         link: 'https://github.com/timdown/rangy',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://jakiestfu.github.io/Medium.js/docs/'
         ],
         type: 'repository'
@@ -10792,7 +10792,7 @@
         link: 'https://github.com/tmont/sunlight',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://sunlightjs.com/'
         ],
         type: 'repository'
@@ -10817,7 +10817,7 @@
         link: 'https://github.com/toddmotto/echo',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://www.booking.com/'
         ],
         type: 'repository'
@@ -10881,7 +10881,7 @@
             'encryption',
             'security'
         ],
-        tests: [
+        examples: [
             'https://makitweb.com/take-screenshot-of-webpage-with-html2canvas/'
         ],
         type: 'repository'
@@ -10943,7 +10943,7 @@
             'https://i.imgur.com/BrbdjkX.jpg'
         ],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://www.bootstrapcdn.com/'
         ],
         type: 'repository',
@@ -10987,7 +10987,7 @@
             'https://i.imgur.com/6SVB6Yc.jpg'
         ],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://ocs.ca/collections/dried-flower-cannabis?page=1'
         ],
         type: 'repository'
@@ -11032,7 +11032,7 @@
         see: [
             'https://github.com/running-coder/jquery-typeahead'
         ],
-        tests: [
+        examples: [
             'http://twitter.github.io/typeahead.js/'
         ],
         type: 'repository'
@@ -11067,7 +11067,7 @@
     properties: {
         link: 'https://github.com/upstage/showup',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://assemble.io/'
         ],
         type: 'repository'
@@ -11091,7 +11091,7 @@
             'angularjs',
             'moment'
         ],
-        tests: [
+        examples: [
             'https://genius.com/'
         ],
         type: 'repository'
@@ -11111,7 +11111,7 @@
         link: 'https://github.com/usablica/intro.js',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://introjs.com/'
         ],
         type: 'repository'
@@ -11137,7 +11137,7 @@
         link: 'https://github.com/usablica/progress.js',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://usablica.github.io/progress.js/'
         ],
         type: 'repository'
@@ -11163,7 +11163,7 @@
         link: 'https://github.com/usablica/widearea',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://usablica.github.io/widearea/'
         ],
         type: 'repository'
@@ -11188,7 +11188,7 @@
     properties: {
         link: 'https://github.com/uxsolutions/bootstrap-datepicker',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://uxsolutions.github.io/bootstrap-datepicker/?markup=input&format=&weekStart=&startDate=&endDate=&startView=0&minViewMode=0&maxViewMode=4&todayBtn=false&clearBtn=false&language=en&orientation=auto&multidate=&multidateSeparator=&keyboardNavigation=on&forceParse=on#sandbox'
         ],
         type: 'repository'
@@ -11212,7 +11212,7 @@
     properties: {
         link: 'https://github.com/vanilla/vanilla',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://open.vanillaforums.com/'
         ],
         type: 'repository',
@@ -11249,7 +11249,7 @@
         link: 'https://github.com/vdw/Tabslet',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://vdw.github.io/Tabslet/'
         ],
         type: 'repository'
@@ -11293,7 +11293,7 @@
             'video',
             'vimeo'
         ],
-        tests: [
+        examples: [
             'https://snappa.com/'
         ],
         type: 'repository'
@@ -11312,7 +11312,7 @@
     properties: {
         link: 'https://github.com/virgiliud/jquery.anchorScroll',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://www.virgiliudiaconu.com/work/anchor-scroll'
         ],
         type: 'repository'
@@ -11350,7 +11350,7 @@
         },
         link: 'https://github.com/vuejs/vue-router',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://element.eleme.io/#/en-US'
         ],
         type: 'repository'
@@ -11420,7 +11420,7 @@
         },
         link: 'https://github.com/vuejs/vuepress',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://vuepress.vuejs.org/'
         ],
         type: 'repository'
@@ -11444,7 +11444,7 @@
     properties: {
         link: 'https://github.com/w3co/jcf',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://www.psd2html.com/js-custom-forms/'
         ],
         type: 'repository'
@@ -11470,7 +11470,7 @@
         link: 'https://github.com/weareoutman/clockpicker',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://weareoutman.github.io/clockpicker/'
         ],
         type: 'repository'
@@ -11489,7 +11489,7 @@
     properties: {
         link: 'https://github.com/webpack/webpack',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://www.cbc.ca/'
         ],
         type: 'repository',
@@ -11517,7 +11517,7 @@
         link: 'https://github.com/wenzhixin/bootstrap-table',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://www.accountdock.com/'
         ],
         type: 'repository'
@@ -11536,7 +11536,7 @@
     properties: {
         link: 'https://github.com/wikimedia/mediawiki',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://en.wikipedia.org/wiki/Fire_at_Sea'
         ],
         type: 'repository',
@@ -11628,7 +11628,7 @@
         notes: [],
         platform: 'GitHub',
         tags: [],
-        tests: [
+        examples: [
             'http://jqueryrotate.com/'
         ],
         type: 'repository'
@@ -11649,7 +11649,7 @@
         link: 'https://github.com/woocommerce/FlexSlider',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://woocommerce.com/flexslider/'
         ],
         type: 'repository'
@@ -11669,7 +11669,7 @@
         link: 'https://github.com/woocommerce/selectWoo',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://www.bundestag.de/en/'
         ],
         type: 'repository'
@@ -11689,7 +11689,7 @@
         link: 'https://github.com/woocommerce/woocommerce',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://woocommerce.com/flexslider/'
         ],
         type: 'repository'
@@ -11716,7 +11716,7 @@
         link: 'https://github.com/worseisbetter/galleria',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://galleria.io/'
         ],
         type: 'repository'
@@ -11767,7 +11767,7 @@
         link: 'https://github.com/xdan/jodit',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://xdsoft.net/jodit/'
         ],
         type: 'repository'
@@ -11787,7 +11787,7 @@
         link: 'https://github.com/xoxco/jQuery-Tags-Input',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://xoxco.com/projects/code/tagsinput/example.html'
         ],
         type: 'repository'
@@ -11808,7 +11808,7 @@
         link: 'https://github.com/yabwe/medium-editor',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://yabwe.github.io/medium-editor/'
         ],
         type: 'repository'
@@ -11853,7 +11853,7 @@
     properties: {
         link: 'https://github.com/yui/yui3',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://www.buildingabetterresponse.org/enrol/index.php?id=26'
         ],
         type: 'repository'
@@ -11977,7 +11977,7 @@
     properties: {
         link: 'https://github.com/zloirock/core-js',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://trello.com/b/Gh237agh/indigo-me'
         ],
         type: 'repository'
@@ -12019,7 +12019,7 @@
     properties: {
         link: 'https://github.com/zurb/foundation-sites',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://foundation.zurb.com/'
         ],
         type: 'repository',

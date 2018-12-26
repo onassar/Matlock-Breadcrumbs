@@ -2,7 +2,7 @@
     properties: {
         link: 'https://github.com/hernansartorio/jquery-nice-select',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://www.jesusfilm.org/'
         ],
         type: 'repository'

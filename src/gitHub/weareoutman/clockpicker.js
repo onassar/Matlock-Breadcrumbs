@@ -3,7 +3,7 @@
         link: 'https://github.com/weareoutman/clockpicker',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://weareoutman.github.io/clockpicker/'
         ],
         type: 'repository'

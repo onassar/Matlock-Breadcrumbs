@@ -2,7 +2,7 @@
     properties: {
         link: 'https://github.com/soundar24/roundSlider',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://roundsliderui.com/'
         ],
         type: 'repository'

@@ -3,7 +3,7 @@
         link: 'https://github.com/jaywcjlove/hotkeys',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://wangchujiang.com/hotkeys/'
         ],
         type: 'repository'

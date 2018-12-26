@@ -3,7 +3,7 @@
         link: 'https://github.com/jquery-validation/jquery-validation',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://jqueryvalidation.org/files/demo/errorcontainer-demo.html'
         ],
         type: 'repository'

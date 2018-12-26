@@ -3,7 +3,7 @@
         link: 'https://github.com/xdan/jodit',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://xdsoft.net/jodit/'
         ],
         type: 'repository'

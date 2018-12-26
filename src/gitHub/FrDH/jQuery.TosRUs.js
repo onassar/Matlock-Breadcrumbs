@@ -2,7 +2,7 @@
     properties: {
         link: 'https://github.com/FrDH/jQuery.TosRUs',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://tosrus.frebsite.nl/'
         ],
         type: 'repository'

@@ -2,7 +2,7 @@
     properties: {
         link: 'https://github.com/jmosbech/StickyTableHeaders',
         platform: 'GitHub',
-        tests: [],
+        examples: [],
         type: 'repository'
     },
     tests: {

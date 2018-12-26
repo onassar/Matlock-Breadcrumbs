@@ -2,7 +2,7 @@
     properties: {
         link: 'https://github.com/hakimel/reveal.js',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://revealjs.com/#/'
         ],
         type: 'repository'

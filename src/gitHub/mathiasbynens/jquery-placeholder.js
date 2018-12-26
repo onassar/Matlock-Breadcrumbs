@@ -3,7 +3,7 @@
         link: 'https://github.com/mathiasbynens/jquery-placeholder',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://mathiasbynens.github.io/jquery-placeholder/'
         ],
         type: 'repository'

@@ -2,7 +2,7 @@
     properties: {
         link: 'https://github.com/Leaflet/Leaflet',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://www.meteor.com/'
         ],
         type: 'repository',

@@ -3,7 +3,7 @@
         link: 'https://github.com/worseisbetter/galleria',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://galleria.io/'
         ],
         type: 'repository'

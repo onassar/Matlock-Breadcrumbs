@@ -5,7 +5,7 @@
             'https://i.imgur.com/6QH50iS.jpg'
         ],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://missive.github.io/emoji-mart/'
         ]
     },

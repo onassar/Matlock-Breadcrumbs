@@ -5,7 +5,7 @@
         tags: [
             'encryption'
         ],
-        tests: [
+        examples: [
             'https://getstencil.com/app'
         ],
         type: 'repository'

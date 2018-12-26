@@ -2,7 +2,7 @@
     properties: {
         link: 'https://github.com/adamwdraper/Numeral-js',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://themeforest.net/item/soledad-multiconcept-blogmagazine-wp-theme/12945398',
             'http://numeraljs.com/'
         ],

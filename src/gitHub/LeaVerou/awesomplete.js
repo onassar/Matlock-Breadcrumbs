@@ -5,7 +5,7 @@
         tags: [
             'search'
         ],
-        tests: [
+        examples: [
             'http://leaverou.github.io/awesomplete/'
         ],
         type: 'repository'

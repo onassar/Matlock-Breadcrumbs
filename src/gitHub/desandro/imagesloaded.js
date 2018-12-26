@@ -2,7 +2,7 @@
     properties: {
         link: 'https://github.com/desandro/imagesloaded',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://imagesloaded.desandro.com/'
         ],
         type: 'repository'

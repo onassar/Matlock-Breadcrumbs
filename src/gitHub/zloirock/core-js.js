@@ -2,7 +2,7 @@
     properties: {
         link: 'https://github.com/zloirock/core-js',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://trello.com/b/Gh237agh/indigo-me'
         ],
         type: 'repository'

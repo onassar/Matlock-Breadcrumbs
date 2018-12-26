@@ -2,7 +2,7 @@
     properties: {
         link: 'https://github.com/rstacruz/js2coffee',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://js2.coffee/'
         ],
         type: 'repository'

@@ -2,7 +2,7 @@
     properties: {
         link: 'https://github.com/yui/yui3',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://www.buildingabetterresponse.org/enrol/index.php?id=26'
         ],
         type: 'repository'

@@ -2,7 +2,7 @@
     properties: {
         link: 'https://github.com/hakimel/zoom.js',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://lab.hakim.se/zoom-js/'
         ],
         type: 'repository'

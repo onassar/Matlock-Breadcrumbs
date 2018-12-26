@@ -3,7 +3,7 @@
         link: 'https://github.com/chaijs/chai',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://www.chaijs.com/'
         ],
         type: 'repository'

@@ -6,7 +6,7 @@
         tags: [
             'date-picker'
         ],
-        tests: [
+        examples: [
             'https://bevacqua.github.io/horsey/'
         ],
         type: 'repository'

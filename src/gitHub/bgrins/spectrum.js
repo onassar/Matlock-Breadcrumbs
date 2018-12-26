@@ -6,7 +6,7 @@
         tags: [
             'color-pickers'
         ],
-        tests: [
+        examples: [
             'https://bgrins.github.io/spectrum/'
         ],
         type: 'repository'

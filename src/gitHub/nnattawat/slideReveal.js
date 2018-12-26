@@ -2,7 +2,7 @@
     properties: {
         link: 'https://github.com/nnattawat/slideReveal',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://nnattawat.github.io/slideReveal/'
         ],
         type: 'repository'

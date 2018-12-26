@@ -3,7 +3,7 @@
         link: 'https://github.com/snookca/prepareTransition',
         name: 'prepareTransition jQuery Plugin',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://ca.octobersveryown.com/'
         ],
         type: 'repository'

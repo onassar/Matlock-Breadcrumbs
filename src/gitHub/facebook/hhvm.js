@@ -2,7 +2,7 @@
     properties: {
         link: 'https://github.com/facebook/hhvm',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://www.mediawiki.org/wiki/API:Query#Title_normalization'
         ],
         type: 'repository',

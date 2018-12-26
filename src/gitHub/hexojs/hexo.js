@@ -3,7 +3,7 @@
         link: 'https://github.com/hexojs/hexo',
         notes: [],
         platform: 'GitHub',
-        tests: [],
+        examples: [],
         type: 'repository'
     },
     tests: {

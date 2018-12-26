@@ -2,7 +2,7 @@
     properties: {
         link: 'https://github.com/keen/keen-js',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://open.vanillaforums.com/'
         ],
         type: 'repository'

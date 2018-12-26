@@ -4,7 +4,7 @@
         notes: [],
         platform: 'GitHub',
         tags: [],
-        tests: [
+        examples: [
             'https://summernote.org/'
         ],
         type: 'repository'

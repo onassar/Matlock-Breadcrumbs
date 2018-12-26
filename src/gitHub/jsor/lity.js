@@ -4,7 +4,7 @@
         name: 'Lity',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://sorgalla.com/lity/'
         ],
         type: 'repository'

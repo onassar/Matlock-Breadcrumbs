@@ -2,7 +2,7 @@
     properties: {
         link: 'https://github.com/bugsnag/bugsnag-js',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://mailchimp.com/'
         ],
         type: 'repository'

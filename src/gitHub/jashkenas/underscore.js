@@ -2,7 +2,7 @@
     properties: {
         link: 'https://github.com/jashkenas/underscore',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://torontolife.com/food/torontos-best-pies/'
         ],
         type: 'repository',

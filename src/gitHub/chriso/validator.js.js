@@ -3,7 +3,7 @@
         link: 'https://github.com/chriso/validator.js',
         notes: [],
         platform: 'GitHub',
-        tests: [],
+        examples: [],
         type: 'repository'
     },
     tests: {

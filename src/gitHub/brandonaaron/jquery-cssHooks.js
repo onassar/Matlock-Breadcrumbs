@@ -6,7 +6,7 @@
         notes: [
             'https://i.imgur.com/vqFVVa8.jpg'
         ],
-        tests: [
+        examples: [
             'https://sumo.com/'
         ],
         type: 'repository'

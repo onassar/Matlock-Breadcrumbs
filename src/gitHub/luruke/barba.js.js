@@ -3,7 +3,7 @@
         link: 'https://github.com/luruke/barba.js',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://www.eight.nl/',
             'http://barbajs.org/'
         ],

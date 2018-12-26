@@ -3,7 +3,7 @@
         link: 'https://github.com/nashio/star-rating-svg',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://nashio.github.io/star-rating-svg/demo/'
         ],
         type: 'repository'

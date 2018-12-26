@@ -3,7 +3,7 @@
         link: 'https://github.com/PaulAdamDavis/Arctic-Scroll',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://pauladamdavis.github.io/Arctic-Scroll/'
         ],
         type: 'repository'

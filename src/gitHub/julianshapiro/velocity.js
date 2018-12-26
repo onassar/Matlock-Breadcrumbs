@@ -3,7 +3,7 @@
         link: 'https://github.com/julianshapiro/velocity',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://appsumo.com/stencil-2018/',
             'https://account.microsoft.com/privacy/ad-settings/signedout'
         ],

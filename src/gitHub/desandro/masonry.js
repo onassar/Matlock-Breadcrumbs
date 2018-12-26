@@ -2,7 +2,7 @@
     properties: {
         link: 'https://github.com/desandro/masonry',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://masonry.desandro.com/'
         ],
         type: 'repository'

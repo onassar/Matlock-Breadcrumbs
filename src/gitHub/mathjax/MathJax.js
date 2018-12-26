@@ -3,7 +3,7 @@
         link: 'https://github.com/mathjax/MathJax',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://www.mathjax.org/'
         ],
         type: 'repository',

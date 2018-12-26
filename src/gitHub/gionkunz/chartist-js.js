@@ -5,7 +5,7 @@
         tags: [
             'charts'
         ],
-        tests: [
+        examples: [
             'http://gionkunz.github.io/chartist-js/'
         ],
         type: 'repository'

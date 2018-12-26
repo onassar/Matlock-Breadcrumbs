@@ -3,7 +3,7 @@
         link: 'https://github.com/TTLabs/EvaporateJS',
         platform: 'GitHub',
         tags: [],
-        tests: [],
+        examples: [],
         type: 'repository'
     },
     tests: {

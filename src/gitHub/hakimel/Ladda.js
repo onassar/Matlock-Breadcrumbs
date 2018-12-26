@@ -2,7 +2,7 @@
     properties: {
         link: 'https://github.com/hakimel/Ladda',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://lab.hakim.se/ladda/'
         ],
         type: 'repository'

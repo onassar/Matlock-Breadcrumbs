@@ -2,7 +2,7 @@
     properties: {
         link: 'https://github.com/artpolikarpov/upyachka.js',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://chatra.io/'
         ],
         type: 'repository'

@@ -3,7 +3,7 @@
         link: 'https://github.com/MikeMcl/big.js',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://mikemcl.github.io/big.js/'
         ],
         type: 'repository'

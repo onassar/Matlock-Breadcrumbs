@@ -6,7 +6,7 @@
         tags: [
             'css'
         ],
-        tests: [
+        examples: [
             'https://stores.kotisdesign.com/gimlet'
         ],
         type: 'repository'

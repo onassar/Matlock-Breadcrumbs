@@ -2,7 +2,7 @@
     properties: {
         link: 'https://github.com/Mottie/tablesorter',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://newscapegroup.com/',
             'https://mottie.github.io/tablesorter/docs/'
         ],

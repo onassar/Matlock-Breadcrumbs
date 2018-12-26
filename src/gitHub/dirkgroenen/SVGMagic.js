@@ -3,7 +3,7 @@
         link: 'https://github.com/dirkgroenen/SVGMagic',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://dirkgroenen.nl/SVGMagic/index.html'
         ],
         type: 'repository'

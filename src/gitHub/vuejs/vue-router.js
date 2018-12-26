@@ -5,7 +5,7 @@
         },
         link: 'https://github.com/vuejs/vue-router',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://element.eleme.io/#/en-US'
         ],
         type: 'repository'

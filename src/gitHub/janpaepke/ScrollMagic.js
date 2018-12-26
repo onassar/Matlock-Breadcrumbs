@@ -3,7 +3,7 @@
         link: 'https://github.com/janpaepke/ScrollMagic',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://scrollmagic.io/'
         ],
         type: 'repository'

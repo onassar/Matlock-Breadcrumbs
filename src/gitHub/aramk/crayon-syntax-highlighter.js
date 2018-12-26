@@ -3,7 +3,7 @@
         link: 'https://github.com/aramk/crayon-syntax-highlighter',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://wecodepixels.com/shop/theia-sticky-sidebar-for-wordpress/'
         ],
         type: 'repository'

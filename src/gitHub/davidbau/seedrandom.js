@@ -3,7 +3,7 @@
         link: 'https://github.com/davidbau/seedrandom',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://d3js.org/'
         ],
         type: 'repository'

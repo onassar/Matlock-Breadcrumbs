@@ -12,7 +12,7 @@
         },
         link: 'https://github.com/FrDH/jQuery.mmenu',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://mmenu.frebsite.nl/'
         ],
         type: 'repository'

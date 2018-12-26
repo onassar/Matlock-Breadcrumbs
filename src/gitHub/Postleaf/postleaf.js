@@ -3,7 +3,7 @@
         link: 'https://github.com/Postleaf/postleaf',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://www.postleaf.org/'
         ],
         type: 'repository'

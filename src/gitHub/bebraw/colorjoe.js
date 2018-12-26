@@ -5,7 +5,7 @@
         tags: [
             'color-picker'
         ],
-        tests: [
+        examples: [
             'http://bebraw.github.io/colorjoe/'
         ],
         type: 'repository'

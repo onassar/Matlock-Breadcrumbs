@@ -5,7 +5,7 @@
         tags: [
             'react'
         ],
-        tests: [
+        examples: [
             'https://www.cbc.ca/'
         ],
         type: 'repository'

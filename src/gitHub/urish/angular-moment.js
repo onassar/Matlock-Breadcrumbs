@@ -7,7 +7,7 @@
             'angularjs',
             'moment'
         ],
-        tests: [
+        examples: [
             'https://genius.com/'
         ],
         type: 'repository'

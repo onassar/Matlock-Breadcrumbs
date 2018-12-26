@@ -3,7 +3,7 @@
         link: 'https://github.com/jsbin/jsbin',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://api.nasa.gov/'
         ],
         type: 'repository'

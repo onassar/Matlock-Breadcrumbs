@@ -3,7 +3,7 @@
         link: 'https://github.com/jsor/jcarousel',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://sorgalla.com/jcarousel/'
         ],
         type: 'repository'

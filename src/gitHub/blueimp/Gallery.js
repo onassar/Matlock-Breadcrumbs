@@ -3,7 +3,7 @@
         link: 'https://github.com/blueimp/Gallery',
         platform: 'GitHub',
         tags: [],
-        tests: [
+        examples: [
             'https://blueimp.github.io/Gallery/'
         ],
         type: 'repository'

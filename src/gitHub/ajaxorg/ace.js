@@ -2,7 +2,7 @@
     properties: {
         link: 'https://github.com/ajaxorg/ace',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://ace.c9.io/'
         ],
         type: 'repository'

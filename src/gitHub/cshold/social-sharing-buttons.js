@@ -2,7 +2,7 @@
     properties: {
         link: 'https://github.com/cshold/social-sharing-buttons',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://labs.carsonshold.com/social-sharing-buttons/'
         ],
         type: 'repository'

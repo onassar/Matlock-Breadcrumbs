@@ -2,7 +2,7 @@
     properties: {
         link: 'https://github.com/TurnWheel/jReject',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://jreject.turnwheel.com/'
         ],
         type: 'repository'

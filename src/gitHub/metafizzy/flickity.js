@@ -8,7 +8,7 @@
         link: 'https://github.com/metafizzy/flickity',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://flickity.metafizzy.co/'
         ],
         type: 'repository'

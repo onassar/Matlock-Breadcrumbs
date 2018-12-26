@@ -2,7 +2,7 @@
     properties: {
         link: 'https://github.com/jacomyal/conrad.js',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://sigmajs.org/'
         ],
         type: 'repository'

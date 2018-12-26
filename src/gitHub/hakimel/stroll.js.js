@@ -2,7 +2,7 @@
     properties: {
         link: 'https://github.com/hakimel/stroll.js',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://lab.hakim.se/scroll-effects/'
         ],
         type: 'repository'

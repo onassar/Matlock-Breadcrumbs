@@ -3,7 +3,7 @@
         link: 'https://github.com/woocommerce/FlexSlider',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://woocommerce.com/flexslider/'
         ],
         type: 'repository'

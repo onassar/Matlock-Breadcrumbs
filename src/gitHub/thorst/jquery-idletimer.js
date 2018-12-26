@@ -4,7 +4,7 @@
         notes: [],
         platform: 'GitHub',
         tags: [],
-        tests: [
+        examples: [
             'http://thorst.github.io/jquery-idletimer/prod/demos/'
         ],
         type: 'repository'

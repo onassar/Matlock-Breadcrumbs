@@ -6,7 +6,7 @@
         tags: [
             'color'
         ],
-        tests: [
+        examples: [
             'https://bgrins.github.io/spectrum/'
         ],
         type: 'repository'

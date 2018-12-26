@@ -2,7 +2,7 @@
     properties: {
         link: 'https://github.com/netlify/netlify-cms',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://www.netlifycms.org/'
         ],
         type: 'repository',

@@ -2,7 +2,7 @@
     properties: {
         link: 'https://github.com/webpack/webpack',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://www.cbc.ca/'
         ],
         type: 'repository',

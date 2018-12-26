@@ -5,7 +5,7 @@
         },
         link: 'https://github.com/vuejs/vuepress',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://vuepress.vuejs.org/'
         ],
         type: 'repository'

@@ -3,7 +3,7 @@
         link: 'https://github.com/kkapsner/CanvasBlocker',
         notes: [],
         platform: 'GitHub',
-        tests: [],
+        examples: [],
         type: 'repository'
     },
     tests: {

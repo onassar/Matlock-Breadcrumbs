@@ -3,7 +3,7 @@
         link: 'https://github.com/ansman/validate.js',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://basecamp.com/',
             'https://validatejs.org/'
         ],

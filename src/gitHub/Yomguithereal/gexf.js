@@ -2,7 +2,7 @@
     properties: {
         link: 'https://github.com/Yomguithereal/gexf.js',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://sigmajs.org/'
         ],
         type: 'repository'

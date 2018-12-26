@@ -2,7 +2,7 @@
     properties: {
         link: 'https://github.com/jaysalvat/jquery.facedetection',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://facedetection.jaysalvat.com/'
         ],
         type: 'repository'

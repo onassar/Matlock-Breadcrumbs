@@ -3,7 +3,7 @@
         link: 'https://github.com/sachinchoolur/lightgallery.js',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://sachinchoolur.github.io/lightgallery.js/'
         ],
         type: 'repository'

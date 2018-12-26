@@ -2,7 +2,7 @@
     properties: {
         link: 'https://github.com/LeaVerou/prefixfree',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://leaverou.github.io/prefixfree/'
         ],
         type: 'repository'

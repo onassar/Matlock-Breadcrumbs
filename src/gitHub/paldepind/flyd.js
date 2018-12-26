@@ -3,7 +3,7 @@
         link: 'https://github.com/paldepind/flyd',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://paldepind.github.io/flyd/examples/sum/'
         ],
         type: 'repository'

@@ -3,7 +3,7 @@
         link: 'https://github.com/square/crossfilter',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://square.github.io/crossfilter/'
         ],
         type: 'repository'

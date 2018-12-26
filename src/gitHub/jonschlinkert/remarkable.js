@@ -2,7 +2,7 @@
     properties: {
         link: 'https://github.com/jonschlinkert/remarkable',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://jonschlinkert.github.io/remarkable/demo/'
         ],
         type: 'repository'

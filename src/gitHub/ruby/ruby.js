@@ -2,7 +2,7 @@
     properties: {
         link: 'https://github.com/ruby/ruby',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://getmatlock.github.io/'
         ],
         type: 'repository'

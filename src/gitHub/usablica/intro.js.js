@@ -3,7 +3,7 @@
         link: 'https://github.com/usablica/intro.js',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://introjs.com/'
         ],
         type: 'repository'

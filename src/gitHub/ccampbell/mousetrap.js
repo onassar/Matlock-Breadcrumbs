@@ -4,7 +4,7 @@
             link: 'https://craig.is/accepting-donations?ref=mousetrap'
         },
         link: 'https://github.com/ccampbell/mousetrap',
-        tests: [
+        examples: [
             'https://twitter.com/alfonsocuaron'
         ],
         platform: 'GitHub',

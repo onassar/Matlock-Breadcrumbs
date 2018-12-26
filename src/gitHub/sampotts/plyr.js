@@ -5,7 +5,7 @@
         tags: [
             'video-players'
         ],
-        tests: [
+        examples: [
             'https://plyr.io/'
         ],
         type: 'repository'

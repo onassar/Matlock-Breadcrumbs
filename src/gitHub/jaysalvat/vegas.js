@@ -2,7 +2,7 @@
     properties: {
         link: 'https://github.com/jaysalvat/vegas',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://vegas.jaysalvat.com/'
         ],
         type: 'repository'

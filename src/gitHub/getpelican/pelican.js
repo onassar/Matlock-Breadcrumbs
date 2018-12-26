@@ -2,7 +2,7 @@
     properties: {
         link: 'https://github.com/getpelican/pelican',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://blog.getpelican.com/'
         ],
         type: 'repository'

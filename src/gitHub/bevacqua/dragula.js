@@ -6,7 +6,7 @@
         tags: [
             'drag-and-drop'
         ],
-        tests: [
+        examples: [
             'https://bevacqua.github.io/dragula/'
         ],
         type: 'repository'

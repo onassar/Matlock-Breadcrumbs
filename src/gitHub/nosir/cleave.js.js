@@ -2,7 +2,7 @@
     properties: {
         link: 'https://github.com/nosir/cleave.js',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://nosir.github.io/cleave.js/'
         ],
         type: 'repository'

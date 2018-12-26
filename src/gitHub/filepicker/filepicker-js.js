@@ -3,7 +3,7 @@
         link: 'https://github.com/filepicker/filepicker-js',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://www.accountdock.com/'
         ],
         type: 'repository'

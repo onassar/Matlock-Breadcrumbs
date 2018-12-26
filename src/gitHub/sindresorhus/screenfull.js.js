@@ -3,7 +3,7 @@
         link: 'https://github.com/sindresorhus/screenfull.js',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://sindresorhus.com/screenfull.js/'
         ],
         type: 'repository'

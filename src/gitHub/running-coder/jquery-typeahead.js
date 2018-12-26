@@ -9,7 +9,7 @@
         tags: [
             'jQuery'
         ],
-        tests: [
+        examples: [
             'http://www.runningcoder.org/jquerytypeahead/'
         ],
         type: 'repository'

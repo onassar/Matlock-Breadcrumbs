@@ -3,7 +3,7 @@
         link: 'https://github.com/ilyabirman/Likely',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://ilyabirman.net/projects/likely/'
         ],
         type: 'repository'

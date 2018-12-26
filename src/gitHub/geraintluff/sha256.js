@@ -6,7 +6,7 @@
         tags: [
             'encryption'
         ],
-        tests: [
+        examples: [
             'http://geraintluff.github.io/sha256/'
         ],
         type: 'repository'

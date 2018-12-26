@@ -3,7 +3,7 @@
         link: 'https://github.com/basecamp/trix',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://trix-editor.org/'
         ],
         type: 'repository'

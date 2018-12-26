@@ -6,7 +6,7 @@
             'bootstrap',
             'dropdown'
         ],
-        tests: [
+        examples: [
             'https://snappa.com/'
         ],
         type: 'repository'

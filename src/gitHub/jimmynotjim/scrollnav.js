@@ -6,7 +6,7 @@
         tags: [
             'scrolling'
         ],
-        tests: [
+        examples: [
             'https://codepen.io/jimmynotjim/pen/OZKeyd'
         ],
         type: 'repository'

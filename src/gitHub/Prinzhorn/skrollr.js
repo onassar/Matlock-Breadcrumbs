@@ -3,7 +3,7 @@
         link: 'https://github.com/Prinzhorn/skrollr',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://prinzhorn.github.io/skrollr/'
         ],
         type: 'repository'

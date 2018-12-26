@@ -3,7 +3,7 @@
         link: 'https://github.com/dobtco/formbuilder',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://dobtco.github.io/formbuilder/'
         ],
         type: 'repository'

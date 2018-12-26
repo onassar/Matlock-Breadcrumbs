@@ -2,7 +2,7 @@
     properties: {
         link: 'https://github.com/marmelab/gremlins.js',
         platform: 'GitHub',
-        tests: [],
+        examples: [],
         type: 'repository'
     },
     tests: {

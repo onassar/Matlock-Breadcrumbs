@@ -5,7 +5,7 @@
             'https://i.imgur.com/6SVB6Yc.jpg'
         ],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://ocs.ca/collections/dried-flower-cannabis?page=1'
         ],
         type: 'repository'

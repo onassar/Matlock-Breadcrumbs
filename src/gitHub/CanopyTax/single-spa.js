@@ -2,7 +2,7 @@
     properties: {
         link: 'https://github.com/CanopyTax/single-spa',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://single-spa.surge.sh/'
         ],
         type: 'repository'

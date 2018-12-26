@@ -2,7 +2,7 @@
     properties: {
         link: 'https://github.com/alizahid/slinky',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://alizahid.github.io/slinky/'
         ],
         type: 'repository'

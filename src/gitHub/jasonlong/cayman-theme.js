@@ -4,7 +4,7 @@
         link: 'https://github.com/jasonlong/cayman-theme',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://auxiliary.github.io/rater/'
         ],
         type: 'repository'

@@ -2,7 +2,7 @@
     properties: {
         link: 'https://github.com/olivernn/lunr.js',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://trello.com/b/Gh237agh/indigo-me',
             'https://vanillaforums.com/en/'
         ],

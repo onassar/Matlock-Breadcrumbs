@@ -3,7 +3,7 @@
         link: 'https://github.com/flatlogic/bootstrap-tabcollapse',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://www.toronto.ca/'
         ],
         type: 'repository'

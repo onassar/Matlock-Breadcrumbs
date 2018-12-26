@@ -6,7 +6,7 @@
         tags: [
             'css'
         ],
-        tests: [
+        examples: [
             'http://wicky.nillia.ms/enquire.js/'
         ],
         type: 'repository'

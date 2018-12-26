@@ -6,7 +6,7 @@
         tags: [
             'social-sharing'
         ],
-        tests: [
+        examples: [
             'https://rrssb.netlify.com/'
         ],
         type: 'repository'

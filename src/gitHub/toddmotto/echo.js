@@ -3,7 +3,7 @@
         link: 'https://github.com/toddmotto/echo',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://www.booking.com/'
         ],
         type: 'repository'

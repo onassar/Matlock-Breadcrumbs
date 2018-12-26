@@ -10,7 +10,7 @@
         link: 'https://github.com/Voog/wysihtml',
         name: 'wysihtml',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://wysihtml.com/'
         ],
         type: 'repository'

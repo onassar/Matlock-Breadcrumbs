@@ -3,7 +3,7 @@
         link: 'https://github.com/froala/wysiwyg-editor',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://www.froala.com/wysiwyg-editor'
         ],
         type: 'repository'

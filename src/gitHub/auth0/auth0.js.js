@@ -3,7 +3,7 @@
         link: 'https://github.com/auth0/auth0.js',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://community.dentistry.com/'
         ],
         type: 'repository'

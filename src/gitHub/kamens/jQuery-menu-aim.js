@@ -4,7 +4,7 @@
         notes: [],
         platform: 'GitHub',
         tags: [],
-        tests: [
+        examples: [
             'https://rawgit.com/kamens/jQuery-menu-aim/master/example/example.html'
         ],
         type: 'repository'

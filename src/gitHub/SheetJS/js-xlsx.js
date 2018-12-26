@@ -2,7 +2,7 @@
     properties: {
         link: 'https://github.com/SheetJS/js-xlsx',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://oss.sheetjs.com/'
         ],
         type: 'repository'

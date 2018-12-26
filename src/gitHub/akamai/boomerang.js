@@ -2,7 +2,7 @@
     properties: {
         link: 'https://github.com/akamai/boomerang',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://www.cbc.ca/'
         ],
         type: 'repository'

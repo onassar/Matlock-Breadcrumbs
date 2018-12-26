@@ -3,7 +3,7 @@
         link: 'https://github.com/antennaio/jquery-bar-rating',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://antenna.io/demo/jquery-bar-rating/examples/'
         ],
         type: 'repository'

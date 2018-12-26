@@ -28,7 +28,7 @@
         related: [],
         similar: [],
         tags: [],
-        tests: [],
+        examples: [],
         type: 'repository',
         videos: [],
         wikiPedia: {

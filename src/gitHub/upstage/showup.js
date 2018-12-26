@@ -2,7 +2,7 @@
     properties: {
         link: 'https://github.com/upstage/showup',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://assemble.io/'
         ],
         type: 'repository'

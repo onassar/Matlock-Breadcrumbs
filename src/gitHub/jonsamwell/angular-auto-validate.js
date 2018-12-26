@@ -3,7 +3,7 @@
         link: 'https://github.com/jonsamwell/angular-auto-validate',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://jonsamwell.github.io/angular-auto-validate/'
         ],
         type: 'repository'

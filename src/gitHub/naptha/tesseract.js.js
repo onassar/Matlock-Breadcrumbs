@@ -3,7 +3,7 @@
         link: 'https://github.com/naptha/tesseract.js',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://tesseract.projectnaptha.com/'
         ],
         type: 'repository'

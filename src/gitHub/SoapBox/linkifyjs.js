@@ -3,7 +3,7 @@
         link: 'https://github.com/SoapBox/linkifyjs',
         name: 'Linkify',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://soapbox.github.io/linkifyjs/'
         ],
         type: 'repository'

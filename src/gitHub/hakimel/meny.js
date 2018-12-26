@@ -2,7 +2,7 @@
     properties: {
         link: 'https://github.com/hakimel/meny',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://lab.hakim.se/meny/'
         ],
         type: 'repository'

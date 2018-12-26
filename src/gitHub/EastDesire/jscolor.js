@@ -3,7 +3,7 @@
         link: 'https://github.com/EastDesire/jscolor',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://jscolor.com/'
         ],
         type: 'repository'

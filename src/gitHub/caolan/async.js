@@ -2,7 +2,7 @@
     properties: {
         link: 'https://github.com/caolan/async',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://caolan.github.io/async/'
         ],
         type: 'repository'

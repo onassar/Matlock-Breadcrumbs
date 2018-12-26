@@ -3,7 +3,7 @@
         link: 'https://github.com/NYTimes/ice',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://nytimes.github.io/ice/demo/'
         ],
         type: 'repository'

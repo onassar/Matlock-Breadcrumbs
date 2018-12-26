@@ -3,7 +3,7 @@
         link: 'https://github.com/systemjs/systemjs',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://ng-semantic.herokuapp.com/#/'
         ],
         type: 'repository'

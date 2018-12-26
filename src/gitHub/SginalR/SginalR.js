@@ -3,7 +3,7 @@
         link: 'https://github.com/SignalR/SignalR',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://www.wsj.com/'
         ],
         type: 'repository'

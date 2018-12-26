@@ -3,7 +3,7 @@
         link: 'https://github.com/mholt/PapaParse',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://www.papaparse.com/demo'
         ],
         type: 'repository'

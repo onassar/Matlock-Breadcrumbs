@@ -3,7 +3,7 @@
         link: 'https://github.com/airbnb/polyglot.js',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://www.bestbuy.ca/'
         ],
         type: 'repository'

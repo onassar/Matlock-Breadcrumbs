@@ -2,7 +2,7 @@
     properties: {
         link: 'https://github.com/virgiliud/jquery.anchorScroll',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://www.virgiliudiaconu.com/work/anchor-scroll'
         ],
         type: 'repository'

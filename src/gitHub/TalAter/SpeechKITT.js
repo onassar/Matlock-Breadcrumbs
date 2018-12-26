@@ -4,7 +4,7 @@
         notes: [],
         platform: 'GitHub',
         tags: [],
-        tests: [],
+        examples: [],
         type: 'repository'
     },
     tests: {

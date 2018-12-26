@@ -2,7 +2,7 @@
     properties: {
         link: 'https://github.com/honeybadger-io/honeybadger-js',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://foundation.zurb.com/'
         ],
         type: 'repository'

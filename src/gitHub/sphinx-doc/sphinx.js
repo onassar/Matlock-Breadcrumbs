@@ -5,7 +5,7 @@
             'https://i.imgur.com/vTzFde7.jpg'
         ],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://varnish-cache.org/'
         ],
         type: 'repository'

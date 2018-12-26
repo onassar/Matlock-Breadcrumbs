@@ -3,7 +3,7 @@
         link: 'https://github.com/cburgmer/rasterizeHTML.js',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://cburgmer.github.io/rasterizeHTML.js/'
         ],
         type: 'repository'

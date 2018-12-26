@@ -2,7 +2,7 @@
     properties: {
         link: 'https://github.com/Dogfalo/materialize',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://materializecss.com/'
         ],
         type: 'repository'

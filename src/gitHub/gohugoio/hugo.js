@@ -2,7 +2,7 @@
     properties: {
         link: 'https://github.com/gohugoio/hugo',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://1password.com/',
             'https://www.louisdurrant.co.uk/'
         ],

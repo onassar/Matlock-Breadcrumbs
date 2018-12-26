@@ -3,7 +3,7 @@
         link: 'https://github.com/google/material-design-icons',
         name: 'Material design icons',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://lto.network/',
             'https://ionicons.com/'
         ],

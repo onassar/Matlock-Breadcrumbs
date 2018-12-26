@@ -3,7 +3,7 @@
         link: 'https://github.com/prrashi/rateYo',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://rateyo.fundoocode.ninja/'
         ],
         type: 'repository'

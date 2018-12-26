@@ -2,7 +2,7 @@
     properties: {
         link: 'https://github.com/php/php-src',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://www.cbc.radio-canada.ca/en/'
         ],
         type: 'repository',

@@ -2,7 +2,7 @@
     properties: {
         link: 'https://github.com/DmitryBaranovskiy/raphael',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://lisperator.net/uglifyjs/'
         ],
         type: 'repository'

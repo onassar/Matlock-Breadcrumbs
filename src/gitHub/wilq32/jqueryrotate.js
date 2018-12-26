@@ -4,7 +4,7 @@
         notes: [],
         platform: 'GitHub',
         tags: [],
-        tests: [
+        examples: [
             'http://jqueryrotate.com/'
         ],
         type: 'repository'

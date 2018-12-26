@@ -3,7 +3,7 @@
         link: 'https://github.com/gfranko/jquery.tocify.js',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://developers.coinbase.com/api/v2',
             'http://gregfranko.com/jquery.tocify.js/'
         ],

@@ -6,7 +6,7 @@
         tags: [
             'audio'
         ],
-        tests: [
+        examples: [
             'https://www.talater.com/annyang/'
         ],
         type: 'repository'

@@ -6,7 +6,7 @@
         link: 'https://github.com/RobinHerbots/Inputmask',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://ultimatecourses.com/',
             'https://robinherbots.github.io/Inputmask/'
         ],

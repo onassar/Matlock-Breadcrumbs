@@ -2,7 +2,7 @@
     properties: {
         link: 'https://github.com/jwplayer/jwplayer',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://www.news-gazette.com/'
         ],
         type: 'repository',

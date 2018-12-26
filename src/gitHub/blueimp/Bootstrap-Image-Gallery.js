@@ -3,7 +3,7 @@
         link: 'https://github.com/blueimp/Bootstrap-Image-Gallery',
         platform: 'GitHub',
         tags: [],
-        tests: [],
+        examples: [],
         type: 'repository'
     },
     tests: {

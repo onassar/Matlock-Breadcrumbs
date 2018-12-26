@@ -3,7 +3,7 @@
         link: 'https://github.com/Valve/fingerprintjs2',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://valve.github.io/fingerprintjs2/'
         ],
         type: 'repository'

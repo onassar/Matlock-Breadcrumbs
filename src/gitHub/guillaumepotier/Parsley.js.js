@@ -3,7 +3,7 @@
         link: 'https://github.com/guillaumepotier/Parsley.js',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://www.helpscout.com/pricing/'
         ],
         type: 'repository'

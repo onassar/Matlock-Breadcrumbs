@@ -3,7 +3,7 @@
         link: 'https://github.com/tmont/sunlight',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://sunlightjs.com/'
         ],
         type: 'repository'

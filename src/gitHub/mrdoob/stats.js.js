@@ -2,7 +2,7 @@
     properties: {
         link: 'https://github.com/mrdoob/stats.js',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://mrdoob.github.io/stats.js/'
         ],
         type: 'repository'

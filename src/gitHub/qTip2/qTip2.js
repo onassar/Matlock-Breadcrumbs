@@ -5,7 +5,7 @@
         },
         link: 'https://github.com/qTip2/qTip2',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://qtip2.com/'
         ],
         type: 'repository'

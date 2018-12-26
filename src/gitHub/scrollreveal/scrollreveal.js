@@ -17,7 +17,7 @@
         tags: [
             'scrolling'
         ],
-        tests: [
+        examples: [
             'https://scrollrevealjs.org/'
         ],
         type: 'repository'

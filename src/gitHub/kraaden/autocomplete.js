@@ -6,7 +6,7 @@
             'autcomplete'
         ],
         tags: [],
-        tests: [
+        examples: [
             'https://kraaden.github.io/autocomplete/'
         ],
         type: 'repository'

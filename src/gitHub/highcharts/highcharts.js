@@ -20,7 +20,7 @@
         },
         link: 'https://github.com/highcharts/highcharts',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://www.tsn.ca/'
         ],
         type: 'repository'

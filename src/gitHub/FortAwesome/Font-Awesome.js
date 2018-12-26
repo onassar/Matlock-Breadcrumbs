@@ -7,7 +7,7 @@
             'https://i.imgur.com/nMIVbUf.jpg'
         ],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://tim.fyi',
             'https://getstencil.com/blog',
             'https://lodash.com/docs/4.17.11'

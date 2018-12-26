@@ -3,7 +3,7 @@
         link: 'https://github.com/jekyll/jekyll',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://jekyllrb.com/'
         ],
         type: 'repository',

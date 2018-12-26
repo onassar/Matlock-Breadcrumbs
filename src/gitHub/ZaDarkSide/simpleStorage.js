@@ -2,7 +2,7 @@
     properties: {
         link: 'https://github.com/ZaDarkSide/simpleStorage',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://tahvel.info/simpleStorage/example/'
         ],
         type: 'repository'

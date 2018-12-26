@@ -2,7 +2,7 @@
     properties: {
         link: 'https://github.com/hakimel/kontext',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://lab.hakim.se/kontext/'
         ],
         type: 'repository'

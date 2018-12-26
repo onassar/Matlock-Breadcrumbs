@@ -3,7 +3,7 @@
         link: 'https://github.com/dobtco/starrr',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://dobtco.github.io/starrr/'
         ],
         type: 'repository'

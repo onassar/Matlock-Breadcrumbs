@@ -2,7 +2,7 @@
     properties: {
         link: 'https://github.com/wikimedia/mediawiki',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://en.wikipedia.org/wiki/Fire_at_Sea'
         ],
         type: 'repository',

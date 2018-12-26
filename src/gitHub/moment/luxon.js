@@ -6,7 +6,7 @@
         tags: [
             'datetime'
         ],
-        tests: [
+        examples: [
             'https://moment.github.io/luxon/docs/'
         ],
         type: 'repository'

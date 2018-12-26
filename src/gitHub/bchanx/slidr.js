@@ -3,7 +3,7 @@
         link: 'https://github.com/bchanx/slidr',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://bchanx.com/slidr'
         ],
         type: 'repository'

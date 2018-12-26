@@ -5,7 +5,7 @@
         tags: [
             'touch'
         ],
-        tests: [
+        examples: [
             'https://rangetouch.com/'
         ],
         type: 'repository'

@@ -6,7 +6,7 @@
         tags: [
             'datetime'
         ],
-        tests: [
+        examples: [
             'http://momentjs.com/timezone/'
         ],
         type: 'repository'

@@ -6,7 +6,7 @@
         tags: [
             'angular'
         ],
-        tests: [
+        examples: [
             'http://angular-ui.github.io/bootstrap/'
         ],
         type: 'repository'

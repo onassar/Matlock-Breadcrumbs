@@ -5,7 +5,7 @@
         tags: [
             'video-players'
         ],
-        tests: [
+        examples: [
             'http://bilibili.github.io/flv.js/demo/'
         ],
         type: 'repository'

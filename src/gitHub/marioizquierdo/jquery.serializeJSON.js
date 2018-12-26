@@ -3,7 +3,7 @@
         link: 'https://github.com/marioizquierdo/jquery.serializeJSON',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://www.foodora.ca/fr/?r=1'
         ],
         type: 'repository'

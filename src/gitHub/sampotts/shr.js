@@ -5,7 +5,7 @@
         tags: [
             'social-media-links'
         ],
-        tests: [
+        examples: [
             'https://shr.one/'
         ],
         type: 'repository'

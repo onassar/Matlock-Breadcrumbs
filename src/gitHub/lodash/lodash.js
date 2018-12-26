@@ -2,7 +2,7 @@
     properties: {
         link: 'https://github.com/lodash/lodash',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://lodash.com/'
         ],
         type: 'repository',

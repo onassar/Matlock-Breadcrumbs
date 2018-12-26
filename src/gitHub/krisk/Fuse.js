@@ -5,7 +5,7 @@
         tags: [
             'search'
         ],
-        tests: [
+        examples: [
             'http://fusejs.io/'
         ],
         type: 'repository'

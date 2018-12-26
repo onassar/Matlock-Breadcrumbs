@@ -6,7 +6,7 @@
         tags: [
             'angular'
         ],
-        tests: [
+        examples: [
             'https://genius.com/'
         ],
         type: 'repository'

@@ -3,7 +3,7 @@
         link: 'https://github.com/cferdinandi/smooth-scroll',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://www.london.gov.uk/'
         ],
         type: 'repository'

@@ -3,7 +3,7 @@
         link: 'https://github.com/flowplayer/flowplayer',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://flowplayer.com/blog/flowplayer-native',
             'https://greensock.com/'
         ],

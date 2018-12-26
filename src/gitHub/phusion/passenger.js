@@ -4,7 +4,7 @@
         name: 'Phusion Passenger',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://blog.ghost.org/'
         ],
         type: 'repository'

@@ -3,7 +3,7 @@
         link: 'https://github.com/facebook/immutable-js',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://facebook.github.io/immutable-js/'
         ],
         type: 'repository'

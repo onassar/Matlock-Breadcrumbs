@@ -6,7 +6,7 @@
         tags: [
             'jQuery'
         ],
-        tests: [
+        examples: [
             'https://crooked.com/'
         ],
         type: 'repository'

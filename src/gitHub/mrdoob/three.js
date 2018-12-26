@@ -2,7 +2,7 @@
     properties: {
         link: 'https://github.com/mrdoob/three.js',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://goinghome.302chanwoo.com/'
         ],
         type: 'repository',

@@ -5,7 +5,7 @@
         },
         link: 'https://github.com/mozilla/vtt.js',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://videojs.com/'
         ],
         type: 'repository',

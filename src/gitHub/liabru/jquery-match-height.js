@@ -3,7 +3,7 @@
         link: 'https://github.com/liabru/jquery-match-height',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://www.london.gov.uk/'
         ],
         type: 'repository'

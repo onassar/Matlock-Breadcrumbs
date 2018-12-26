@@ -3,7 +3,7 @@
         link: 'https://github.com/neilj/Squire',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://neilj.github.io/Squire/'
         ],
         type: 'repository'

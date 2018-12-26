@@ -3,7 +3,7 @@
         link: 'https://github.com/appleple/SmartPhoto',
         notes: [],
         platform: 'GitHub',
-        tests: [],
+        examples: [],
         type: 'repository'
     },
     tests: {

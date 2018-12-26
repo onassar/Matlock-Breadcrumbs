@@ -3,7 +3,7 @@
         link: 'https://github.com/ilyabirman/Jouele',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://ilyabirman.net/projects/jouele/'
         ],
         type: 'repository'

@@ -3,7 +3,7 @@
         link: 'https://github.com/jquerytools/jquerytools',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://jquerytools.org/'
         ],
         type: 'repository'

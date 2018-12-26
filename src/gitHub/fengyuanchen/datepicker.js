@@ -3,7 +3,7 @@
         alternatives: [
             'https://github.com/Eonasdan/bootstrap-datetimepicker'
         ],
-        tests: [
+        examples: [
             'https://fengyuanchen.github.io/datepicker/'
         ],
         link: 'https://github.com/fengyuanchen/datepicker',

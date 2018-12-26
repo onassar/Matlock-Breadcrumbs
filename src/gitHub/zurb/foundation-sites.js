@@ -2,7 +2,7 @@
     properties: {
         link: 'https://github.com/zurb/foundation-sites',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://foundation.zurb.com/'
         ],
         type: 'repository',

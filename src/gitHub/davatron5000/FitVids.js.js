@@ -3,7 +3,7 @@
         link: 'https://github.com/davatron5000/FitVids.js',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://fitvidsjs.com/'
         ],
         type: 'repository'

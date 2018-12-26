@@ -6,7 +6,7 @@
         tags: [
             'math'
         ],
-        tests: [
+        examples: [
             'https://www.xarg.org/2014/03/rational-numbers-in-javascript/'
         ],
         type: 'repository'

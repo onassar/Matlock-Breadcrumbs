@@ -3,7 +3,7 @@
         link: 'https://github.com/woocommerce/selectWoo',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://www.bundestag.de/en/'
         ],
         type: 'repository'

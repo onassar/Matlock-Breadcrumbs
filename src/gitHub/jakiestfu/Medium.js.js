@@ -3,7 +3,7 @@
         link: 'https://github.com/jakiestfu/Medium.js',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://jakiestfu.github.io/Medium.js/docs/'
         ],
         type: 'repository'

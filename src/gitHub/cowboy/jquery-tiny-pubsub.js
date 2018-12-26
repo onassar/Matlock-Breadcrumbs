@@ -2,7 +2,7 @@
     properties: {
         link: 'https://github.com/cowboy/jquery-tiny-pubsub',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://www.spotify.com/us/'
         ],
         type: 'repository'

@@ -2,7 +2,7 @@
     properties: {
         link: 'https://github.com/grevory/angular-local-storage',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://www.allrecipes.com/recipes/367/desserts/pies/'
         ],
         type: 'repository'

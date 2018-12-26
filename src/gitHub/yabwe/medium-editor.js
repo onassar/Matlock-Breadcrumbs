@@ -3,7 +3,7 @@
         link: 'https://github.com/yabwe/medium-editor',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://yabwe.github.io/medium-editor/'
         ],
         type: 'repository'

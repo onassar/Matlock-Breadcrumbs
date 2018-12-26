@@ -2,7 +2,7 @@
     properties: {
         link: 'https://github.com/fengyuanchen/viewer',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://fengyuanchen.github.io/viewer/'
         ],
         type: 'repository'

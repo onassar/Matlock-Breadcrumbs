@@ -7,7 +7,7 @@
             'placeholders',
             'javascript'
         ],
-        tests: [
+        examples: [
             'http://holderjs.com/'
         ],
         type: 'repository'

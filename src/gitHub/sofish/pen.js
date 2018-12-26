@@ -3,7 +3,7 @@
         link: 'https://github.com/sofish/pen',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://sofish.github.io/pen/'
         ],
         type: 'repository'

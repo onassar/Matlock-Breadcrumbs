@@ -6,7 +6,7 @@
         link: 'https://github.com/malsup/cycle2',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://www.sandiego.gov/'
         ],
         type: 'repository'

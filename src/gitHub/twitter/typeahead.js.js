@@ -5,7 +5,7 @@
         see: [
             'https://github.com/running-coder/jquery-typeahead'
         ],
-        tests: [
+        examples: [
             'http://twitter.github.io/typeahead.js/'
         ],
         type: 'repository'

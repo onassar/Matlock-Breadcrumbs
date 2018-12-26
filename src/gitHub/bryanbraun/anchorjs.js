@@ -3,7 +3,7 @@
         link: 'https://github.com/bryanbraun/anchorjs',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://domvm.github.io/domvm/',
             'https://www.bryanbraun.com/anchorjs/'
         ],

@@ -3,7 +3,7 @@
         link: 'https://github.com/davatron5000/FitText.js',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://fittextjs.com/'
         ],
         type: 'repository'

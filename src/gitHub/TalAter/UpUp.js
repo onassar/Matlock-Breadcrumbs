@@ -4,7 +4,7 @@
         notes: [],
         platform: 'GitHub',
         tags: [],
-        tests: [
+        examples: [
             'https://www.talater.com/upup/'
         ],
         type: 'repository'

@@ -3,7 +3,7 @@
         link: 'https://github.com/filamentgroup/loadCSS',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://www.filamentgroup.com/'
         ],
         type: 'repository'

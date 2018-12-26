@@ -6,7 +6,7 @@
         link: 'https://github.com/michelson/Dante',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://michelson.github.io/Dante/'
         ],
         type: 'repository'

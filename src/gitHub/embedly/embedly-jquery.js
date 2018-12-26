@@ -7,7 +7,7 @@
             'embedly',
             'jQuery'
         ],
-        tests: [
+        examples: [
             'https://genius.com/'
         ],
         type: 'repository'

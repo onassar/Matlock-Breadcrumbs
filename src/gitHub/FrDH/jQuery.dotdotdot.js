@@ -7,7 +7,7 @@
         },
         link: 'https://github.com/FrDH/jQuery.dotdotdot',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://keen.io/'
         ],
         type: 'repository'

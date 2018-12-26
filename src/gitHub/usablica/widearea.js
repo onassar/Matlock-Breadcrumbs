@@ -3,7 +3,7 @@
         link: 'https://github.com/usablica/widearea',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://usablica.github.io/widearea/'
         ],
         type: 'repository'

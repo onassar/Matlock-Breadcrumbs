@@ -3,7 +3,7 @@
         link: 'https://github.com/claviska/jquery-minicolors',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://labs.abeautifulsite.net/jquery-minicolors/'
         ],
         type: 'repository'

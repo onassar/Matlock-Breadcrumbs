@@ -3,7 +3,7 @@
         link: 'https://github.com/NYTimes/pourover',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://nytimes.github.io/pourover/'
         ],
         type: 'repository'

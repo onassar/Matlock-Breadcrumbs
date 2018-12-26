@@ -6,7 +6,7 @@
         tags: [
             'date-time'
         ],
-        tests: [],
+        examples: [],
         type: 'repository'
     },
     tests: {

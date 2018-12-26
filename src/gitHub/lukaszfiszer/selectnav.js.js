@@ -3,7 +3,7 @@
         link: 'https://github.com/lukaszfiszer/selectnav.js',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://www.lrs.org/library-user-surveys-on-the-web/'
         ],
         type: 'repository'

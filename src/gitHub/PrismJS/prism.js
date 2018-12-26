@@ -3,7 +3,7 @@
         link: 'https://github.com/PrismJS/prism',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://prismjs.com/'
         ],
         type: 'repository'

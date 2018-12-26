@@ -2,7 +2,7 @@
     properties: {
         link: 'https://github.com/cloudinary/cloudinary_js',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://cloudinary.com/console'
         ],
         type: 'repository'

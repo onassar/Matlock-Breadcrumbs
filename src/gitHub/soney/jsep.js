@@ -3,7 +3,7 @@
         link: 'https://github.com/soney/jsep',
         platform: 'GitHub',
         tags: [],
-        tests: [
+        examples: [
             'http://jsep.from.so/'
         ],
         type: 'repository'

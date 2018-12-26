@@ -3,7 +3,7 @@
         link: 'https://github.com/douglascrockford/JSON-js',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://onsen.io/'
         ],
         type: 'repository'

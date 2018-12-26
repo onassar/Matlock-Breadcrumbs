@@ -3,7 +3,7 @@
         link: 'https://github.com/aFarkas/respimage',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://ca.octobersveryown.com'
         ],
         type: 'repository'

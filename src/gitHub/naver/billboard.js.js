@@ -2,7 +2,7 @@
     properties: {
         link: 'https://github.com/naver/billboard.js',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://github.com/naver/billboard.js'
         ],
         type: 'repository'

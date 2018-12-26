@@ -3,7 +3,7 @@
         link: 'https://github.com/brianreavis/sifter.js',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://selectize.github.io/selectize.js/'
         ],
         type: 'repository'

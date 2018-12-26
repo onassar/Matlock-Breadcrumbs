@@ -6,7 +6,7 @@
         tags: [
             'Shopify'
         ],
-        tests: [
+        examples: [
             'https://makitweb.com/take-screenshot-of-webpage-with-html2canvas/'
         ],
         type: 'repository'

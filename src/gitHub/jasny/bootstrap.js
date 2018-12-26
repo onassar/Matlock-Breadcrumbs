@@ -3,7 +3,7 @@
         link: 'https://github.com/jasny/bootstrap',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://animals.howstuffworks.com/fish/sharks/shark.htm'
         ],
         type: 'repository'

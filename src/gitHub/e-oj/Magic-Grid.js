@@ -5,7 +5,7 @@
         tags: [
             'search'
         ],
-        tests: [
+        examples: [
             'https://jsfiddle.net/eolaojo/4pov0rdf/'
         ],
         type: 'repository'

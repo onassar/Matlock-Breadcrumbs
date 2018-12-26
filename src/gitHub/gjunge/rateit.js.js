@@ -3,7 +3,7 @@
         link: 'https://github.com/gjunge/rateit.js',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://gjunge.github.io/rateit.js/examples/'
         ],
         type: 'repository'

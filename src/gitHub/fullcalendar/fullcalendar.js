@@ -6,7 +6,7 @@
         tags: [
             'calendars'
         ],
-        tests: [
+        examples: [
             'https://www.primefaces.org/primeng/#/',
             'https://fullcalendar.io/'
         ],

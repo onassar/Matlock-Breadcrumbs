@@ -6,7 +6,7 @@
         tags: [
             'angular'
         ],
-        tests: [
+        examples: [
             'https://www.bestbuy.ca/'
         ],
         type: 'repository'

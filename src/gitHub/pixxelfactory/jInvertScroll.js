@@ -2,7 +2,7 @@
     properties: {
         link: 'https://github.com/pixxelfactory/jInvertScroll',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://www.pixxelfactory.net/jInvertScroll/'
         ],
         type: 'repository'

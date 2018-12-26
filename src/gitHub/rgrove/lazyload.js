@@ -2,7 +2,7 @@
     properties: {
         link: 'https://github.com/rgrove/lazyload',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://www.michaelhill.ca/engagement'
         ],
         type: 'repository'

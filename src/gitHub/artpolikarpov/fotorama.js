@@ -2,7 +2,7 @@
     properties: {
         link: 'https://github.com/artpolikarpov/fotorama',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://fotorama.io/'
         ],
         type: 'repository'

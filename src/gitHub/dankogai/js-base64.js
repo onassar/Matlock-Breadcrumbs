@@ -2,7 +2,7 @@
     properties: {
         link: 'https://github.com/dankogai/js-base64',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://www.iconfinder.com/'
         ],
         type: 'repository'

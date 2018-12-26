@@ -6,7 +6,7 @@
         link: 'https://github.com/gatsbyjs/gatsby',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://insomnia.rest/blog/sustainable-profit'
         ],
         type: 'repository'

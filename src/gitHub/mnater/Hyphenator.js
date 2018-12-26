@@ -2,7 +2,7 @@
     properties: {
         link: 'https://github.com/mnater/Hyphenator',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://new.siemens.com/global/en.html'
         ],
         type: 'repository'

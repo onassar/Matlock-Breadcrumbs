@@ -2,7 +2,7 @@
     properties: {
         link: 'https://github.com/d3/d3',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://bower.io/'
         ],
         type: 'repository',

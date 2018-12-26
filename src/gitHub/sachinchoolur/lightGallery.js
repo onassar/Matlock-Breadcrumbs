@@ -3,7 +3,7 @@
         link: 'https://github.com/sachinchoolur/lightGallery',
         notes: [],
         platform: 'GitHub',
-        tests: [],
+        examples: [],
         type: 'repository'
     },
     tests: {

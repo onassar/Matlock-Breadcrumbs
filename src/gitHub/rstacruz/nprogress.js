@@ -2,7 +2,7 @@
     properties: {
         link: 'https://github.com/rstacruz/nprogress',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://ricostacruz.com/nprogress/'
         ],
         type: 'repository'

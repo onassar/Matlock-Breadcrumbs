@@ -2,7 +2,7 @@
     properties: {
         link: 'https://github.com/meteor/meteor',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://www.meteor.com/'
         ],
         type: 'repository',

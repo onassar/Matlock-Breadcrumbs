@@ -8,7 +8,7 @@
         link: 'https://github.com/metafizzy/packery',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://packery.metafizzy.co/'
         ],
         type: 'repository'

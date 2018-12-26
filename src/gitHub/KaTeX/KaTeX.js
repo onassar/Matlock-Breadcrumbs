@@ -2,7 +2,7 @@
     properties: {
         link: 'https://github.com/KaTeX/KaTeX',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://slides.com/'
         ],
         type: 'repository'

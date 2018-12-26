@@ -3,10 +3,10 @@
         link: 'https://github.com/hammerjs/jquery.hammer.js',
         platform: 'GitHub',
         tags: [],
-        tests: [
+        examples: [
             'https://www.cnbc.com/'
         ],
-        tests: [],
+        examples: [],
         type: 'repository'
     },
     tests: {

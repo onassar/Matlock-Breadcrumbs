@@ -3,7 +3,7 @@
         link: 'https://github.com/ampproject/amphtml',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://www.independent.co.uk/news/world/americas/us-politics/trump-james-mattis-defense-secretary-white-house-tweet-replace-retire-latest-a8693756.html'
         ],
         type: 'repository'

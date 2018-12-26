@@ -3,7 +3,7 @@
         link: 'https://github.com/jaredreich/pell',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://www.cssscript.com/demo/minimalist-wysiwyg-editor-pell-js/'
         ],
         type: 'repository'

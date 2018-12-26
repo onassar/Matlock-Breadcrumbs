@@ -2,7 +2,7 @@
     properties: {
         link: 'https://github.com/nnattawat/flip',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://www.universalstudioshollywood.com/'
         ],
         type: 'repository'

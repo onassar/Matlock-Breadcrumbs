@@ -3,7 +3,7 @@
         link: 'https://github.com/auth0/lock',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://www.browserstack.com/docs'
         ],
         type: 'repository'

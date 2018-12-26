@@ -3,7 +3,7 @@
         link: 'https://github.com/nuxt/nuxt.js',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://nuxtjs.org/'
         ],
         type: 'repository'

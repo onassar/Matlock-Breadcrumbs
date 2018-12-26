@@ -3,7 +3,7 @@
         link: 'https://github.com/lord/slate',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://docs.dwolla.com/'
         ],
         type: 'repository'

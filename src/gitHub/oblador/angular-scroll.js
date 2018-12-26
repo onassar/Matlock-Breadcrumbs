@@ -6,7 +6,7 @@
         tags: [
             'angular'
         ],
-        tests: [
+        examples: [
             'https://www.emojicopy.com/',
             'http://oblador.github.io/angular-scroll/'
         ],

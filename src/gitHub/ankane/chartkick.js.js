@@ -3,7 +3,7 @@
         link: 'https://github.com/ankane/chartkick.js',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://www.accountdock.com/'
         ],
         type: 'repository'

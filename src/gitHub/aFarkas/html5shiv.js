@@ -5,7 +5,7 @@
             'https://i.imgur.com/VaUooX0.png'
         ],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://ca.octobersveryown.com'
         ],
         type: 'repository',

@@ -3,7 +3,7 @@
         link: 'https://github.com/aFarkas/lazysizes',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://www.microsoft.com/en-ca'
         ],
         type: 'repository'

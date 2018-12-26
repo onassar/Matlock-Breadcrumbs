@@ -2,7 +2,7 @@
     properties: {
         link: 'https://github.com/nosir/obelisk.js',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://ngryman.sh/obelisk-buildr/'
         ],
         type: 'repository'

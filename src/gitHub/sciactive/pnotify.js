@@ -3,7 +3,7 @@
         link: 'https://github.com/sciactive/pnotify',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://sciactive.com/pnotify/',
             'https://packagemapping.com/'
         ],

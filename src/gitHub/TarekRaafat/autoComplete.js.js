@@ -5,7 +5,7 @@
         tags: [
             'search'
         ],
-        tests: [
+        examples: [
             'https://tarekraafat.github.io/autoComplete.js/demo/'
         ],
         type: 'repository'

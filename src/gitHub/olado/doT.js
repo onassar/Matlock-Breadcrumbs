@@ -3,7 +3,7 @@
         link: 'https://github.com/olado/doT',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://olado.github.io/doT/'
         ],
         type: 'repository'

@@ -6,7 +6,7 @@
         tags: [
             'color-pickers'
         ],
-        tests: [
+        examples: [
             'https://farbelous.io/bootstrap-colorpicker/'
         ],
         type: 'repository'

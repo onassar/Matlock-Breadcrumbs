@@ -6,7 +6,7 @@
             'video',
             'vimeo'
         ],
-        tests: [
+        examples: [
             'https://snappa.com/'
         ],
         type: 'repository'

@@ -3,7 +3,7 @@
         link: 'https://github.com/cujojs/curl',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://cujojs.com/'
         ],
         type: 'repository'

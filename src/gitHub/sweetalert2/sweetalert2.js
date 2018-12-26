@@ -6,7 +6,7 @@
         link: 'https://github.com/sweetalert2/sweetalert2',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://sweetalert2.github.io/'
         ],
         type: 'repository'

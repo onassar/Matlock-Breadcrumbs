@@ -7,7 +7,7 @@
             'd3',
             'charts'
         ],
-        tests: [
+        examples: [
             'https://bower.io/'
         ],
         type: 'repository'

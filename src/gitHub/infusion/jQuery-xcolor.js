@@ -6,7 +6,7 @@
         tags: [
             'color'
         ],
-        tests: [
+        examples: [
             'https://www.xarg.org/project/jquery-color-plugin-xcolor/'
         ],
         type: 'repository'

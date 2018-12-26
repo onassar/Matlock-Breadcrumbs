@@ -5,7 +5,7 @@
         tags: [
             'search'
         ],
-        tests: [
+        examples: [
             'https://mavo.io/'
         ],
         type: 'repository'

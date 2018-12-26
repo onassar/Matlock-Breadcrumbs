@@ -2,7 +2,7 @@
     properties: {
         link: 'https://github.com/keen/keen-tracking.js',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://keen.io/'
         ],
         type: 'repository'

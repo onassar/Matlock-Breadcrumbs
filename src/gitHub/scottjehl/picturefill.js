@@ -3,7 +3,7 @@
         link: 'https://github.com/scottjehl/picturefill',
         name: 'Picturefill',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://www.newyorkjets.com/'
         ],
         type: 'repository'

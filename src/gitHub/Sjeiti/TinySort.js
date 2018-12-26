@@ -3,7 +3,7 @@
         link: 'https://github.com/Sjeiti/TinySort',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://tinysort.sjeiti.com/'
         ],
         type: 'repository'

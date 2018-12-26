@@ -2,7 +2,7 @@
     properties: {
         link: 'https://github.com/slevithan/regex-colorizer',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://stevenlevithan.com/regex/colorizer/'
         ],
         type: 'repository'

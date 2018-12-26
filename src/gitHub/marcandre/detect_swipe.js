@@ -2,7 +2,7 @@
     properties: {
         link: 'https://github.com/marcandre/detect_swipe',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://www.lonelyplanet.com/vietnam'
         ],
         type: 'repository'

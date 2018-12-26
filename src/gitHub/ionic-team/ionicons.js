@@ -2,7 +2,7 @@
     properties: {
         link: 'https://github.com/ionic-team/ionicons',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://lto.network/',
             'https://ionicons.com/'
         ],

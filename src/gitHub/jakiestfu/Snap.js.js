@@ -3,7 +3,7 @@
         link: 'https://github.com/jakiestfu/Snap.js',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://jakiestfu.github.io/Snap.js/demo/apps/default.html'
         ],
         type: 'repository'

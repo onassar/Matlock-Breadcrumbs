@@ -3,7 +3,7 @@
         link: 'https://github.com/usablica/progress.js',
         notes: [],
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://usablica.github.io/progress.js/'
         ],
         type: 'repository'

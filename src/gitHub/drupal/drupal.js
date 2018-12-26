@@ -8,7 +8,7 @@
         },
         link: 'https://github.com/drupal/drupal',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://www.drupal.org/'
         ],
         type: 'repository',

@@ -3,7 +3,7 @@
         link: 'https://github.com/bigspotteddog/ScrollToFixed',
         name: 'ScrollToFixed',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'http://bigspotteddog.github.io/ScrollToFixed/'
         ],
         type: 'repository'

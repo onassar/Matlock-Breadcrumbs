@@ -6,7 +6,7 @@
         tags: [
             'scrolling'
         ],
-        tests: [
+        examples: [
             'https://wicky.nillia.ms/headroom.js/'
         ],
         type: 'repository'

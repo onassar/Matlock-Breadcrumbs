@@ -2,7 +2,7 @@
     properties: {
         link: 'https://github.com/ilkeryilmaz/timelinejs',
         platform: 'GitHub',
-        tests: [
+        examples: [
             'https://ilkeryilmaz.github.io/timelinejs/'
         ],
         type: 'repository'

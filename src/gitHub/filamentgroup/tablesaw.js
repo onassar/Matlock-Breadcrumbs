@@ -1,7 +1,8 @@
 {
     properties: {
         examples: [
-            'http://www.coca-cola.com/global/'
+            'http://www.coca-cola.com/global/',
+            'http://filamentgroup.github.io/tablesaw/demo/stack.html'
         ],
         link: 'https://github.com/filamentgroup/tablesaw',
         name: 'Tablesaw',

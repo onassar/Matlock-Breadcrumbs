@@ -4789,11 +4789,32 @@
     }
 }
 ,
+// src/gitHub/filamentgroup/shoestring.js
+{
+    properties: {
+        examples: [
+            'http://filamentgroup.github.io/tablesaw/demo/stack.html'
+        ],
+        link: 'https://github.com/filamentgroup/shoestring',
+        name: 'Shoestring',
+        platform: 'GitHub',
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.shoestring'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/filamentgroup/tablesaw.js
 {
     properties: {
         examples: [
-            'http://www.coca-cola.com/global/'
+            'http://www.coca-cola.com/global/',
+            'http://filamentgroup.github.io/tablesaw/demo/stack.html'
         ],
         link: 'https://github.com/filamentgroup/tablesaw',
         name: 'Tablesaw',

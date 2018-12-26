@@ -1,7 +1,7 @@
 {
     properties: {
         examples: [
-            'http://js-grid.com/'
+            'http://js-grid.com/demos/batch-delete.html'
         ],
         link: 'https://github.com/tabalinas/jsgrid',
         name: 'jsGrid',

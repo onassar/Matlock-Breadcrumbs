@@ -12,5 +12,6 @@
             [
                 'window.EmojiTranslate'
             ]
+        }
     }
 }

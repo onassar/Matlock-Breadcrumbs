@@ -9300,6 +9300,7 @@
             [
                 'window.EmojiTranslate'
             ]
+        }
     }
 }
 ,

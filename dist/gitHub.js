@@ -4205,9 +4205,9 @@
         type: 'repository'
     },
     tests: {
-        references: [
+        statements: [
             [
-                'window.jQuery.fn.lazy'
+                'window.jQuery(document.createElement("div")).Lazy({chainable: false}).config'
             ]
         ]
     }

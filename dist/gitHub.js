@@ -7753,6 +7753,29 @@
     }
 }
 ,
+// src/gitHub/lokesh/color-thief.js
+{
+    properties: {
+        link: 'https://github.com/lokesh/color-thief',
+        notes: [],
+        platform: 'GitHub',
+        examples: [
+            'https://lokeshdhakar.com/projects/color-thief/'
+        ],
+        tags: [
+            'color-utils'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.ColorThief'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/lokesh/lightbox2.js
 {
     properties: {

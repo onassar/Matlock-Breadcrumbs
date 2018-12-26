@@ -6,7 +6,7 @@
         examples: [
             'https://www.kickstarter.com/projects/microcosmpublishing/unf-ck-your-intimacy-relationships-sex-and-dating'
         ],
-        link: 'https://github.com/jquery/jquery',
+        link: 'https://github.com/jquery/jquery-color',
         name: 'jQuery Color',
         platform: 'GitHub',
         tags: [

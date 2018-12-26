@@ -7661,7 +7661,8 @@
         notes: [],
         platform: 'GitHub',
         examples: [
-            'https://www.london.gov.uk/'
+            'https://www.london.gov.uk/',
+            'http://brm.io/jquery-match-height-demo/'
         ],
         type: 'repository'
     },
@@ -11100,6 +11101,25 @@
     versions: {
         references: [
             'window.JSEncrypt.version'
+        ]
+    }
+}
+,
+// src/gitHub/tsvensen/equalize.js.js
+{
+    properties: {
+        link: 'https://github.com/tsvensen/equalize.js',
+        platform: 'GitHub',
+        examples: [
+            'http://tsvensen.github.io/equalize.js/'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.jQuery.fn.equalize'
+            ]
         ]
     }
 }

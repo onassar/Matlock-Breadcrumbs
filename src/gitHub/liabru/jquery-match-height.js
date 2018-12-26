@@ -4,7 +4,8 @@
         notes: [],
         platform: 'GitHub',
         examples: [
-            'https://www.london.gov.uk/'
+            'https://www.london.gov.uk/',
+            'http://brm.io/jquery-match-height-demo/'
         ],
         type: 'repository'
     },

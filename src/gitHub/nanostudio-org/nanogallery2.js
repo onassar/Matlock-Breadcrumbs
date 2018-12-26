@@ -6,7 +6,9 @@
         tags: [
             'lightbox'
         ],
-        examples: [],
+        examples: [
+            'https://nanogallery2.nanostudio.org/'
+        ],
         type: 'repository'
     },
     tests: {

@@ -1869,6 +1869,29 @@
     }
 }
 ,
+// src/gitHub/andreknieriem/simplelightbox.js
+{
+    properties: {
+        link: 'https://github.com/andreknieriem/simplelightbox',
+        notes: [],
+        platform: 'GitHub',
+        examples: [
+            'http://simplelightbox.com/'
+        ],
+        tags: [
+            'lightbox'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.jQuery.fn.simpleLightbox'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/andris9/jStorage.js
 {
     properties: {
@@ -2969,7 +2992,9 @@
         tags: [
             'lightbox'
         ],
-        examples: [],
+        examples: [
+            'http://cornel.bopp-art.com/lightcase/'
+        ],
         type: 'repository'
     },
     tests: {
@@ -8734,7 +8759,9 @@
         tags: [
             'lightbox'
         ],
-        examples: [],
+        examples: [
+            'https://nanogallery2.nanostudio.org/'
+        ],
         type: 'repository'
     },
     tests: {

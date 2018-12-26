@@ -6,7 +6,9 @@
         tags: [
             'lightbox'
         ],
-        examples: [],
+        examples: [
+            'http://cornel.bopp-art.com/lightcase/'
+        ],
         type: 'repository'
     },
     tests: {

@@ -4202,6 +4202,9 @@
         examples: [
             'https://getstencil.com/'
         ],
+        tags: [
+            'lazy-loading'
+        ],
         type: 'repository'
     },
     tests: {

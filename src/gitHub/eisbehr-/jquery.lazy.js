@@ -3,7 +3,8 @@
         link: 'https://github.com/eisbehr-/jquery.lazy',
         platform: 'GitHub',
         examples: [
-            'https://getstencil.com/'
+            'https://getstencil.com/',
+            'http://jquery.eisbehr.de/lazy/'
         ],
         tags: [
             'lazy-loading'

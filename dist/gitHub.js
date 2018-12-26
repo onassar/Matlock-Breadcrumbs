@@ -7237,7 +7237,6 @@
 ,
 // src/gitHub/jquery/jquery.js
 {
-    isolate: true,
     properties: {
         alternatives: [
             'https://github.com/madrobby/zepto'
@@ -7273,7 +7272,7 @@
                     var reference = window,
                         index;
                     for (index in reference) {
-                        if (index.match(/^jQuery/) === null) {
+                        if (index.match(/^jQuery/i) === null) {
                             continue;
                         }
                         return true;

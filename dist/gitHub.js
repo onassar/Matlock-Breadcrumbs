@@ -7073,6 +7073,9 @@
 // src/gitHub/jquery/jquery.js
 {
     properties: {
+        alternatives: [
+            'https://github.com/madrobby/zepto'
+        ],
         donate: {
             link: 'https://js.foundation/about/donate'
         },
@@ -7933,6 +7936,9 @@
 // src/gitHub/madrobby/zepto.js
 {
     properties: {
+        alternatives: [
+            'https://github.com/jquery/jquery'
+        ],
         link: 'https://github.com/madrobby/zepto',
         platform: 'GitHub',
         type: 'repository'

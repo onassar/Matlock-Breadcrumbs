@@ -1,5 +1,8 @@
 {
     properties: {
+        alternatives: [
+            'https://github.com/madrobby/zepto'
+        ],
         donate: {
             link: 'https://js.foundation/about/donate'
         },

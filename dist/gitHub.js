@@ -4208,6 +4208,9 @@
         statements: [
             [
                 'window.jQuery(document.createElement("div")).Lazy({chainable: false}).config'
+            ],
+            [
+                'window.Zepto(document.createElement("div")).Lazy({chainable: false}).config'
             ]
         ]
     }

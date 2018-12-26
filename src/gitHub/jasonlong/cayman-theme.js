@@ -1,4 +1,5 @@
 {
+    enabled: false,
     properties: {
         link: 'https://github.com/jasonlong/cayman-theme',
         notes: [],

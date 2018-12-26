@@ -6,6 +6,9 @@
         examples: [
             'https://yabwe.github.io/medium-editor/'
         ],
+        tags: [
+            'wysiwyg'
+        ],
         type: 'repository'
     },
     tests: {

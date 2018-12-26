@@ -5018,6 +5018,7 @@
     tests: {
         references: [
             [
+                '!window.sha256.create',
                 'window.sha256'
             ]
         ]

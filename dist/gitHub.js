@@ -7074,7 +7074,11 @@
             'https://www.kickstarter.com/projects/microcosmpublishing/unf-ck-your-intimacy-relationships-sex-and-dating'
         ],
         link: 'https://github.com/jquery/jquery',
+        name: 'jQuery Color',
         platform: 'GitHub',
+        tags: [
+            'color-utils'
+        ],
         type: 'repository'
     },
     tests: {

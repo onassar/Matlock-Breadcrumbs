@@ -13,6 +13,13 @@
         }
     },
     tests: {
+        patterns: {
+            page: [
+                [
+                    /<div [^>]*class="[^"]*(?:small|medium|large)-\d{1,2} columns/i
+                ]
+            ]
+        },
         references: [
             [
                 'window.Foundation'

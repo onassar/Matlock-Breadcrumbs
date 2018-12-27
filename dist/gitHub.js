@@ -7196,6 +7196,25 @@
     }
 }
 ,
+// src/gitHub/jquery-backstretch/jquery-backstretch.js
+{
+    properties: {
+        link: 'https://github.com/jquery-backstretch/jquery-backstretch',
+        platform: 'GitHub',
+        examples: [
+            'http://www.jquery-backstretch.com/'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.jQuery.fn.backstretch'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/jquery-form/form.js
 {
     properties: {

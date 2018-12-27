@@ -4552,12 +4552,12 @@
 // src/gitHub/epeli/underscore.string.js
 {
     properties: {
-        link: 'https://github.com/epeli/underscore.string',
-        platform: 'GitHub',
         examples: [
             'http://epeli.github.io/underscore.string/',
             'https://wgntv.com/2018/12/27/macaulay-culkin-to-legally-change-his-middle-name-to-macaulay-culkin/'
         ],
+        link: 'https://github.com/epeli/underscore.string',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {
@@ -6043,6 +6043,22 @@
             [
                 'window.MobileDetect',
                 'window.MobileDetect.isPhoneSized'
+            ]
+        ]
+    }
+}
+,
+// src/gitHub/hiddentao/fast-levenshtein.js
+{
+    properties: {
+        link: 'https://github.com/hiddentao/fast-levenshtein',
+        platform: 'GitHub',
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.Levenshtein'
             ]
         ]
     }
@@ -7935,11 +7951,11 @@
 // src/gitHub/kswedberg/jquery-smooth-scroll.js
 {
     properties: {
-        link: 'https://github.com/kswedberg/jquery-smooth-scroll',
-        platform: 'GitHub',
         examples: [
             'https://bitmovin.com/'
         ],
+        link: 'https://github.com/kswedberg/jquery-smooth-scroll',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {

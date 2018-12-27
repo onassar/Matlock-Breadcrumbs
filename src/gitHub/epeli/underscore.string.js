@@ -1,11 +1,11 @@
 {
     properties: {
-        link: 'https://github.com/epeli/underscore.string',
-        platform: 'GitHub',
         examples: [
             'http://epeli.github.io/underscore.string/',
             'https://wgntv.com/2018/12/27/macaulay-culkin-to-legally-change-his-middle-name-to-macaulay-culkin/'
         ],
+        link: 'https://github.com/epeli/underscore.string',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {

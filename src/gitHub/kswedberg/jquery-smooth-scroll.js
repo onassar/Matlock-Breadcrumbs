@@ -1,10 +1,10 @@
 {
     properties: {
-        link: 'https://github.com/kswedberg/jquery-smooth-scroll',
-        platform: 'GitHub',
         examples: [
             'https://bitmovin.com/'
         ],
+        link: 'https://github.com/kswedberg/jquery-smooth-scroll',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {

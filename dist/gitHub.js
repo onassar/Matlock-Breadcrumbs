@@ -2540,6 +2540,29 @@
     }
 }
 ,
+// src/gitHub/balupton/jquery-lightbox.js
+{
+    properties: {
+        examples: [
+            'http://balupton.github.io/jquery-lightbox/demo/'
+        ],
+        link: 'https://github.com/balupton/jquery-lightbox',
+        notes: [],
+        platform: 'GitHub',
+        tags: [
+            'lightbox'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.jQuery.fn.lightbox'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/basecamp/trix.js
 {
     properties: {

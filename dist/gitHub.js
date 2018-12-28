@@ -2916,6 +2916,27 @@
     }
 }
 ,
+// src/gitHub/bitbonsai/facyBox.js
+{
+    properties: {
+        examples: [
+            'https://angel.co/'
+        ],
+        link: 'https://github.com/bitbonsai/facyBox',
+        platform: 'GitHub',
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.jQuery.facybox',
+                'window.jQuery.fn.facybox',
+                'window.jQuery.fn.fixPNG'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/blueimp/Bootstrap-Image-Gallery.js
 {
     properties: {
@@ -4836,6 +4857,14 @@
 // src/gitHub/fancyapps/fancyBox.js
 {
     properties: {
+        examples: [
+            'http://fancyapps.com/fancybox/3/'
+        ],
+        licenses: {
+            commercial: {
+                paid: true
+            }
+        },
         link: 'https://github.com/fancyapps/fancyBox',
         platform: 'GitHub',
         type: 'repository'

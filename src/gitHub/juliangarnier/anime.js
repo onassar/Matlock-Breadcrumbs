@@ -1,6 +1,7 @@
 {
     properties: {
         examples: [
+            'http://animejs.com/',
             'https://brain.js.org/'
         ],
         link: 'https://github.com/juliangarnier/anime',

@@ -8170,6 +8170,7 @@
 {
     properties: {
         examples: [
+            'http://animejs.com/',
             'https://brain.js.org/'
         ],
         link: 'https://github.com/juliangarnier/anime',
@@ -11261,6 +11262,31 @@
     versions: {
         references: [
             'window.jQuery.mbYTPlayer.version'
+        ]
+    }
+}
+,
+// src/gitHub/rrweb-io/rrweb.js
+{
+    properties: {
+        examples: [
+            'https://www.rrweb.io/demo/tetris?lan=en'
+        ],
+        link: 'https://github.com/rrweb-io/rrweb',
+        platform: 'GitHub',
+        tags: [
+            'animation',
+            'history'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.replayer',
+                'window.replayer.config',
+                'window.replayer.mouse'
+            ]
         ]
     }
 }

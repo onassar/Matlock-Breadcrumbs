@@ -1,5 +1,8 @@
 {
     properties: {
+        examples: [
+            'http://paperjs.org/'
+        ],
         link: 'https://github.com/paperjs/paper.js',
         platform: 'GitHub',
         type: 'repository'

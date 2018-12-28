@@ -1,5 +1,6 @@
 ``` javascript
 {
+    enabled: true,
     isolate: true,
     dependencies: [
         'https://github.com/onassar/Stencil'

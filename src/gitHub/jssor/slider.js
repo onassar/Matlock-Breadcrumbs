@@ -1,5 +1,4 @@
 {
-    isolate: true,
     properties: {
         examples: [
             'https://www.jssor.com/'

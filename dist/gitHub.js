@@ -11286,6 +11286,11 @@
                 'window.replayer',
                 'window.replayer.config',
                 'window.replayer.mouse'
+            ],
+            [
+                'window.rrweb',
+                'window.rrweb.config',
+                'window.rrweb.mouse'
             ]
         ]
     }

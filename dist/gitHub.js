@@ -12012,6 +12012,9 @@
 // src/gitHub/tylerpearson/lazyYT.js
 {
     properties: {
+        examples: [
+            'http://works.daugilas.com/lazyYT/demo/index.html'
+        ],
         link: 'https://github.com/tylerpearson/lazyYT',
         platform: 'GitHub',
         type: 'repository'

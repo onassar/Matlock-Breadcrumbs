@@ -2000,6 +2000,30 @@
     }
 }
 ,
+// src/gitHub/angular-slider/angularjs-slider.js
+{
+    properties: {
+        examples: [
+            'http://angular-slider.github.io/angularjs-slider/index.html'
+        ],
+        link: 'https://github.com/angular-slider/angularjs-slider',
+        notes: [],
+        platform: 'GitHub',
+        tags: [
+            'angular',
+            'slider'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        statements: [
+            [
+                'window.angular.module(\'rzModule\')'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/angular-ui/bootstrap.js
 {
     properties: {
@@ -10141,6 +10165,31 @@
         statements: [
             [
                 'new window.Scroller().options'
+            ]
+        ]
+    }
+}
+,
+// src/gitHub/pc035860/angular-highlightjs.js
+{
+    properties: {
+        link: 'https://github.com/pc035860/angular-highlightjs',
+        notes: [],
+        platform: 'GitHub',
+        tags: [
+            'angular',
+            'syntax-hightlighting'
+        ],
+        examples: [
+            'http://angular-slider.github.io/angularjs-slider/',
+            'http://pc035860.github.io/angular-highlightjs/example/'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        statements: [
+            [
+                'window.angular.module(\'hljs\')'
             ]
         ]
     }

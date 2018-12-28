@@ -8025,7 +8025,7 @@
 ,
 // src/gitHub/jssor/slider.js
 {
-    enabled: true,
+    isolate: true,
     properties: {
         examples: [
             'https://www.jssor.com/'

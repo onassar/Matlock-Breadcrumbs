@@ -21,7 +21,8 @@
     },
     versions: {
         references: [
-            'window.jQuery.fancybox.version'
+            'window.jQuery.fancybox.version',
+            'window.jQuery.fancybox2.version'
         ]
     }
 }

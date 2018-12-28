@@ -1763,6 +1763,22 @@
     }
 }
 ,
+// src/gitHub/alexanderdickson/waitForImages.js
+{
+    properties: {
+        link: 'https://github.com/alexanderdickson/waitForImages',
+        platform: 'GitHub',
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.jQuery.fn.waitForImages'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/algolia/algoliasearch-client-javascript.js
 {
     properties: {
@@ -9074,6 +9090,22 @@
     }
 }
 ,
+// src/gitHub/mike-zarandona/PrettyEmbed.js.js
+{
+    properties: {
+        link: 'https://github.com/mike-zarandona/PrettyEmbed.js',
+        platform: 'GitHub',
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.jQuery.fn.prettyEmbed'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/missive/emoji-mart.js
 {
     properties: {
@@ -11972,6 +12004,22 @@
         statements: [
             [
                 'window.jQuery(\'html\').typeahead && !window.Typeahead'
+            ]
+        ]
+    }
+}
+,
+// src/gitHub/tylerpearson/lazyYT.js
+{
+    properties: {
+        link: 'https://github.com/tylerpearson/lazyYT',
+        platform: 'GitHub',
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.jQuery.fn.lazyYT'
             ]
         ]
     }

@@ -6748,7 +6748,8 @@
         references: [
             [
                 'window.autosize',
-                'window.autosize.destroy'
+                'window.autosize.destroy',
+                'window.autosize.update'
             ]
         ]
     }

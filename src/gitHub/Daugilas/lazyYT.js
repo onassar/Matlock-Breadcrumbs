@@ -3,7 +3,7 @@
         examples: [
             'http://works.daugilas.com/lazyYT/demo/index.html'
         ],
-        link: 'https://github.com/tylerpearson/lazyYT',
+        link: 'https://github.com/Daugilas/lazyYT',
         platform: 'GitHub',
         type: 'repository'
     },

@@ -201,6 +201,25 @@
     }
 }
 ,
+// src/gitHub/Daugilas/lazyYT.js
+{
+    properties: {
+        examples: [
+            'http://works.daugilas.com/lazyYT/demo/index.html'
+        ],
+        link: 'https://github.com/Daugilas/lazyYT',
+        platform: 'GitHub',
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.jQuery.fn.lazyYT'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/DmitryBaranovskiy/raphael.js
 {
     properties: {
@@ -12004,25 +12023,6 @@
         statements: [
             [
                 'window.jQuery(\'html\').typeahead && !window.Typeahead'
-            ]
-        ]
-    }
-}
-,
-// src/gitHub/tylerpearson/lazyYT.js
-{
-    properties: {
-        examples: [
-            'http://works.daugilas.com/lazyYT/demo/index.html'
-        ],
-        link: 'https://github.com/tylerpearson/lazyYT',
-        platform: 'GitHub',
-        type: 'repository'
-    },
-    tests: {
-        references: [
-            [
-                'window.jQuery.fn.lazyYT'
             ]
         ]
     }

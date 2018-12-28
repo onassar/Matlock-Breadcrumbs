@@ -5,6 +5,9 @@
         ],
         link: 'https://github.com/mattboldt/typed.js',
         platform: 'GitHub',
+        tags: [
+            'animations'
+        ],
         type: 'repository'
     },
     tests: {

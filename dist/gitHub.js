@@ -323,6 +323,11 @@
 // src/gitHub/FortAwesome/Font-Awesome.js
 {
     properties: {
+        examples: [
+            'https://tim.fyi',
+            'https://getstencil.com/blog',
+            'https://lodash.com/docs/4.17.11'
+        ],
         link: 'https://github.com/FortAwesome/Font-Awesome',
         notes: [
             'https://i.imgur.com/3AhoAeu.jpg',
@@ -330,10 +335,8 @@
             'https://i.imgur.com/nMIVbUf.jpg'
         ],
         platform: 'GitHub',
-        examples: [
-            'https://tim.fyi',
-            'https://getstencil.com/blog',
-            'https://lodash.com/docs/4.17.11'
+        tags: [
+            'icons'
         ],
         type: 'repository',
         wikiPedia: {
@@ -4799,6 +4802,30 @@
     }
 }
 ,
+// src/gitHub/evil-icons/evil-icons.js
+{
+    properties: {
+        examples: [
+            'http://evil-icons.io/'
+        ],
+        link: 'https://github.com/evil-icons/evil-icons',
+        platform: 'GitHub',
+        tags: [
+            'icons'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        patterns: {
+            page: [
+                [
+                    /\bicon icon--ei-/i
+                ]
+            ]
+        }
+    }
+}
+,
 // src/gitHub/expressjs/express.js
 {
     properties: {
@@ -6925,6 +6952,9 @@
         examples: [
             'https://lto.network/',
             'https://ionicons.com/'
+        ],
+        tags: [
+            'icons'
         ],
         type: 'repository'
     },
@@ -9186,6 +9216,9 @@
         ],
         link: 'https://github.com/mattboldt/typed.js',
         platform: 'GitHub',
+        tags: [
+            'animations'
+        ],
         type: 'repository'
     },
     tests: {

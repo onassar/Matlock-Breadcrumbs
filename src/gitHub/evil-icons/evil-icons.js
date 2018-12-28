@@ -1,11 +1,10 @@
 {
     properties: {
-        link: 'https://github.com/ionic-team/ionicons',
-        platform: 'GitHub',
         examples: [
-            'https://lto.network/',
-            'https://ionicons.com/'
+            'http://evil-icons.io/'
         ],
+        link: 'https://github.com/evil-icons/evil-icons',
+        platform: 'GitHub',
         tags: [
             'icons'
         ],
@@ -15,7 +14,7 @@
         patterns: {
             page: [
                 [
-                    /\bion ion-\b/i
+                    /\bicon icon--ei-/i
                 ]
             ]
         }

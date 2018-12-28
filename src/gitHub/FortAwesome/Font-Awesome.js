@@ -1,5 +1,10 @@
 {
     properties: {
+        examples: [
+            'https://tim.fyi',
+            'https://getstencil.com/blog',
+            'https://lodash.com/docs/4.17.11'
+        ],
         link: 'https://github.com/FortAwesome/Font-Awesome',
         notes: [
             'https://i.imgur.com/3AhoAeu.jpg',
@@ -7,10 +12,8 @@
             'https://i.imgur.com/nMIVbUf.jpg'
         ],
         platform: 'GitHub',
-        examples: [
-            'https://tim.fyi',
-            'https://getstencil.com/blog',
-            'https://lodash.com/docs/4.17.11'
+        tags: [
+            'icons'
         ],
         type: 'repository',
         wikiPedia: {

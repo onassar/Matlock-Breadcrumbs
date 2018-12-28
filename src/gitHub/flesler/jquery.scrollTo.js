@@ -14,6 +14,7 @@
         references: [
             [
                 'window.jQuery.fn.scrollTo',
+                'window.jQuery.scrollTo',
                 'window.jQuery.Tween.propHooks.scrollLeft.get',
                 'window.jQuery.Tween.propHooks.scrollTop.get'
             ]

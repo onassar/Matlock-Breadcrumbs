@@ -150,6 +150,28 @@
     }
 }
 ,
+// src/gitHub/ComputerWolf/SlickNav.js
+{
+    properties: {
+        examples: [
+            'http://slicknav.io/'
+        ],
+        link: 'https://github.com/ComputerWolf/SlickNav',
+        platform: 'GitHub',
+        tags: [
+            'slider'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.jQuery.fn.slicknav'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/DataTables/DataTables.js
 {
     properties: {

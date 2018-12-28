@@ -1092,6 +1092,25 @@
     }
 }
 ,
+// src/gitHub/SlexAxton/yepnope.js.js
+{
+    properties: {
+        examples: [
+            'https://www.intercom.com/'
+        ],
+        link: 'https://github.com/SlexAxton/yepnope.js',
+        platform: 'GitHub',
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.yepnope'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/SoapBox/linkifyjs.js
 {
     properties: {

@@ -9,17 +9,7 @@
             [
                 'window.MobileDetect',
                 'window.MobileDetect.isPhoneSized'
-            ],
-            [
-                'window.md',
-                'window.md.isPhoneSized'
             ]
-        ]
-    },
-    versions: {
-        references: [
-            'window.MobileDetect.version',
-            'window.md.version'
         ]
     }
 }

@@ -8,7 +8,8 @@
         references: [
             [
                 'window.MobileDetect',
-                'window.MobileDetect.isPhoneSized',
+                'window.MobileDetect.isPhoneSized'
+            ],
             [
                 'window.md',
                 'window.md.isPhoneSized'

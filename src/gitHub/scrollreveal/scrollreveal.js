@@ -31,6 +31,7 @@
     },
     versions: {
         references: [
+            'window.sr.version',
             'window.ScrollReveal.fn.jquery'
         ]
     }

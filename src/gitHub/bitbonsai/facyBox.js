@@ -5,6 +5,9 @@
         ],
         link: 'https://github.com/bitbonsai/facyBox',
         platform: 'GitHub',
+        tags: [
+            'lightbox'
+        ],
         type: 'repository'
     },
     tests: {

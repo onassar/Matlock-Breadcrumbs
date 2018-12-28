@@ -2924,6 +2924,9 @@
         ],
         link: 'https://github.com/bitbonsai/facyBox',
         platform: 'GitHub',
+        tags: [
+            'lightbox'
+        ],
         type: 'repository'
     },
     tests: {
@@ -5127,6 +5130,28 @@
             [
                 'window.jQuery.fn.tabCollapse',
                 'window.jQuery.fn.tabCollapse.Constructor'
+            ]
+        ]
+    }
+}
+,
+// src/gitHub/flesler/jquery.localScroll.js
+{
+    properties: {
+        examples: [
+            'http://demos.flesler.com/jquery/localScroll/'
+        ],
+        link: 'https://github.com/flesler/jquery.localScroll',
+        platform: 'GitHub',
+        tags: [
+            'scrolling'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.jQuery.fn.localScroll'
             ]
         ]
     }

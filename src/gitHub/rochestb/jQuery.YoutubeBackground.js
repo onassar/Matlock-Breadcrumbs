@@ -1,9 +1,9 @@
 {
     properties: {
         examples: [
-            'https://pupunzi.com/mb.components/mb.YTPlayer/demo/demo.html'
+            'http://rochestb.github.io/jQuery.YoutubeBackground/'
         ],
-        link: 'https://github.com/pupunzi/jquery.mb.YTPlayer',
+        link: 'https://github.com/rochestb/jQuery.YoutubeBackground',
         platform: 'GitHub',
         type: 'repository'
     },
@@ -11,7 +11,7 @@
         references: [
             [
                 'window.jQuery.fn.YTPlayer',
-                'window.jQuery.fn.YTPlaylist'
+                '!window.jQuery.fn.YTPlaylist'
             ]
         ]
     },

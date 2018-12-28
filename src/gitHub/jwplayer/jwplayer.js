@@ -8,8 +8,7 @@
         type: 'repository',
         wikiPedia: {
             load: true,
-            title: 'JW_Player',
-            sections: []
+            title: 'JW_Player'
         }
     },
     tests: {

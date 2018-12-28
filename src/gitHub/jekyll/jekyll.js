@@ -9,8 +9,7 @@
         type: 'repository',
         wikiPedia: {
             load: true,
-            title: 'Jekyll_(software)',
-            sections: []
+            title: 'Jekyll_(software)'
         }
     },
     tests: {

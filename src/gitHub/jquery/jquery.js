@@ -18,8 +18,7 @@
         type: 'repository',
         wikiPedia: {
             load: true,
-            title: 'JQuery',
-            sections: []
+            title: 'JQuery'
         }
     },
     tests: {

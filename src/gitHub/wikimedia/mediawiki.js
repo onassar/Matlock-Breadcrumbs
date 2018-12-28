@@ -8,8 +8,7 @@
         type: 'repository',
         wikiPedia: {
             load: true,
-            title: 'MediaWiki',
-            sections: []
+            title: 'MediaWiki'
         }
     },
     tests: {

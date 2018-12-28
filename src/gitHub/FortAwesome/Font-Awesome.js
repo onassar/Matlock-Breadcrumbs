@@ -15,8 +15,7 @@
         type: 'repository',
         wikiPedia: {
             load: true,
-            title: 'Font_Awesome',
-            sections: []
+            title: 'Font_Awesome'
         }
     },
     tests: {

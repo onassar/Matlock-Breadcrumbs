@@ -11,8 +11,7 @@
         type: 'repository',
         wikiPedia: {
             load: true,
-            title: 'Google_Fonts',
-            sections: []
+            title: 'Google_Fonts'
         }
     },
     tests: {

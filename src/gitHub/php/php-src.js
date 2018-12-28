@@ -8,8 +8,7 @@
         type: 'repository',
         wikiPedia: {
             load: true,
-            title: 'PHP',
-            sections: []
+            title: 'PHP'
         }
     },
     tests: {

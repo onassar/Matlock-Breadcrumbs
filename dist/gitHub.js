@@ -323,8 +323,7 @@
         type: 'repository',
         wikiPedia: {
             load: true,
-            title: 'Font_Awesome',
-            sections: []
+            title: 'Font_Awesome'
         }
     },
     tests: {
@@ -562,8 +561,7 @@
         type: 'repository',
         wikiPedia: {
             load: true,
-            title: 'Leaflet_(software)',
-            sections: []
+            title: 'Leaflet_(software)'
         }
     },
     tests: {
@@ -668,8 +666,7 @@
         type: 'repository',
         wikiPedia: {
             load: true,
-            title: 'Modernizr',
-            sections: []
+            title: 'Modernizr'
         }
     },
     tests: {
@@ -843,8 +840,7 @@
         type: 'repository',
         wikiPedia: {
             load: true,
-            title: 'Polymer_(library)',
-            sections: []
+            title: 'Polymer_(library)'
         }
     },
     tests: {
@@ -1228,8 +1224,7 @@
         type: 'repository',
         wikiPedia: {
             load: true,
-            title: 'Ghost_(blogging_platform)',
-            sections: []
+            title: 'Ghost_(blogging_platform)'
         }
     },
     tests: {
@@ -1430,8 +1425,7 @@
         type: 'repository',
         wikiPedia: {
             load: true,
-            title: 'WordPress',
-            sections: []
+            title: 'WordPress'
         }
     },
     tests: {
@@ -1549,8 +1543,7 @@
         type: 'repository',
         wikiPedia: {
             load: true,
-            title: 'HTML5_Shiv',
-            sections: []
+            title: 'HTML5_Shiv'
         }
     },
     tests: {
@@ -1812,8 +1805,7 @@
         type: 'repository',
         wikiPedia: {
             load: true,
-            title: 'Algolia',
-            sections: []
+            title: 'Algolia'
         }
     },
     tests: {
@@ -1838,8 +1830,7 @@
         type: 'repository',
         wikiPedia: {
             load: true,
-            title: 'Algolia',
-            sections: []
+            title: 'Algolia'
         }
     },
     tests: {
@@ -1864,8 +1855,7 @@
         type: 'repository',
         wikiPedia: {
             load: true,
-            title: 'Algolia',
-            sections: []
+            title: 'Algolia'
         }
     },
     tests: {
@@ -2041,8 +2031,7 @@
         type: 'repository',
         wikiPedia: {
             load: true,
-            title: 'Angular_(application_platform)',
-            sections: []
+            title: 'Angular_(application_platform)'
         }
     },
     tests: {
@@ -2077,8 +2066,7 @@
         type: 'repository',
         wikiPedia: {
             load: true,
-            title: 'AngularJS',
-            sections: []
+            title: 'AngularJS'
         }
     },
     tests: {
@@ -2195,8 +2183,7 @@
         type: 'repository',
         wikiPedia: {
             load: true,
-            title: 'Apache_HTTP_Server',
-            sections: []
+            title: 'Apache_HTTP_Server'
         }
     },
     tests: {
@@ -3687,8 +3674,7 @@
         type: 'repository',
         wikiPedia: {
             load: true,
-            title: 'D3.js',
-            sections: []
+            title: 'D3.js'
         }
     },
     tests: {
@@ -4321,8 +4307,7 @@
         type: 'repository',
         wikiPedia: {
             load: true,
-            title: 'Drupal',
-            sections: []
+            title: 'Drupal'
         }
     },
     tests: {
@@ -4534,8 +4519,7 @@
         type: 'repository',
         wikiPedia: {
             load: true,
-            title: 'Ember.js',
-            sections: []
+            title: 'Ember.js'
         }
     },
     tests: {
@@ -4661,8 +4645,7 @@
         type: 'repository',
         wikiPedia: {
             load: true,
-            title: 'Express.js',
-            sections: []
+            title: 'Express.js'
         }
     },
     tests: {
@@ -4708,8 +4691,7 @@
         type: 'repository',
         wikiPedia: {
             load: true,
-            title: 'HHVM',
-            sections: []
+            title: 'HHVM'
         }
     },
     tests: {
@@ -4766,8 +4748,7 @@
         type: 'repository',
         wikiPedia: {
             load: true,
-            title: 'React_(JavaScript_library)',
-            sections: []
+            title: 'React_(JavaScript_library)'
         }
     },
     tests: {
@@ -5510,8 +5491,7 @@
         type: 'repository',
         wikiPedia: {
             load: true,
-            title: 'Hugo_(software)',
-            sections: []
+            title: 'Hugo_(software)'
         }
     },
     tests: {
@@ -5597,8 +5577,7 @@
         type: 'repository',
         wikiPedia: {
             load: true,
-            title: 'Google_Fonts',
-            sections: []
+            title: 'Google_Fonts'
         }
     },
     tests: {
@@ -5646,8 +5625,7 @@
         type: 'repository',
         wikiPedia: {
             load: true,
-            title: 'ReCAPTCHA',
-            sections: []
+            title: 'ReCAPTCHA'
         }
     },
     tests: {
@@ -6940,8 +6918,7 @@
         type: 'repository',
         wikiPedia: {
             load: true,
-            title: 'Backbone.js',
-            sections: []
+            title: 'Backbone.js'
         }
     },
     tests: {
@@ -6969,8 +6946,7 @@
         type: 'repository',
         wikiPedia: {
             load: true,
-            title: 'Underscore.js',
-            sections: []
+            title: 'Underscore.js'
         }
     },
     tests: {
@@ -7160,8 +7136,7 @@
         type: 'repository',
         wikiPedia: {
             load: true,
-            title: 'Jekyll_(software)',
-            sections: []
+            title: 'Jekyll_(software)'
         }
     },
     tests: {
@@ -7504,8 +7479,7 @@
         type: 'repository',
         wikiPedia: {
             load: true,
-            title: 'JQuery',
-            sections: []
+            title: 'JQuery'
         }
     },
     tests: {
@@ -7702,8 +7676,7 @@
         type: 'repository',
         wikiPedia: {
             load: true,
-            title: 'Velocity_(JavaScript_library)',
-            sections: []
+            title: 'Velocity_(JavaScript_library)'
         }
     },
     tests: {
@@ -7758,8 +7731,7 @@
         type: 'repository',
         wikiPedia: {
             load: true,
-            title: 'JW_Player',
-            sections: []
+            title: 'JW_Player'
         }
     },
     tests: {
@@ -8188,8 +8160,7 @@
         type: 'repository',
         wikiPedia: {
             load: true,
-            title: 'Lodash',
-            sections: []
+            title: 'Lodash'
         }
     },
     tests: {
@@ -8740,8 +8711,7 @@
         type: 'repository',
         wikiPedia: {
             load: true,
-            title: 'MathJax',
-            sections: []
+            title: 'MathJax'
         }
     },
     tests: {
@@ -9017,8 +8987,7 @@
         type: 'repository',
         wikiPedia: {
             load: true,
-            title: 'Meteor_(web_framework)',
-            sections: []
+            title: 'Meteor_(web_framework)'
         }
     },
     tests: {
@@ -9260,8 +9229,7 @@
         type: 'repository',
         wikiPedia: {
             load: true,
-            title: 'MooTools',
-            sections: []
+            title: 'MooTools'
         }
     },
     tests: {
@@ -9343,8 +9311,7 @@
         type: 'repository',
         wikiPedia: {
             load: true,
-            title: 'WebVTT',
-            sections: []
+            title: 'WebVTT'
         }
     },
     tests: {
@@ -9388,8 +9355,7 @@
         type: 'repository',
         wikiPedia: {
             load: true,
-            title: 'Three.js',
-            sections: []
+            title: 'Three.js'
         }
     },
     tests: {
@@ -9561,8 +9527,7 @@
         type: 'repository',
         wikiPedia: {
             load: true,
-            title: 'Netlify',
-            sections: []
+            title: 'Netlify'
         }
     },
     tests: {
@@ -9617,8 +9582,7 @@
         type: 'repository',
         wikiPedia: {
             load: true,
-            title: 'Nginx',
-            sections: []
+            title: 'Nginx'
         }
     },
     tests: {
@@ -10112,8 +10076,7 @@
         type: 'repository',
         wikiPedia: {
             load: true,
-            title: 'PayPal',
-            sections: []
+            title: 'PayPal'
         }
     },
     tests: {
@@ -10194,8 +10157,7 @@
         type: 'repository',
         wikiPedia: {
             load: true,
-            title: 'PHP',
-            sections: []
+            title: 'PHP'
         }
     },
     tests: {
@@ -11118,6 +11080,9 @@
 // src/gitHub/somewebmedia/hc-sticky.js
 {
     properties: {
+        examples: [
+            'http://somewebmedia.com/hc-sticky/demo_1.html'
+        ],
         link: 'https://github.com/somewebmedia/hc-sticky',
         platform: 'GitHub',
         type: 'repository'
@@ -11865,8 +11830,7 @@
         type: 'repository',
         wikiPedia: {
             load: true,
-            title: 'Bootstrap_(front-end_framework)',
-            sections: []
+            title: 'Bootstrap_(front-end_framework)'
         }
     },
     tests: {
@@ -12134,8 +12098,7 @@
         type: 'repository',
         wikiPedia: {
             load: true,
-            title: 'Vanilla_Forums',
-            sections: []
+            title: 'Vanilla_Forums'
         }
     },
     tests: {
@@ -12320,8 +12283,7 @@
         type: 'repository',
         wikiPedia: {
             load: true,
-            title: 'Vue.js',
-            sections: []
+            title: 'Vue.js'
         }
     },
     tests: {
@@ -12434,8 +12396,7 @@
         type: 'repository',
         wikiPedia: {
             load: true,
-            title: 'Webpack',
-            sections: []
+            title: 'Webpack'
         }
     },
     tests: {
@@ -12481,8 +12442,7 @@
         type: 'repository',
         wikiPedia: {
             load: true,
-            title: 'MediaWiki',
-            sections: []
+            title: 'MediaWiki'
         }
     },
     tests: {
@@ -13071,8 +13031,7 @@
         type: 'repository',
         wikiPedia: {
             load: true,
-            title: 'Foundation_(framework)',
-            sections: []
+            title: 'Foundation_(framework)'
         }
     },
     tests: {

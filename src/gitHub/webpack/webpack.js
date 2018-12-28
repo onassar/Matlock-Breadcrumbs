@@ -8,8 +8,7 @@
         type: 'repository',
         wikiPedia: {
             load: true,
-            title: 'Webpack',
-            sections: []
+            title: 'Webpack'
         }
     },
     tests: {

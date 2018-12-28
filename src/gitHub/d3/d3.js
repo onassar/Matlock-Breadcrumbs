@@ -8,8 +8,7 @@
         type: 'repository',
         wikiPedia: {
             load: true,
-            title: 'D3.js',
-            sections: []
+            title: 'D3.js'
         }
     },
     tests: {

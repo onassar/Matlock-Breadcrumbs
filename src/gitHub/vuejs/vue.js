@@ -9,8 +9,7 @@
         type: 'repository',
         wikiPedia: {
             load: true,
-            title: 'Vue.js',
-            sections: []
+            title: 'Vue.js'
         }
     },
     tests: {

@@ -9,8 +9,7 @@
         type: 'repository',
         wikiPedia: {
             load: true,
-            title: 'MathJax',
-            sections: []
+            title: 'MathJax'
         }
     },
     tests: {

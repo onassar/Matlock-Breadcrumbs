@@ -8,8 +8,7 @@
         type: 'repository',
         wikiPedia: {
             load: true,
-            title: 'Netlify',
-            sections: []
+            title: 'Netlify'
         }
     },
     tests: {

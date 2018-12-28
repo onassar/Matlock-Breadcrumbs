@@ -5,8 +5,7 @@
         type: 'repository',
         wikiPedia: {
             load: true,
-            title: 'Polymer_(library)',
-            sections: []
+            title: 'Polymer_(library)'
         }
     },
     tests: {

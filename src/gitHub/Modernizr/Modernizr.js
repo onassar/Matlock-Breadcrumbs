@@ -8,8 +8,7 @@
         type: 'repository',
         wikiPedia: {
             load: true,
-            title: 'Modernizr',
-            sections: []
+            title: 'Modernizr'
         }
     },
     tests: {

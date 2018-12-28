@@ -8,8 +8,7 @@
         type: 'repository',
         wikiPedia: {
             load: true,
-            title: 'Ember.js',
-            sections: []
+            title: 'Ember.js'
         }
     },
     tests: {

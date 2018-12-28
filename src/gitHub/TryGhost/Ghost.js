@@ -12,8 +12,7 @@
         type: 'repository',
         wikiPedia: {
             load: true,
-            title: 'Ghost_(blogging_platform)',
-            sections: []
+            title: 'Ghost_(blogging_platform)'
         }
     },
     tests: {

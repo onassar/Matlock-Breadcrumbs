@@ -8,8 +8,7 @@
         type: 'repository',
         wikiPedia: {
             load: true,
-            title: 'Vanilla_Forums',
-            sections: []
+            title: 'Vanilla_Forums'
         }
     },
     tests: {

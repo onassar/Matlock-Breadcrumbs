@@ -8,8 +8,7 @@
         type: 'repository',
         wikiPedia: {
             load: true,
-            title: 'Foundation_(framework)',
-            sections: []
+            title: 'Foundation_(framework)'
         }
     },
     tests: {

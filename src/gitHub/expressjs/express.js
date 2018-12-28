@@ -8,8 +8,7 @@
         type: 'repository',
         wikiPedia: {
             load: true,
-            title: 'Express.js',
-            sections: []
+            title: 'Express.js'
         }
     },
     tests: {

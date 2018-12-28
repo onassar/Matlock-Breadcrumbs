@@ -11,8 +11,7 @@
         type: 'repository',
         wikiPedia: {
             load: true,
-            title: 'HTML5_Shiv',
-            sections: []
+            title: 'HTML5_Shiv'
         }
     },
     tests: {

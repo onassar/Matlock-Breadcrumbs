@@ -5,8 +5,7 @@
         type: 'repository',
         wikiPedia: {
             load: true,
-            title: 'AngularJS',
-            sections: []
+            title: 'AngularJS'
         }
     },
     tests: {

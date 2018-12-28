@@ -8,8 +8,7 @@
         type: 'repository',
         wikiPedia: {
             load: true,
-            title: 'MooTools',
-            sections: []
+            title: 'MooTools'
         }
     },
     tests: {

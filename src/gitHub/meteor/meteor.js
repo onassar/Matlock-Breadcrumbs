@@ -8,8 +8,7 @@
         type: 'repository',
         wikiPedia: {
             load: true,
-            title: 'Meteor_(web_framework)',
-            sections: []
+            title: 'Meteor_(web_framework)'
         }
     },
     tests: {

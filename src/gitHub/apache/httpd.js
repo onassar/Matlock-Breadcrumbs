@@ -8,8 +8,7 @@
         type: 'repository',
         wikiPedia: {
             load: true,
-            title: 'Apache_HTTP_Server',
-            sections: []
+            title: 'Apache_HTTP_Server'
         }
     },
     tests: {

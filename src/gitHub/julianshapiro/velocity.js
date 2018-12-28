@@ -10,8 +10,7 @@
         type: 'repository',
         wikiPedia: {
             load: true,
-            title: 'Velocity_(JavaScript_library)',
-            sections: []
+            title: 'Velocity_(JavaScript_library)'
         }
     },
     tests: {

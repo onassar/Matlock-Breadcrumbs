@@ -5,8 +5,7 @@
         type: 'repository',
         wikiPedia: {
             load: true,
-            title: 'ReCAPTCHA',
-            sections: []
+            title: 'ReCAPTCHA'
         }
     },
     tests: {

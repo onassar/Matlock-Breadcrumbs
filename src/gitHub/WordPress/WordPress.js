@@ -11,8 +11,7 @@
         type: 'repository',
         wikiPedia: {
             load: true,
-            title: 'WordPress',
-            sections: []
+            title: 'WordPress'
         }
     },
     tests: {

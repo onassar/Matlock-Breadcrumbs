@@ -5,8 +5,7 @@
         type: 'repository',
         wikiPedia: {
             load: true,
-            title: 'Angular_(application_platform)',
-            sections: []
+            title: 'Angular_(application_platform)'
         }
     },
     tests: {

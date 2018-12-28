@@ -8,8 +8,7 @@
         type: 'repository',
         wikiPedia: {
             load: true,
-            title: 'React_(JavaScript_library)',
-            sections: []
+            title: 'React_(JavaScript_library)'
         }
     },
     tests: {

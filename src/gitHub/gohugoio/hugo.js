@@ -9,8 +9,7 @@
         type: 'repository',
         wikiPedia: {
             load: true,
-            title: 'Hugo_(software)',
-            sections: []
+            title: 'Hugo_(software)'
         }
     },
     tests: {

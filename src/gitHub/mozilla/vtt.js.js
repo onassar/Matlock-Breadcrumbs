@@ -11,8 +11,7 @@
         type: 'repository',
         wikiPedia: {
             load: true,
-            title: 'WebVTT',
-            sections: []
+            title: 'WebVTT'
         }
     },
     tests: {

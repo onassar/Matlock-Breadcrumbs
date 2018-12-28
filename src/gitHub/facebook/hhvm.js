@@ -8,8 +8,7 @@
         type: 'repository',
         wikiPedia: {
             load: true,
-            title: 'HHVM',
-            sections: []
+            title: 'HHVM'
         }
     },
     tests: {

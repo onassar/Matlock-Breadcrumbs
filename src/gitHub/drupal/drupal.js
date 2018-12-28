@@ -14,8 +14,7 @@
         type: 'repository',
         wikiPedia: {
             load: true,
-            title: 'Drupal',
-            sections: []
+            title: 'Drupal'
         }
     },
     tests: {

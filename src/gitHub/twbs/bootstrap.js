@@ -12,8 +12,7 @@
         type: 'repository',
         wikiPedia: {
             load: true,
-            title: 'Bootstrap_(front-end_framework)',
-            sections: []
+            title: 'Bootstrap_(front-end_framework)'
         }
     },
     tests: {

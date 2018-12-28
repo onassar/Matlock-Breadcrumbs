@@ -8,8 +8,7 @@
         type: 'repository',
         wikiPedia: {
             load: true,
-            title: 'Backbone.js',
-            sections: []
+            title: 'Backbone.js'
         }
     },
     tests: {

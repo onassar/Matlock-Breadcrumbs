@@ -8,8 +8,7 @@
         type: 'repository',
         wikiPedia: {
             load: true,
-            title: 'Underscore.js',
-            sections: []
+            title: 'Underscore.js'
         }
     },
     tests: {

@@ -8,8 +8,7 @@
         type: 'repository',
         wikiPedia: {
             load: true,
-            title: 'Leaflet_(software)',
-            sections: []
+            title: 'Leaflet_(software)'
         }
     },
     tests: {

@@ -14,8 +14,7 @@
         type: 'repository',
         wikiPedia: {
             load: true,
-            title: 'Nginx',
-            sections: []
+            title: 'Nginx'
         }
     },
     tests: {

@@ -9,8 +9,7 @@
         type: 'repository',
         wikiPedia: {
             load: true,
-            title: 'Algolia',
-            sections: []
+            title: 'Algolia'
         }
     },
     tests: {

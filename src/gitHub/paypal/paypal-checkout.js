@@ -8,8 +8,7 @@
         type: 'repository',
         wikiPedia: {
             load: true,
-            title: 'PayPal',
-            sections: []
+            title: 'PayPal'
         }
     },
     tests: {

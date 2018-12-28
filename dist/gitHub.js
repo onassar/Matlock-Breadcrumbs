@@ -7881,6 +7881,7 @@
 ,
 // src/gitHub/jssor/slider.js
 {
+    enabled: false,
     properties: {
         examples: [
             'https://www.jssor.com/'

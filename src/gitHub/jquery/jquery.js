@@ -6,15 +6,15 @@
         donate: {
             link: 'https://js.foundation/about/donate'
         },
+        examples: [
+            'http://holderjs.com/',
+            'https://stackoverflow.com/'
+        ],
         link: 'https://github.com/jquery/jquery',
         notes: [
             'https://i.imgur.com/6QH50iS.jpg'
         ],
         platform: 'GitHub',
-        examples: [
-            'http://holderjs.com/',
-            'https://stackoverflow.com/'
-        ],
         type: 'repository',
         wikiPedia: {
             load: true,

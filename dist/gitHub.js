@@ -6645,6 +6645,26 @@
     }
 }
 ,
+// src/gitHub/iodide-project/iodide.js
+{
+    properties: {
+        link: 'https://github.com/iodide-project/iodide',
+        platform: 'GitHub',
+        examples: [
+            'https://iodide.io/iodide-examples/what-a-web-notebook-looks-like.html'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.iodide',
+                'window.iodide.environment'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/ionic-team/ionic.js
 {
     properties: {
@@ -7467,15 +7487,15 @@
         donate: {
             link: 'https://js.foundation/about/donate'
         },
+        examples: [
+            'http://holderjs.com/',
+            'https://stackoverflow.com/'
+        ],
         link: 'https://github.com/jquery/jquery',
         notes: [
             'https://i.imgur.com/6QH50iS.jpg'
         ],
         platform: 'GitHub',
-        examples: [
-            'http://holderjs.com/',
-            'https://stackoverflow.com/'
-        ],
         type: 'repository',
         wikiPedia: {
             load: true,

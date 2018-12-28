@@ -8694,11 +8694,11 @@
 // src/gitHub/m3talstorm/hashcode.js
 {
     properties: {
-        link: 'https://github.com/m3talstorm/hashcode',
-        platform: 'GitHub',
         examples: [
             'https://www.novascotia.com/'
         ],
+        link: 'https://github.com/m3talstorm/hashcode',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {

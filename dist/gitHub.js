@@ -11323,6 +11323,30 @@
     }
 }
 ,
+// src/gitHub/staltz/xstream.js
+{
+    properties: {
+        examples: [
+            'http://staltz.github.io/xstream/'
+        ],
+        link: 'https://github.com/staltz/xstream',
+        notes: [],
+        platform: 'GitHub',
+        tags: [],
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.xs',
+                'window.xs.empty',
+                'window.xs.merge',
+                'window.xs.periodic'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/stripe/jquery.payment.js
 {
     properties: {

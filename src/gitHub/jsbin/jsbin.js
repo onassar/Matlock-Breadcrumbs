@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/jsbin/jsbin',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://api.nasa.gov/'

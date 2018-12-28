@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/olado/doT',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'http://olado.github.io/doT/'

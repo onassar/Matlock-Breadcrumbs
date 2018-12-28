@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/Prinzhorn/skrollr',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'http://prinzhorn.github.io/skrollr/'

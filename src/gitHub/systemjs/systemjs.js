@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/systemjs/systemjs',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://ng-semantic.herokuapp.com/#/'

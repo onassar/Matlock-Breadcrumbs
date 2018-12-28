@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/fullcalendar/fullcalendar',
-        notes: [],
         platform: 'GitHub',
         tags: [
             'calendars'

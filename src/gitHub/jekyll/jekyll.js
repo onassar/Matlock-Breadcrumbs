@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/jekyll/jekyll',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://jekyllrb.com/'

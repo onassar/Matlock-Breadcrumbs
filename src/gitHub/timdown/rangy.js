@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/timdown/rangy',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'http://jakiestfu.github.io/Medium.js/docs/'

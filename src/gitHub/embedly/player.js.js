@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/embedly/player.js',
-        notes: [],
         platform: 'GitHub',
         tags: [
             'embedly',

@@ -4,7 +4,6 @@
             'http://www.jacklmoore.com/zoom/'
         ],
         link: 'https://github.com/jackmoore/zoom',
-        notes: [],
         platform: 'GitHub',
         tags: [
             'scrolling',

@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/hexojs/hexo',
-        notes: [],
         platform: 'GitHub',
         examples: [],
         type: 'repository'

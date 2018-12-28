@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/cubiq/iscroll',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://www.thewatergatehotel.com/offers/good-morning',

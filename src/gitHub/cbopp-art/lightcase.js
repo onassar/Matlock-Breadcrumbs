@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/cbopp-art/lightcase',
-        notes: [],
         platform: 'GitHub',
         tags: [
             'lightbox'

@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/worseisbetter/galleria',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://galleria.io/'

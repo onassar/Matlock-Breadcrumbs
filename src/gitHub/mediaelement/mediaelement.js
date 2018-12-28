@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/mediaelement/mediaelement',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'http://council.gov.ru/en/'

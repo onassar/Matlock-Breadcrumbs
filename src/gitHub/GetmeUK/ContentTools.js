@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/GetmeUK/ContentTools',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'http://getcontenttools.com/demo#what-are-you-waiting-for'

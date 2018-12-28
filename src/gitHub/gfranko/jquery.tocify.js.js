@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/gfranko/jquery.tocify.js',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://developers.coinbase.com/api/v2',

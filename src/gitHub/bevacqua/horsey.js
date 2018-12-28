@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/bevacqua/horsey',
-        notes: [],
         platform: 'GitHub',
         tags: [
             'date-picker'

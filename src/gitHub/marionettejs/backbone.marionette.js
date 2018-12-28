@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/marionettejs/backbone.marionette',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://secure.helpscout.net/conversation/630081877/9026/?folderId=1453481',

@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/vinaygopinath/ngMeta',
-        notes: [],
         platform: 'GitHub',
         tags: [
             'angular'

@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/infusion/jQuery-webcam',
-        notes: [],
         platform: 'GitHub',
         tags: [
             'math'

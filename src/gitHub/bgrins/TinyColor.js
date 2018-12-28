@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/bgrins/TinyColor',
-        notes: [],
         platform: 'GitHub',
         tags: [
             'color'

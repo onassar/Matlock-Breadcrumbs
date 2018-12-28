@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/flatlogic/bootstrap-tabcollapse',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://www.toronto.ca/'

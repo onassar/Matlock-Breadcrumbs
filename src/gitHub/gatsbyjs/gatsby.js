@@ -4,7 +4,6 @@
     ],
     properties: {
         link: 'https://github.com/gatsbyjs/gatsby',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://insomnia.rest/blog/sustainable-profit'

@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/basecamp/trix',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://trix-editor.org/'

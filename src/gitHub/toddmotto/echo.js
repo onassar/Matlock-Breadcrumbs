@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/toddmotto/echo',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://www.booking.com/'

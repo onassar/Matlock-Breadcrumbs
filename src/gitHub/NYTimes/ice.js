@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/NYTimes/ice',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'http://nytimes.github.io/ice/demo/'

@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/oblador/angular-scroll',
-        notes: [],
         platform: 'GitHub',
         tags: [
             'angular'

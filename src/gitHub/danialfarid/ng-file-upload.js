@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/danialfarid/ng-file-upload',
-        notes: [],
         platform: 'GitHub',
         tags: [
             'angular'

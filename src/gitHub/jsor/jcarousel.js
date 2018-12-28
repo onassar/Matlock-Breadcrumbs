@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/jsor/jcarousel',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://sorgalla.com/jcarousel/'

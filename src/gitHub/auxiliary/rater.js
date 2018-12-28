@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/auxiliary/rater',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'http://auxiliary.github.io/rater/'

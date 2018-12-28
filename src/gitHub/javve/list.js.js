@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/javve/list.js',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://listjs.com/examples/add-get-remove/'

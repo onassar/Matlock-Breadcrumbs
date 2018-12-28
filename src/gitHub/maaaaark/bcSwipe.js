@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/maaaaark/bcSwipe',
-        notes: [],
         platform: 'GitHub',
         tags: [
             'jQuery'

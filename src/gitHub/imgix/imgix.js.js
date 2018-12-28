@@ -4,7 +4,6 @@
             'https://github.com/cloudinary/cloudinary_js'
         ],
         link: 'https://github.com/imgix/imgix.js',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://www.imgix.com/'

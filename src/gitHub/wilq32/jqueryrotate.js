@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/wilq32/jqueryrotate',
-        notes: [],
         platform: 'GitHub',
         tags: [],
         examples: [

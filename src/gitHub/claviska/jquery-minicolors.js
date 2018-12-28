@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/claviska/jquery-minicolors',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'http://labs.abeautifulsite.net/jquery-minicolors/'

@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/lord/slate',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://docs.dwolla.com/'

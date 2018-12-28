@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/imgix/drift',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://imgix.github.io/drift/',

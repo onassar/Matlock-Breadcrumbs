@@ -6,7 +6,6 @@
             }
         },
         link: 'https://github.com/metafizzy/packery',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://packery.metafizzy.co/'

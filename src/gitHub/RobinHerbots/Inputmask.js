@@ -4,7 +4,6 @@
             link: 'https://www.buymeacoffee.com/robinherbots'
         },
         link: 'https://github.com/RobinHerbots/Inputmask',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://ultimatecourses.com/',

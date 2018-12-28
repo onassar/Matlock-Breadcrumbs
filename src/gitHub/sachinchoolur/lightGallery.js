@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/sachinchoolur/lightGallery',
-        notes: [],
         platform: 'GitHub',
         examples: [],
         type: 'repository'

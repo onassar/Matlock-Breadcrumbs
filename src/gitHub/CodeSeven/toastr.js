@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/CodeSeven/toastr',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://appsumo.com/stencil-2018/'

@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/cujojs/curl',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'http://cujojs.com/'

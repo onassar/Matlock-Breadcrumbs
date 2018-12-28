@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/woocommerce/selectWoo',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://www.bundestag.de/en/'

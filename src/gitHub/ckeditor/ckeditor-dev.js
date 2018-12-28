@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/ckeditor/ckeditor-dev',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://ckeditor.com/ckeditor-4/demo/'

@@ -6,7 +6,6 @@
             }
         },
         link: 'https://github.com/staaky/strip',
-        notes: [],
         platform: 'GitHub',
         examples: [],
         type: 'repository'

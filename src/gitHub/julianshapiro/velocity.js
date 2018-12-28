@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/julianshapiro/velocity',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://appsumo.com/stencil-2018/',

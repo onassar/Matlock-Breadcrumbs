@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/dirkgroenen/SVGMagic',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'http://dirkgroenen.nl/SVGMagic/index.html'

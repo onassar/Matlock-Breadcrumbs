@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/geraintluff/sha256',
-        notes: [],
         platform: 'GitHub',
         tags: [
             'encryption'

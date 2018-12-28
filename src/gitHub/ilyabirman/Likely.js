@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/ilyabirman/Likely',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://ilyabirman.net/projects/likely/'

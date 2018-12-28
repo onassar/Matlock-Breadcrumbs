@@ -19,7 +19,6 @@
 {
     properties: {
         link: 'https://github.com/Appboy/appboy-web-sdk',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://www.mynbc5.com/article/trump-says-gen-mattis-to-retire-as-defense-secretary-in-early-2019/25647058'
@@ -67,7 +66,6 @@
 {
     properties: {
         link: 'https://github.com/CSSLint/csslint',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'http://csslint.net/'
@@ -111,7 +109,6 @@
 {
     properties: {
         link: 'https://github.com/CodeSeven/toastr',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://appsumo.com/stencil-2018/'
@@ -257,7 +254,6 @@
 {
     properties: {
         link: 'https://github.com/EastDesire/jscolor',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'http://jscolor.com/'
@@ -447,7 +443,6 @@
 {
     properties: {
         link: 'https://github.com/GetmeUK/ContentTools',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'http://getcontenttools.com/demo#what-are-you-waiting-for'
@@ -604,7 +599,6 @@
 {
     properties: {
         link: 'https://github.com/MikeMcl/big.js',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'http://mikemcl.github.io/big.js/'
@@ -630,7 +624,6 @@
 {
     properties: {
         link: 'https://github.com/MithrilJS/mithril.js',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://www.pexels.com/',
@@ -713,7 +706,6 @@
 {
     properties: {
         link: 'https://github.com/NYTimes/backbone.stickit',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://nytimes.github.io/backbone.stickit/'
@@ -733,7 +725,6 @@
 {
     properties: {
         link: 'https://github.com/NYTimes/ice',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'http://nytimes.github.io/ice/demo/'
@@ -755,7 +746,6 @@
 {
     properties: {
         link: 'https://github.com/NYTimes/pourover',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'http://nytimes.github.io/pourover/'
@@ -795,7 +785,6 @@
 {
     properties: {
         link: 'https://github.com/PaulAdamDavis/Arctic-Scroll',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'http://pauladamdavis.github.io/Arctic-Scroll/'
@@ -815,7 +804,6 @@
 {
     properties: {
         link: 'https://github.com/Pixabay/jQuery-autoComplete',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://goodies.pixabay.com/jquery/auto-complete/demo.html'
@@ -861,7 +849,6 @@
 {
     properties: {
         link: 'https://github.com/Postleaf/postleaf',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://www.postleaf.org/'
@@ -891,7 +878,6 @@
 {
     properties: {
         link: 'https://github.com/Prinzhorn/skrollr',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'http://prinzhorn.github.io/skrollr/'
@@ -916,7 +902,6 @@
 {
     properties: {
         link: 'https://github.com/PrismJS/prism',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://prismjs.com/'
@@ -940,7 +925,6 @@
             link: 'https://www.buymeacoffee.com/robinherbots'
         },
         link: 'https://github.com/RobinHerbots/Inputmask',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://ultimatecourses.com/',
@@ -983,7 +967,6 @@
 {
     properties: {
         link: 'https://github.com/SignalR/SignalR',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://www.wsj.com/'
@@ -1033,7 +1016,6 @@
 {
     properties: {
         link: 'https://github.com/Sjeiti/TinySort',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'http://tinysort.sjeiti.com/'
@@ -1123,7 +1105,6 @@
 {
     properties: {
         link: 'https://github.com/TalAter/SpeechKITT',
-        notes: [],
         platform: 'GitHub',
         tags: [],
         examples: [],
@@ -1142,7 +1123,6 @@
 {
     properties: {
         link: 'https://github.com/TalAter/UpUp',
-        notes: [],
         platform: 'GitHub',
         tags: [],
         examples: [
@@ -1164,7 +1144,6 @@
 {
     properties: {
         link: 'https://github.com/TalAter/annyang',
-        notes: [],
         platform: 'GitHub',
         tags: [
             'audio'
@@ -1216,7 +1195,6 @@
             link: 'https://opencollective.com/ghost'
         },
         link: 'https://github.com/TryGhost/Ghost',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://blog.ghost.org/'
@@ -1274,7 +1252,6 @@
 {
     properties: {
         link: 'https://github.com/Valve/fingerprintjs2',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'http://valve.github.io/fingerprintjs2/'
@@ -1347,7 +1324,6 @@
 {
     properties: {
         link: 'https://github.com/WeCodePixels/theia-sticky-sidebar',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'http://htmlpreview.github.io/?https://github.com/liviucmg/theia-sticky-sidebar/blob/master/examples/4-columns.html'
@@ -1367,7 +1343,6 @@
 {
     properties: {
         link: 'https://github.com/WickyNilliams/enquire.js',
-        notes: [],
         platform: 'GitHub',
         tags: [
             'css'
@@ -1391,7 +1366,6 @@
 {
     properties: {
         link: 'https://github.com/WickyNilliams/headroom.js',
-        notes: [],
         platform: 'GitHub',
         tags: [
             'scrolling'
@@ -1512,7 +1486,6 @@
 {
     properties: {
         link: 'https://github.com/a-jie/Proton',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'http://a-jie.github.io/Proton/example/sparks/sun/fireball.html'
@@ -1579,7 +1552,6 @@
 {
     properties: {
         link: 'https://github.com/aFarkas/lazysizes',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://www.microsoft.com/en-ca'
@@ -1600,7 +1572,6 @@
 {
     properties: {
         link: 'https://github.com/aFarkas/respimage',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://ca.octobersveryown.com'
@@ -1701,7 +1672,6 @@
 {
     properties: {
         link: 'https://github.com/airbnb/polyglot.js',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://www.bestbuy.ca/'
@@ -1934,7 +1904,6 @@
 {
     properties: {
         link: 'https://github.com/ampproject/amphtml',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://www.independent.co.uk/news/world/americas/us-politics/trump-james-mattis-defense-secretary-white-house-tweet-replace-retire-latest-a8693756.html'
@@ -1959,7 +1928,6 @@
 {
     properties: {
         link: 'https://github.com/andreknieriem/simplelightbox',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'http://simplelightbox.com/'
@@ -2007,7 +1975,6 @@
             'http://angular-slider.github.io/angularjs-slider/index.html'
         ],
         link: 'https://github.com/angular-slider/angularjs-slider',
-        notes: [],
         platform: 'GitHub',
         tags: [
             'angular',
@@ -2028,7 +1995,6 @@
 {
     properties: {
         link: 'https://github.com/angular-ui/bootstrap',
-        notes: [],
         platform: 'GitHub',
         tags: [
             'angular'
@@ -2131,7 +2097,6 @@
 {
     properties: {
         link: 'https://github.com/ankane/chartkick.js',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://www.accountdock.com/'
@@ -2152,7 +2117,6 @@
 {
     properties: {
         link: 'https://github.com/ansman/validate.js',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://basecamp.com/',
@@ -2179,7 +2143,6 @@
 {
     properties: {
         link: 'https://github.com/antennaio/jquery-bar-rating',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'http://antenna.io/demo/jquery-bar-rating/examples/'
@@ -2260,7 +2223,6 @@
 {
     properties: {
         link: 'https://github.com/appleple/SmartPhoto',
-        notes: [],
         platform: 'GitHub',
         examples: [],
         type: 'repository'
@@ -2279,7 +2241,6 @@
 {
     properties: {
         link: 'https://github.com/aramk/crayon-syntax-highlighter',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://wecodepixels.com/shop/theia-sticky-sidebar-for-wordpress/'
@@ -2305,7 +2266,6 @@
 {
     properties: {
         link: 'https://github.com/arasatasaygin/is.js',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://www.bundestag.de/en/'
@@ -2399,7 +2359,6 @@
 {
     properties: {
         link: 'https://github.com/auth0/auth0.js',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://community.dentistry.com/'
@@ -2425,7 +2384,6 @@
 {
     properties: {
         link: 'https://github.com/auth0/lock',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://www.browserstack.com/docs'
@@ -2450,7 +2408,6 @@
 {
     properties: {
         link: 'https://github.com/auxiliary/rater',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'http://auxiliary.github.io/rater/'
@@ -2495,7 +2452,6 @@
 {
     properties: {
         link: 'https://github.com/axios/axios',
-        notes: [],
         platform: 'GitHub',
         examples: [],
         type: 'repository'
@@ -2558,7 +2514,6 @@
             'http://browserstate.github.io/history.js/demo/'
         ],
         link: 'https://github.com/browserstate/history.js',
-        notes: [],
         platform: 'GitHub',
         tags: [
             'navigation'
@@ -2584,7 +2539,6 @@
             'http://balupton.github.io/jquery-lightbox/demo/'
         ],
         link: 'https://github.com/balupton/jquery-lightbox',
-        notes: [],
         platform: 'GitHub',
         tags: [
             'lightbox'
@@ -2607,7 +2561,6 @@
             'http://balupton.github.io/jquery-syntaxhighlighter/demo/'
         ],
         link: 'https://github.com/balupton/jquery-syntaxhighlighter',
-        notes: [],
         platform: 'GitHub',
         tags: [
             'syntax-hightlighter'
@@ -2627,7 +2580,6 @@
 {
     properties: {
         link: 'https://github.com/basecamp/trix',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://trix-editor.org/'
@@ -2652,7 +2604,6 @@
 {
     properties: {
         link: 'https://github.com/bchanx/slidr',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'http://bchanx.com/slidr'
@@ -2748,7 +2699,6 @@
 {
     properties: {
         link: 'https://github.com/bevacqua/dragula',
-        notes: [],
         platform: 'GitHub',
         tags: [
             'drag-and-drop'
@@ -2771,7 +2721,6 @@
 {
     properties: {
         link: 'https://github.com/bevacqua/horsey',
-        notes: [],
         platform: 'GitHub',
         tags: [
             'date-picker'
@@ -2794,7 +2743,6 @@
 {
     properties: {
         link: 'https://github.com/bevacqua/rome',
-        notes: [],
         platform: 'GitHub',
         tags: [
             'date-picker'
@@ -2834,7 +2782,6 @@
 {
     properties: {
         link: 'https://github.com/bgrins/TinyColor',
-        notes: [],
         platform: 'GitHub',
         tags: [
             'color'
@@ -2858,7 +2805,6 @@
 {
     properties: {
         link: 'https://github.com/bgrins/spectrum',
-        notes: [],
         platform: 'GitHub',
         tags: [
             'color-pickers'
@@ -2994,7 +2940,6 @@
 {
     properties: {
         link: 'https://github.com/brandonaaron/jquery-cssHooks',
-        notes: [],
         platform: 'GitHub',
         notes: [
             'https://i.imgur.com/vqFVVa8.jpg'
@@ -3019,7 +2964,6 @@
 {
     properties: {
         link: 'https://github.com/brianreavis/sifter.js',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'http://selectize.github.io/selectize.js/'
@@ -3040,7 +2984,6 @@
 {
     properties: {
         link: 'https://github.com/bryanbraun/anchorjs',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://domvm.github.io/domvm/',
@@ -3167,7 +3110,6 @@
 {
     properties: {
         link: 'https://github.com/cbopp-art/lightcase',
-        notes: [],
         platform: 'GitHub',
         tags: [
             'lightbox'
@@ -3192,7 +3134,6 @@
 {
     properties: {
         link: 'https://github.com/cburgmer/rasterizeHTML.js',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'http://cburgmer.github.io/rasterizeHTML.js/'
@@ -3274,7 +3215,6 @@
 {
     properties: {
         link: 'https://github.com/cferdinandi/smooth-scroll',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://www.london.gov.uk/'
@@ -3294,7 +3234,6 @@
 {
     properties: {
         link: 'https://github.com/chaijs/chai',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://www.chaijs.com/'
@@ -3368,7 +3307,6 @@
 {
     properties: {
         link: 'https://github.com/chieffancypants/angular-loading-bar',
-        notes: [],
         platform: 'GitHub',
         tags: [
             'angular'
@@ -3391,7 +3329,6 @@
 {
     properties: {
         link: 'https://github.com/chriso/validator.js',
-        notes: [],
         platform: 'GitHub',
         examples: [],
         type: 'repository'
@@ -3416,7 +3353,6 @@
 {
     properties: {
         link: 'https://github.com/ckeditor/ckeditor-dev',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://ckeditor.com/ckeditor-4/demo/'
@@ -3441,7 +3377,6 @@
 {
     properties: {
         link: 'https://github.com/ckeditor/ckeditor5',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://ckeditor.com/ckeditor-5/demo/#classic'
@@ -3466,7 +3401,6 @@
 {
     properties: {
         link: 'https://github.com/claviska/jquery-minicolors',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'http://labs.abeautifulsite.net/jquery-minicolors/'
@@ -3613,7 +3547,6 @@
 {
     properties: {
         link: 'https://github.com/cubiq/iscroll',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://www.thewatergatehotel.com/offers/good-morning',
@@ -3640,7 +3573,6 @@
 {
     properties: {
         link: 'https://github.com/cujojs/curl',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'http://cujojs.com/'
@@ -3666,7 +3598,6 @@
 {
     properties: {
         link: 'https://github.com/cure53/DOMPurify',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://cure53.de/purify'
@@ -3720,7 +3651,6 @@
 {
     properties: {
         link: 'https://github.com/danialfarid/ng-file-upload',
-        notes: [],
         platform: 'GitHub',
         tags: [
             'angular'
@@ -3820,7 +3750,6 @@
 {
     properties: {
         link: 'https://github.com/davatron5000/FitText.js',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'http://fittextjs.com/'
@@ -3840,7 +3769,6 @@
 {
     properties: {
         link: 'https://github.com/davatron5000/FitVids.js',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'http://fitvidsjs.com/'
@@ -3860,7 +3788,6 @@
 {
     properties: {
         link: 'https://github.com/davatron5000/Lettering.js',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'http://letteringjs.com/'
@@ -3880,7 +3807,6 @@
 {
     properties: {
         link: 'https://github.com/davidbau/seedrandom',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://d3js.org/'
@@ -3900,7 +3826,6 @@
 {
     properties: {
         link: 'https://github.com/dbrekalo/simpleLightbox',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://dbrekalo.github.io/simpleLightbox/'
@@ -4075,7 +4000,6 @@
             }
         },
         link: 'https://github.com/dimsemenov/photoswipe',
-        notes: [],
         platform: 'GitHub',
         examples: [],
         type: 'repository'
@@ -4109,7 +4033,6 @@
 {
     properties: {
         link: 'https://github.com/dirkgroenen/SVGMagic',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'http://dirkgroenen.nl/SVGMagic/index.html'
@@ -4129,7 +4052,6 @@
 {
     properties: {
         link: 'https://github.com/dirkgroenen/jQuery-viewport-checker',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'http://www.spiegel.de/'
@@ -4173,7 +4095,6 @@
 {
     properties: {
         link: 'https://github.com/dobtco/formbuilder',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'http://dobtco.github.io/formbuilder/'
@@ -4194,7 +4115,6 @@
 {
     properties: {
         link: 'https://github.com/dobtco/starrr',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'http://dobtco.github.io/starrr/'
@@ -4262,7 +4182,6 @@
 {
     properties: {
         link: 'https://github.com/domvm/domvm',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://www.sporcle.com/games/RaysRule2010/daily_dose'
@@ -4298,7 +4217,6 @@
 {
     properties: {
         link: 'https://github.com/douglascrockford/JSON-js',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://onsen.io/'
@@ -4441,7 +4359,6 @@
 {
     properties: {
         link: 'https://github.com/ejci/favico.js',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'http://lab.ejci.net/favico.js/'
@@ -4481,7 +4398,6 @@
 {
     properties: {
         link: 'https://github.com/embedly/embedly-jquery',
-        notes: [],
         platform: 'GitHub',
         tags: [
             'embedly',
@@ -4505,7 +4421,6 @@
 {
     properties: {
         link: 'https://github.com/embedly/player.js',
-        notes: [],
         platform: 'GitHub',
         tags: [
             'embedly',
@@ -4740,7 +4655,6 @@
 {
     properties: {
         link: 'https://github.com/facebook/immutable-js',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'http://facebook.github.io/immutable-js/'
@@ -4852,7 +4766,6 @@
 {
     properties: {
         link: 'https://github.com/farbelous/bootstrap-colorpicker',
-        notes: [],
         platform: 'GitHub',
         tags: [
             'color-pickers'
@@ -4953,7 +4866,6 @@
 {
     properties: {
         link: 'https://github.com/fians/Waves',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'http://fian.my.id/Waves/'
@@ -4975,7 +4887,6 @@
     properties: {
         link: 'https://github.com/filamentgroup/grunticon',
         name: 'Grunticon',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://www.bbc.com/news/entertainment-arts-46524504'
@@ -4995,7 +4906,6 @@
 {
     properties: {
         link: 'https://github.com/filamentgroup/loadCSS',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://www.filamentgroup.com/'
@@ -5060,7 +4970,6 @@
 {
     properties: {
         link: 'https://github.com/filepicker/filepicker-js',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://www.accountdock.com/'
@@ -5086,7 +4995,6 @@
 {
     properties: {
         link: 'https://github.com/flatlogic/bootstrap-tabcollapse',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://www.toronto.ca/'
@@ -5107,7 +5015,6 @@
 {
     properties: {
         link: 'https://github.com/flot/flot',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'http://www.flotcharts.org/flot/examples/basic-usage/index.html'
@@ -5134,7 +5041,6 @@
 {
     properties: {
         link: 'https://github.com/flowplayer/flowplayer',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://flowplayer.com/blog/flowplayer-native',
@@ -5160,7 +5066,6 @@
 {
     properties: {
         link: 'https://github.com/froala/wysiwyg-editor',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://www.froala.com/wysiwyg-editor'
@@ -5220,7 +5125,6 @@
 {
     properties: {
         link: 'https://github.com/fullcalendar/fullcalendar',
-        notes: [],
         platform: 'GitHub',
         tags: [
             'calendars'
@@ -5252,7 +5156,6 @@
     ],
     properties: {
         link: 'https://github.com/gatsbyjs/gatsby',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://insomnia.rest/blog/sustainable-profit'
@@ -5291,7 +5194,6 @@
 {
     properties: {
         link: 'https://github.com/geraintluff/sha256',
-        notes: [],
         platform: 'GitHub',
         tags: [
             'encryption'
@@ -5315,7 +5217,6 @@
 {
     properties: {
         link: 'https://github.com/getgauge/gauge',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'http://hood.ie/'
@@ -5391,7 +5292,6 @@
 {
     properties: {
         link: 'https://github.com/gfranko/jquery.tocify.js',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://developers.coinbase.com/api/v2',
@@ -5417,7 +5317,6 @@
 {
     properties: {
         link: 'https://github.com/ghiculescu/jekyll-table-of-contents',
-        notes: [],
         platform: 'GitHub',
         tags: [],
         examples: [
@@ -5465,7 +5364,6 @@
 {
     properties: {
         link: 'https://github.com/gjunge/rateit.js',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'http://gjunge.github.io/rateit.js/examples/'
@@ -5670,7 +5568,6 @@
 {
     properties: {
         link: 'https://github.com/googleads/videojs-ima',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://www.mynbc5.com/article/trump-says-gen-mattis-to-retire-as-defense-secretary-in-early-2019/25647058'
@@ -5750,7 +5647,6 @@
 {
     properties: {
         link: 'https://github.com/guillaumepotier/Parsley.js',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://www.helpscout.com/pricing/'
@@ -6043,7 +5939,6 @@
 {
     properties: {
         link: 'https://github.com/heiseonline/shariff',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://www.bundestag.de/en/'
@@ -6082,7 +5977,6 @@
 {
     properties: {
         link: 'https://github.com/hexojs/hexo',
-        notes: [],
         platform: 'GitHub',
         examples: [],
         type: 'repository'
@@ -6201,7 +6095,6 @@
 {
     properties: {
         link: 'https://github.com/hjson/hjson-js',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://onsen.io/'
@@ -6228,7 +6121,6 @@
 {
     properties: {
         link: 'https://github.com/hjson/hjson',
-        notes: [],
         platform: 'GitHub',
         examples: [],
         type: 'repository'
@@ -6271,7 +6163,6 @@
 {
     properties: {
         link: 'https://github.com/htmlhint/HTMLHint',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://htmlhint.io/'
@@ -6312,7 +6203,6 @@
 {
     properties: {
         link: 'https://github.com/iamkun/dayjs',
-        notes: [],
         platform: 'GitHub',
         tags: [
             'date-time'
@@ -6378,7 +6268,6 @@
 {
     properties: {
         link: 'https://github.com/ilyabirman/Jouele',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://ilyabirman.net/projects/jouele/'
@@ -6403,7 +6292,6 @@
 {
     properties: {
         link: 'https://github.com/ilyabirman/Likely',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://ilyabirman.net/projects/likely/'
@@ -6458,7 +6346,6 @@
 {
     properties: {
         link: 'https://github.com/imgix/drift',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://imgix.github.io/drift/',
@@ -6486,7 +6373,6 @@
             'https://github.com/cloudinary/cloudinary_js'
         ],
         link: 'https://github.com/imgix/imgix.js',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://www.imgix.com/'
@@ -6512,7 +6398,6 @@
 {
     properties: {
         link: 'https://github.com/imgix/luminous',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://blog.imgix.com/2016/01/06/better-lightbox-zoom-viewer-with-imgix.html'
@@ -6581,7 +6466,6 @@
 {
     properties: {
         link: 'https://github.com/infusion/Fraction.js',
-        notes: [],
         platform: 'GitHub',
         tags: [
             'math'
@@ -6605,7 +6489,6 @@
 {
     properties: {
         link: 'https://github.com/infusion/jQuery-webcam',
-        notes: [],
         platform: 'GitHub',
         tags: [
             'math'
@@ -6628,7 +6511,6 @@
 {
     properties: {
         link: 'https://github.com/infusion/jQuery-xcolor',
-        notes: [],
         platform: 'GitHub',
         tags: [
             'color'
@@ -6737,7 +6619,6 @@
             'http://www.jacklmoore.com/autosize/'
         ],
         link: 'https://github.com/jackmoore/autosize',
-        notes: [],
         platform: 'GitHub',
         tags: [
             'dom'
@@ -6763,7 +6644,6 @@
             'https://www.iom.int/'
         ],
         link: 'https://github.com/jackmoore/colorbox',
-        notes: [],
         platform: 'GitHub',
         tags: [
             'lightbox'
@@ -6786,7 +6666,6 @@
             'http://www.jacklmoore.com/wheelzoom/'
         ],
         link: 'https://github.com/jackmoore/wheelzoom',
-        notes: [],
         platform: 'GitHub',
         tags: [
             'scrolling',
@@ -6810,7 +6689,6 @@
             'http://www.jacklmoore.com/zoom/'
         ],
         link: 'https://github.com/jackmoore/zoom',
-        notes: [],
         platform: 'GitHub',
         tags: [
             'scrolling',
@@ -6911,7 +6789,6 @@
 {
     properties: {
         link: 'https://github.com/jakiestfu/Medium.js',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'http://jakiestfu.github.io/Medium.js/docs/'
@@ -6938,7 +6815,6 @@
 {
     properties: {
         link: 'https://github.com/jakiestfu/Ripple.js',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'http://jakiestfu.github.io/Ripple.js/demo/'
@@ -6964,7 +6840,6 @@
 {
     properties: {
         link: 'https://github.com/jakiestfu/Snap.js',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'http://jakiestfu.github.io/Snap.js/demo/apps/default.html'
@@ -7005,7 +6880,6 @@
 {
     properties: {
         link: 'https://github.com/janpaepke/ScrollMagic',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'http://scrollmagic.io/'
@@ -7030,7 +6904,6 @@
 {
     properties: {
         link: 'https://github.com/jaredreich/pell',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://www.cssscript.com/demo/minimalist-wysiwyg-editor-pell-js/'
@@ -7117,7 +6990,6 @@
 {
     properties: {
         link: 'https://github.com/jasny/bootstrap',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://animals.howstuffworks.com/fish/sharks/shark.htm'
@@ -7139,7 +7011,6 @@
     enabled: false,
     properties: {
         link: 'https://github.com/jasonlong/cayman-theme',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'http://auxiliary.github.io/rater/'
@@ -7162,7 +7033,6 @@
 {
     properties: {
         link: 'https://github.com/javve/list.js',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://listjs.com/examples/add-get-remove/'
@@ -7247,7 +7117,6 @@
 {
     properties: {
         link: 'https://github.com/jaywcjlove/hotkeys',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://wangchujiang.com/hotkeys/'
@@ -7270,7 +7139,6 @@
 {
     properties: {
         link: 'https://github.com/jekyll/jekyll',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://jekyllrb.com/'
@@ -7304,7 +7172,6 @@
 {
     properties: {
         link: 'https://github.com/jimmynotjim/scrollnav',
-        notes: [],
         platform: 'GitHub',
         tags: [
             'scrolling'
@@ -7345,7 +7212,6 @@
 {
     properties: {
         link: 'https://github.com/jonom/jquery-focuspoint',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'http://jonom.github.io/jquery-focuspoint/demos/grid/lizard.html'
@@ -7365,7 +7231,6 @@
 {
     properties: {
         link: 'https://github.com/jonsamwell/angular-auto-validate',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'http://jonsamwell.github.io/angular-auto-validate/'
@@ -7408,7 +7273,6 @@
             link: 'http://jplayer.org/donate/'
         },
         link: 'https://github.com/jplayer/jPlayer',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://www.roblox.com/groups/group.aspx?gid=2788849'
@@ -7453,7 +7317,6 @@
 {
     properties: {
         link: 'https://github.com/jquery-form/form',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'http://malsup.com/jquery/form/#ajaxForm'
@@ -7477,7 +7340,6 @@
 {
     properties: {
         link: 'https://github.com/jquery-validation/jquery-validation',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://jqueryvalidation.org/files/demo/errorcontainer-demo.html'
@@ -7662,7 +7524,6 @@
 {
     properties: {
         link: 'https://github.com/jquerytools/jquerytools',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'http://jquerytools.org/'
@@ -7729,7 +7590,6 @@
 {
     properties: {
         link: 'https://github.com/jsbin/jsbin',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://api.nasa.gov/'
@@ -7758,7 +7618,6 @@
 {
     properties: {
         link: 'https://github.com/jsor/jcarousel',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://sorgalla.com/jcarousel/'
@@ -7784,7 +7643,6 @@
     properties: {
         link: 'https://github.com/jsor/lity',
         name: 'Lity',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://sorgalla.com/lity/'
@@ -7809,7 +7667,6 @@
 {
     properties: {
         link: 'https://github.com/julianshapiro/velocity',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://appsumo.com/stencil-2018/',
@@ -7894,7 +7751,6 @@
 {
     properties: {
         link: 'https://github.com/kamens/jQuery-menu-aim',
-        notes: [],
         platform: 'GitHub',
         tags: [],
         examples: [
@@ -7915,7 +7771,6 @@
 {
     properties: {
         link: 'https://github.com/karpathy/convnetjs',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://cs.stanford.edu/~karpathy/convnetjs/demo/mnist.html'
@@ -7995,7 +7850,6 @@
 {
     properties: {
         link: 'https://github.com/kkapsner/CanvasBlocker',
-        notes: [],
         platform: 'GitHub',
         examples: [],
         type: 'repository'
@@ -8016,7 +7870,6 @@
             'https://rrssb.netlify.com/'
         ],
         link: 'https://github.com/kni-labs/rrssb',
-        notes: [],
         platform: 'GitHub',
         tags: [
             'social-sharing'
@@ -8224,7 +8077,6 @@
 {
     properties: {
         link: 'https://github.com/liabru/jquery-match-height',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://www.london.gov.uk/',
@@ -8250,7 +8102,6 @@
 {
     properties: {
         link: 'https://github.com/likeastore/ngDialog',
-        notes: [],
         platform: 'GitHub',
         tags: [
             'angular'
@@ -8328,7 +8179,6 @@
 {
     properties: {
         link: 'https://github.com/lokesh/color-thief',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://lokeshdhakar.com/projects/color-thief/'
@@ -8351,7 +8201,6 @@
 {
     properties: {
         link: 'https://github.com/lokesh/lightbox2',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://lokeshdhakar.com/projects/lightbox2/'
@@ -8375,7 +8224,6 @@
 {
     properties: {
         link: 'https://github.com/lord/slate',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://docs.dwolla.com/'
@@ -8420,7 +8268,6 @@
 {
     properties: {
         link: 'https://github.com/lukaszfiszer/selectnav.js',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://www.lrs.org/library-user-surveys-on-the-web/'
@@ -8440,7 +8287,6 @@
 {
     properties: {
         link: 'https://github.com/luruke/barba.js',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://www.eight.nl/',
@@ -8467,7 +8313,6 @@
 {
     properties: {
         link: 'https://github.com/maaaaark/bcSwipe',
-        notes: [],
         platform: 'GitHub',
         tags: [
             'jQuery'
@@ -8545,7 +8390,6 @@
 {
     properties: {
         link: 'https://github.com/malsup/blockui',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://www.bestbuy.ca/'
@@ -8573,7 +8417,6 @@
             link: 'https://www.paypal.com/webapps/shoppingcart?flowlogging_id=5c45f4c86b318&mfid=1545295058279_5c45f4c86b318#/checkout/openButton'
         },
         link: 'https://github.com/malsup/cycle2',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://www.sandiego.gov/'
@@ -8719,7 +8562,6 @@
 {
     properties: {
         link: 'https://github.com/marioizquierdo/jquery.serializeJSON',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://www.foodora.ca/fr/?r=1'
@@ -8739,7 +8581,6 @@
 {
     properties: {
         link: 'https://github.com/marionettejs/backbone.marionette',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://secure.helpscout.net/conversation/630081877/9026/?folderId=1453481',
@@ -8825,7 +8666,6 @@
 {
     properties: {
         link: 'https://github.com/mathiasbynens/jquery-placeholder',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://mathiasbynens.github.io/jquery-placeholder/'
@@ -8845,7 +8685,6 @@
 {
     properties: {
         link: 'https://github.com/mathjax/MathJax',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://www.mathjax.org/'
@@ -8925,7 +8764,6 @@
 {
     properties: {
         link: 'https://github.com/mattmccray/liquid.js',
-        notes: [],
         platform: 'GitHub',
         tags: [
             'Shopify'
@@ -8998,7 +8836,6 @@
 {
     properties: {
         link: 'https://github.com/mediaelement/mediaelement',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'http://council.gov.ru/en/'
@@ -9049,7 +8886,6 @@
             }
         },
         link: 'https://github.com/metafizzy/flickity',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://flickity.metafizzy.co/'
@@ -9075,7 +8911,6 @@
             }
         },
         link: 'https://github.com/metafizzy/infinite-scroll',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://infinite-scroll.com/'
@@ -9101,7 +8936,6 @@
             }
         },
         link: 'https://github.com/metafizzy/packery',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://packery.metafizzy.co/'
@@ -9157,7 +8991,6 @@
 {
     properties: {
         link: 'https://github.com/mholt/PapaParse',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://www.papaparse.com/demo'
@@ -9178,7 +9011,6 @@
 {
     properties: {
         link: 'https://github.com/mholt/caddy',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://minio.io/downloads.html#download-server'
@@ -9203,7 +9035,6 @@
             link: 'https://www.paypal.com/donate/?token=ZN8qFse7x5V0u6lkZukifIViHBdMyZHw_U00485i77q8yOsy6lgP1iPMaGcbO8ENH1sKRW&country.x=AL&locale.x=AL'
         },
         link: 'https://github.com/michelson/Dante',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'http://michelson.github.io/Dante/'
@@ -9518,7 +9349,6 @@
 {
     properties: {
         link: 'https://github.com/nanostudio-org/nanogallery2',
-        notes: [],
         platform: 'GitHub',
         tags: [
             'lightbox'
@@ -9548,7 +9378,6 @@
 {
     properties: {
         link: 'https://github.com/naptha/tesseract.js',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'http://tesseract.projectnaptha.com/'
@@ -9573,7 +9402,6 @@
 {
     properties: {
         link: 'https://github.com/nashio/star-rating-svg',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'http://nashio.github.io/star-rating-svg/demo/'
@@ -9619,7 +9447,6 @@
 {
     properties: {
         link: 'https://github.com/nckprsn/scrollme',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'http://scrollme.nckprsn.com/'
@@ -9641,7 +9468,6 @@
 {
     properties: {
         link: 'https://github.com/neilj/Squire',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'http://neilj.github.io/Squire/'
@@ -9935,7 +9761,6 @@
 {
     properties: {
         link: 'https://github.com/nuxt/nuxt.js',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://nuxtjs.org/'
@@ -9955,7 +9780,6 @@
 {
     properties: {
         link: 'https://github.com/oblador/angular-scroll',
-        notes: [],
         platform: 'GitHub',
         tags: [
             'angular'
@@ -9979,7 +9803,6 @@
 {
     properties: {
         link: 'https://github.com/olado/doT',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'http://olado.github.io/doT/'
@@ -10052,7 +9875,6 @@
 {
     properties: {
         link: 'https://github.com/openlayers/ol2',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://www.mercycorps.org/articles/climate-change-affects-poverty',
@@ -10124,7 +9946,6 @@
 {
     properties: {
         link: 'https://github.com/palantir/plottable',
-        notes: [],
         platform: 'GitHub',
         tags: [
             'd3',
@@ -10153,7 +9974,6 @@
 {
     properties: {
         link: 'https://github.com/paldepind/flyd',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'http://paldepind.github.io/flyd/examples/sum/'
@@ -10272,7 +10092,6 @@
 {
     properties: {
         link: 'https://github.com/pc035860/angular-highlightjs',
-        notes: [],
         platform: 'GitHub',
         tags: [
             'angular',
@@ -10297,7 +10116,6 @@
 {
     properties: {
         link: 'https://github.com/peachananr/tiltedpage_scroll',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'http://www.thepetedesign.com/demos/tiltedpage_scroll_demo.html'
@@ -10353,7 +10171,6 @@
     properties: {
         link: 'https://github.com/phusion/passenger',
         name: 'Phusion Passenger',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://blog.ghost.org/'
@@ -10454,7 +10271,6 @@
 {
     properties: {
         link: 'https://github.com/prrashi/rateYo',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'http://rateyo.fundoocode.ninja/'
@@ -10474,7 +10290,6 @@
 {
     properties: {
         link: 'https://github.com/pure-css/pure',
-        notes: [],
         platform: 'GitHub',
         tags: [
             'css'
@@ -10736,7 +10551,6 @@
 {
     properties: {
         link: 'https://github.com/running-coder/jquery-typeahead',
-        notes: [],
         platform: 'GitHub',
         see: [
             'https://github.com/twitter/typeahead.js'
@@ -10768,7 +10582,6 @@
 {
     properties: {
         link: 'https://github.com/sachinchoolur/lightGallery',
-        notes: [],
         platform: 'GitHub',
         examples: [],
         type: 'repository'
@@ -10787,7 +10600,6 @@
 {
     properties: {
         link: 'https://github.com/sachinchoolur/lightgallery.js',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://sachinchoolur.github.io/lightgallery.js/'
@@ -10807,7 +10619,6 @@
 {
     properties: {
         link: 'https://github.com/sachinchoolur/lightslider',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'http://sachinchoolur.github.io/lightslider/'
@@ -10912,7 +10723,6 @@
 {
     properties: {
         link: 'https://github.com/sciactive/pnotify',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://sciactive.com/pnotify/',
@@ -10985,7 +10795,6 @@
             }
         },
         link: 'https://github.com/scrollreveal/scrollreveal',
-        notes: [],
         platform: 'GitHub',
         tags: [
             'scrolling'
@@ -11059,7 +10868,6 @@
             'https://github.com/xoxco/jQuery-Tags-Input'
         ],
         link: 'https://github.com/selectize/selectize.js',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'http://selectize.github.io/selectize.js/'
@@ -11102,7 +10910,6 @@
 {
     properties: {
         link: 'https://github.com/sindresorhus/screenfull.js',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://sindresorhus.com/screenfull.js/'
@@ -11206,7 +11013,6 @@
 {
     properties: {
         link: 'https://github.com/socketio/socket.io',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://socket.io/'
@@ -11254,7 +11060,6 @@
 {
     properties: {
         link: 'https://github.com/sofish/pen',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://sofish.github.io/pen/'
@@ -11393,7 +11198,6 @@
 {
     properties: {
         link: 'https://github.com/square/crossfilter',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'http://square.github.io/crossfilter/'
@@ -11462,7 +11266,6 @@
             }
         },
         link: 'https://github.com/staaky/strip',
-        notes: [],
         platform: 'GitHub',
         examples: [],
         type: 'repository'
@@ -11489,7 +11292,6 @@
             'http://staltz.github.io/xstream/'
         ],
         link: 'https://github.com/staltz/xstream',
-        notes: [],
         platform: 'GitHub',
         tags: [],
         type: 'repository'
@@ -11567,7 +11369,6 @@
 {
     properties: {
         link: 'https://github.com/summernote/summernote',
-        notes: [],
         platform: 'GitHub',
         tags: [
             'wysiwyg'
@@ -11599,7 +11400,6 @@
             link: 'https://www.patreon.com/limonte'
         },
         link: 'https://github.com/sweetalert2/sweetalert2',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://sweetalert2.github.io/'
@@ -11685,7 +11485,6 @@
             link: 'http://alexgorbatchev.com/SyntaxHighlighter/donate.html'
         },
         link: 'https://github.com/syntaxhighlighter/syntaxhighlighter',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'http://alexgorbatchev.com/SyntaxHighlighter/'
@@ -11705,7 +11504,6 @@
 {
     properties: {
         link: 'https://github.com/systemjs/systemjs',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://ng-semantic.herokuapp.com/#/'
@@ -11782,7 +11580,6 @@
 {
     properties: {
         link: 'https://github.com/ten1seven/what-input',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://ten1seven.github.io/what-input/'
@@ -11802,7 +11599,6 @@
 {
     properties: {
         link: 'https://github.com/thorst/jquery-idletimer',
-        notes: [],
         platform: 'GitHub',
         tags: [],
         examples: [
@@ -11823,7 +11619,6 @@
 {
     properties: {
         link: 'https://github.com/timdown/rangy',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'http://jakiestfu.github.io/Medium.js/docs/'
@@ -11869,7 +11664,6 @@
 {
     properties: {
         link: 'https://github.com/tmont/sunlight',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'http://sunlightjs.com/'
@@ -11894,7 +11688,6 @@
 {
     properties: {
         link: 'https://github.com/toddmotto/echo',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://www.booking.com/'
@@ -11954,7 +11747,6 @@
 {
     properties: {
         link: 'https://github.com/travist/jsencrypt',
-        notes: [],
         platform: 'GitHub',
         tags: [
             'encryption',
@@ -12182,7 +11974,6 @@
 {
     properties: {
         link: 'https://github.com/urish/angular-moment',
-        notes: [],
         platform: 'GitHub',
         tags: [
             'angularjs',
@@ -12206,7 +11997,6 @@
 {
     properties: {
         link: 'https://github.com/usablica/intro.js',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://introjs.com/'
@@ -12232,7 +12022,6 @@
 {
     properties: {
         link: 'https://github.com/usablica/progress.js',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'http://usablica.github.io/progress.js/'
@@ -12258,7 +12047,6 @@
 {
     properties: {
         link: 'https://github.com/usablica/widearea',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'http://usablica.github.io/widearea/'
@@ -12343,7 +12131,6 @@
 {
     properties: {
         link: 'https://github.com/vdw/Tabslet',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'http://vdw.github.io/Tabslet/'
@@ -12407,7 +12194,6 @@
 {
     properties: {
         link: 'https://github.com/vinaygopinath/ngMeta',
-        notes: [],
         platform: 'GitHub',
         tags: [
             'angular'
@@ -12586,7 +12372,6 @@
 {
     properties: {
         link: 'https://github.com/weareoutman/clockpicker',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'http://weareoutman.github.io/clockpicker/'
@@ -12632,7 +12417,6 @@
 {
     properties: {
         link: 'https://github.com/wenzhixin/bootstrap-table',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://www.accountdock.com/'
@@ -12741,7 +12525,6 @@
 {
     properties: {
         link: 'https://github.com/wilq32/jqueryrotate',
-        notes: [],
         platform: 'GitHub',
         tags: [],
         examples: [
@@ -12845,7 +12628,6 @@
 {
     properties: {
         link: 'https://github.com/woocommerce/FlexSlider',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://woocommerce.com/flexslider/'
@@ -12865,7 +12647,6 @@
 {
     properties: {
         link: 'https://github.com/woocommerce/selectWoo',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://www.bundestag.de/en/'
@@ -12885,7 +12666,6 @@
 {
     properties: {
         link: 'https://github.com/woocommerce/woocommerce',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://woocommerce.com/flexslider/'
@@ -12912,7 +12692,6 @@
 {
     properties: {
         link: 'https://github.com/worseisbetter/galleria',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://galleria.io/'
@@ -12963,7 +12742,6 @@
 {
     properties: {
         link: 'https://github.com/xdan/jodit',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://xdsoft.net/jodit/'
@@ -12983,7 +12761,6 @@
 {
     properties: {
         link: 'https://github.com/xoxco/jQuery-Tags-Input',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'http://xoxco.com/projects/code/tagsinput/example.html'
@@ -13004,7 +12781,6 @@
 {
     properties: {
         link: 'https://github.com/yabwe/medium-editor',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://yabwe.github.io/medium-editor/'

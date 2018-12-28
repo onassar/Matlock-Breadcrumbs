@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/bevacqua/rome',
-        notes: [],
         platform: 'GitHub',
         tags: [
             'date-picker'

@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/douglascrockford/JSON-js',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://onsen.io/'

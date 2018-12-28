@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/TalAter/UpUp',
-        notes: [],
         platform: 'GitHub',
         tags: [],
         examples: [

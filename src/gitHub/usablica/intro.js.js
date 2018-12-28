@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/usablica/intro.js',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://introjs.com/'

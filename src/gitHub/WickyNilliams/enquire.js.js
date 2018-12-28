@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/WickyNilliams/enquire.js',
-        notes: [],
         platform: 'GitHub',
         tags: [
             'css'

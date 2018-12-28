@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/woocommerce/woocommerce',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://woocommerce.com/flexslider/'

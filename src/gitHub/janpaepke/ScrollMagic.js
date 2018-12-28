@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/janpaepke/ScrollMagic',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'http://scrollmagic.io/'

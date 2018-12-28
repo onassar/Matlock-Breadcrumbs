@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/travist/jsencrypt',
-        notes: [],
         platform: 'GitHub',
         tags: [
             'encryption',

@@ -12,7 +12,6 @@
             }
         },
         link: 'https://github.com/scrollreveal/scrollreveal',
-        notes: [],
         platform: 'GitHub',
         tags: [
             'scrolling'

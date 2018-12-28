@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/tmont/sunlight',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'http://sunlightjs.com/'

@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/wenzhixin/bootstrap-table',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://www.accountdock.com/'

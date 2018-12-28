@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/arasatasaygin/is.js',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://www.bundestag.de/en/'

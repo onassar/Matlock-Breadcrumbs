@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/urish/angular-moment',
-        notes: [],
         platform: 'GitHub',
         tags: [
             'angularjs',

@@ -4,7 +4,6 @@
             link: 'http://jplayer.org/donate/'
         },
         link: 'https://github.com/jplayer/jPlayer',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://www.roblox.com/groups/group.aspx?gid=2788849'

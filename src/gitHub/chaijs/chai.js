@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/chaijs/chai',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://www.chaijs.com/'

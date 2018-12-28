@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/ghiculescu/jekyll-table-of-contents',
-        notes: [],
         platform: 'GitHub',
         tags: [],
         examples: [

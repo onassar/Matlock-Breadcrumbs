@@ -6,7 +6,6 @@
             }
         },
         link: 'https://github.com/dimsemenov/photoswipe',
-        notes: [],
         platform: 'GitHub',
         examples: [],
         type: 'repository'

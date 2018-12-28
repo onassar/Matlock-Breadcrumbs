@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/luruke/barba.js',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://www.eight.nl/',

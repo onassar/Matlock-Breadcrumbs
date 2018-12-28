@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/flowplayer/flowplayer',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://flowplayer.com/blog/flowplayer-native',

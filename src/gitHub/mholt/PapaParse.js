@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/mholt/PapaParse',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://www.papaparse.com/demo'

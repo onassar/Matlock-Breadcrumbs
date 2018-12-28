@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/jquerytools/jquerytools',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'http://jquerytools.org/'

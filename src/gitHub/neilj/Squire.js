@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/neilj/Squire',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'http://neilj.github.io/Squire/'

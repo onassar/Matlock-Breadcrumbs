@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/pc035860/angular-highlightjs',
-        notes: [],
         platform: 'GitHub',
         tags: [
             'angular',

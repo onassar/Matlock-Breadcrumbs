@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/bevacqua/dragula',
-        notes: [],
         platform: 'GitHub',
         tags: [
             'drag-and-drop'

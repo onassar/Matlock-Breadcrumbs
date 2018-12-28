@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/lokesh/color-thief',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://lokeshdhakar.com/projects/color-thief/'

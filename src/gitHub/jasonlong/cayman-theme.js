@@ -2,7 +2,6 @@
     enabled: false,
     properties: {
         link: 'https://github.com/jasonlong/cayman-theme',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'http://auxiliary.github.io/rater/'

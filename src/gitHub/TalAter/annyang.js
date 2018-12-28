@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/TalAter/annyang',
-        notes: [],
         platform: 'GitHub',
         tags: [
             'audio'

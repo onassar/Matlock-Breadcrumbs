@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/aramk/crayon-syntax-highlighter',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://wecodepixels.com/shop/theia-sticky-sidebar-for-wordpress/'

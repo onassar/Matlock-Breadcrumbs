@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/paldepind/flyd',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'http://paldepind.github.io/flyd/examples/sum/'

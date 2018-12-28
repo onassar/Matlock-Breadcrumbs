@@ -2,7 +2,6 @@
     properties: {
         link: 'https://github.com/filamentgroup/grunticon',
         name: 'Grunticon',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://www.bbc.com/news/entertainment-arts-46524504'

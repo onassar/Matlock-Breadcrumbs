@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/xoxco/jQuery-Tags-Input',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'http://xoxco.com/projects/code/tagsinput/example.html'

@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/likeastore/ngDialog',
-        notes: [],
         platform: 'GitHub',
         tags: [
             'angular'

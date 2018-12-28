@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/jaredreich/pell',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://www.cssscript.com/demo/minimalist-wysiwyg-editor-pell-js/'

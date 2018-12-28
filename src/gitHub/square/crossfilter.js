@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/square/crossfilter',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'http://square.github.io/crossfilter/'

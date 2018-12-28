@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/prrashi/rateYo',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'http://rateyo.fundoocode.ninja/'

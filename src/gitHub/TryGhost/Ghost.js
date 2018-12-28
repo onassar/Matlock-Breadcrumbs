@@ -4,7 +4,6 @@
             link: 'https://opencollective.com/ghost'
         },
         link: 'https://github.com/TryGhost/Ghost',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://blog.ghost.org/'

@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/gjunge/rateit.js',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'http://gjunge.github.io/rateit.js/examples/'

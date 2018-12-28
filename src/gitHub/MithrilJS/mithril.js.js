@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/MithrilJS/mithril.js',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://www.pexels.com/',

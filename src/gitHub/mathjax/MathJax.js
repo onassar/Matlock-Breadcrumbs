@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/mathjax/MathJax',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://www.mathjax.org/'

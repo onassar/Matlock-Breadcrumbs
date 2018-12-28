@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/jaywcjlove/hotkeys',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://wangchujiang.com/hotkeys/'

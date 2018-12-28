@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/embedly/embedly-jquery',
-        notes: [],
         platform: 'GitHub',
         tags: [
             'embedly',

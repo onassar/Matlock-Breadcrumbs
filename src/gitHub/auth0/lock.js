@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/auth0/lock',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://www.browserstack.com/docs'

@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/angular-ui/bootstrap',
-        notes: [],
         platform: 'GitHub',
         tags: [
             'angular'

@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/bchanx/slidr',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'http://bchanx.com/slidr'

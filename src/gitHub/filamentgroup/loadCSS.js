@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/filamentgroup/loadCSS',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://www.filamentgroup.com/'

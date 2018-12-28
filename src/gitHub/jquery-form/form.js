@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/jquery-form/form',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'http://malsup.com/jquery/form/#ajaxForm'

@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/htmlhint/HTMLHint',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://htmlhint.io/'

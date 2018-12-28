@@ -4,7 +4,6 @@
             'http://angular-slider.github.io/angularjs-slider/index.html'
         ],
         link: 'https://github.com/angular-slider/angularjs-slider',
-        notes: [],
         platform: 'GitHub',
         tags: [
             'angular',

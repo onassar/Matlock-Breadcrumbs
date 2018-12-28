@@ -6,7 +6,6 @@
             'https://github.com/xoxco/jQuery-Tags-Input'
         ],
         link: 'https://github.com/selectize/selectize.js',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'http://selectize.github.io/selectize.js/'

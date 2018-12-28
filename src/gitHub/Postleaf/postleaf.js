@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/Postleaf/postleaf',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://www.postleaf.org/'

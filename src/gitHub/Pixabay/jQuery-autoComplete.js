@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/Pixabay/jQuery-autoComplete',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://goodies.pixabay.com/jquery/auto-complete/demo.html'

@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/airbnb/polyglot.js',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://www.bestbuy.ca/'

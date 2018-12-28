@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/summernote/summernote',
-        notes: [],
         platform: 'GitHub',
         tags: [
             'wysiwyg'

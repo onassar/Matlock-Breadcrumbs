@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/bgrins/spectrum',
-        notes: [],
         platform: 'GitHub',
         tags: [
             'color-pickers'

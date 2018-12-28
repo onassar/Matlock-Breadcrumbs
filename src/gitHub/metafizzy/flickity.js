@@ -6,7 +6,6 @@
             }
         },
         link: 'https://github.com/metafizzy/flickity',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://flickity.metafizzy.co/'

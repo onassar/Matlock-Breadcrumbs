@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/PaulAdamDavis/Arctic-Scroll',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'http://pauladamdavis.github.io/Arctic-Scroll/'

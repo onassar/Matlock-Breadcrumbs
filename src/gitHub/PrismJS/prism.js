@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/PrismJS/prism',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://prismjs.com/'

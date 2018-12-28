@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/kamens/jQuery-menu-aim',
-        notes: [],
         platform: 'GitHub',
         tags: [],
         examples: [

@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/davidbau/seedrandom',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://d3js.org/'

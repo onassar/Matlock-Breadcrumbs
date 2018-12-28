@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/jquery-validation/jquery-validation',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://jqueryvalidation.org/files/demo/errorcontainer-demo.html'

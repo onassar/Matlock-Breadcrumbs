@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/chieffancypants/angular-loading-bar',
-        notes: [],
         platform: 'GitHub',
         tags: [
             'angular'

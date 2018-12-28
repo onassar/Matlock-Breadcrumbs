@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/sciactive/pnotify',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://sciactive.com/pnotify/',

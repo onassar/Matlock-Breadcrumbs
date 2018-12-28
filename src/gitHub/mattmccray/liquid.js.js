@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/mattmccray/liquid.js',
-        notes: [],
         platform: 'GitHub',
         tags: [
             'Shopify'

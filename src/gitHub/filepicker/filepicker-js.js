@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/filepicker/filepicker-js',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://www.accountdock.com/'

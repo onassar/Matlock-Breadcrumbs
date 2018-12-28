@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/nanostudio-org/nanogallery2',
-        notes: [],
         platform: 'GitHub',
         tags: [
             'lightbox'

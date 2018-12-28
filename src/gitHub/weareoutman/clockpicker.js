@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/weareoutman/clockpicker',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'http://weareoutman.github.io/clockpicker/'

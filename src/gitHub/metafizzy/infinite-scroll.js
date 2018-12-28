@@ -6,7 +6,6 @@
             }
         },
         link: 'https://github.com/metafizzy/infinite-scroll',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://infinite-scroll.com/'

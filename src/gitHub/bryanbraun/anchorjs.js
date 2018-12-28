@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/bryanbraun/anchorjs',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://domvm.github.io/domvm/',

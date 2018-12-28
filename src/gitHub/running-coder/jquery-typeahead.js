@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/running-coder/jquery-typeahead',
-        notes: [],
         platform: 'GitHub',
         see: [
             'https://github.com/twitter/typeahead.js'

@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/yabwe/medium-editor',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://yabwe.github.io/medium-editor/'

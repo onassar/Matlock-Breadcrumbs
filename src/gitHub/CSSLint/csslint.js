@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/CSSLint/csslint',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'http://csslint.net/'

@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/naptha/tesseract.js',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'http://tesseract.projectnaptha.com/'

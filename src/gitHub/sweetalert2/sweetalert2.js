@@ -4,7 +4,6 @@
             link: 'https://www.patreon.com/limonte'
         },
         link: 'https://github.com/sweetalert2/sweetalert2',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://sweetalert2.github.io/'

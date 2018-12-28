@@ -4,7 +4,6 @@
             'http://staltz.github.io/xstream/'
         ],
         link: 'https://github.com/staltz/xstream',
-        notes: [],
         platform: 'GitHub',
         tags: [],
         type: 'repository'

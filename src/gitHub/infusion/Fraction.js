@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/infusion/Fraction.js',
-        notes: [],
         platform: 'GitHub',
         tags: [
             'math'

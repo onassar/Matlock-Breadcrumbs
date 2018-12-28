@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/dirkgroenen/jQuery-viewport-checker',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'http://www.spiegel.de/'

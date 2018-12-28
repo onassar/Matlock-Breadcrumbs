@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/Sjeiti/TinySort',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'http://tinysort.sjeiti.com/'

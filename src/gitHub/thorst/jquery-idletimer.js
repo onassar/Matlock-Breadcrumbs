@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/thorst/jquery-idletimer',
-        notes: [],
         platform: 'GitHub',
         tags: [],
         examples: [

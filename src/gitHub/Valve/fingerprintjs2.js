@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/Valve/fingerprintjs2',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'http://valve.github.io/fingerprintjs2/'

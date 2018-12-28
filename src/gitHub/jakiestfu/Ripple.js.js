@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/jakiestfu/Ripple.js',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'http://jakiestfu.github.io/Ripple.js/demo/'

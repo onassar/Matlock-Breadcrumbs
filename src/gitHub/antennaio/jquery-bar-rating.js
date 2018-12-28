@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/antennaio/jquery-bar-rating',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'http://antenna.io/demo/jquery-bar-rating/examples/'

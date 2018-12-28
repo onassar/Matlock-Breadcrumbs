@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/MikeMcl/big.js',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'http://mikemcl.github.io/big.js/'

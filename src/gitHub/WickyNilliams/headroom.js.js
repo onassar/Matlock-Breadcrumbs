@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/WickyNilliams/headroom.js',
-        notes: [],
         platform: 'GitHub',
         tags: [
             'scrolling'

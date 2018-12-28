@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/brandonaaron/jquery-cssHooks',
-        notes: [],
         platform: 'GitHub',
         notes: [
             'https://i.imgur.com/vqFVVa8.jpg'

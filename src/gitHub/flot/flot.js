@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/flot/flot',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'http://www.flotcharts.org/flot/examples/basic-usage/index.html'

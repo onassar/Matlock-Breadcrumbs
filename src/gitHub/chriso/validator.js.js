@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/chriso/validator.js',
-        notes: [],
         platform: 'GitHub',
         examples: [],
         type: 'repository'

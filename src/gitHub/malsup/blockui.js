@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/malsup/blockui',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://www.bestbuy.ca/'

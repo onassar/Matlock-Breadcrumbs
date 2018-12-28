@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/openlayers/ol2',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://www.mercycorps.org/articles/climate-change-affects-poverty',

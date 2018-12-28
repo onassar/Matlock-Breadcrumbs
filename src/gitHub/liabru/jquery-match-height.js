@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/liabru/jquery-match-height',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://www.london.gov.uk/',

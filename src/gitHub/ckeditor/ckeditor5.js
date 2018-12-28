@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/ckeditor/ckeditor5',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'https://ckeditor.com/ckeditor-5/demo/#classic'

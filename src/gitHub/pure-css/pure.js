@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/pure-css/pure',
-        notes: [],
         platform: 'GitHub',
         tags: [
             'css'

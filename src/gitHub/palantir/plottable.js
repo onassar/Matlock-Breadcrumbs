@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/palantir/plottable',
-        notes: [],
         platform: 'GitHub',
         tags: [
             'd3',

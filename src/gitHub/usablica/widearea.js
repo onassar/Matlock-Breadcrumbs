@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/usablica/widearea',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'http://usablica.github.io/widearea/'

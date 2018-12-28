@@ -1,7 +1,6 @@
 {
     properties: {
         link: 'https://github.com/a-jie/Proton',
-        notes: [],
         platform: 'GitHub',
         examples: [
             'http://a-jie.github.io/Proton/example/sparks/sun/fireball.html'

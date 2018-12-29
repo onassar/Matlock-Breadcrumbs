@@ -10,6 +10,8 @@
     tests: {
         references: [
             [
+                'window.jQuery.serializeJSON',
+                'window.jQuery.serializeJSON.defaultOptions',
                 'window.jQuery.fn.serializeJSON'
             ]
         ]

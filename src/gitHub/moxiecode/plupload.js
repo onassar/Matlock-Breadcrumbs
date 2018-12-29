@@ -10,8 +10,13 @@
     tests: {
         references: [
             [
-                'window.plupload.VERSION'
+                'window.plupload.addClass'
             ]
+        ]
+    },
+    versions: {
+        references: [
+            'window.plupload.VERSION'
         ]
     }
 }

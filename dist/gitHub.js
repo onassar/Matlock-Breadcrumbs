@@ -3002,10 +3002,13 @@
 // src/gitHub/bestiejs/benchmark.js.js
 {
     properties: {
+        examples: [
+            'https://jsperf.com/loops/33'
+        ],
         link: 'https://github.com/bestiejs/benchmark.js',
         platform: 'GitHub',
         tags: [
-            'detection'
+            'benchmarking'
         ],
         type: 'repository'
     },
@@ -3015,6 +3018,11 @@
                 'window.Benchmark',
                 'window.Benchmark.Suite'
             ]
+        ]
+    },
+    versions: {
+        references: [
+            'window.Benchmark.version'
         ]
     }
 }

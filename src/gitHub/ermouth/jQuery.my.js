@@ -1,8 +1,5 @@
 {
     properties: {
-        examples: [
-            'https://jcrop.com/examples/'
-        ],
         link: 'https://github.com/tapmodo/Jcrop',
         platform: 'GitHub',
         tags: [

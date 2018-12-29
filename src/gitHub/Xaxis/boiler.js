@@ -11,7 +11,9 @@
         references: [
             [
                 'window.boiler',
-                'window.boiler.add'
+                'window.boiler.add',
+                'window.boiler.all',
+                'window.boiler.zip'
             ]
         ]
     },

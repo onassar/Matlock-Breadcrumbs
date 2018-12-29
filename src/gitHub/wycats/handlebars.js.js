@@ -2,11 +2,7 @@
     properties: {
         link: 'https://github.com/wycats/handlebars.js',
         platform: 'GitHub',
-        type: 'repository',
-        wikiPedia: {
-            load: true,
-            title: 'Mustache_(template_system)'
-        }
+        type: 'repository'
     },
     tests: {
         references: [

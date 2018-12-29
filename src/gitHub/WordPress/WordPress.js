@@ -8,6 +8,9 @@
         },
         link: 'https://github.com/WordPress/WordPress',
         platform: 'GitHub',
+        tags: [
+            'blogging'
+        ],
         type: 'repository',
         wikiPedia: {
             load: true,

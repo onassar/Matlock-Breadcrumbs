@@ -1597,6 +1597,9 @@
         },
         link: 'https://github.com/WordPress/WordPress',
         platform: 'GitHub',
+        tags: [
+            'blogging'
+        ],
         type: 'repository',
         wikiPedia: {
             load: true,
@@ -1630,6 +1633,30 @@
                 /<meta[^>]+content\="WordPress ([0-9\.]+)/i
             ]
         }
+    }
+}
+,
+// src/gitHub/WordPress/secure-swfupload.js
+{
+    properties: {
+        examples: [
+            'http://www.ninasimone.com/'
+        ],
+        link: 'https://github.com/WordPress/secure-swfupload',
+        platform: 'GitHub',
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.SWFUpload'
+            ]
+        ]
+    },
+    versions: {
+        references: [
+            'window.SWFUpload.version'
+        ]
     }
 }
 ,

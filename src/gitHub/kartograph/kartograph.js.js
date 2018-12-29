@@ -13,12 +13,16 @@
     tests: {
         references: [
             [
+                'window.$K'
+            ],
+            [
                 'window.kartograph'
             ]
         ]
     },
     versions: {
         references: [
+            'window.$K.version',
             'window.kartograph.version'
         ]
     }

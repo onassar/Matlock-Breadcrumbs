@@ -631,6 +631,28 @@
     }
 }
 ,
+// src/gitHub/JeremyFagis/dropify.js
+{
+    properties: {
+        examples: [
+            'http://jeremyfagis.github.io/dropify/'
+        ],
+        link: 'https://github.com/JeremyFagis/dropify',
+        platform: 'GitHub',
+        tags: [
+            'file-uploading'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.jQuery.fn.dropify'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/Julienh/Sharrre.js
 {
     properties: {
@@ -8761,12 +8783,16 @@
     tests: {
         references: [
             [
+                'window.$K'
+            ],
+            [
                 'window.kartograph'
             ]
         ]
     },
     versions: {
         references: [
+            'window.$K.version',
             'window.kartograph.version'
         ]
     }

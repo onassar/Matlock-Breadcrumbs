@@ -15,7 +15,8 @@
         strings: {
             page: [
                 [
-                    'style="transform-origin: 130px 106px;" class="octo-arm"'
+                    'fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"',
+                    'fill="currentColor" class="octo-arm"'
                 ]
             ]
         }

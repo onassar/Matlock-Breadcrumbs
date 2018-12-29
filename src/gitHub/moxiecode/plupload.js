@@ -10,7 +10,7 @@
     tests: {
         references: [
             [
-                'window.plupload'
+                'window.plupload.VERSION'
             ]
         ]
     }

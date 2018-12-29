@@ -13785,6 +13785,25 @@
     }
 }
 ,
+// src/gitHub/wentin/ResponsifyJS.js
+{
+    properties: {
+        examples: [
+            'http://responsifyjs.space/'
+        ],
+        link: 'https://github.com/wentin/ResponsifyJS',
+        platform: 'GitHub',
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.jQuery.fn.responsify'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/wenzhixin/bootstrap-table.js
 {
     properties: {

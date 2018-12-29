@@ -11,7 +11,7 @@
         patterns: {
             page: [
                 [
-                    /[^>]*class="[^"]*emojione[^"]*"/i
+                    /<[^>]*class="[^"]*emojione[^"]*"/i
                 ]
             ]
         }

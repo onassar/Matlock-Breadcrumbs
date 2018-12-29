@@ -5,6 +5,9 @@
         ],
         link: 'https://github.com/neveldo/jQuery-Mapael',
         platform: 'GitHub',
+        tags: [
+            'maps'
+        ],
         type: 'repository'
     },
     tests: {

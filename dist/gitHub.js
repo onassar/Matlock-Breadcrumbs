@@ -1,4 +1,26 @@
 [
+// src/gitHub/10bestdesign/jqvmap.js
+{
+    properties: {
+        examples: [
+            'https://www.10bestdesign.com/jqvmap/'
+        ],
+        link: 'https://github.com/10bestdesign/jqvmap',
+        platform: 'GitHub',
+        tags: [
+            'maps'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.JQVMap'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/AlloyTeam/AlloyFinger.js
 {
     properties: {
@@ -10638,6 +10660,9 @@
         ],
         link: 'https://github.com/neveldo/jQuery-Mapael',
         platform: 'GitHub',
+        tags: [
+            'maps'
+        ],
         type: 'repository'
     },
     tests: {

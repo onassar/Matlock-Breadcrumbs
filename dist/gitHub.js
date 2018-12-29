@@ -8767,6 +8767,26 @@
     }
 }
 ,
+// src/gitHub/kefirjs/kefir.js
+{
+    properties: {
+        examples: [
+            'https://kefirjs.github.io/kefir/'
+        ],
+        link: 'https://github.com/kefirjs/kefir',
+        platform: 'GitHub',
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.Kefir',
+                'window.Kefir.Kefir'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/kenwheeler/slick.js
 {
     properties: {

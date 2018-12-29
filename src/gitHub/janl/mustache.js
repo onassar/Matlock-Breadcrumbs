@@ -1,8 +1,13 @@
 {
     properties: {
         link: 'https://github.com/janl/mustache.js',
+        name: 'mustache.js',
         platform: 'GitHub',
-        type: 'repository'
+        type: 'repository',
+        wikiPedia: {
+            load: true,
+            title: 'Mustache_(template_system)'
+        }
     },
     tests: {
         references: [

@@ -18,5 +18,10 @@
                 'window.jQuery.my.modal'
             ]
         ]
+    },
+    versions: {
+        statements: [
+            'window.jQuery.my.version()'
+        ]
     }
 }

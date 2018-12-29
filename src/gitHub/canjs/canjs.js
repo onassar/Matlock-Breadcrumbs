@@ -12,7 +12,7 @@
         references: [
             [
                 'window.can',
-                'window.can.Animation'
+                'window.can.Component'
             ]
         ]
     },

@@ -5,6 +5,9 @@
         ],
         link: 'https://github.com/thompsonemerson/zoomove',
         platform: 'GitHub',
+        tags: [
+            'zoom'
+        ],
         type: 'repository'
     },
     tests: {

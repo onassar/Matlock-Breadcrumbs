@@ -10065,6 +10065,30 @@
     }
 }
 ,
+// src/gitHub/milligram/milligram.js
+{
+    properties: {
+        examples: [
+            'https://milligram.io/'
+        ],
+        link: 'https://github.com/milligram/milligram',
+        platform: 'GitHub',
+        tags: [
+            'css-framework'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        patterns: {
+            page: [
+                [
+                    /<link[^>]+href="[^"]+milligram(?:\.min)?\.css"/i
+                ]
+            ]
+        }
+    }
+}
+,
 // src/gitHub/missive/emoji-mart.js
 {
     properties: {
@@ -12971,6 +12995,9 @@
         ],
         link: 'https://github.com/thompsonemerson/zoomove',
         platform: 'GitHub',
+        tags: [
+            'zoom'
+        ],
         type: 'repository'
     },
     tests: {

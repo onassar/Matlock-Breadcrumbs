@@ -13,10 +13,5 @@
                 'window.jQuery.uniform.options'
             ]
         ]
-    },
-    versions: {
-        references: [
-            'window.jQuery.uniform.options.version'
-        ]
     }
 }

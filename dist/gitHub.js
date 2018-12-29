@@ -50,11 +50,6 @@
                 'window.jQuery.uniform.options'
             ]
         ]
-    },
-    versions: {
-        references: [
-            'window.jQuery.uniform.options.version'
-        ]
     }
 }
 ,
@@ -7498,6 +7493,27 @@
         references: [
             'window.Backbone.VERSION'
         ]
+    }
+}
+,
+// src/gitHub/jashkenas/docco.js
+{
+    properties: {
+        examples: [
+            'http://ashkenas.com/docco/'
+        ],
+        link: 'https://github.com/jashkenas/docco',
+        platform: 'GitHub',
+        type: 'repository'
+    },
+    tests: {
+        patterns: {
+            page: [
+                [
+                    /<link[^>]+docco.css[^>]+>/i
+                ]
+            ]
+        }
     }
 }
 ,

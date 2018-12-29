@@ -5,6 +5,13 @@
         type: 'repository'
     },
     tests: {
+        patterns: {
+            page: [
+                [
+                    /<script[^>]+src="[^"]+run_prettify\.js"/i
+                ]
+            ]
+        },
         references: [
             [
                 'window.prettyPrint'

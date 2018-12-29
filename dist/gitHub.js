@@ -11228,6 +11228,29 @@
     }
 }
 ,
+// src/gitHub/peterhry/CircleType.js
+{
+    properties: {
+        examples: [
+            'https://circletype.labwire.ca/'
+        ],
+        link: 'https://github.com/peterhry/CircleType',
+        platform: 'GitHub',
+        tags: [
+            'text'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.CircleType',
+                'window.CircleType.prototype.radius'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/php/php-src.js
 {
     properties: {

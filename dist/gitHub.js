@@ -14048,6 +14048,28 @@
     }
 }
 ,
+// src/gitHub/zuk/jquery.inview.js
+{
+    properties: {
+        examples: [
+            'https://cemerick.com/2009/03/24/why-mit-now-uses-python-instead-of-scheme-for-its-undergraduate-cs-program/'
+        ],
+        link: 'https://github.com/zuk/jquery.inview',
+        platform: 'GitHub',
+        tags: [
+            'scrolling'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.jQuery.event.special.inview'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/zurb/foundation-sites.js
 {
     properties: {

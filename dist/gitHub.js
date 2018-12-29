@@ -5227,6 +5227,9 @@
         references: [
             [
                 'window.React'
+            ],
+            [
+                'window.ReactDOM'
             ]
         ]
     },

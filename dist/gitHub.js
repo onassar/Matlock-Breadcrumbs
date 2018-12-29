@@ -5176,27 +5176,21 @@
 {
     properties: {
         examples: [
-            'http://jquerymy.com/'
+            'https://jcrop.com/examples/'
         ],
-        link: 'https://github.com/ermouth/jQuery.my',
+        link: 'https://github.com/tapmodo/Jcrop',
         platform: 'GitHub',
         tags: [
-            'data-binding'
+            'cropping'
         ],
         type: 'repository'
     },
     tests: {
         references: [
             [
-                'window.jQuery.my',
-                'window.jQuery.my.ajax',
-                'window.jQuery.my.modal'
+                'window.Jcrop',
+                'window.Jcrop.defaults'
             ]
-        ]
-    },
-    versions: {
-        statements: [
-            'window.jQuery.my.version()'
         ]
     }
 }
@@ -13158,6 +13152,35 @@
                 'window.jsSocials',
                 'window.jsSocials.setDefaults'
             ]
+        ]
+    }
+}
+,
+// src/gitHub/tapmodo/Jcrop.js
+{
+    properties: {
+        examples: [
+            'http://jquerymy.com/'
+        ],
+        link: 'https://github.com/ermouth/jQuery.my',
+        platform: 'GitHub',
+        tags: [
+            'data-binding'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.jQuery.my',
+                'window.jQuery.my.ajax',
+                'window.jQuery.my.modal'
+            ]
+        ]
+    },
+    versions: {
+        statements: [
+            'window.jQuery.my.version()'
         ]
     }
 }

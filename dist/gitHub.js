@@ -5107,10 +5107,10 @@
         type: 'repository'
     },
     tests: {
-        strings: {
+        patterns: {
             page: [
                 [
-                    'emojione"'
+                    /[^>]*class="[^"]*emojione[^"]*"/i
                 ]
             ]
         }

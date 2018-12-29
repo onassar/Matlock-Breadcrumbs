@@ -1749,6 +1749,31 @@
     }
 }
 ,
+// src/gitHub/Xaxis/boiler.js
+{
+    properties: {
+        examples: [
+            'http://danieltao.com/lazy.js/'
+        ],
+        link: 'https://github.com/Xaxis/boiler',
+        platform: 'GitHub',
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.boiler',
+                'window.boiler.add'
+            ]
+        ]
+    },
+    versions: {
+        references: [
+            'window.boiler._version'
+        ]
+    }
+}
+,
 // src/gitHub/Yomguithereal/gexf.js
 {
     properties: {
@@ -9274,12 +9299,12 @@
 // src/gitHub/lodash/lodash.js
 {
     properties: {
-        link: 'https://github.com/lodash/lodash',
-        platform: 'GitHub',
         examples: [
             'https://lodash.com/',
             'http://danieltao.com/lazy.js/'
         ],
+        link: 'https://github.com/lodash/lodash',
+        platform: 'GitHub',
         type: 'repository',
         wikiPedia: {
             load: true,

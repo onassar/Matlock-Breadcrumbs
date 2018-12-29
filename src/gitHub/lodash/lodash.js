@@ -1,11 +1,11 @@
 {
     properties: {
-        link: 'https://github.com/lodash/lodash',
-        platform: 'GitHub',
         examples: [
             'https://lodash.com/',
             'http://danieltao.com/lazy.js/'
         ],
+        link: 'https://github.com/lodash/lodash',
+        platform: 'GitHub',
         type: 'repository',
         wikiPedia: {
             load: true,

@@ -11476,6 +11476,22 @@
     }
 }
 ,
+// src/gitHub/rviscomi/trunk8.js
+{
+    properties: {
+        link: 'https://github.com/rviscomi/trunk8',
+        platform: 'GitHub',
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.jQuery.fn.trunk8'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/sachinchoolur/lightGallery.js
 {
     properties: {

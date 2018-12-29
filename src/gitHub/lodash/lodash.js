@@ -3,7 +3,8 @@
         link: 'https://github.com/lodash/lodash',
         platform: 'GitHub',
         examples: [
-            'https://lodash.com/'
+            'https://lodash.com/',
+            'http://danieltao.com/lazy.js/'
         ],
         type: 'repository',
         wikiPedia: {
@@ -19,13 +20,17 @@
             ],
             [
                 'window.__lodash'
+            ],
+            [
+                'window.lodash'
             ]
         ]
     },
     versions: {
         references: [
             'window._.VERSION',
-            'window.__lodash.VERSION'
+            'window.__lodash.VERSION',
+            'window.lodash.VERSION'
         ]
     }
 }

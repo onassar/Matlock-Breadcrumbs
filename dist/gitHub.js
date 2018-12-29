@@ -9754,7 +9754,7 @@
         examples: [
             'http://mezzoblue.github.io/PaintbrushJS/demo/'
         ],
-        link: 'https://github.com/',
+        link: 'https://github.com/mezzoblue/PaintbrushJS',
         platform: 'GitHub',
         type: 'repository'
     },

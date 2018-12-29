@@ -6268,6 +6268,25 @@
     }
 }
 ,
+// src/gitHub/gopalraju/gridtab.js
+{
+    properties: {
+        examples: [
+            'https://gopalraju.github.io/gridtab/'
+        ],
+        link: 'https://github.com/gopalraju/gridtab',
+        platform: 'GitHub',
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.jQuery.fn.gridtab'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/greensock/GreenSock-JS.js
 {
     properties: {

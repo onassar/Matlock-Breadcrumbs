@@ -11,10 +11,10 @@
         type: 'repository'
     },
     tests: {
-        strings: {
+        patterns: {
             cookies: [
                 [
-                    'window.$abcd&'
+                    /window.$abcd$/i
                 ]
             ]
         },

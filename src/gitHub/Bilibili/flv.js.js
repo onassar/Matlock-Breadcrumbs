@@ -1,12 +1,12 @@
 {
     properties: {
+        examples: [
+            'http://bilibili.github.io/flv.js/demo/'
+        ],
         link: 'https://github.com/Bilibili/flv.js',
         platform: 'GitHub',
         tags: [
             'video-players'
-        ],
-        examples: [
-            'http://bilibili.github.io/flv.js/demo/'
         ],
         type: 'repository'
     },

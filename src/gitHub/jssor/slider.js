@@ -11,9 +11,16 @@
         type: 'repository'
     },
     tests: {
+        patterns: {
+            cookies: [
+                [
+                    /window.$abcd&/i
+                ]
+            ]
+        },
         references: [
             [
-                'window.$abcd$'
+                'window.$JssorSlider$'
             ]
         ]
     }

@@ -78,13 +78,13 @@
 // src/gitHub/Bilibili/flv.js.js
 {
     properties: {
+        examples: [
+            'http://bilibili.github.io/flv.js/demo/'
+        ],
         link: 'https://github.com/Bilibili/flv.js',
         platform: 'GitHub',
         tags: [
             'video-players'
-        ],
-        examples: [
-            'http://bilibili.github.io/flv.js/demo/'
         ],
         type: 'repository'
     },
@@ -8730,9 +8730,16 @@
         type: 'repository'
     },
     tests: {
+        patterns: {
+            cookies: [
+                [
+                    /window.$abcd&/i
+                ]
+            ]
+        },
         references: [
             [
-                'window.$abcd$'
+                'window.$JssorSlider$'
             ]
         ]
     }

@@ -13560,6 +13560,7 @@
 {
     properties: {
         link: 'https://github.com/tinymce/tinymce',
+        name: 'TinyMCE',
         platform: 'GitHub',
         type: 'repository'
     },

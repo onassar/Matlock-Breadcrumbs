@@ -6,6 +6,9 @@
         link: 'https://github.com/jquery-form/form',
         platform: 'GitHub',
         name: 'jQuery Form',
+        tags: [
+            'validation'
+        ],
         type: 'repository'
     },
     tests: {

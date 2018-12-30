@@ -1,10 +1,10 @@
 {
     properties: {
-        link: 'https://github.com/yabwe/medium-editor',
-        platform: 'GitHub',
         examples: [
             'https://yabwe.github.io/medium-editor/'
         ],
+        link: 'https://github.com/yabwe/medium-editor',
+        platform: 'GitHub',
         tags: [
             'wysiwyg'
         ],

@@ -8406,6 +8406,9 @@
         link: 'https://github.com/jquery-form/form',
         platform: 'GitHub',
         name: 'jQuery Form',
+        tags: [
+            'validation'
+        ],
         type: 'repository'
     },
     tests: {
@@ -8722,6 +8725,31 @@
     versions: {
         references: [
             'window.jsbin.version'
+        ]
+    }
+}
+,
+// src/gitHub/jsforce/jsforce.js
+{
+    properties: {
+        examples: [
+            'https://jsforce.github.io/'
+        ],
+        link: 'https://github.com/jsforce/jsforce',
+        platform: 'GitHub',
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.jsforce',
+                'window.jsforce.browser'
+            ]
+        ]
+    },
+    versions: {
+        references: [
+            'window.jsforce.VERSION'
         ]
     }
 }
@@ -14186,13 +14214,13 @@
 // src/gitHub/vinaygopinath/ngMeta.js
 {
     properties: {
+        examples: [
+            'https://www.emojicopy.com/'
+        ],
         link: 'https://github.com/vinaygopinath/ngMeta',
         platform: 'GitHub',
         tags: [
             'angular'
-        ],
-        examples: [
-            'https://www.emojicopy.com/'
         ],
         type: 'repository'
     },
@@ -14789,11 +14817,11 @@
 // src/gitHub/yabwe/medium-editor.js
 {
     properties: {
-        link: 'https://github.com/yabwe/medium-editor',
-        platform: 'GitHub',
         examples: [
             'https://yabwe.github.io/medium-editor/'
         ],
+        link: 'https://github.com/yabwe/medium-editor',
+        platform: 'GitHub',
         tags: [
             'wysiwyg'
         ],

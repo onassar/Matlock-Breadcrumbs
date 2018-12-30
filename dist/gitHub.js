@@ -8444,6 +8444,7 @@
     tests: {
         references: [
             [
+                '!window.jQuery.timepicker',
                 'window.jQuery.fn.timepicker'
             ]
         ]

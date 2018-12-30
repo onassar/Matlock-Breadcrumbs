@@ -17,7 +17,8 @@
     tests: {
         references: [
             [
-                'window.jQuery.timepicker'
+                'window.jQuery.timepicker',
+                'window.jQuery.timepicker.log',
                 'window.jQuery.timepicker.timeRange'
             ]
         ]

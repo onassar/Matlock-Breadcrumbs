@@ -14,12 +14,14 @@
     tests: {
         references: [
             [
+                'window.$jw'
                 'window.jwplayer'
             ]
         ]
     },
     versions: {
         references: [
+            'window.$jw.version',
             'window.jwplayer.version'
         ]
     }

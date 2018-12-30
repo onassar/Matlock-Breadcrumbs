@@ -6576,6 +6576,26 @@
     }
 }
 ,
+// src/gitHub/gromo/jquery.scrollbar.js
+{
+    properties: {
+        examples: [
+            'https://gromo.github.io/jquery.scrollbar/demo/basic.html'
+        ],
+        link: 'https://github.com/gromo/jquery.scrollbar',
+        platform: 'GitHub',
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.jQuery.fn.scrollbar',
+                'window.jQuery.fn.scrollbar.options'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/guillaumepotier/Parsley.js.js
 {
     properties: {
@@ -8841,12 +8861,14 @@
     tests: {
         references: [
             [
+                'window.$jw'
                 'window.jwplayer'
             ]
         ]
     },
     versions: {
         references: [
+            'window.$jw.version',
             'window.jwplayer.version'
         ]
     }

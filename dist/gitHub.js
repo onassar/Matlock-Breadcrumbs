@@ -8861,7 +8861,7 @@
     tests: {
         references: [
             [
-                'window.$jw'
+                'window.$jw',
                 'window.jwplayer'
             ]
         ]

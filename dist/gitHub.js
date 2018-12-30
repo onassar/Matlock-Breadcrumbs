@@ -3998,7 +3998,9 @@
     tests: {
         references: [
             [
-                'window.CKEDITOR',
+                'window.CKEDITOR'
+            ],
+            [
                 'window.CKEDITOR_BASEPATH'
             ]
         ]

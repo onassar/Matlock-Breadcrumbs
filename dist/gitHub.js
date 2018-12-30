@@ -8732,7 +8732,7 @@
     tests: {
         references: [
             [
-                'window.$JssorSlider$'
+                'window.$abcd$'
             ]
         ]
     }

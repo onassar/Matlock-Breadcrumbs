@@ -9091,10 +9091,12 @@
     tests: {
         references: [
             [
-                'window.$K'
+                'window.$K',
+                'window.$K.View'
             ],
             [
-                'window.kartograph'
+                'window.kartograph',
+                'window.kartograph.View'
             ]
         ]
     },

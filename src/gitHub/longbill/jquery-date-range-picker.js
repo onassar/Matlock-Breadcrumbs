@@ -5,6 +5,9 @@
         ],
         link: 'https://github.com/longbill/jquery-date-range-picker',
         platform: 'GitHub',
+        tags: [
+            'date-picker'
+        ],
         type: 'repository'
     },
     tests: {

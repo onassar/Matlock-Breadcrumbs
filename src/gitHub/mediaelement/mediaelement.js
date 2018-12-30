@@ -1,10 +1,11 @@
 {
     properties: {
-        link: 'https://github.com/mediaelement/mediaelement',
-        platform: 'GitHub',
         examples: [
             'http://council.gov.ru/en/'
         ],
+        link: 'https://github.com/mediaelement/mediaelement',
+        name: 'MediaElement.js',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {

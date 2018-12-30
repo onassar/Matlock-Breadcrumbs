@@ -10290,11 +10290,12 @@
 // src/gitHub/mediaelement/mediaelement.js
 {
     properties: {
-        link: 'https://github.com/mediaelement/mediaelement',
-        platform: 'GitHub',
         examples: [
             'http://council.gov.ru/en/'
         ],
+        link: 'https://github.com/mediaelement/mediaelement',
+        name: 'MediaElement.js',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {
@@ -14027,8 +14028,12 @@
 // src/gitHub/twitter/twemoji.js
 {
     properties: {
+        examples: [
+            'https://www.guesty.com/'
+        ],
         link: 'https://github.com/twitter/twemoji',
         platform: 'GitHub',
+        name: 'Twitter Emoji (Twemoji)',
         type: 'repository'
     },
     tests: {

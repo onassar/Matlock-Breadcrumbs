@@ -4426,6 +4426,25 @@
     }
 }
 ,
+// src/gitHub/dangrossman/daterangepicker.js
+{
+    properties: {
+        examples: [
+            'http://www.daterangepicker.com/'
+        ],
+        link: 'https://github.com/dangrossman/daterangepicker',
+        platform: 'GitHub',
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.jQuery.fn.daterangepicker'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/danialfarid/ng-file-upload.js
 {
     properties: {

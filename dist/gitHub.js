@@ -10389,6 +10389,9 @@
 // src/gitHub/metafizzy/infinite-scroll.js
 {
     properties: {
+        examples: [
+            'https://infinite-scroll.com/'
+        ],
         licenses: {
             commercial: {
                 paid: true
@@ -10396,9 +10399,6 @@
         },
         link: 'https://github.com/metafizzy/infinite-scroll',
         platform: 'GitHub',
-        examples: [
-            'https://infinite-scroll.com/'
-        ],
         type: 'repository'
     },
     tests: {
@@ -13637,6 +13637,11 @@
         examples: [
             'https://demos.telerik.com/kendo-ui/timepicker/index'
         ],
+        licenses: {
+            commercial: {
+                paid: true
+            }
+        },
         link: 'https://github.com/telerik/kendo-ui-core',
         platform: 'GitHub',
         type: 'repository'
@@ -14934,6 +14939,27 @@
     versions: {
         references: [
             'window.Galleria.version'
+        ]
+    }
+}
+,
+// src/gitHub/wvega/timepicker.js
+{
+    properties: {
+        examples: [
+            'https://timepicker.co/'
+        ],
+        link: 'https://github.com/wvega/timepicker',
+        platform: 'GitHub',
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.jQuery.TimePicker',
+                'window.jQuery.fn.timepicker',
+                'window.jQuery.fn.timepicker.parseTime'
+            ]
         ]
     }
 }

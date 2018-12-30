@@ -8399,11 +8399,12 @@
 // src/gitHub/jquery-form/form.js
 {
     properties: {
-        link: 'https://github.com/jquery-form/form',
-        platform: 'GitHub',
         examples: [
             'http://malsup.com/jquery/form/#ajaxForm'
         ],
+        link: 'https://github.com/jquery-form/form',
+        platform: 'GitHub',
+        name: 'jQuery Form',
         type: 'repository'
     },
     tests: {

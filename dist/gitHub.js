@@ -1091,6 +1091,7 @@
     },
     versions: {
         references: [
+            'window.pum_vars.version',
             'window.jQuery.fn.popmake.version'
         ]
     }

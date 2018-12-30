@@ -12516,7 +12516,6 @@
             'http://scottcheng.github.io/cropit/'
         ],
         link: 'https://github.com/scottcheng/cropit',
-        name: 'CKEditor 5',
         platform: 'GitHub',
         type: 'repository'
     },

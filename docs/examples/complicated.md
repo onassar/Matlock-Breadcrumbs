@@ -39,20 +39,37 @@
     },
     tests: {
         patterns: {
-            cookies: [],
-            headers: [],
+            cookies: [
+                []
+            ],
+            headers: [
+                []
+            ],
             page: [
                 [
                     /<link[^]+googlefonts/
                 ]
             ],
-            scripts: [],
-            stylesheets: []
+            scripts: [
+                []
+            ],
+            stylesheets: [
+                []
+            ]
         },
         references: [
-            ['a'],
-            ['b', 'c'],
-            ['d', '!e', 'f']
+            [
+                'a'
+            ],
+            [
+                'b',
+                'c'
+            ],
+            [
+                'd',
+                '!e',
+                'f'
+            ]
         ],
         statements: [
             [
@@ -64,8 +81,14 @@
             cookies: [],
             headers: [],
             page: [
-                ['a', 'b'],
-                ['c', '!d']
+                [
+                    'a',
+                    'b'
+                ],
+                [
+                    'c',
+                    '!d'
+                ]
             ],
             scripts: [],
             stylesheets: []

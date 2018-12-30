@@ -1,4 +1,7 @@
 {
+    dependencies: [
+        'https://github.com/nginx/nginx'
+    ],
     properties: {
         examples: [
             'https://www.oschina.net/'

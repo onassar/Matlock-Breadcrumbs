@@ -11,13 +11,6 @@
         type: 'repository'
     },
     tests: {
-        strings: {
-            cookies: [
-                [
-                    'window.$abcd$'
-                ]
-            ]
-        },
         references: [
             [
                 'window.$JssorSlider$'

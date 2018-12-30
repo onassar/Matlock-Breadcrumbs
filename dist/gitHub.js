@@ -5473,7 +5473,8 @@
     tests: {
         references: [
             [
-                'window.Immutable'
+                'window.Immutable',
+                'window.Immutable.OrderedMap'
             ]
         ]
     },

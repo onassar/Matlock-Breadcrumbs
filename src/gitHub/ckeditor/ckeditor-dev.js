@@ -1,10 +1,12 @@
 {
     properties: {
+        examples: [
+            'https://ckeditor.com/ckeditor-4/demo/',
+            'https://www.behance.net/WeCodePixels'
+        ],
         link: 'https://github.com/ckeditor/ckeditor-dev',
         platform: 'GitHub',
-        examples: [
-            'https://ckeditor.com/ckeditor-4/demo/'
-        ],
+        name: 'CKEditor 4',
         type: 'repository'
     },
     tests: {

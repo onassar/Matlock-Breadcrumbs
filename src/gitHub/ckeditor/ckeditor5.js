@@ -1,10 +1,11 @@
 {
     properties: {
-        link: 'https://github.com/ckeditor/ckeditor5',
-        platform: 'GitHub',
         examples: [
             'https://ckeditor.com/ckeditor-5/demo/#classic'
         ],
+        link: 'https://github.com/ckeditor/ckeditor5',
+        name: 'CKEditor 5',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {

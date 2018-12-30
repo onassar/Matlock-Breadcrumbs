@@ -3988,11 +3988,13 @@
 // src/gitHub/ckeditor/ckeditor-dev.js
 {
     properties: {
+        examples: [
+            'https://ckeditor.com/ckeditor-4/demo/',
+            'https://www.behance.net/WeCodePixels'
+        ],
         link: 'https://github.com/ckeditor/ckeditor-dev',
         platform: 'GitHub',
-        examples: [
-            'https://ckeditor.com/ckeditor-4/demo/'
-        ],
+        name: 'CKEditor 4',
         type: 'repository'
     },
     tests: {
@@ -4015,11 +4017,12 @@
 // src/gitHub/ckeditor/ckeditor5.js
 {
     properties: {
-        link: 'https://github.com/ckeditor/ckeditor5',
-        platform: 'GitHub',
         examples: [
             'https://ckeditor.com/ckeditor-5/demo/#classic'
         ],
+        link: 'https://github.com/ckeditor/ckeditor5',
+        name: 'CKEditor 5',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {

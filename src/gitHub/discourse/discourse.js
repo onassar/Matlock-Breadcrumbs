@@ -10,10 +10,13 @@
         patterns: {
             page: [
                 [
-                    /<meta[^>]+content\="Discourse\b/i
+                    /<meta[^>]+name="generator"[^>]+content="MediaWiki/i
+                ],
+                [
+                    /<meta[^>]+name="MediaWiki[^"]+"[^>]+content="generator"/i
                 ]
             ]
-        },
+        }
         references: [
             [
                 'window.Discourse',

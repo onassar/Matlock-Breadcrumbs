@@ -4913,7 +4913,7 @@
                     /<meta[^>]+name="Discourse[^"]+"[^>]+content="generator"/i
                 ]
             ]
-        }
+        },
         references: [
             [
                 'window.Discourse',

@@ -4920,7 +4920,7 @@
     versions: {
         patterns: {
             page: [
-                /<meta[^>]+content\="Discourse ([^"]+)/i
+                /<meta[^>]+content\="Discourse ([^" ]+)/i
             ]
         }
     }

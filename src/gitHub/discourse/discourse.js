@@ -10,10 +10,10 @@
         patterns: {
             page: [
                 [
-                    /<meta[^>]+name="generator"[^>]+content="MediaWiki/i
+                    /<meta[^>]+name="generator"[^>]+content="Discourse/i
                 ],
                 [
-                    /<meta[^>]+name="MediaWiki[^"]+"[^>]+content="generator"/i
+                    /<meta[^>]+name="Discourse[^"]+"[^>]+content="generator"/i
                 ]
             ]
         }

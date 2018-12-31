@@ -16,7 +16,10 @@
         patterns: {
             page: [
                 [
-                    /<meta[^>]+content\="Hugo\b/i
+                    /<meta[^>]+name="generator"[^>]+content="Hugo/i
+                ],
+                [
+                    /<meta[^>]+name="Hugo[^"]+"[^>]+content="generator"/i
                 ]
             ]
         }

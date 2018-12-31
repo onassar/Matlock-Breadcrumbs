@@ -1117,7 +1117,10 @@
         patterns: {
             page: [
                 [
-                    /<meta[^>]+content\="Postleaf\b/i
+                    /<meta[^>]+name="generator"[^>]+content="Postleaf/i
+                ],
+                [
+                    /<meta[^>]+name="Postleaf[^"]+"[^>]+content="generator"/i
                 ]
             ]
         }
@@ -6255,7 +6258,10 @@
         patterns: {
             page: [
                 [
-                    /<meta[^>]+content\="Gatsby\b/i
+                    /<meta[^>]+name="generator"[^>]+content="Gatsby/i
+                ],
+                [
+                    /<meta[^>]+name="Gatsby[^"]+"[^>]+content="generator"/i
                 ]
             ]
         },
@@ -6510,7 +6516,10 @@
         patterns: {
             page: [
                 [
-                    /<meta[^>]+content\="Hugo\b/i
+                    /<meta[^>]+name="generator"[^>]+content="Hugo/i
+                ],
+                [
+                    /<meta[^>]+name="Hugo[^"]+"[^>]+content="generator"/i
                 ]
             ]
         }
@@ -7171,7 +7180,10 @@
         patterns: {
             page: [
                 [
-                    /<meta[^>]+content\="Hexo\b/i
+                    /<meta[^>]+name="generator"[^>]+content="Hexo/i
+                ],
+                [
+                    /<meta[^>]+name="Hexo[^"]+"[^>]+content="generator"/i
                 ]
             ]
         }
@@ -8369,7 +8381,10 @@
         patterns: {
             page: [
                 [
-                    /<meta[^>]+content\="Jekyll\b/i
+                    /<meta[^>]+name="generator"[^>]+content="Jekyll/i
+                ],
+                [
+                    /<meta[^>]+name="Jekyll[^"]+"[^>]+content="generator"/i
                 ]
             ]
         }

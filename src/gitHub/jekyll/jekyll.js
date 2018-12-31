@@ -15,7 +15,10 @@
         patterns: {
             page: [
                 [
-                    /<meta[^>]+content\="Jekyll\b/i
+                    /<meta[^>]+name="generator"[^>]+content="Jekyll/i
+                ],
+                [
+                    /<meta[^>]+name="Jekyll[^"]+"[^>]+content="generator"/i
                 ]
             ]
         }

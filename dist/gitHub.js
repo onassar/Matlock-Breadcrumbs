@@ -8365,12 +8365,15 @@
 ,
 // src/gitHub/jekyll/jekyll.js
 {
+    dependencies: [
+        'https://github.com/ruby/ruby'
+    ],
     properties: {
-        link: 'https://github.com/jekyll/jekyll',
-        platform: 'GitHub',
         examples: [
             'https://jekyllrb.com/'
         ],
+        link: 'https://github.com/jekyll/jekyll',
+        platform: 'GitHub',
         type: 'repository',
         wikiPedia: {
             load: true,
@@ -12614,12 +12617,20 @@
 // src/gitHub/ruby/ruby.js
 {
     properties: {
-        link: 'https://github.com/ruby/ruby',
-        platform: 'GitHub',
         examples: [
+            'https://www.discourse.org/',
             'https://getmatlock.github.io/'
         ],
-        type: 'repository'
+        link: 'https://github.com/ruby/ruby',
+        platform: 'GitHub',
+        tags: [
+            'programming-language'
+        ],
+        type: 'repository',
+        wikiPedia: {
+            load: true,
+            title: 'Ruby'
+        }
     },
     tests: {
     }

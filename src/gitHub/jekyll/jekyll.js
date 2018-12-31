@@ -1,10 +1,13 @@
 {
+    dependencies: [
+        'https://github.com/ruby/ruby'
+    ],
     properties: {
-        link: 'https://github.com/jekyll/jekyll',
-        platform: 'GitHub',
         examples: [
             'https://jekyllrb.com/'
         ],
+        link: 'https://github.com/jekyll/jekyll',
+        platform: 'GitHub',
         type: 'repository',
         wikiPedia: {
             load: true,

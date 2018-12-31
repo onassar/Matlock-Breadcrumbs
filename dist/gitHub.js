@@ -8387,7 +8387,20 @@
                     /<meta[^>]+name="Jekyll[^"]+"[^>]+content="generator"/i
                 ]
             ]
-        }
+        },
+        strings: [
+            page: [
+                [
+                    '<!-- Created with Jekyll Now'
+                ],
+                [
+                    '<!-- Begin Jekyll SEO tag'
+                ],
+                [
+                    '<!-- End Jekyll SEO tag'
+                ]
+            ]
+        ]
     },
     versions: {
         patterns: {

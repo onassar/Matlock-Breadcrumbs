@@ -6140,26 +6140,33 @@
 // src/gitHub/fullcalendar/fullcalendar.js
 {
     properties: {
+        examples: [
+            'https://www.primefaces.org/primeng/#/',
+            'https://fullcalendar.io/',
+            'https://www.nasa.gov/'
+        ],
         link: 'https://github.com/fullcalendar/fullcalendar',
         platform: 'GitHub',
         tags: [
             'calendars'
-        ],
-        examples: [
-            'https://www.primefaces.org/primeng/#/',
-            'https://fullcalendar.io/'
         ],
         type: 'repository'
     },
     tests: {
         references: [
             [
-                'window.FullCalendar'
+                'window.jQuery.fullCalendar',
+                'window.jQuery.fullCalendar.Class'
+            ],
+            [
+                'window.FullCalendar',
+                'window.FullCalendar.Class'
             ]
         ]
     },
     versions: {
         references: [
+            'window.fullCalendar.version',
             'window.FullCalendar.version'
         ]
     }

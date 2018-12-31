@@ -1,6 +1,7 @@
 {
     properties: {
         examples: [
+            'https://www.chrishunt.co/favcount/',
             'https://forums.donejs.com/c/documentjs'
         ],
         link: 'https://github.com/chrishunt/favcount',

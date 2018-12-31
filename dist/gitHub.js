@@ -4055,6 +4055,7 @@
 {
     properties: {
         examples: [
+            'https://www.chrishunt.co/favcount/',
             'https://forums.donejs.com/c/documentjs'
         ],
         link: 'https://github.com/chrishunt/favcount',
@@ -4887,6 +4888,25 @@
         references: [
             [
                 'window.jQuery.fn.viewportChecker'
+            ]
+        ]
+    }
+}
+,
+// src/gitHub/discourse/discourse.js
+{
+    properties: {
+        examples: [
+            'https://forums.donejs.com/c/documentjs'
+        ],
+        link: 'https://github.com/discourse/discourse',
+        platform: 'GitHub'
+    },
+    tests: {
+        references: [
+            [
+                'window.Discourse',
+                'window.Discourse.Topic'
             ]
         ]
     }

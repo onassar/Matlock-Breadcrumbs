@@ -1,10 +1,8 @@
 {
     properties: {
-        examples: [
-            'http://bafs.github.io/Gutenberg/'
-        ],
         link: 'https://github.com/BafS/Gutenberg',
-        platform: 'GitHub'
+        platform: 'GitHub',
+        type: 'repository'
     },
     tests: {
         patterns: {

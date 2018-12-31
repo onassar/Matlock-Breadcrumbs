@@ -78,11 +78,9 @@
 // src/gitHub/BafS/Gutenberg.js
 {
     properties: {
-        examples: [
-            'http://bafs.github.io/Gutenberg/'
-        ],
         link: 'https://github.com/BafS/Gutenberg',
-        platform: 'GitHub'
+        platform: 'GitHub',
+        type: 'repository'
     },
     tests: {
         patterns: {
@@ -4924,7 +4922,8 @@
             'https://forums.donejs.com/c/documentjs'
         ],
         link: 'https://github.com/discourse/discourse',
-        platform: 'GitHub'
+        platform: 'GitHub',
+        type: 'repository'
     },
     tests: {
         patterns: {

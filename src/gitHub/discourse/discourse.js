@@ -4,7 +4,8 @@
             'https://forums.donejs.com/c/documentjs'
         ],
         link: 'https://github.com/discourse/discourse',
-        platform: 'GitHub'
+        platform: 'GitHub',
+        type: 'repository'
     },
     tests: {
         patterns: {

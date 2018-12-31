@@ -2025,6 +2025,42 @@
     }
 }
 ,
+// src/gitHub/aFarkas/webshim.js
+{
+    properties: {
+        examples: [
+            'https://afarkas.github.io/webshim/demos/'
+        ],
+        link: 'https://github.com/aFarkas/webshim',
+        platform: 'GitHub',
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.jQuery.webshim.ready'
+            ],
+            [
+                'window.jQuery.webshims.ready'
+            ],
+            [
+                'window.webshim.ready'
+            ],
+            [
+                'window.webshims.ready'
+            ]
+        ]
+    },
+    versions: {
+        references: [
+            'window.jQuery.webshim.version',
+            'window.jQuery.webshims.version',
+            'window.webshim.version',
+            'window.webshims.version'
+        ]
+    }
+}
+,
 // src/gitHub/adamwdraper/Numeral-js.js
 {
     properties: {
@@ -11493,11 +11529,14 @@
 // src/gitHub/nosir/cleave.js.js
 {
     properties: {
-        link: 'https://github.com/nosir/cleave.js',
-        platform: 'GitHub',
+        alternatives: [
+            'https://github.com/stripe/jquery.payment'
+        ],
         examples: [
             'https://nosir.github.io/cleave.js/'
         ],
+        link: 'https://github.com/nosir/cleave.js',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {
@@ -13518,6 +13557,9 @@
 // src/gitHub/stripe/jquery.payment.js
 {
     properties: {
+        alternatives: [
+            'https://github.com/nosir/cleave.js'
+        ],
         link: 'https://github.com/stripe/jquery.payment',
         platform: 'GitHub',
         type: 'repository'

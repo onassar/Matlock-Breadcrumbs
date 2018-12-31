@@ -8694,11 +8694,12 @@
 // src/gitHub/jquery-validation/jquery-validation.js
 {
     properties: {
-        link: 'https://github.com/jquery-validation/jquery-validation',
-        platform: 'GitHub',
         examples: [
             'https://jqueryvalidation.org/files/demo/errorcontainer-demo.html'
         ],
+        link: 'https://github.com/jquery-validation/jquery-validation',
+        name: 'jQuery Validation',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {

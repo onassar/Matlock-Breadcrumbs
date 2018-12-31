@@ -1,7 +1,8 @@
 {
     properties: {
         examples: [
-            'https://afarkas.github.io/webshim/demos/'
+            'https://afarkas.github.io/webshim/demos/',
+            'https://www.barnesandnoble.com/w/principles-ray-dalio/1125955035?ean=9781501124020#/'
         ],
         link: 'https://github.com/aFarkas/webshim',
         platform: 'GitHub',

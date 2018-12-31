@@ -1,10 +1,10 @@
 {
     properties: {
-        link: 'https://github.com/php/php-src',
-        platform: 'GitHub',
         examples: [
             'http://www.cbc.radio-canada.ca/en/'
         ],
+        link: 'https://github.com/php/php-src',
+        platform: 'GitHub',
         name: 'PHP',
         type: 'repository',
         wikiPedia: {

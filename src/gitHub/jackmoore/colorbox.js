@@ -5,6 +5,7 @@
             'https://www.iom.int/'
         ],
         link: 'https://github.com/jackmoore/colorbox',
+        name: 'Colorbox',
         platform: 'GitHub',
         tags: [
             'lightbox'

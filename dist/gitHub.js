@@ -7846,6 +7846,7 @@
             'https://www.iom.int/'
         ],
         link: 'https://github.com/jackmoore/colorbox',
+        name: 'Colorbox',
         platform: 'GitHub',
         tags: [
             'lightbox'
@@ -11977,11 +11978,11 @@
 // src/gitHub/php/php-src.js
 {
     properties: {
-        link: 'https://github.com/php/php-src',
-        platform: 'GitHub',
         examples: [
             'http://www.cbc.radio-canada.ca/en/'
         ],
+        link: 'https://github.com/php/php-src',
+        platform: 'GitHub',
         name: 'PHP',
         type: 'repository',
         wikiPedia: {

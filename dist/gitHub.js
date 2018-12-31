@@ -14827,7 +14827,10 @@
         patterns: {
             page: [
                 [
-                    /<meta[^>]+content\="MediaWiki\b/i
+                    /<meta[^>]+name="generator"[^>]+content="MediaWiki/i
+                ],
+                [
+                    /<meta[^>]+name="MediaWiki[^"]+"[^>]+content="generator"/i
                 ]
             ]
         }

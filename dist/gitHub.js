@@ -1785,7 +1785,8 @@
     versions: {
         patterns: {
             page: [
-                /<meta[^>]+content\="WordPress ([0-9\.]+)/i
+                /<meta[^>]+name="generator"[^>]+content="WordPress ([^ "]+)[^"]*"/i,
+                /<meta[^>]+name="WordPress ([^ "]+)[^"]*"[^>]+content="generator"/i
             ]
         }
     }

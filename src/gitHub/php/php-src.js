@@ -5,6 +5,7 @@
         examples: [
             'http://www.cbc.radio-canada.ca/en/'
         ],
+        name: 'PHP',
         type: 'repository',
         wikiPedia: {
             load: true,

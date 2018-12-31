@@ -8388,7 +8388,7 @@
                 ]
             ]
         },
-        strings: [
+        strings: {
             page: [
                 [
                     '<!-- Created with Jekyll Now'
@@ -8400,7 +8400,7 @@
                     '<!-- End Jekyll SEO tag'
                 ]
             ]
-        ]
+        }
     },
     versions: {
         patterns: {

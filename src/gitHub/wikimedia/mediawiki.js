@@ -23,7 +23,8 @@
     versions: {
         patterns: {
             page: [
-                /<meta[^>]+content\="MediaWiki ([^"]+)/i
+                /<meta[^>]+name="generator"[^>]+content="MediaWiki ([^ "]+)[^"]*"/i,
+                /<meta[^>]+name="MediaWiki ([^ "]+)[^"]*"[^>]+content="generator"/i
             ]
         }
     }

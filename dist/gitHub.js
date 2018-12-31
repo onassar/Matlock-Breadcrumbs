@@ -1125,8 +1125,8 @@
     versions: {
         patterns: {
             page: [
-                /<meta[^>]+name="generator"[^>]+content="Postleaf ([^"]+)"/i,
-                /<meta[^>]+content="Postleaf ([^"]+)"[^>]+name="generator"/i
+                /<meta[^>]+name="generator"[^>]+content="Postleaf ([^ "]+)[^"]*"/i,
+                /<meta[^>]+name="Postleaf ([^ "]+)[^"]*"[^>]+content="generator"/i
             ]
         }
     }
@@ -1578,8 +1578,8 @@
     versions: {
         patterns: {
             page: [
-                /<meta[^>]+name="generator"[^>]+content="Ghost ([^"]+)"/i,
-                /<meta[^>]+content="Ghost ([^"]+)"[^>]+name="generator"/i
+                /<meta[^>]+name="generator"[^>]+content="Ghost ([^ "]+)[^"]*"/i,
+                /<meta[^>]+name="Ghost ([^ "]+)[^"]*"[^>]+content="generator"/i
             ]
         }
     }
@@ -4921,7 +4921,8 @@
     versions: {
         patterns: {
             page: [
-                /<meta[^>]+content\="Discourse ([^" ]+)/i
+                /<meta[^>]+name="generator"[^>]+content="Discourse ([^ "]+)[^"]*"/i,
+                /<meta[^>]+name="Discourse ([^ "]+)[^"]*"[^>]+content="generator"/i
             ]
         }
     }
@@ -6269,7 +6270,8 @@
     versions: {
         patterns: {
             page: [
-                /<meta[^>]+content\="Gatsby ([^"]+)/i
+                /<meta[^>]+name="generator"[^>]+content="Gatsby ([^ "]+)[^"]*"/i,
+                /<meta[^>]+name="Gatsby ([^ "]+)[^"]*"[^>]+content="generator"/i
             ]
         }
     }
@@ -6513,7 +6515,8 @@
     versions: {
         patterns: {
             page: [
-                /<meta[^>]+content\="Hugo ([^"]+)/i
+                /<meta[^>]+name="generator"[^>]+content="Hugo ([^ "]+)[^"]*"/i,
+                /<meta[^>]+name="Hugo ([^ "]+)[^"]*"[^>]+content="generator"/i
             ]
         }
     }
@@ -7173,7 +7176,8 @@
     versions: {
         patterns: {
             page: [
-                /<meta[^>]+content\="Hexo ([^"]+)/i
+                /<meta[^>]+name="generator"[^>]+content="Hexo ([^ "]+)[^"]*"/i,
+                /<meta[^>]+name="Hexo ([^ "]+)[^"]*"[^>]+content="generator"/i
             ]
         }
     }
@@ -8370,8 +8374,8 @@
     versions: {
         patterns: {
             page: [
-                /<meta[^>]+name="generator"[^>]+content="Jekyll ([^"]+)"/i,
-                /<meta[^>]+content="Jekyll ([^"]+)"[^>]+name="generator"/i
+                /<meta[^>]+name="generator"[^>]+content="Jekyll ([^ "]+)[^"]*"/i,
+                /<meta[^>]+name="Jekyll ([^ "]+)[^"]*"[^>]+content="generator"/i
             ]
         }
     }
@@ -14831,7 +14835,8 @@
     versions: {
         patterns: {
             page: [
-                /<meta[^>]+content\="MediaWiki ([^"]+)/i
+                /<meta[^>]+name="generator"[^>]+content="MediaWiki ([^ "]+)[^"]*"/i,
+                /<meta[^>]+name="MediaWiki ([^ "]+)[^"]*"[^>]+content="generator"/i
             ]
         }
     }
@@ -15055,7 +15060,8 @@
     versions: {
         patterns: {
             page: [
-                /<meta[^>]+content\="WooCommerce ([0-9\.]+)/i
+                /<meta[^>]+name="generator"[^>]+content="WooCommerce ([^ "]+)[^"]*"/i,
+                /<meta[^>]+name="WooCommerce ([^ "]+)[^"]*"[^>]+content="generator"/i
             ]
         }
     }

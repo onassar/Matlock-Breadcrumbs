@@ -17,7 +17,8 @@
     versions: {
         patterns: {
             page: [
-                /<meta[^>]+content\="WooCommerce ([0-9\.]+)/i
+                /<meta[^>]+name="generator"[^>]+content="WooCommerce ([^ "]+)[^"]*"/i,
+                /<meta[^>]+name="WooCommerce ([^ "]+)[^"]*"[^>]+content="generator"/i
             ]
         }
     }

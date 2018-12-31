@@ -17,7 +17,8 @@
     versions: {
         patterns: {
             page: [
-                /<meta[^>]+content\="Hexo ([^"]+)/i
+                /<meta[^>]+name="generator"[^>]+content="Hexo ([^ "]+)[^"]*"/i,
+                /<meta[^>]+name="Hexo ([^ "]+)[^"]*"[^>]+content="generator"/i
             ]
         }
     }

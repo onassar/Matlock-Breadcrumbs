@@ -31,8 +31,8 @@
     versions: {
         patterns: {
             page: [
-                /<meta[^>]+name="generator"[^>]+content="Ghost ([^"]+)"/i,
-                /<meta[^>]+content="Ghost ([^"]+)"[^>]+name="generator"/i
+                /<meta[^>]+name="generator"[^>]+content="Ghost ([^ "]+)[^"]*"/i,
+                /<meta[^>]+name="Ghost ([^ "]+)[^"]*"[^>]+content="generator"/i
             ]
         }
     }

@@ -23,8 +23,8 @@
     versions: {
         patterns: {
             page: [
-                /<meta[^>]+name="generator"[^>]+content="Jekyll ([^"]+)"/i,
-                /<meta[^>]+content="Jekyll ([^"]+)"[^>]+name="generator"/i
+                /<meta[^>]+name="generator"[^>]+content="Jekyll ([^ "]+)[^"]*"/i,
+                /<meta[^>]+name="Jekyll ([^ "]+)[^"]*"[^>]+content="generator"/i
             ]
         }
     }

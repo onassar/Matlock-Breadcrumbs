@@ -19,8 +19,8 @@
     versions: {
         patterns: {
             page: [
-                /<meta[^>]+name="generator"[^>]+content="Postleaf ([^"]+)"/i,
-                /<meta[^>]+content="Postleaf ([^"]+)"[^>]+name="generator"/i
+                /<meta[^>]+name="generator"[^>]+content="Postleaf ([^ "]+)[^"]*"/i,
+                /<meta[^>]+name="Postleaf ([^ "]+)[^"]*"[^>]+content="generator"/i
             ]
         }
     }

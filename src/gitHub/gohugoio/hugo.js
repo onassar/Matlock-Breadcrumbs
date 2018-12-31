@@ -24,7 +24,8 @@
     versions: {
         patterns: {
             page: [
-                /<meta[^>]+content\="Hugo ([^"]+)/i
+                /<meta[^>]+name="generator"[^>]+content="Hugo ([^ "]+)[^"]*"/i,
+                /<meta[^>]+name="Hugo ([^ "]+)[^"]*"[^>]+content="generator"/i
             ]
         }
     }

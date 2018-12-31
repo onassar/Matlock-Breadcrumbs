@@ -24,7 +24,8 @@
     versions: {
         patterns: {
             page: [
-                /<meta[^>]+content\="Discourse ([^" ]+)/i
+                /<meta[^>]+name="generator"[^>]+content="Discourse ([^ "]+)[^"]*"/i,
+                /<meta[^>]+name="Discourse ([^ "]+)[^"]*"[^>]+content="generator"/i
             ]
         }
     }

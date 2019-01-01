@@ -10531,13 +10531,15 @@
 // src/gitHub/mattmccray/liquid.js.js
 {
     properties: {
+        examples: [
+            'https://variety.com/',
+            'https://makitweb.com/take-screenshot-of-webpage-with-html2canvas/'
+        ],
         link: 'https://github.com/mattmccray/liquid.js',
+        name: 'Liquid.js',
         platform: 'GitHub',
         tags: [
             'Shopify'
-        ],
-        examples: [
-            'https://makitweb.com/take-screenshot-of-webpage-with-html2canvas/'
         ],
         type: 'repository'
     },

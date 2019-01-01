@@ -13444,6 +13444,10 @@
 // src/gitHub/scrollreveal/scrollreveal.js
 {
     properties: {
+        examples: [
+            'https://scrollrevealjs.org/',
+            'https://www.tableau.com/asset/how-build-dashboards-persuade-inform-and-engage'
+        ],
         licenses: {
             commercial: {
                 currency: 'USD',
@@ -13456,17 +13460,23 @@
             }
         },
         link: 'https://github.com/scrollreveal/scrollreveal',
+        name: 'ScrollReveal',
         platform: 'GitHub',
         tags: [
             'scrolling'
-        ],
-        examples: [
-            'https://scrollrevealjs.org/'
         ],
         type: 'repository'
     },
     tests: {
         references: [
+            [
+                'window.sr',
+                'window.sr.isSupported'
+            ],
+            [
+                'window.scrollReveal',
+                'window.scrollReveal.isSupported'
+            ],
             [
                 'window.ScrollReveal',
                 'window.ScrollReveal.isSupported'
@@ -13476,7 +13486,8 @@
     versions: {
         references: [
             'window.sr.version',
-            'window.ScrollReveal.fn.jquery'
+            'window.scrollReveal.version'
+            'window.ScrollReveal.version'
         ]
     }
 }

@@ -5779,6 +5779,11 @@
                 'window.jsTag',
                 'window.jsTag.provider'
             ]
+        ],
+        statements: [
+            [
+                'window.angular.module(\'jsTag\')'
+            ]
         ]
     }
 }
@@ -14914,6 +14919,25 @@
         references: [
             [
                 'window.WebFont'
+            ]
+        ]
+    }
+}
+,
+// src/gitHub/ubilabs/geocomplete.js
+{
+    properties: {
+        examples: [
+            'http://ubilabs.github.io/geocomplete/examples/simple.html'
+        ],
+        link: 'https://github.com/ubilabs/geocomplete',
+        platform: 'GitHub',
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.jQuery.fn.geocomplete'
             ]
         ]
     }

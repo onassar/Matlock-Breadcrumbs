@@ -13,6 +13,11 @@
                 'window.jsTag',
                 'window.jsTag.provider'
             ]
+        ],
+        statements: [
+            [
+                'window.angular.module(\'jsTag\')'
+            ]
         ]
     }
 }

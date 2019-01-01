@@ -42,7 +42,7 @@
     versions: {
         references: [
             'window.sr.version',
-            'window.scrollReveal.version'
+            'window.scrollReveal.version',
             'window.ScrollReveal.version'
         ]
     }

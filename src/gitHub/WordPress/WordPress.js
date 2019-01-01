@@ -33,7 +33,10 @@
                     /<link[^>]+wp\-includes/i
                 ],
                 [
-                    /<meta[^>]+content\="WordPress\b/i
+                    /<meta[^>]+name="generator"[^>]+content="WordPress/i
+                ],
+                [
+                    /<meta[^>]+name="WordPress[^"]+"[^>]+content="generator"/i
                 ]
             ]
         }

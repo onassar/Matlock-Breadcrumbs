@@ -29,7 +29,10 @@
             ],
             page: [
                 [
-                    /<meta[^>]+content\="Drupal\b/i
+                    /<meta[^>]+name="generator"[^>]+content="Drupal/i
+                ],
+                [
+                    /<meta[^>]+name="Drupal[^"]+"[^>]+content="generator"/i
                 ]
             ]
         },

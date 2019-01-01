@@ -23,7 +23,10 @@
             ],
             page: [
                 [
-                    /<meta[^>]+content\="Ghost\b/i
+                    /<meta[^>]+name="generator"[^>]+content="Ghost/i
+                ],
+                [
+                    /<meta[^>]+name="Ghost[^"]+"[^>]+content="generator"/i
                 ]
             ]
         }

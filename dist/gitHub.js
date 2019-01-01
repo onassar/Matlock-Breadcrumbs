@@ -1591,7 +1591,10 @@
             ],
             page: [
                 [
-                    /<meta[^>]+content\="Ghost\b/i
+                    /<meta[^>]+name="generator"[^>]+content="Ghost/i
+                ],
+                [
+                    /<meta[^>]+name="Ghost[^"]+"[^>]+content="generator"/i
                 ]
             ]
         }
@@ -1798,7 +1801,10 @@
                     /<link[^>]+wp\-includes/i
                 ],
                 [
-                    /<meta[^>]+content\="WordPress\b/i
+                    /<meta[^>]+name="generator"[^>]+content="WordPress/i
+                ],
+                [
+                    /<meta[^>]+name="WordPress[^"]+"[^>]+content="generator"/i
                 ]
             ]
         }
@@ -5206,7 +5212,10 @@
             ],
             page: [
                 [
-                    /<meta[^>]+content\="Drupal\b/i
+                    /<meta[^>]+name="generator"[^>]+content="Drupal/i
+                ],
+                [
+                    /<meta[^>]+name="Drupal[^"]+"[^>]+content="generator"/i
                 ]
             ]
         },

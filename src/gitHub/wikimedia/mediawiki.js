@@ -3,11 +3,11 @@
         donate: {
             link: 'https://donate.wikimedia.org/wiki/Ways_to_Give'
         },
-        link: 'https://github.com/wikimedia/mediawiki',
-        platform: 'GitHub',
         examples: [
             'https://en.wikipedia.org/wiki/Fire_at_Sea'
         ],
+        link: 'https://github.com/wikimedia/mediawiki',
+        platform: 'GitHub',
         type: 'repository',
         wikiPedia: {
             load: true,

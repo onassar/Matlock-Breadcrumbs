@@ -30,7 +30,7 @@
     versions: {
         patterns: {
             headers: [
-                /server:.*? php\/([^\s]+)/i,
+                /server:.*? php\/([0-9\.]+)/i,
                 /x\-powered\-by\: php\/([0-9\.]+)/i
             ]
         }

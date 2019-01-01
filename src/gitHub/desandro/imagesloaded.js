@@ -1,10 +1,11 @@
 {
     properties: {
-        link: 'https://github.com/desandro/imagesloaded',
-        platform: 'GitHub',
         examples: [
             'https://imagesloaded.desandro.com/'
         ],
+        link: 'https://github.com/desandro/imagesloaded',
+        name: 'imagesLoaded',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {

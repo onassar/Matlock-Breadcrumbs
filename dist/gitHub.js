@@ -4803,11 +4803,12 @@
 // src/gitHub/desandro/imagesloaded.js
 {
     properties: {
-        link: 'https://github.com/desandro/imagesloaded',
-        platform: 'GitHub',
         examples: [
             'https://imagesloaded.desandro.com/'
         ],
+        link: 'https://github.com/desandro/imagesloaded',
+        name: 'imagesLoaded',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {
@@ -9463,6 +9464,9 @@
 // src/gitHub/kenwheeler/slick.js
 {
     properties: {
+        examples: [
+            'https://variety.com/'
+        ],
         link: 'https://github.com/kenwheeler/slick',
         platform: 'GitHub',
         type: 'repository'

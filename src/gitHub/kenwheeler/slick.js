@@ -1,5 +1,8 @@
 {
     properties: {
+        examples: [
+            'https://variety.com/'
+        ],
         link: 'https://github.com/kenwheeler/slick',
         platform: 'GitHub',
         type: 'repository'

@@ -1,10 +1,12 @@
 {
     properties: {
-        link: 'https://github.com/yui/yui3',
-        platform: 'GitHub',
         examples: [
-            'https://www.buildingabetterresponse.org/enrol/index.php?id=26'
+            'https://www.buildingabetterresponse.org/enrol/index.php?id=26',
+            'https://www.joshhild.com/'
         ],
+        link: 'https://github.com/yui/yui3',
+        name: 'YUI 3',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {

@@ -3966,7 +3966,6 @@
 {
     properties: {
         examples: [
-            'https://twitter.com/alfonsocuaron',
             'https://www.stanford.edu/'
         ],
         donate: {
@@ -7642,7 +7641,11 @@
 // src/gitHub/imakewebthings/waypoints.js
 {
     properties: {
+        examples: [
+            'https://www.stanford.edu/'
+        ],
         link: 'https://github.com/imakewebthings/waypoints',
+        name: 'Waypoints',
         platform: 'GitHub',
         type: 'repository'
     },

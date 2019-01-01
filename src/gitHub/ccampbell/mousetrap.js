@@ -1,7 +1,6 @@
 {
     properties: {
         examples: [
-            'https://twitter.com/alfonsocuaron',
             'https://www.stanford.edu/'
         ],
         donate: {

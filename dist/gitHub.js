@@ -9470,7 +9470,7 @@
     tests: {
         statements: [
             [
-                '$(\'body\').slick'
+                'window.$(\'body\').slick'
             ]
         ]
     }
@@ -15616,7 +15616,6 @@
             'https://cemerick.com/2009/03/24/why-mit-now-uses-python-instead-of-scheme-for-its-undergraduate-cs-program/'
         ],
         link: 'https://github.com/zuk/jquery.inview',
-        name: 'jQuery Inview',
         platform: 'GitHub',
         tags: [
             'scrolling'

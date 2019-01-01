@@ -7,7 +7,7 @@
     tests: {
         statements: [
             [
-                '$(\'body\').slick'
+                'window.$(\'body\').slick'
             ]
         ]
     }

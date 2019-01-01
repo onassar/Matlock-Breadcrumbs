@@ -5484,15 +5484,16 @@
 // src/gitHub/embedly/player.js.js
 {
     properties: {
+        examples: [
+            'https://crooked.com/',
+            'http://playerjs.io/'
+        ],
         link: 'https://github.com/embedly/player.js',
+        name: 'Player.js',
         platform: 'GitHub',
         tags: [
             'embedly',
             'video'
-        ],
-        examples: [
-            'https://crooked.com/',
-            'http://playerjs.io/'
         ],
         type: 'repository'
     },

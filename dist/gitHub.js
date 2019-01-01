@@ -3965,13 +3965,15 @@
 // src/gitHub/ccampbell/mousetrap.js
 {
     properties: {
+        examples: [
+            'https://twitter.com/alfonsocuaron',
+            'https://www.stanford.edu/'
+        ],
         donate: {
             link: 'https://craig.is/accepting-donations?ref=mousetrap'
         },
         link: 'https://github.com/ccampbell/mousetrap',
-        examples: [
-            'https://twitter.com/alfonsocuaron'
-        ],
+        name: 'Mousetrap',
         platform: 'GitHub',
         type: 'repository'
     },

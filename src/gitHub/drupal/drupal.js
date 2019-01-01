@@ -32,7 +32,13 @@
                     /<meta[^>]+content\="Drupal\b/i
                 ]
             ]
-        }
+        },
+        references: [
+            [
+                'window.Drupal',
+                'window.Drupal.settings'
+            ]
+        ]
     },
     versions: {
         patterns: {

@@ -1,4 +1,7 @@
 {
+    dependencies: [
+        'https://github.com/jekyll/jekyll'
+    ],
     properties: {
         examples: [
             'https://www.openssl.org/support/donations.html'

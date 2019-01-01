@@ -5763,6 +5763,26 @@
     }
 }
 ,
+// src/gitHub/eranhirs/jsTag.js
+{
+    properties: {
+        examples: [
+            'http://eranhirs.github.io/jsTag/'
+        ],
+        link: 'https://github.com/eranhirs/jsTag',
+        platform: 'GitHub',
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.jsTag',
+                'window.jsTag.provider'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/ericdrowell/KineticJS.js
 {
     properties: {

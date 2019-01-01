@@ -1200,15 +1200,15 @@
 // src/gitHub/RobinHerbots/Inputmask.js
 {
     properties: {
+        examples: [
+            'https://ultimatecourses.com/',
+            'https://robinherbots.github.io/Inputmask/'
+        ],
         donate: {
             link: 'https://www.buymeacoffee.com/robinherbots'
         },
         link: 'https://github.com/RobinHerbots/Inputmask',
         platform: 'GitHub',
-        examples: [
-            'https://ultimatecourses.com/',
-            'https://robinherbots.github.io/Inputmask/'
-        ],
         type: 'repository'
     },
     tests: {
@@ -8866,10 +8866,14 @@
 // src/gitHub/jquery/jquery-migrate.js
 {
     properties: {
+        examples: [
+            'https://www.stanford.edu/'
+        ],
         donate: {
             link: 'https://js.foundation/about/donate'
         },
         link: 'https://github.com/jquery/jquery-migrate',
+        name: 'jQuery Migrate',
         platform: 'GitHub',
         type: 'repository'
     },

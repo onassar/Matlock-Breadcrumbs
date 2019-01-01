@@ -3357,6 +3357,9 @@
 // src/gitHub/bas2k/jquery.appear.js
 {
     properties: {
+        examples: [
+            'https://www.cear.es/'
+        ],
         link: 'https://github.com/bas2k/jquery.appear',
         name: 'jQuery Appear'
         platform: 'GitHub',

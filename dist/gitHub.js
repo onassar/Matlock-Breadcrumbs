@@ -1745,13 +1745,15 @@
 // src/gitHub/WickyNilliams/headroom.js.js
 {
     properties: {
+        examples: [
+            'https://wicky.nillia.ms/headroom.js/',
+            'https://www.format.com/magazine'
+        ],
         link: 'https://github.com/WickyNilliams/headroom.js',
+        name: 'Headroom.js',
         platform: 'GitHub',
         tags: [
             'scrolling'
-        ],
-        examples: [
-            'https://wicky.nillia.ms/headroom.js/'
         ],
         type: 'repository'
     },

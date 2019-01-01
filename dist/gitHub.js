@@ -2906,11 +2906,12 @@
 // src/gitHub/aramk/crayon-syntax-highlighter.js
 {
     properties: {
-        link: 'https://github.com/aramk/crayon-syntax-highlighter',
-        platform: 'GitHub',
         examples: [
             'https://wecodepixels.com/shop/theia-sticky-sidebar-for-wordpress/'
         ],
+        link: 'https://github.com/aramk/crayon-syntax-highlighter',
+        name: 'Crayon Syntax Highlighter',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {

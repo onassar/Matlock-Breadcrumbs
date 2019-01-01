@@ -4,7 +4,7 @@
             'https://www.cear.es/'
         ],
         link: 'https://github.com/bas2k/jquery.appear',
-        name: 'jQuery Appear'
+        name: 'jQuery Appear',
         platform: 'GitHub',
         type: 'repository'
     },

@@ -9,6 +9,7 @@
         alternatives: [
             'gitHub/onassar/Stencil'
         ],
+        examples: [],
         link: 'https://github.com/username/name',
         meta: [
             {
@@ -29,7 +30,6 @@
         related: [],
         similar: [],
         tags: [],
-        examples: [],
         type: 'repository',
         videos: [],
         wikiPedia: {

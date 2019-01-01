@@ -1911,9 +1911,27 @@
                     /<meta[^>]+name="WordPress[^"]+"[^>]+content="generator"/i
                 ]
             ]
-        }
+        },
+        queries: [
+            [
+                {
+                    selectors: [
+                        'meta[name="generator" i][content*="WordPress" i]'
+                    ],
+                    length: '>0'
+                }
+            ]
+        ]
     },
     versions: {
+        queries: [
+            {
+                selectors: [
+                    'meta[name="generator" i][content*="WordPress" i]'
+                ],
+                matches: /\s*WordPress\s*(.+)/i
+            }
+        ],
         patterns: {
             page: [
                 /<meta[^>]+name="generator"[^>]+content="WordPress ([^ "]+)[^"]*"/i,
@@ -1978,10 +1996,10 @@
 {
     properties: {
         link: 'https://github.com/Yomguithereal/gexf.js',
-        platform: 'GitHub',
         examples: [
             'http://sigmajs.org/'
         ],
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {
@@ -2541,6 +2559,7 @@
 {
     properties: {
         link: 'https://github.com/alicelieutier/smoothScroll',
+        name: 'smoothScroll',
         platform: 'GitHub',
         type: 'repository'
     },
@@ -4216,11 +4235,12 @@
 // src/gitHub/cferdinandi/smooth-scroll.js
 {
     properties: {
-        link: 'https://github.com/cferdinandi/smooth-scroll',
-        platform: 'GitHub',
         examples: [
             'https://www.london.gov.uk/'
         ],
+        link: 'https://github.com/cferdinandi/smooth-scroll',
+        name: 'Smooth Scroll',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {

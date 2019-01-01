@@ -1,10 +1,10 @@
 {
     properties: {
         link: 'https://github.com/Yomguithereal/gexf.js',
-        platform: 'GitHub',
         examples: [
             'http://sigmajs.org/'
         ],
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {

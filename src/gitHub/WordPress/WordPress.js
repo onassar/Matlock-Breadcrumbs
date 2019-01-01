@@ -39,9 +39,27 @@
                     /<meta[^>]+name="WordPress[^"]+"[^>]+content="generator"/i
                 ]
             ]
-        }
+        },
+        queries: [
+            [
+                {
+                    selectors: [
+                        'meta[name="generator" i][content*="WordPress" i]'
+                    ],
+                    length: '>0'
+                }
+            ]
+        ]
     },
     versions: {
+        queries: [
+            {
+                selectors: [
+                    'meta[name="generator" i][content*="WordPress" i]'
+                ],
+                matches: /\s*WordPress\s*(.+)/i
+            }
+        ],
         patterns: {
             page: [
                 /<meta[^>]+name="generator"[^>]+content="WordPress ([^ "]+)[^"]*"/i,

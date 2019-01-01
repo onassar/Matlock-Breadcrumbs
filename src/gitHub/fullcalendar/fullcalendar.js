@@ -6,6 +6,7 @@
             'https://www.nasa.gov/'
         ],
         link: 'https://github.com/fullcalendar/fullcalendar',
+        name: 'FullCalendar',
         platform: 'GitHub',
         tags: [
             'calendars'

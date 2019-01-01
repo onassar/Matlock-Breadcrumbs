@@ -1,25 +1,23 @@
 {
     properties: {
         examples: [
-            'http://fotorama.io/'
+            'https://tonejs.github.io/'
         ],
-        link: 'https://github.com/artpolikarpov/fotorama',
+        link: 'https://github.com/Tonejs/Tone.js',
         platform: 'GitHub',
         type: 'repository'
     },
     tests: {
         references: [
             [
-                'window.jQuery.Fotorama'
-            ],
-            [
-                'window.jQuery.fn.fotorama'
+                'window.Tone',
+                'window.Tone.Add'
             ]
         ]
     },
     versions: {
         references: [
-            'window.fotoramaVersion'
+            'window.Tone.version'
         ]
     }
 }

@@ -1,6 +1,7 @@
 {
     properties: {
         examples: [
+            'http://kenwheeler.github.io/slick/',
             'https://variety.com/'
         ],
         link: 'https://github.com/kenwheeler/slick',

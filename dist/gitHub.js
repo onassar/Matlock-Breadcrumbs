@@ -1565,6 +1565,31 @@
     }
 }
 ,
+// src/gitHub/Tonejs/Tone.js.js
+{
+    properties: {
+        examples: [
+            'https://tonejs.github.io/'
+        ],
+        link: 'https://github.com/Tonejs/Tone.js',
+        platform: 'GitHub',
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.Tone',
+                'window.Tone.Add'
+            ]
+        ]
+    },
+    versions: {
+        references: [
+            'window.Tone.version'
+        ]
+    }
+}
+,
 // src/gitHub/TryGhost/Ghost.js
 {
     properties: {
@@ -2884,11 +2909,11 @@
 // src/gitHub/artpolikarpov/fotorama.js
 {
     properties: {
-        link: 'https://github.com/artpolikarpov/fotorama',
-        platform: 'GitHub',
         examples: [
             'http://fotorama.io/'
         ],
+        link: 'https://github.com/artpolikarpov/fotorama',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {
@@ -9465,6 +9490,7 @@
 {
     properties: {
         examples: [
+            'http://kenwheeler.github.io/slick/',
             'https://variety.com/'
         ],
         link: 'https://github.com/kenwheeler/slick',

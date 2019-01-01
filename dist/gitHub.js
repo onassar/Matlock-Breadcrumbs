@@ -9050,7 +9050,11 @@
 // src/gitHub/js-cookie/js-cookie.js
 {
     properties: {
+        examples: [
+            'https://www.stanford.edu/'
+        ],
         link: 'https://github.com/js-cookie/js-cookie',
+        name: 'JavaScript Cookie',
         platform: 'GitHub',
         type: 'repository'
     },

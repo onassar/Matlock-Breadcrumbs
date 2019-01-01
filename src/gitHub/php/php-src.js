@@ -19,6 +19,9 @@
                     /PHPSESSID/i
                 ],
                 [
+                    /server\:.* PHP\//i
+                ],
+                [
                     /x\-powered\-by\: php/i
                 ]
             ]
@@ -27,6 +30,7 @@
     versions: {
         patterns: {
             headers: [
+                /server:.* php\/([^\s]+)/i,
                 /x\-powered\-by\: php\/([0-9\.]+)/i
             ]
         }

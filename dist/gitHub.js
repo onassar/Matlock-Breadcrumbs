@@ -9751,7 +9751,8 @@
         references: [
             [
                 'window._',
-                'window._.at'
+                'window._.at',
+                'window._.assign'
             ],
             [
                 'window.__lodash'

@@ -15471,6 +15471,9 @@
 // src/gitHub/wikimedia/mediawiki.js
 {
     properties: {
+        donate: {
+            link: 'https://donate.wikimedia.org/wiki/Ways_to_Give'
+        },
         link: 'https://github.com/wikimedia/mediawiki',
         platform: 'GitHub',
         examples: [

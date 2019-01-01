@@ -2601,6 +2601,7 @@
             'https://alvarotrigo.com/multiScroll/'
         ],
         link: 'https://github.com/alvarotrigo/multiscroll.js',
+        name: 'multiScroll.js',
         platform: 'GitHub',
         type: 'repository'
     },
@@ -2609,6 +2610,27 @@
             [
                 'window.jQuery.fn.multiscroll',
                 'window.jQuery.fn.multiscroll.moveSectionDown'
+            ]
+        ]
+    }
+}
+,
+// src/gitHub/alvarotrigo/pagePiling.js.js
+{
+    properties: {
+        examples: [
+            'https://alvarotrigo.com/pagePiling/'
+        ],
+        link: 'https://github.com/alvarotrigo/pagePiling.js',
+        name: 'pagePiling.js',
+        platform: 'GitHub',
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.jQuery.fn.pagepiling',
+                'window.jQuery.fn.pagepiling.moveSectionDown'
             ]
         ]
     }

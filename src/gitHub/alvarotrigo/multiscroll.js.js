@@ -4,6 +4,7 @@
             'https://alvarotrigo.com/multiScroll/'
         ],
         link: 'https://github.com/alvarotrigo/multiscroll.js',
+        name: 'multiScroll.js',
         platform: 'GitHub',
         type: 'repository'
     },

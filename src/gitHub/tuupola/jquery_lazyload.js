@@ -1,6 +1,10 @@
 {
     properties: {
+        examples: [
+            'https://www.kansascity.com/'
+        ],
         link: 'https://github.com/tuupola/jquery_lazyload',
+        name: 'jQuery Lazy Load'
         platform: 'GitHub',
         type: 'repository'
     },

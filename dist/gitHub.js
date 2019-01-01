@@ -7213,7 +7213,11 @@
 // src/gitHub/harvesthq/chosen.js
 {
     properties: {
+        examples: [
+            'https://variety.com/'
+        ],
         link: 'https://github.com/harvesthq/chosen',
+        name: 'Chosen',
         platform: 'GitHub',
         type: 'repository'
     },

@@ -13137,6 +13137,31 @@
     }
 }
 ,
+// src/gitHub/scottschiller/SoundManager2.js
+{
+    properties: {
+        examples: [
+            'https://looplabs.com/beta'
+        ],
+        link: 'https://github.com/scottschiller/SoundManager2',
+        platform: 'GitHub',
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.soundManager',
+                'window.soundManager.setupOptions'
+            ]
+        ]
+    },
+    versions: {
+        references: [
+            'window.soundManager.version'
+        ]
+    }
+}
+,
 // src/gitHub/scrollreveal/scrollreveal.js
 {
     properties: {
@@ -13719,6 +13744,7 @@
             'https://looplabs.com/beta'
         ],
         link: 'https://github.com/strophe/strophejs',
+        name: 'Strophe.js',
         platform: 'GitHub',
         type: 'repository'
     },

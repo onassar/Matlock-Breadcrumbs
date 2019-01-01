@@ -9063,7 +9063,11 @@
         link: 'https://github.com/jquery/jquery-mobile',
         name: 'jQuery Mobile',
         platform: 'GitHub',
-        type: 'repository'
+        type: 'repository',
+        wikiPedia: {
+            load: true,
+            title: 'JQuery_Mobile'
+        }
     },
     tests: {
         references: [

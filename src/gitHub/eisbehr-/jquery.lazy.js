@@ -1,11 +1,12 @@
 {
     properties: {
-        link: 'https://github.com/eisbehr-/jquery.lazy',
-        platform: 'GitHub',
         examples: [
             'https://getstencil.com/',
             'http://jquery.eisbehr.de/lazy/'
         ],
+        link: 'https://github.com/eisbehr-/jquery.lazy',
+        name: 'jQuery & Zepto Lazy',
+        platform: 'GitHub',
         tags: [
             'lazy-loading'
         ],

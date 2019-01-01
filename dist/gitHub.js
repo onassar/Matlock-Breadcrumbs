@@ -2197,6 +2197,26 @@
     }
 }
 ,
+// src/gitHub/adamwulf/Columnizer-jQuery-Plugin.js
+{
+    properties: {
+        examples: [
+            'http://welcome.totheinter.net/columnizer-jquery-plugin/'
+        ],
+        link: 'https://github.com/adamwulf/Columnizer-jQuery-Plugin',
+        platform: 'GitHub',
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.jQuery.fn.columnize',
+                'window.jQuery.fn.uncolumnize'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/adobe-webplatform/Snap.svg.js
 {
     properties: {
@@ -8880,11 +8900,11 @@
 // src/gitHub/jquery-backstretch/jquery-backstretch.js
 {
     properties: {
-        link: 'https://github.com/jquery-backstretch/jquery-backstretch',
-        platform: 'GitHub',
         examples: [
             'http://www.jquery-backstretch.com/'
         ],
+        link: 'https://github.com/jquery-backstretch/jquery-backstretch',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {

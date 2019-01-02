@@ -2930,13 +2930,6 @@
         }
     },
     tests: {
-        patterns: {
-            headers: [
-                [
-                    /server\: apache/i
-                ]
-            ]
-        },
         strings: {
             headers: [
                 [

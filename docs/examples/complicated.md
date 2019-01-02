@@ -38,6 +38,19 @@
         }
     },
     tests: {
+        queries: [
+            [
+                {
+                    selectors: [
+                        'meta[name="generator" i][content*="WordPress" i]'
+                    ],
+                    length: {
+                        operator: '>',
+                        value: 0
+                    }
+                }
+            ]
+        ],
         patterns: {
             cookies: [
                 []
@@ -71,6 +84,12 @@
                 'f'
             ]
         ],
+        shortcuts: [
+            {
+                key: 'query.meta.generator',
+                generator: 'WordPress'
+            }
+        ],
         statements: [
             [
                 'window.jQuery.fun()',
@@ -95,6 +114,16 @@
         }
     },
     versions: {
+        queries: [
+            {
+                selectors: [
+                    'meta[name="generator" i][content*="WordPress" i]'
+                ],
+                attribute: 'content',
+                pattern: true,
+                expression: /\s*WordPress\s*(.+)/i
+            }
+        ],
         patterns: {
             cookies: [],
             headers: [],
@@ -107,6 +136,12 @@
         references: [
             'window.app.version',
             'window.app.$version'
+        ],
+        shortcuts: [
+            {
+                key: 'query.meta.generator',
+                generator: 'WordPress'
+            }
         ],
         statements: [
             'window.jQuery(\'app\').getVersion()'

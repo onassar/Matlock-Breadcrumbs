@@ -38,7 +38,7 @@
         shortcuts: [
             {
                 key: 'query.meta.generator',
-                value: 'WordPress'
+                generator: 'WordPress'
             }
         ]
     },
@@ -46,7 +46,7 @@
         shortcuts: [
             {
                 key: 'query.meta.generator',
-                value: 'WordPress'
+                generator: 'WordPress'
             }
         ]
     }

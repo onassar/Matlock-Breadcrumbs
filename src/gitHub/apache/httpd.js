@@ -19,6 +19,13 @@
                     /server\: apache/i
                 ]
             ]
+        },
+        strings: {
+            headers: [
+                [
+                    'Server: Apache'
+                ]
+            ]
         }
     },
     versions: {

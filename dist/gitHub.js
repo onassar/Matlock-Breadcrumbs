@@ -1919,6 +1919,12 @@
                     }
                 }
             ]
+        ],
+        shortcuts: [
+            {
+                key: 'meta.generator',
+                value: 'WordPress'
+            }
         ]
     },
     versions: {
@@ -1930,6 +1936,12 @@
                 attribute: 'content',
                 pattern: true,
                 expression: /\s*WordPress\s*(.+)/i
+            }
+        ],
+        shortcuts: [
+            {
+                key: 'meta.generator',
+                value: 'WordPress'
             }
         ]
     }

@@ -1919,7 +1919,10 @@
                     selectors: [
                         'meta[name="generator" i][content*="WordPress" i]'
                     ],
-                    length: '>0'
+                    length: {
+                        type: 'gt',
+                        value: 0
+                    }
                 }
             ]
         ]

@@ -9,7 +9,11 @@
         link: 'https://github.com/cakephp/cakephp',
         name: 'CakePHP',
         platform: 'GitHub',
-        type: 'repository'
+        type: 'repository',
+        wikiPedia: {
+            load: true,
+            title: 'CakePHP'
+        }
     },
     tests: {
         patterns: {

@@ -12228,7 +12228,8 @@
             link: 'https://www.openssl.org/support/donations.html'
         },
         examples: [
-            'https://calligo.cloud/gdpr-report/'
+            'https://calligo.cloud/gdpr-report/',
+            'http://www.cbc.radio-canada.ca/en/'
         ],
         link: 'https://github.com/openssl/openssl',
         platform: 'GitHub',
@@ -14703,7 +14704,11 @@
         'https://github.com/nodejs/node'
     ],
     properties: {
+        examples: [
+            'https://www.totaljs.com/'
+        ],
         link: 'https://github.com/totaljs/framework',
+        name: 'Total.js Platform',
         platform: 'GitHub',
         type: 'repository'
     },

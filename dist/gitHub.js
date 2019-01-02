@@ -12239,20 +12239,20 @@
         }
     },
     tests: {
-        patterns: {
-            headers: [
-                [
-                    /server\:.*OpenSSL/i
-                ]
-            ]
-        }
+        shortcuts: [
+            {
+                key: 'header.server',
+                name: 'OpenSSL'
+            }
+        ]
     },
     versions: {
-        patterns: {
-            headers: [
-                /server\:.*OpenSSL\/([^\s]+)/i
-            ]
-        }
+        shortcuts: [
+            {
+                key: 'header.server',
+                name: 'OpenSSL'
+            }
+        ]
     }
 }
 ,

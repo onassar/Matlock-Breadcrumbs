@@ -1871,7 +1871,6 @@
 ,
 // src/gitHub/WordPress/WordPress.js
 {
-    isolate: true,
     dependencies: [
         'https://github.com/php/php-src'
     ],

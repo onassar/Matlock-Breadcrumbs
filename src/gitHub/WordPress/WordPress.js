@@ -1,5 +1,4 @@
 {
-    isolate: true,
     dependencies: [
         'https://github.com/php/php-src'
     ],

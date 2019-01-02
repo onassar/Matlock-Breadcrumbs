@@ -12532,10 +12532,12 @@
     },
     tests: {
         patterns: {
-            headers: [
+            cookies: [
                 [
                     /PHPSESSID/i
-                ],
+                ]
+            ],
+            headers: [
                 [
                     /server\:.*? PHP\//i
                 ],

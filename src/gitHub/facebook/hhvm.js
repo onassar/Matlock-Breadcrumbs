@@ -1,10 +1,11 @@
 {
+    isolate: true,
     properties: {
-        link: 'https://github.com/facebook/hhvm',
-        platform: 'GitHub',
         examples: [
             'https://www.mediawiki.org/wiki/API:Query#Title_normalization'
         ],
+        link: 'https://github.com/facebook/hhvm',
+        platform: 'GitHub',
         type: 'repository',
         wikiPedia: {
             load: true,
@@ -12,19 +13,19 @@
         }
     },
     tests: {
-        patterns: {
-            headers: [
-                [
-                    /x\-powered\-by\: hhvm/i
-                ]
-            ]
-        }
+        shortcuts: [
+            {
+                key: 'header.server',
+                name: 'HHVM'
+            }
+        ]
     },
     versions: {
-        patterns: {
-            headers: [
-                /x\-powered\-by\: hhvm\/([0-9\.\-a-z]+)/i
-            ]
-        }
+        shortcuts: [
+            {
+                key: 'header.server',
+                name: 'HHVM'
+            }
+        ]
     }
 }

@@ -1,5 +1,4 @@
 {
-    isolate: true,
     properties: {
         examples: [
             'https://www.nbcnews.com/politics/national-security/russians-launched-pro-jill-stein-social-media-blitz-help-trump-n951166'

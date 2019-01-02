@@ -5943,7 +5943,6 @@
 ,
 // src/gitHub/expressjs/express.js
 {
-    isolate: true,
     properties: {
         examples: [
             'https://www.nbcnews.com/politics/national-security/russians-launched-pro-jill-stein-social-media-blitz-help-trump-n951166'
@@ -11162,7 +11161,6 @@
 ,
 // src/gitHub/mholt/caddy.js
 {
-    isolate: true,
     properties: {
         examples: [
             'https://minio.io/downloads.html#download-server'
@@ -14186,6 +14184,32 @@
     versions: {
         references: [
             'window.Strophe.VERSION'
+        ]
+    }
+}
+,
+// src/gitHub/stutrek/scrollMonitor.js
+{
+    properties: {
+        examples: [
+            'https://www.nbcnews.com/politics/national-security/russians-launched-pro-jill-stein-social-media-blitz-help-trump-n951166'
+        ],
+        link: 'https://github.com/stutrek/scrollMonitor',
+        platform: 'GitHub',
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.scrollMonitor',
+                'window.scrollMonitor.recalculateLocations',
+                'window.scrollMonitor.update'
+            ]
+        ]
+    },
+    versions: {
+        references: [
+            'window.scrollMonitor.version'
         ]
     }
 }

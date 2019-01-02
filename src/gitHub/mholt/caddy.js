@@ -1,5 +1,4 @@
 {
-    isolate: true,
     properties: {
         examples: [
             'https://minio.io/downloads.html#download-server'

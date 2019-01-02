@@ -4,6 +4,7 @@
             'https://forums.donejs.com/c/documentjs'
         ],
         link: 'https://github.com/discourse/discourse',
+        name: 'Discourse',
         platform: 'GitHub',
         type: 'repository'
     },

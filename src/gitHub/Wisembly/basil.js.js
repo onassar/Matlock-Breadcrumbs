@@ -1,6 +1,7 @@
 {
     properties: {
         examples: [
+            'https://wisembly.github.io/basil.js/',
             'https://www.vrbo.com/vacation-rentals/usa/florida/central-disney-orlando/orlando'
         ],
         link: 'https://github.com/Wisembly/basil.js',
@@ -11,7 +12,7 @@
         references: [
             [
                 'window.Basil',
-                'window.Basil.create',
+                'window.Basil.localStorage',
                 'window.Basil.utils'
             ]
         ]

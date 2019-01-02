@@ -1,5 +1,4 @@
 {
-    isolate: true,
     properties: {
         donate: {
             link: 'https://www.apache.org/foundation/contributing.html'

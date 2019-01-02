@@ -2916,7 +2916,6 @@
 ,
 // src/gitHub/apache/httpd.js
 {
-    isolate: true,
     properties: {
         donate: {
             link: 'https://www.apache.org/foundation/contributing.html'
@@ -12537,24 +12536,22 @@
                 [
                     /PHPSESSID/i
                 ]
-            ],
-            headers: [
-                [
-                    /server\:.*? PHP\//i
-                ],
-                [
-                    /x\-powered\-by\: php/i
-                ]
             ]
-        }
+        },
+        shortcuts: [
+            {
+                key: 'header.server',
+                name: 'PHP'
+            }
+        ]
     },
     versions: {
-        patterns: {
-            headers: [
-                /server:.*? php\/([0-9\.]+)/i,
-                /x\-powered\-by\: php\/([0-9\.]+)/i
-            ]
-        }
+        shortcuts: [
+            {
+                key: 'header.server',
+                name: 'PHP'
+            }
+        ]
     }
 }
 ,

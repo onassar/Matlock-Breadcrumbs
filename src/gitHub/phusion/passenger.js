@@ -1,5 +1,4 @@
 {
-    isolate: true,
     properties: {
         examples: [
             'https://blog.ghost.org/'

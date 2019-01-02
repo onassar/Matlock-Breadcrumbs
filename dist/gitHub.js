@@ -3286,6 +3286,7 @@
 ,
 // src/gitHub/badlerdashy/sails.js
 {
+    isolate: true,
     dependencies: [
         'https://github.com/nodejs/node'
     ],
@@ -3295,13 +3296,20 @@
         type: 'repository'
     },
     tests: {
-        patterns: {
-            headers: [
-                [
-                    /x\-powered\-by.{0,20}sails/i
-                ]
-            ]
-        }
+        shortcuts: [
+            {
+                key: 'header.server',
+                name: 'Phusion Passenger'
+            }
+        ]
+    },
+    versions: {
+        shortcuts: [
+            {
+                key: 'header.server',
+                name: 'Phusion Passenger'
+            }
+        ]
     }
 }
 ,
@@ -12558,7 +12566,6 @@
 ,
 // src/gitHub/phusion/passenger.js
 {
-    isolate: true,
     properties: {
         examples: [
             'https://blog.ghost.org/'

@@ -1,6 +1,10 @@
 {
     properties: {
+        examples: [
+            'https://blog.ghost.org/'
+        ],
         link: 'https://github.com/segmentio/analytics.js',
+        name: 'Analytics.js (Segment)'
         platform: 'GitHub',
         type: 'repository'
     },

@@ -1,4 +1,5 @@
 {
+    isolate: true,
     properties: {
         examples: [
             'http://www.cbc.radio-canada.ca/en/'

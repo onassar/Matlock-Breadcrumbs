@@ -12517,6 +12517,7 @@
 ,
 // src/gitHub/php/php-src.js
 {
+    isolate: true,
     properties: {
         examples: [
             'http://www.cbc.radio-canada.ca/en/'

@@ -6640,9 +6640,11 @@
     ],
     properties: {
         examples: [
+            'https://www.gatsbyjs.org/',
             'https://insomnia.rest/blog/sustainable-profit'
         ],
         link: 'https://github.com/gatsbyjs/gatsby',
+        name: 'Gatsby',
         platform: 'GitHub',
         type: 'repository'
     },

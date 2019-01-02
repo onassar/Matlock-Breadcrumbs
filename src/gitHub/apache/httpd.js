@@ -1,4 +1,5 @@
 {
+    isolate: true,
     properties: {
         donate: {
             link: 'https://www.apache.org/foundation/contributing.html'
@@ -12,19 +13,19 @@
         }
     },
     tests: {
-        patterns: {
-            headers: [
-                [
-                    /server\: apache/i
-                ]
-            ]
-        }
+        shortcuts: [
+            {
+                key: 'header.server',
+                name: 'Apache'
+            }
+        ]
     },
     versions: {
-        patterns: {
-            headers: [
-                /server\: apache\/([0-9\.]+)/i
-            ]
-        }
+        shortcuts: [
+            {
+                key: 'header.server',
+                name: 'Apache'
+            }
+        ]
     }
 }

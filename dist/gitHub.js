@@ -15458,7 +15458,7 @@
         examples: [
             'https://www.emojicopy.com/'
         ],
-        link: 'https://github.com/vinaygopinath/ngMeta'
+        link: 'https://github.com/vinaygopinath/ngMeta',
         platform: 'GitHub',
         tags: [
             'angular'

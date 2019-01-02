@@ -1176,6 +1176,9 @@
 ,
 // src/gitHub/Postleaf/postleaf.js
 {
+    dependencies: [
+        'https://github.com/nodejs/node'
+    ],
     properties: {
         examples: [
             'https://www.postleaf.org/'
@@ -7562,6 +7565,9 @@
 ,
 // src/gitHub/hexojs/hexo.js
 {
+    dependencies: [
+        'https://github.com/nodejs/node'
+    ],
     properties: {
         examples: [
             'https://hexo.io/'

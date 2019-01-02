@@ -1,4 +1,7 @@
 {
+    dependencies: [
+        'https://github.com/nodejs/node'
+    ],
     properties: {
         examples: [
             'https://www.postleaf.org/'

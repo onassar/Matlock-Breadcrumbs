@@ -1,27 +1,28 @@
 {
+    isolate: true,
     properties: {
-        link: 'https://github.com/phusion/passenger',
-        name: 'Phusion Passenger',
-        platform: 'GitHub',
         examples: [
             'https://blog.ghost.org/'
         ],
+        link: 'https://github.com/phusion/passenger',
+        name: 'Phusion Passenger',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {
-        patterns: {
-            headers: [
-                [
-                    /x\-powered\-by.+Phusion Passenger/i
-                ]
-            ]
-        }
+        shortcuts: [
+            {
+                key: 'header.server',
+                name: 'Phusion Passenger'
+            }
+        ]
     },
     versions: {
-        patterns: {
-            headers: [
-                /x\-powered\-by.+Phusion Passenger ([0-9\.]+)/i
-            ]
-        }
+        shortcuts: [
+            {
+                key: 'header.server',
+                name: 'Phusion Passenger'
+            }
+        ]
     }
 }

@@ -3299,7 +3299,7 @@
         shortcuts: [
             {
                 key: 'header.server',
-                name: 'Phusion Passenger'
+                name: 'Sails'
             }
         ]
     },
@@ -3307,7 +3307,7 @@
         shortcuts: [
             {
                 key: 'header.server',
-                name: 'Phusion Passenger'
+                name: 'Sails'
             }
         ]
     }

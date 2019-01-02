@@ -4655,11 +4655,12 @@
 // src/gitHub/cowboy/jquery-tiny-pubsub.js
 {
     properties: {
-        link: 'https://github.com/cowboy/jquery-tiny-pubsub',
-        platform: 'GitHub',
         examples: [
             'https://www.spotify.com/us/'
         ],
+        link: 'https://github.com/cowboy/jquery-tiny-pubsub',
+        name: 'jQuery Tiny Pub/Sub',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {

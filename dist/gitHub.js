@@ -2933,7 +2933,7 @@
         strings: {
             headers: [
                 [
-                    'Server: Apache'
+                    '!Server: sApache'
                 ]
             ]
         }

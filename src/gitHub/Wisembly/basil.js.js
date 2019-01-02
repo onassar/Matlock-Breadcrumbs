@@ -1,10 +1,10 @@
 {
     properties: {
         examples: [
-            'https://wisembly.github.io/basil.js/',
             'https://www.vrbo.com/vacation-rentals/usa/florida/central-disney-orlando/orlando'
         ],
         link: 'https://github.com/Wisembly/basil.js',
+        name: 'Basil.js',
         platform: 'GitHub',
         type: 'repository'
     },

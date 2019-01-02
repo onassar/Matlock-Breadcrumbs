@@ -1,4 +1,5 @@
 {
+    isolate: true,
     properties: {
         donate: {
             link: 'https://donate.wikimedia.org/wiki/Ways_to_Give'

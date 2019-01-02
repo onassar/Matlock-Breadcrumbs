@@ -1,9 +1,10 @@
 {
     properties: {
         examples: [
-
+            'https://hexo.io/'
         ],
         link: 'https://github.com/hexojs/hexo',
+        name: 'Hexo',
         platform: 'GitHub',
         type: 'repository'
     },

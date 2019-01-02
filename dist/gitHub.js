@@ -1181,6 +1181,7 @@
             'https://www.postleaf.org/'
         ],
         link: 'https://github.com/Postleaf/postleaf',
+        name: 'Postleaf',
         platform: 'GitHub',
         type: 'repository'
     },
@@ -7563,9 +7564,10 @@
 {
     properties: {
         examples: [
-
+            'https://hexo.io/'
         ],
         link: 'https://github.com/hexojs/hexo',
+        name: 'Hexo',
         platform: 'GitHub',
         type: 'repository'
     },

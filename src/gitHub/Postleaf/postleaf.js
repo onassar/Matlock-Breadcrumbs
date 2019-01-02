@@ -4,6 +4,7 @@
             'https://www.postleaf.org/'
         ],
         link: 'https://github.com/Postleaf/postleaf',
+        name: 'Postleaf',
         platform: 'GitHub',
         type: 'repository'
     },

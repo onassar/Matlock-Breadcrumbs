@@ -32,12 +32,6 @@
                 ],
                 [
                     /<link[^>]+wp\-includes/i
-                ],
-                [
-                    /<meta[^>]+name="generator"[^>]+content="WordPress/i
-                ],
-                [
-                    /<meta[^>]+name="WordPress[^"]+"[^>]+content="generator"/i
                 ]
             ]
         },
@@ -65,12 +59,6 @@
                 pattern: true,
                 expression: /\s*WordPress\s*(.+)/i
             }
-        ],
-        patterns: {
-            page: [
-                /<meta[^>]+name="generator"[^>]+content="WordPress ([^ "]+)[^"]*"/i,
-                /<meta[^>]+name="WordPress ([^ "]+)[^"]*"[^>]+content="generator"/i
-            ]
-        }
+        ]
     }
 }

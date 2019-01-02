@@ -15,23 +15,19 @@
         }
     },
     tests: {
-        patterns: {
-            page: [
-                [
-                    /<meta[^>]+name="generator"[^>]+content="MediaWiki/i
-                ],
-                [
-                    /<meta[^>]+name="MediaWiki[^"]+"[^>]+content="generator"/i
-                ]
-            ]
-        }
+        shortcuts: [
+            {
+                key: 'query.meta.generator',
+                generator: 'MediaWiki'
+            }
+        ]
     },
     versions: {
-        patterns: {
-            page: [
-                /<meta[^>]+name="generator"[^>]+content="MediaWiki ([^ "]+)[^"]*"/i,
-                /<meta[^>]+name="MediaWiki ([^ "]+)[^"]*"[^>]+content="generator"/i
-            ]
-        }
+        shortcuts: [
+            {
+                key: 'query.meta.generator',
+                generator: 'MediaWiki'
+            }
+        ]
     }
 }

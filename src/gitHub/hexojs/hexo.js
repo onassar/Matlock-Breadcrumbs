@@ -22,11 +22,5 @@
                 generator: 'Hexo'
             }
         ]
-        patterns: {
-            page: [
-                /<meta[^>]+name="generator"[^>]+content="Hexo ([^ "]+)[^"]*"/i,
-                /<meta[^>]+name="Hexo ([^ "]+)[^"]*"[^>]+content="generator"/i
-            ]
-        }
     }
 }

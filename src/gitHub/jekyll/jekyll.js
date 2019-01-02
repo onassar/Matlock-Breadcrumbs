@@ -15,16 +15,12 @@
         }
     },
     tests: {
-        patterns: {
-            page: [
-                [
-                    /<meta[^>]+name="generator"[^>]+content="Jekyll/i
-                ],
-                [
-                    /<meta[^>]+name="Jekyll[^"]+"[^>]+content="generator"/i
-                ]
-            ]
-        },
+        shortcuts: [
+            {
+                key: 'query.meta.generator',
+                generator: 'Jekyll'
+            }
+        ],
         strings: {
             page: [
                 [
@@ -40,11 +36,11 @@
         }
     },
     versions: {
-        patterns: {
-            page: [
-                /<meta[^>]+name="generator"[^>]+content="Jekyll ([^ "]+)[^"]*"/i,
-                /<meta[^>]+name="Jekyll ([^ "]+)[^"]*"[^>]+content="generator"/i
-            ]
-        }
+        shortcuts: [
+            {
+                key: 'query.meta.generator',
+                generator: 'Jekyll'
+            }
+        ]
     }
 }

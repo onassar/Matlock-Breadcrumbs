@@ -1185,24 +1185,20 @@
         type: 'repository'
     },
     tests: {
-        patterns: {
-            page: [
-                [
-                    /<meta[^>]+name="generator"[^>]+content="Postleaf/i
-                ],
-                [
-                    /<meta[^>]+name="Postleaf[^"]+"[^>]+content="generator"/i
-                ]
-            ]
-        }
+        shortcuts: [
+            {
+                key: 'query.meta.generator',
+                generator: 'Postleaf'
+            }
+        ]
     },
     versions: {
-        patterns: {
-            page: [
-                /<meta[^>]+name="generator"[^>]+content="Postleaf ([^ "]+)[^"]*"/i,
-                /<meta[^>]+name="Postleaf ([^ "]+)[^"]*"[^>]+content="generator"/i
-            ]
-        }
+        shortcuts: [
+            {
+                key: 'query.meta.generator',
+                generator: 'Postleaf'
+            }
+        ]
     }
 }
 ,
@@ -1685,29 +1681,27 @@
         }
     },
     tests: {
+        shortcuts: [
+            {
+                key: 'query.meta.generator',
+                generator: 'Ghost'
+            }
+        ],
         patterns: {
             headers: [
                 [
                     /x-ghost-cache-status/i
                 ]
-            ],
-            page: [
-                [
-                    /<meta[^>]+name="generator"[^>]+content="Ghost/i
-                ],
-                [
-                    /<meta[^>]+name="Ghost[^"]+"[^>]+content="generator"/i
-                ]
             ]
         }
     },
     versions: {
-        patterns: {
-            page: [
-                /<meta[^>]+name="generator"[^>]+content="Ghost ([^ "]+)[^"]*"/i,
-                /<meta[^>]+name="Ghost ([^ "]+)[^"]*"[^>]+content="generator"/i
-            ]
-        }
+        shortcuts: [
+            {
+                key: 'query.meta.generator',
+                generator: 'Ghost'
+            }
+        ]
     }
 }
 ,
@@ -7587,12 +7581,6 @@
                 generator: 'Hexo'
             }
         ]
-        patterns: {
-            page: [
-                /<meta[^>]+name="generator"[^>]+content="Hexo ([^ "]+)[^"]*"/i,
-                /<meta[^>]+name="Hexo ([^ "]+)[^"]*"[^>]+content="generator"/i
-            ]
-        }
     }
 }
 ,
@@ -8784,16 +8772,12 @@
         }
     },
     tests: {
-        patterns: {
-            page: [
-                [
-                    /<meta[^>]+name="generator"[^>]+content="Jekyll/i
-                ],
-                [
-                    /<meta[^>]+name="Jekyll[^"]+"[^>]+content="generator"/i
-                ]
-            ]
-        },
+        shortcuts: [
+            {
+                key: 'query.meta.generator',
+                generator: 'Jekyll'
+            }
+        ],
         strings: {
             page: [
                 [
@@ -8809,12 +8793,12 @@
         }
     },
     versions: {
-        patterns: {
-            page: [
-                /<meta[^>]+name="generator"[^>]+content="Jekyll ([^ "]+)[^"]*"/i,
-                /<meta[^>]+name="Jekyll ([^ "]+)[^"]*"[^>]+content="generator"/i
-            ]
-        }
+        shortcuts: [
+            {
+                key: 'query.meta.generator',
+                generator: 'Jekyll'
+            }
+        ]
     }
 }
 ,
@@ -15544,24 +15528,20 @@
         }
     },
     tests: {
-        patterns: {
-            page: [
-                [
-                    /<meta[^>]+name="generator"[^>]+content="MediaWiki/i
-                ],
-                [
-                    /<meta[^>]+name="MediaWiki[^"]+"[^>]+content="generator"/i
-                ]
-            ]
-        }
+        shortcuts: [
+            {
+                key: 'query.meta.generator',
+                generator: 'MediaWiki'
+            }
+        ]
     },
     versions: {
-        patterns: {
-            page: [
-                /<meta[^>]+name="generator"[^>]+content="MediaWiki ([^ "]+)[^"]*"/i,
-                /<meta[^>]+name="MediaWiki ([^ "]+)[^"]*"[^>]+content="generator"/i
-            ]
-        }
+        shortcuts: [
+            {
+                key: 'query.meta.generator',
+                generator: 'MediaWiki'
+            }
+        ]
     }
 }
 ,

@@ -15,28 +15,26 @@
         }
     },
     tests: {
+        shortcuts: [
+            {
+                key: 'query.meta.generator',
+                generator: 'Ghost'
+            }
+        ],
         patterns: {
             headers: [
                 [
                     /x-ghost-cache-status/i
                 ]
-            ],
-            page: [
-                [
-                    /<meta[^>]+name="generator"[^>]+content="Ghost/i
-                ],
-                [
-                    /<meta[^>]+name="Ghost[^"]+"[^>]+content="generator"/i
-                ]
             ]
         }
     },
     versions: {
-        patterns: {
-            page: [
-                /<meta[^>]+name="generator"[^>]+content="Ghost ([^ "]+)[^"]*"/i,
-                /<meta[^>]+name="Ghost ([^ "]+)[^"]*"[^>]+content="generator"/i
-            ]
-        }
+        shortcuts: [
+            {
+                key: 'query.meta.generator',
+                generator: 'Ghost'
+            }
+        ]
     }
 }

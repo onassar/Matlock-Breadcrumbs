@@ -8,23 +8,19 @@
         type: 'repository'
     },
     tests: {
-        patterns: {
-            page: [
-                [
-                    /<meta[^>]+name="generator"[^>]+content="Postleaf/i
-                ],
-                [
-                    /<meta[^>]+name="Postleaf[^"]+"[^>]+content="generator"/i
-                ]
-            ]
-        }
+        shortcuts: [
+            {
+                key: 'query.meta.generator',
+                generator: 'Postleaf'
+            }
+        ]
     },
     versions: {
-        patterns: {
-            page: [
-                /<meta[^>]+name="generator"[^>]+content="Postleaf ([^ "]+)[^"]*"/i,
-                /<meta[^>]+name="Postleaf ([^ "]+)[^"]*"[^>]+content="generator"/i
-            ]
-        }
+        shortcuts: [
+            {
+                key: 'query.meta.generator',
+                generator: 'Postleaf'
+            }
+        ]
     }
 }

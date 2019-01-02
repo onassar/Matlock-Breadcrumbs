@@ -4780,18 +4780,22 @@
                 'window.ngFileUpload'
             ]
         ],
-        statements: [
-            [
-                'window.angular.module(\'ngFileUpload\')'
-            ]
+        shortcuts: [
+            {
+                key: 'statement.angular.module',
+                name: 'ngFileUpload'
+            }
         ]
     },
     versions: {
         references: [
             'window.ngFileUpload.version'
         ],
-        statements: [
-            'window.angular.module(\'ngFileUpload\').version'
+        shortcuts: [
+            {
+                key: 'statement.angular.module',
+                name: 'ngFileUpload'
+            }
         ]
     }
 }

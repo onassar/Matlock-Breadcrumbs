@@ -1,10 +1,10 @@
 {
     properties: {
-        link: 'https://github.com/getpelican/pelican',
-        platform: 'GitHub',
         examples: [
             'https://blog.getpelican.com/'
         ],
+        link: 'https://github.com/getpelican/pelican',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {

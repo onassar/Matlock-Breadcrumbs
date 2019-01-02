@@ -5997,12 +5997,12 @@
 ,
 // src/gitHub/facebook/hhvm.js
 {
-    isolate: true,
     properties: {
         examples: [
             'https://www.mediawiki.org/wiki/API:Query#Title_normalization'
         ],
         link: 'https://github.com/facebook/hhvm',
+        name: 'HHVM',
         platform: 'GitHub',
         type: 'repository',
         wikiPedia: {
@@ -6757,11 +6757,11 @@
 // src/gitHub/getpelican/pelican.js
 {
     properties: {
-        link: 'https://github.com/getpelican/pelican',
-        platform: 'GitHub',
         examples: [
             'https://blog.getpelican.com/'
         ],
+        link: 'https://github.com/getpelican/pelican',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {
@@ -11162,22 +11162,31 @@
 ,
 // src/gitHub/mholt/caddy.js
 {
+    isolate: true,
     properties: {
-        link: 'https://github.com/mholt/caddy',
-        platform: 'GitHub',
         examples: [
             'https://minio.io/downloads.html#download-server'
         ],
+        link: 'https://github.com/mholt/caddy',
+        name: 'Caddy',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {
-        patterns: {
-            headers: [
-                [
-                    /server: Caddy/i
-                ]
-            ]
-        }
+        shortcuts: [
+            {
+                key: 'header.server',
+                name: 'Caddy'
+            }
+        ]
+    },
+    versions: {
+        shortcuts: [
+            {
+                key: 'header.server',
+                name: 'Caddy'
+            }
+        ]
     }
 }
 ,

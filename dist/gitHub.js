@@ -9761,6 +9761,9 @@
                 'window.jQuery.fn.mark',
                 'window.jQuery.fn.markRegExp',
                 'window.jQuery.fn.markRanges'
+            ],
+            [
+                'window.Mark'
             ]
         ]
     }

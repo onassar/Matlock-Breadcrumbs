@@ -15,19 +15,19 @@
         }
     },
     tests: {
-        shortcuts: [
-            {
-                key: 'query.meta.generator',
-                generator: 'Ghost'
-            }
-        ],
         patterns: {
             headers: [
                 [
                     /x-ghost-cache-status/i
                 ]
             ]
-        }
+        },
+        shortcuts: [
+            {
+                key: 'query.meta.generator',
+                generator: 'Ghost'
+            }
+        ]
     },
     versions: {
         shortcuts: [

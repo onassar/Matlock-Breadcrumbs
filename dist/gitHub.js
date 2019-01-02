@@ -12480,23 +12480,32 @@
 // src/gitHub/pc035860/angular-highlightjs.js
 {
     properties: {
+        examples: [
+            'http://angular-slider.github.io/angularjs-slider/',
+            'http://pc035860.github.io/angular-highlightjs/example/'
+        ],
         link: 'https://github.com/pc035860/angular-highlightjs',
         platform: 'GitHub',
         tags: [
             'angular',
             'syntax-hightlighting'
         ],
-        examples: [
-            'http://angular-slider.github.io/angularjs-slider/',
-            'http://pc035860.github.io/angular-highlightjs/example/'
-        ],
         type: 'repository'
     },
     tests: {
-        statements: [
-            [
-                'window.angular.module(\'hljs\')'
-            ]
+        shortcuts: [
+            {
+                key: 'statement.angular.module',
+                name: 'hljs'
+            }
+        ]
+    },
+    versions: {
+        shortcuts: [
+            {
+                key: 'statement.angular.module',
+                name: 'hljs'
+            }
         ]
     }
 }

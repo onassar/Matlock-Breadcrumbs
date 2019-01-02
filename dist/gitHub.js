@@ -12585,6 +12585,7 @@
 ,
 // src/gitHub/phusion/passenger.js
 {
+    isolate: true,
     properties: {
         examples: [
             'https://blog.ghost.org/'

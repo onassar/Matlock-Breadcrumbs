@@ -12,10 +12,19 @@
         type: 'repository'
     },
     tests: {
-        statements: [
-            [
-                'window.angular.module(\'rzModule\')'
-            ]
+        shortcuts: [
+            {
+                key: 'statement.angular.module',
+                name: 'rzModule'
+            }
+        ]
+    },
+    versions: {
+        shortcuts: [
+            {
+                key: 'statement.angular.module',
+                name: 'rzModule'
+            }
         ]
     }
 }

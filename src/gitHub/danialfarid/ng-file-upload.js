@@ -1,12 +1,12 @@
 {
     properties: {
+        examples: [
+            'https://www.algolia.com/users/sign_in'
+        ],
         link: 'https://github.com/danialfarid/ng-file-upload',
         platform: 'GitHub',
         tags: [
             'angular'
-        ],
-        examples: [
-            'https://www.algolia.com/users/sign_in'
         ],
         type: 'repository'
     },

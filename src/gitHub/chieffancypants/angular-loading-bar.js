@@ -1,20 +1,29 @@
 {
     properties: {
+        examples: [
+            'https://genius.com/'
+        ],
         link: 'https://github.com/chieffancypants/angular-loading-bar',
         platform: 'GitHub',
         tags: [
             'angular'
         ],
-        examples: [
-            'https://genius.com/'
-        ],
         type: 'repository'
     },
     tests: {
-        statements: [
-            [
-                'window.angular.module(\'angular-loading-bar\')'
-            ]
+        shortcuts: [
+            {
+                key: 'statement.angular.module',
+                name: 'angular-loading-bar'
+            }
+        ]
+    },
+    versions: {
+        shortcuts: [
+            {
+                key: 'statement.angular.module',
+                name: 'angular-loading-bar'
+            }
         ]
     }
 }

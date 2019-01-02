@@ -2738,10 +2738,19 @@
         type: 'repository'
     },
     tests: {
-        statements: [
-            [
-                'window.angular.module(\'rzModule\')'
-            ]
+        shortcuts: [
+            {
+                key: 'statement.angular.module',
+                name: 'rzModule'
+            }
+        ]
+    },
+    versions: {
+        shortcuts: [
+            {
+                key: 'statement.angular.module',
+                name: 'rzModule'
+            }
         ]
     }
 }
@@ -2749,21 +2758,30 @@
 // src/gitHub/angular-ui/bootstrap.js
 {
     properties: {
+        examples: [
+            'http://angular-ui.github.io/bootstrap/'
+        ],
         link: 'https://github.com/angular-ui/bootstrap',
         platform: 'GitHub',
         tags: [
             'angular'
         ],
-        examples: [
-            'http://angular-ui.github.io/bootstrap/'
-        ],
         type: 'repository'
     },
     tests: {
-        statements: [
-            [
-                'window.angular.module(\'ui.bootstrap\')'
-            ]
+        shortcuts: [
+            {
+                key: 'statement.angular.module',
+                name: 'ui.bootstrap'
+            }
+        ]
+    },
+    versions: {
+        shortcuts: [
+            {
+                key: 'statement.angular.module',
+                name: 'ui.bootstrap'
+            }
         ]
     }
 }
@@ -3938,10 +3956,19 @@
         type: 'repository'
     },
     tests: {
-        statements: [
-            [
-                'window.angular.module(\'mdColorPicker\')'
-            ]
+        shortcuts: [
+            {
+                key: 'statement.angular.module',
+                name: 'mdColorPicker'
+            }
+        ]
+    },
+    versions: {
+        shortcuts: [
+            {
+                key: 'statement.angular.module',
+                name: 'mdColorPicker'
+            }
         ]
     }
 }
@@ -4320,21 +4347,30 @@
 // src/gitHub/chieffancypants/angular-loading-bar.js
 {
     properties: {
+        examples: [
+            'https://genius.com/'
+        ],
         link: 'https://github.com/chieffancypants/angular-loading-bar',
         platform: 'GitHub',
         tags: [
             'angular'
         ],
-        examples: [
-            'https://genius.com/'
-        ],
         type: 'repository'
     },
     tests: {
-        statements: [
-            [
-                'window.angular.module(\'angular-loading-bar\')'
-            ]
+        shortcuts: [
+            {
+                key: 'statement.angular.module',
+                name: 'angular-loading-bar'
+            }
+        ]
+    },
+    versions: {
+        shortcuts: [
+            {
+                key: 'statement.angular.module',
+                name: 'angular-loading-bar'
+            }
         ]
     }
 }
@@ -4764,13 +4800,13 @@
 // src/gitHub/danialfarid/ng-file-upload.js
 {
     properties: {
+        examples: [
+            'https://www.algolia.com/users/sign_in'
+        ],
         link: 'https://github.com/danialfarid/ng-file-upload',
         platform: 'GitHub',
         tags: [
             'angular'
-        ],
-        examples: [
-            'https://www.algolia.com/users/sign_in'
         ],
         type: 'repository'
     },
@@ -7202,18 +7238,27 @@
 // src/gitHub/grevory/angular-local-storage.js
 {
     properties: {
-        link: 'https://github.com/grevory/angular-local-storage',
-        platform: 'GitHub',
         examples: [
             'https://www.allrecipes.com/recipes/367/desserts/pies/'
         ],
+        link: 'https://github.com/grevory/angular-local-storage',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {
-        statements: [
-            [
-                'window.angular.module(\'LocalStorageModule\')'
-            ]
+        shortcuts: [
+            {
+                key: 'statement.angular.module',
+                name: 'LocalStorageModule'
+            }
+        ]
+    },
+    versions: {
+        shortcuts: [
+            {
+                key: 'statement.angular.module',
+                name: 'LocalStorageModule'
+            }
         ]
     }
 }
@@ -8946,18 +8991,27 @@
 // src/gitHub/jonsamwell/angular-auto-validate.js
 {
     properties: {
-        link: 'https://github.com/jonsamwell/angular-auto-validate',
-        platform: 'GitHub',
         examples: [
             'http://jonsamwell.github.io/angular-auto-validate/'
         ],
+        link: 'https://github.com/jonsamwell/angular-auto-validate',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {
-        statements: [
-            [
-                'window.angular.module(\'jcs-autoValidate\')'
-            ]
+        shortcuts: [
+            {
+                key: 'statement.angular.module',
+                name: 'jcs-autoValidate'
+            }
+        ]
+    },
+    versions: {
+        shortcuts: [
+            {
+                key: 'statement.angular.module',
+                name: 'jcs-autoValidate'
+            }
         ]
     }
 }
@@ -10071,21 +10125,30 @@
 // src/gitHub/likeastore/ngDialog.js
 {
     properties: {
+        examples: [
+            'https://www.bestbuy.ca/'
+        ],
         link: 'https://github.com/likeastore/ngDialog',
         platform: 'GitHub',
         tags: [
             'angular'
         ],
-        examples: [
-            'https://www.bestbuy.ca/'
-        ],
         type: 'repository'
     },
     tests: {
-        statements: [
-            [
-                'window.angular.module(\'ngDialog\')'
-            ]
+        shortcuts: [
+            {
+                key: 'statement.angular.module',
+                name: 'ngDialog'
+            }
+        ]
+    },
+    versions: {
+        shortcuts: [
+            {
+                key: 'statement.angular.module',
+                name: 'ngDialog'
+            }
         ]
     }
 }
@@ -12086,22 +12149,31 @@
 // src/gitHub/oblador/angular-scroll.js
 {
     properties: {
+        examples: [
+            'https://www.emojicopy.com/',
+            'http://oblador.github.io/angular-scroll/'
+        ],
         link: 'https://github.com/oblador/angular-scroll',
         platform: 'GitHub',
         tags: [
             'angular'
         ],
-        examples: [
-            'https://www.emojicopy.com/',
-            'http://oblador.github.io/angular-scroll/'
-        ],
         type: 'repository'
     },
     tests: {
-        statements: [
-            [
-                'window.angular.module(\'duScroll\')'
-            ]
+        shortcuts: [
+            {
+                key: 'statement.angular.module',
+                name: 'duScroll'
+            }
+        ]
+    },
+    versions: {
+        shortcuts: [
+            {
+                key: 'statement.angular.module',
+                name: 'duScroll'
+            }
         ]
     }
 }
@@ -15154,22 +15226,31 @@
 // src/gitHub/urish/angular-moment.js
 {
     properties: {
+        examples: [
+            'https://genius.com/'
+        ],
         link: 'https://github.com/urish/angular-moment',
         platform: 'GitHub',
         tags: [
             'angularjs',
             'moment'
         ],
-        examples: [
-            'https://genius.com/'
-        ],
         type: 'repository'
     },
     tests: {
-        statements: [
-            [
-                'window.angular.module(\'angularMoment\')'
-            ]
+        shortcuts: [
+            {
+                key: 'statement.angular.module',
+                name: 'angularMoment'
+            }
+        ]
+    },
+    versions: {
+        shortcuts: [
+            {
+                key: 'statement.angular.module',
+                name: 'angularMoment'
+            }
         ]
     }
 }
@@ -15385,10 +15466,19 @@
         type: 'repository'
     },
     tests: {
-        statements: [
-            [
-                'window.angular.module(\'ngMeta\')'
-            ]
+        shortcuts: [
+            {
+                key: 'statement.angular.module',
+                name: 'ngMeta'
+            }
+        ]
+    },
+    versions: {
+        shortcuts: [
+            {
+                key: 'statement.angular.module',
+                name: 'ngMeta'
+            }
         ]
     }
 }

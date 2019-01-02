@@ -11,10 +11,19 @@
         type: 'repository'
     },
     tests: {
-        statements: [
-            [
-                'window.angular.module(\'ngMeta\')'
-            ]
+        shortcuts: [
+            {
+                key: 'statement.angular.module',
+                name: 'ngMeta'
+            }
+        ]
+    },
+    versions: {
+        shortcuts: [
+            {
+                key: 'statement.angular.module',
+                name: 'ngMeta'
+            }
         ]
     }
 }

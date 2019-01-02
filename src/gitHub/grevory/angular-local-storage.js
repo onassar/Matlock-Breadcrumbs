@@ -1,17 +1,26 @@
 {
     properties: {
-        link: 'https://github.com/grevory/angular-local-storage',
-        platform: 'GitHub',
         examples: [
             'https://www.allrecipes.com/recipes/367/desserts/pies/'
         ],
+        link: 'https://github.com/grevory/angular-local-storage',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {
-        statements: [
-            [
-                'window.angular.module(\'LocalStorageModule\')'
-            ]
+        shortcuts: [
+            {
+                key: 'statement.angular.module',
+                name: 'LocalStorageModule'
+            }
+        ]
+    },
+    versions: {
+        shortcuts: [
+            {
+                key: 'statement.angular.module',
+                name: 'LocalStorageModule'
+            }
         ]
     }
 }

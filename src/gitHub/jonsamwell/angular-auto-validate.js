@@ -1,17 +1,26 @@
 {
     properties: {
-        link: 'https://github.com/jonsamwell/angular-auto-validate',
-        platform: 'GitHub',
         examples: [
             'http://jonsamwell.github.io/angular-auto-validate/'
         ],
+        link: 'https://github.com/jonsamwell/angular-auto-validate',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {
-        statements: [
-            [
-                'window.angular.module(\'jcs-autoValidate\')'
-            ]
+        shortcuts: [
+            {
+                key: 'statement.angular.module',
+                name: 'jcs-autoValidate'
+            }
+        ]
+    },
+    versions: {
+        shortcuts: [
+            {
+                key: 'statement.angular.module',
+                name: 'jcs-autoValidate'
+            }
         ]
     }
 }

@@ -12,10 +12,19 @@
         type: 'repository'
     },
     tests: {
-        statements: [
-            [
-                'window.angular.module(\'mdColorPicker\')'
-            ]
+        shortcuts: [
+            {
+                key: 'statement.angular.module',
+                name: 'mdColorPicker'
+            }
+        ]
+    },
+    versions: {
+        shortcuts: [
+            {
+                key: 'statement.angular.module',
+                name: 'mdColorPicker'
+            }
         ]
     }
 }

@@ -1,20 +1,29 @@
 {
     properties: {
+        examples: [
+            'http://angular-ui.github.io/bootstrap/'
+        ],
         link: 'https://github.com/angular-ui/bootstrap',
         platform: 'GitHub',
         tags: [
             'angular'
         ],
-        examples: [
-            'http://angular-ui.github.io/bootstrap/'
-        ],
         type: 'repository'
     },
     tests: {
-        statements: [
-            [
-                'window.angular.module(\'ui.bootstrap\')'
-            ]
+        shortcuts: [
+            {
+                key: 'statement.angular.module',
+                name: 'ui.bootstrap'
+            }
+        ]
+    },
+    versions: {
+        shortcuts: [
+            {
+                key: 'statement.angular.module',
+                name: 'ui.bootstrap'
+            }
         ]
     }
 }

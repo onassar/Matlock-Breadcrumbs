@@ -15,6 +15,8 @@
     tests: {
         references: [
             [
+                'window.jQuery.colorbox',
+                'window.jQuery.colorbox.position',
                 'window.jQuery.fn.colorbox'
             ]
         ]

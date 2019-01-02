@@ -35,19 +35,6 @@
                 ]
             ]
         },
-        queries: [
-            [
-                {
-                    selectors: [
-                        'meta[name="generator" i][content*="WordPress" i]'
-                    ],
-                    length: {
-                        operator: '>',
-                        value: 0
-                    }
-                }
-            ]
-        ],
         shortcuts: [
             {
                 key: 'query.meta.generator',
@@ -56,16 +43,6 @@
         ]
     },
     versions: {
-        queries: [
-            {
-                selectors: [
-                    'meta[name="generator" i][content*="WordPress" i]'
-                ],
-                attribute: 'content',
-                pattern: true,
-                expression: /\s*WordPress\s*(.+)/i
-            }
-        ],
         shortcuts: [
             {
                 key: 'query.meta.generator',

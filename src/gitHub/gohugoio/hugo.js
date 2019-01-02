@@ -1,11 +1,11 @@
 {
     properties: {
-        link: 'https://github.com/gohugoio/hugo',
-        platform: 'GitHub',
         examples: [
             'https://1password.com/',
             'https://www.louisdurrant.co.uk/'
         ],
+        link: 'https://github.com/gohugoio/hugo',
+        platform: 'GitHub',
         type: 'repository',
         wikiPedia: {
             load: true,

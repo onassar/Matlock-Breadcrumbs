@@ -1,10 +1,10 @@
 {
     properties: {
-        link: 'https://github.com/woocommerce/woocommerce',
-        platform: 'GitHub',
         examples: [
             'https://woocommerce.com/flexslider/'
         ],
+        link: 'https://github.com/woocommerce/woocommerce',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {
@@ -12,14 +12,20 @@
             [
                 'window.woocommerce_params'
             ]
+        ],
+        shortcuts: [
+            {
+                key: 'query.meta.generator',
+                generator: 'WooCommerce'
+            }
         ]
     },
     versions: {
-        patterns: {
-            page: [
-                /<meta[^>]+name="generator"[^>]+content="WooCommerce ([^ "]+)[^"]*"/i,
-                /<meta[^>]+name="WooCommerce ([^ "]+)[^"]*"[^>]+content="generator"/i
-            ]
-        }
+        shortcuts: [
+            {
+                key: 'query.meta.generator',
+                generator: 'WooCommerce'
+            }
+        ]
     }
 }

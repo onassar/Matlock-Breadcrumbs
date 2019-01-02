@@ -1,10 +1,10 @@
 {
     properties: {
-        link: 'https://github.com/Postleaf/postleaf',
-        platform: 'GitHub',
         examples: [
             'https://www.postleaf.org/'
         ],
+        link: 'https://github.com/Postleaf/postleaf',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {

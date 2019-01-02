@@ -3,11 +3,11 @@
         'https://github.com/facebook/react'
     ],
     properties: {
-        link: 'https://github.com/gatsbyjs/gatsby',
-        platform: 'GitHub',
         examples: [
             'https://insomnia.rest/blog/sustainable-profit'
         ],
+        link: 'https://github.com/gatsbyjs/gatsby',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {

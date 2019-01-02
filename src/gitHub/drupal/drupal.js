@@ -6,11 +6,11 @@
         donate: {
             link: 'https://www.drupal.org/association/donate'
         },
-        link: 'https://github.com/drupal/drupal',
-        platform: 'GitHub',
         examples: [
             'https://www.drupal.org/'
         ],
+        link: 'https://github.com/drupal/drupal',
+        platform: 'GitHub',
         type: 'repository',
         wikiPedia: {
             load: true,

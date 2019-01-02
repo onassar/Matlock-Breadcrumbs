@@ -1177,11 +1177,11 @@
 // src/gitHub/Postleaf/postleaf.js
 {
     properties: {
-        link: 'https://github.com/Postleaf/postleaf',
-        platform: 'GitHub',
         examples: [
             'https://www.postleaf.org/'
         ],
+        link: 'https://github.com/Postleaf/postleaf',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {
@@ -1673,11 +1673,11 @@
         donate: {
             link: 'https://opencollective.com/ghost'
         },
-        link: 'https://github.com/TryGhost/Ghost',
-        platform: 'GitHub',
         examples: [
             'https://blog.ghost.org/'
         ],
+        link: 'https://github.com/TryGhost/Ghost',
+        platform: 'GitHub',
         type: 'repository',
         wikiPedia: {
             load: true,
@@ -5429,11 +5429,11 @@
         donate: {
             link: 'https://www.drupal.org/association/donate'
         },
-        link: 'https://github.com/drupal/drupal',
-        platform: 'GitHub',
         examples: [
             'https://www.drupal.org/'
         ],
+        link: 'https://github.com/drupal/drupal',
+        platform: 'GitHub',
         type: 'repository',
         wikiPedia: {
             load: true,
@@ -6649,11 +6649,11 @@
         'https://github.com/facebook/react'
     ],
     properties: {
-        link: 'https://github.com/gatsbyjs/gatsby',
-        platform: 'GitHub',
         examples: [
             'https://insomnia.rest/blog/sustainable-profit'
         ],
+        link: 'https://github.com/gatsbyjs/gatsby',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {
@@ -6902,12 +6902,12 @@
 // src/gitHub/gohugoio/hugo.js
 {
     properties: {
-        link: 'https://github.com/gohugoio/hugo',
-        platform: 'GitHub',
         examples: [
             'https://1password.com/',
             'https://www.louisdurrant.co.uk/'
         ],
+        link: 'https://github.com/gohugoio/hugo',
+        platform: 'GitHub',
         type: 'repository',
         wikiPedia: {
             load: true,
@@ -7577,9 +7577,11 @@
 // src/gitHub/hexojs/hexo.js
 {
     properties: {
+        examples: [
+            
+        ],
         link: 'https://github.com/hexojs/hexo',
         platform: 'GitHub',
-        examples: [],
         type: 'repository'
     },
     tests: {
@@ -15774,11 +15776,11 @@
 // src/gitHub/woocommerce/woocommerce.js
 {
     properties: {
-        link: 'https://github.com/woocommerce/woocommerce',
-        platform: 'GitHub',
         examples: [
             'https://woocommerce.com/flexslider/'
         ],
+        link: 'https://github.com/woocommerce/woocommerce',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {
@@ -15786,15 +15788,21 @@
             [
                 'window.woocommerce_params'
             ]
+        ],
+        shortcuts: [
+            {
+                key: 'query.meta.generator',
+                generator: 'WooCommerce'
+            }
         ]
     },
     versions: {
-        patterns: {
-            page: [
-                /<meta[^>]+name="generator"[^>]+content="WooCommerce ([^ "]+)[^"]*"/i,
-                /<meta[^>]+name="WooCommerce ([^ "]+)[^"]*"[^>]+content="generator"/i
-            ]
-        }
+        shortcuts: [
+            {
+                key: 'query.meta.generator',
+                generator: 'WooCommerce'
+            }
+        ]
     }
 }
 ,

@@ -3,11 +3,11 @@
         donate: {
             link: 'https://opencollective.com/ghost'
         },
-        link: 'https://github.com/TryGhost/Ghost',
-        platform: 'GitHub',
         examples: [
             'https://blog.ghost.org/'
         ],
+        link: 'https://github.com/TryGhost/Ghost',
+        platform: 'GitHub',
         type: 'repository',
         wikiPedia: {
             load: true,

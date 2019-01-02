@@ -1,8 +1,10 @@
 {
     properties: {
+        examples: [
+            
+        ],
         link: 'https://github.com/hexojs/hexo',
         platform: 'GitHub',
-        examples: [],
         type: 'repository'
     },
     tests: {

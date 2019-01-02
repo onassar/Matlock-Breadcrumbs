@@ -16,7 +16,7 @@
                 key: 'query.meta.generator',
                 generator: 'Gatsby'
             }
-        ]
+        ],
         strings: {
             page: [
                 [

@@ -13,23 +13,19 @@
         }
     },
     tests: {
-        patterns: {
-            page: [
-                [
-                    /<meta[^>]+name="generator"[^>]+content="Hugo/i
-                ],
-                [
-                    /<meta[^>]+name="Hugo[^"]+"[^>]+content="generator"/i
-                ]
-            ]
-        }
+        shortcuts: [
+            {
+                key: 'query.meta.generator',
+                generator: 'Hugo'
+            }
+        ]
     },
     versions: {
-        patterns: {
-            page: [
-                /<meta[^>]+name="generator"[^>]+content="Hugo ([^ "]+)[^"]*"/i,
-                /<meta[^>]+name="Hugo ([^ "]+)[^"]*"[^>]+content="generator"/i
-            ]
-        }
+        shortcuts: [
+            {
+                key: 'query.meta.generator',
+                generator: 'Hugo'
+            }
+        ]
     }
 }

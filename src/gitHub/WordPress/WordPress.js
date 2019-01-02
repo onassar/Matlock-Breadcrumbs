@@ -61,7 +61,9 @@
                 selectors: [
                     'meta[name="generator" i][content*="WordPress" i]'
                 ],
-                matches: /\s*WordPress\s*(.+)/i
+                attribute: 'content',
+                pattern: true,
+                expression: /\s*WordPress\s*(.+)/i
             }
         ],
         patterns: {

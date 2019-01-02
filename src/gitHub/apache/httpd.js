@@ -3,6 +3,8 @@
         donate: {
             link: 'https://www.apache.org/foundation/contributing.html'
         },
+        examples: [
+        ],
         link: 'https://github.com/apache/httpd',
         platform: 'GitHub',
         type: 'repository',

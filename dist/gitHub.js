@@ -14725,6 +14725,7 @@
 ,
 // src/gitHub/totaljs/framework.js
 {
+    isolate: true,
     dependencies: [
         'https://github.com/nodejs/node'
     ],

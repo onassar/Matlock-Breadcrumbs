@@ -1,4 +1,5 @@
 {
+    isolate: true,
     dependencies: [
         'https://github.com/nodejs/node'
     ],

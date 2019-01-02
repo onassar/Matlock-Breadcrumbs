@@ -2916,6 +2916,7 @@
 ,
 // src/gitHub/apache/httpd.js
 {
+    isolate: true,
     properties: {
         donate: {
             link: 'https://www.apache.org/foundation/contributing.html'
@@ -12517,7 +12518,6 @@
 ,
 // src/gitHub/php/php-src.js
 {
-    isolate: true,
     properties: {
         examples: [
             'http://www.cbc.radio-canada.ca/en/'

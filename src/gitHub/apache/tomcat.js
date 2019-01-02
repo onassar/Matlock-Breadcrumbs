@@ -5,7 +5,11 @@
         },
         link: 'https://github.com/apache/tomcat',
         platform: 'GitHub',
-        type: 'repository'
+        type: 'repository',
+        wikiPedia: {
+            load: true,
+            title: 'Apache_Tomcat'
+        }
     },
     tests: {
         patterns: {

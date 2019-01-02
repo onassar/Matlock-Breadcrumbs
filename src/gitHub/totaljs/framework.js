@@ -12,12 +12,19 @@
         type: 'repository'
     },
     tests: {
-        patterns: {
-            headers: [
-                [
-                    /x\-powered\-by.{0,20}total\.js/i
-                ]
-            ]
-        }
+        shortcuts: [
+            {
+                key: 'header.server',
+                name: 'Total.js'
+            }
+        ]
+    },
+    versions: {
+        shortcuts: [
+            {
+                key: 'header.server',
+                name: 'Total.js'
+            }
+        ]
     }
 }

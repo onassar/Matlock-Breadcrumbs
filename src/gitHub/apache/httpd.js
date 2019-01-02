@@ -1,5 +1,4 @@
 {
-    isolate: true,
     properties: {
         donate: {
             link: 'https://www.apache.org/foundation/contributing.html'
@@ -13,10 +12,10 @@
         }
     },
     tests: {
-        strings: {
+        patterns: {
             headers: [
                 [
-                    '!Server: sApache'
+                    /server\: apache/i
                 ]
             ]
         }

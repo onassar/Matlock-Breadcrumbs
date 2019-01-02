@@ -14,10 +14,19 @@
                 'window.jsTag.provider'
             ]
         ],
-        statements: [
-            [
-                'window.angular.module(\'jsTag\')'
-            ]
+        shortcuts: [
+            {
+                key: 'statement.angular.module',
+                name: 'jsTag'
+            }
+        ]
+    },
+    versions: {
+        shortcuts: [
+            {
+                key: 'statement.angular.module',
+                name: 'jsTag'
+            }
         ]
     }
 }

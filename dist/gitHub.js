@@ -2762,6 +2762,7 @@
             'http://angular-ui.github.io/bootstrap/'
         ],
         link: 'https://github.com/angular-ui/bootstrap',
+        name: 'Angular bootstrap',
         platform: 'GitHub',
         tags: [
             'angular'
@@ -5854,10 +5855,19 @@
                 'window.jsTag.provider'
             ]
         ],
-        statements: [
-            [
-                'window.angular.module(\'jsTag\')'
-            ]
+        shortcuts: [
+            {
+                key: 'statement.angular.module',
+                name: 'jsTag'
+            }
+        ]
+    },
+    versions: {
+        shortcuts: [
+            {
+                key: 'statement.angular.module',
+                name: 'jsTag'
+            }
         ]
     }
 }

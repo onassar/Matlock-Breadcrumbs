@@ -5445,14 +5445,6 @@
                 [
                     /x\-drupal\-cache/i
                 ]
-            ],
-            page: [
-                [
-                    /<meta[^>]+name="generator"[^>]+content="Drupal/i
-                ],
-                [
-                    /<meta[^>]+name="Drupal[^"]+"[^>]+content="generator"/i
-                ]
             ]
         },
         references: [
@@ -5460,18 +5452,26 @@
                 'window.Drupal',
                 'window.Drupal.settings'
             ]
+        ],
+        shortcuts: [
+            {
+                key: 'query.meta.generator',
+                generator: 'Drupal'
+            }
         ]
     },
     versions: {
         patterns: {
             headers: [
                 /x\-generator\: drupal ([0-9\.]+)/i
-            ],
-            page: [
-                /<meta[^>]+name="generator"[^>]+content="Drupal ([^ "]+)[^"]*"/i,
-                /<meta[^>]+name="Drupal ([^ "]+)[^"]*"[^>]+content="generator"/i
             ]
-        }
+        },
+        shortcuts: [
+            {
+                key: 'query.meta.generator',
+                generator: 'Drupal'
+            }
+        ]
     }
 }
 ,
@@ -6653,16 +6653,12 @@
         type: 'repository'
     },
     tests: {
-        patterns: {
-            page: [
-                [
-                    /<meta[^>]+name="generator"[^>]+content="Gatsby/i
-                ],
-                [
-                    /<meta[^>]+name="Gatsby[^"]+"[^>]+content="generator"/i
-                ]
-            ]
-        },
+        shortcuts: [
+            {
+                key: 'query.meta.generator',
+                generator: 'Gatsby'
+            }
+        ]
         strings: {
             page: [
                 [
@@ -6675,12 +6671,12 @@
         }
     },
     versions: {
-        patterns: {
-            page: [
-                /<meta[^>]+name="generator"[^>]+content="Gatsby ([^ "]+)[^"]*"/i,
-                /<meta[^>]+name="Gatsby ([^ "]+)[^"]*"[^>]+content="generator"/i
-            ]
-        }
+        shortcuts: [
+            {
+                key: 'query.meta.generator',
+                generator: 'Gatsby'
+            }
+        ]
     }
 }
 ,

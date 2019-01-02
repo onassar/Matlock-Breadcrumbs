@@ -11,16 +11,12 @@
         type: 'repository'
     },
     tests: {
-        patterns: {
-            page: [
-                [
-                    /<meta[^>]+name="generator"[^>]+content="Gatsby/i
-                ],
-                [
-                    /<meta[^>]+name="Gatsby[^"]+"[^>]+content="generator"/i
-                ]
-            ]
-        },
+        shortcuts: [
+            {
+                key: 'query.meta.generator',
+                generator: 'Gatsby'
+            }
+        ]
         strings: {
             page: [
                 [
@@ -33,11 +29,11 @@
         }
     },
     versions: {
-        patterns: {
-            page: [
-                /<meta[^>]+name="generator"[^>]+content="Gatsby ([^ "]+)[^"]*"/i,
-                /<meta[^>]+name="Gatsby ([^ "]+)[^"]*"[^>]+content="generator"/i
-            ]
-        }
+        shortcuts: [
+            {
+                key: 'query.meta.generator',
+                generator: 'Gatsby'
+            }
+        ]
     }
 }

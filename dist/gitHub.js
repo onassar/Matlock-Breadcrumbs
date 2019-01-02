@@ -13634,7 +13634,7 @@
             'https://blog.ghost.org/'
         ],
         link: 'https://github.com/segmentio/analytics.js',
-        name: 'Analytics.js (Segment)'
+        name: 'Analytics.js (Segment)',
         platform: 'GitHub',
         type: 'repository'
     },

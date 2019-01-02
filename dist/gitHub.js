@@ -5208,30 +5208,26 @@
         type: 'repository'
     },
     tests: {
-        patterns: {
-            page: [
-                [
-                    /<meta[^>]+name="generator"[^>]+content="Discourse/i
-                ],
-                [
-                    /<meta[^>]+name="Discourse[^"]+"[^>]+content="generator"/i
-                ]
-            ]
-        },
         references: [
             [
                 'window.Discourse',
                 'window.Discourse.Topic'
             ]
+        ],
+        shortcuts: [
+            {
+                key: 'query.meta.generator',
+                generator: 'Discourse'
+            }
         ]
     },
     versions: {
-        patterns: {
-            page: [
-                /<meta[^>]+name="generator"[^>]+content="Discourse ([^ "]+)[^"]*"/i,
-                /<meta[^>]+name="Discourse ([^ "]+)[^"]*"[^>]+content="generator"/i
-            ]
-        }
+        shortcuts: [
+            {
+                key: 'query.meta.generator',
+                generator: 'Discourse'
+            }
+        ]
     }
 }
 ,
@@ -15779,6 +15775,7 @@
             'https://woocommerce.com/flexslider/'
         ],
         link: 'https://github.com/woocommerce/woocommerce',
+        name: 'WooCommerce',
         platform: 'GitHub',
         type: 'repository'
     },

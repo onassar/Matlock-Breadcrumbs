@@ -4,6 +4,7 @@
             'https://woocommerce.com/flexslider/'
         ],
         link: 'https://github.com/woocommerce/woocommerce',
+        name: 'WooCommerce',
         platform: 'GitHub',
         type: 'repository'
     },

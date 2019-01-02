@@ -1920,7 +1920,7 @@
                         'meta[name="generator" i][content*="WordPress" i]'
                     ],
                     length: {
-                        type: 'gt',
+                        operator: '>',
                         value: 0
                     }
                 }

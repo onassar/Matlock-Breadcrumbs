@@ -1349,13 +1349,6 @@
         type: 'repository'
     },
     tests: {
-        patterns: {
-            page: [
-                [
-                    /<link[^>]+href="[^"]+semantic(?:\.min)?\.css"/i
-                ]
-            ]
-        },
         references: [
             [
                 'window.jQuery.fn.site',
@@ -1363,6 +1356,12 @@
                 'window.jQuery.fn.form',
                 'window.jQuery.fn.form.settings'
             ]
+        ],
+        shortcuts: [
+            {
+                key: 'query.stylesheet',
+                name: 'semantic'
+            }
         ]
     }
 }
@@ -8341,15 +8340,16 @@
 // src/gitHub/imsky/holder.js
 {
     properties: {
+        examples: [
+            'http://holderjs.com/'
+        ],
         link: 'https://github.com/imsky/holder',
+        name: 'Holder',
         platform: 'GitHub',
         tags: [
             'images',
             'placeholders',
             'javascript'
-        ],
-        examples: [
-            'http://holderjs.com/'
         ],
         type: 'repository'
     },
@@ -9580,6 +9580,9 @@
         donate: {
             link: 'https://js.foundation/about/donate'
         },
+        examples: [
+            'https://books.wwnorton.com/books/detail.aspx?id=4294994630'
+        ],
         link: 'https://github.com/jquery/jquery-ui',
         name: 'jQuery UI',
         platform: 'GitHub',

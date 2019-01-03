@@ -3,6 +3,9 @@
         donate: {
             link: 'https://js.foundation/about/donate'
         },
+        examples: [
+            'https://books.wwnorton.com/books/detail.aspx?id=4294994630'
+        ],
         link: 'https://github.com/jquery/jquery-ui',
         name: 'jQuery UI',
         platform: 'GitHub',

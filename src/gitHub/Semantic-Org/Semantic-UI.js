@@ -8,13 +8,6 @@
         type: 'repository'
     },
     tests: {
-        patterns: {
-            page: [
-                [
-                    /<link[^>]+href="[^"]+semantic(?:\.min)?\.css"/i
-                ]
-            ]
-        },
         references: [
             [
                 'window.jQuery.fn.site',
@@ -22,6 +15,12 @@
                 'window.jQuery.fn.form',
                 'window.jQuery.fn.form.settings'
             ]
+        ],
+        shortcuts: [
+            {
+                key: 'query.stylesheet',
+                name: 'semantic'
+            }
         ]
     }
 }

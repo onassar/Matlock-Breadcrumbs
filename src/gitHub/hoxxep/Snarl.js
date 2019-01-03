@@ -1,17 +1,16 @@
 {
     properties: {
         examples: [
-            'http://fian.my.id/Waves/'
+            'http://hoxxep.github.io/snarl/'
         ],
-        link: 'https://github.com/fians/Waves',
+        link: 'https://github.com/hoxxep/Snarl',
         platform: 'GitHub',
         type: 'repository'
     },
     tests: {
         references: [
             [
-                'window.Waves',
-                'window.Waves.init'
+                'window.Snarl'
             ]
         ]
     }

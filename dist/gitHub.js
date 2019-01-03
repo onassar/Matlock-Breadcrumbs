@@ -6456,11 +6456,11 @@
 // src/gitHub/fians/Waves.js
 {
     properties: {
-        link: 'https://github.com/fians/Waves',
-        platform: 'GitHub',
         examples: [
             'http://fian.my.id/Waves/'
         ],
+        link: 'https://github.com/fians/Waves',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {
@@ -7939,6 +7939,25 @@
     versions: {
         references: [
             'window.Honeybadger.version'
+        ]
+    }
+}
+,
+// src/gitHub/hoxxep/Snarl.js
+{
+    properties: {
+        examples: [
+            'http://hoxxep.github.io/snarl/'
+        ],
+        link: 'https://github.com/hoxxep/Snarl',
+        platform: 'GitHub',
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.Snarl'
+            ]
         ]
     }
 }

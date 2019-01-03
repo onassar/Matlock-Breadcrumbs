@@ -2199,6 +2199,22 @@
     }
 }
 ,
+// src/gitHub/aarondo/Material-Preloader.js
+{
+    properties: {
+        link: 'https://github.com/aarondo/Material-Preloader',
+        platform: 'GitHub',
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.jQuery.materialPreloader'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/adamwdraper/Numeral-js.js
 {
     properties: {

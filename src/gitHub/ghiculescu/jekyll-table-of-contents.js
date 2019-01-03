@@ -1,11 +1,14 @@
 {
+    dependencies: [
+        'https://github.com/jekyll/jekyll'
+    ],
     properties: {
-        link: 'https://github.com/ghiculescu/jekyll-table-of-contents',
-        platform: 'GitHub',
-        tags: [],
         examples: [
             'https://summernote.org/'
         ],
+        link: 'https://github.com/ghiculescu/jekyll-table-of-contents',
+        name: 'Jekyll Table of Contents',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {

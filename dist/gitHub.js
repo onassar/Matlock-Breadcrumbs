@@ -9576,6 +9576,7 @@
 ,
 // src/gitHub/jquery/jquery-ui.js
 {
+    isolate: true,
     properties: {
         donate: {
             link: 'https://js.foundation/about/donate'
@@ -9583,7 +9584,11 @@
         link: 'https://github.com/jquery/jquery-ui',
         name: 'jQuery UI',
         platform: 'GitHub',
-        type: 'repository'
+        type: 'repository',
+        wikiPedia: {
+            load: true,
+            title: 'JQuery_UI'
+        }
     },
     tests: {
         references: [

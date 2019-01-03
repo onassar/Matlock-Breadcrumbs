@@ -3,15 +3,15 @@
         examples: [
             'http://hallojs.org/'
         ],
-        link: 'https://github.com/bergie/hallo',
-        name: 'Hallo.js',
+        link: 'https://github.com/raphaelcruzeiro/jquery-notebook',
+        name: 'jQuery Notebook',
         platform: 'GitHub',
         type: 'repository'
     },
     tests: {
         references: [
             [
-                'window.jQuery.fn.hallo'
+                'window.jQuery.fn.notebook'
             ]
         ]
     }

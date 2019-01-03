@@ -1,7 +1,8 @@
 {
     properties: {
         examples: [
-            'https://milligram.io/'
+            'https://milligram.io/',
+            'http://necolas.github.io/normalize.css/'
         ],
         link: 'https://github.com/necolas/normalize.css',
         platform: 'GitHub',

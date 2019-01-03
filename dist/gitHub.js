@@ -2981,11 +2981,12 @@
 // src/gitHub/antennaio/jquery-bar-rating.js
 {
     properties: {
-        link: 'https://github.com/antennaio/jquery-bar-rating',
-        platform: 'GitHub',
         examples: [
             'http://antenna.io/demo/jquery-bar-rating/examples/'
         ],
+        link: 'https://github.com/antennaio/jquery-bar-rating',
+        name: 'jQuery Bar Rating Plugin',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {

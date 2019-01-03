@@ -11770,13 +11770,12 @@
         type: 'repository'
     },
     tests: {
-        patterns: {
-            page: [
-                [
-                    /<link[^>]+href="[^"]+milligram(?:\.min)?\.css"/i
-                ]
-            ]
-        }
+        shortcuts: [
+            {
+                key: 'query.stylesheet',
+                name: 'milligram'
+            }
+        ]
     }
 }
 ,

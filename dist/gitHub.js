@@ -15236,7 +15236,8 @@
     properties: {
         examples: [
             'http://thompsonemerson.github.io/zoomove/',
-            'http://tholman.com/github-corners/'
+            'http://tholman.com/github-corners/',
+            'https://milligram.io/'
         ],
         link: 'https://github.com/tholman/github-corners',
         name: 'GitHub Corners',
@@ -15251,7 +15252,8 @@
             [
                 {
                     selectors: [
-                        'path[class="octo-body" i]'
+                        'path[class="octo-body" i]',
+                        'path[class="octocat-body" i]'
                     ],
                     length: {
                         operator: '>',

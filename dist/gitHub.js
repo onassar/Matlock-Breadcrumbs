@@ -3644,6 +3644,25 @@
     }
 }
 ,
+// src/gitHub/bergie/hallo.js
+{
+    properties: {
+        examples: [
+            'http://hallojs.org/'
+        ],
+        link: 'https://github.com/bergie/hallo',
+        platform: 'GitHub',
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.jQuery.fn.hallo'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/bestiejs/benchmark.js.js
 {
     properties: {

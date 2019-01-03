@@ -13,6 +13,16 @@
             [
                 'window.jQuery.ui'
             ]
+        ],
+        shortcuts: [
+            {
+                key: 'script',
+                name: 'jQuery-ui'
+            },
+            {
+                key: 'stylesheet',
+                name: 'jQuery-ui'
+            }
         ]
     },
     versions: {

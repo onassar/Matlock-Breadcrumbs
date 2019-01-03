@@ -6328,6 +6328,9 @@
         link: 'https://github.com/faisalman/simple-excel-js',
         name: 'SimpleExcel.js',
         platform: 'GitHub',
+        related: [
+            'https://github.com/faisalman/simple-excel-php'
+        ],
         type: 'repository'
     },
     tests: {

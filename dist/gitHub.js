@@ -4823,12 +4823,13 @@
 // src/gitHub/cubiq/iscroll.js
 {
     properties: {
-        link: 'https://github.com/cubiq/iscroll',
-        platform: 'GitHub',
         examples: [
             'https://www.thewatergatehotel.com/offers/good-morning',
             'http://iscrolljs.com/'
         ],
+        link: 'https://github.com/cubiq/iscroll',
+        name: 'iScroll',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {
@@ -15193,6 +15194,9 @@
 // src/gitHub/tinymce/tinymce.js
 {
     properties: {
+        examples: [
+            'https://www.tiny.cloud/'
+        ],
         link: 'https://github.com/tinymce/tinymce',
         name: 'TinyMCE',
         platform: 'GitHub',

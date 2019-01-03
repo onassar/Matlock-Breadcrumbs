@@ -1,5 +1,8 @@
 {
     properties: {
+        examples: [
+            'https://www.tiny.cloud/'
+        ],
         link: 'https://github.com/tinymce/tinymce',
         name: 'TinyMCE',
         platform: 'GitHub',

@@ -15259,6 +15259,7 @@
             'http://thompsonemerson.github.io/zoomove/'
         ],
         link: 'https://github.com/thompsonemerson/zoomove',
+        name: 'ZooMove | jQuery Zoom Image',
         platform: 'GitHub',
         tags: [
             'zoom'

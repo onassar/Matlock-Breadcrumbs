@@ -15247,16 +15247,19 @@
         type: 'repository'
     },
     tests: {
-        strings: {
-            page: [
-                [
-                    'fill="currentColor" class="octo-arm"'
-                ],
-                [
-                    'fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"'
-                ]
+        queries: [
+            [
+                {
+                    selectors: [
+                        'path[class="octo-body" i]'
+                    ],
+                    length: {
+                        operator: '>',
+                        value: 0
+                    }
+                }
             ]
-        }
+        ]
     }
 }
 ,

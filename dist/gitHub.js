@@ -7041,7 +7041,8 @@
     tests: {
         references: [
             [
-                'window.jQuery.fn.toc'
+                'window.jQuery.fn.toc',
+                'window.jQuery.fn.toc.defaults'
             ]
         ]
     }

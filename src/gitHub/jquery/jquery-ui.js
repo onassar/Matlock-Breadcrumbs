@@ -1,5 +1,4 @@
 {
-    isolate: true,
     properties: {
         donate: {
             link: 'https://js.foundation/about/donate'

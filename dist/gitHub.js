@@ -9576,7 +9576,6 @@
 ,
 // src/gitHub/jquery/jquery-ui.js
 {
-    isolate: true,
     properties: {
         donate: {
             link: 'https://js.foundation/about/donate'
@@ -9654,6 +9653,16 @@
                 'window.jQuery'
             ]
         ],
+        shortcuts: [
+            {
+                key: 'query.script',
+                name: 'jQuery'
+            },
+            {
+                key: 'query.stylesheet',
+                name: 'jQuery'
+            }
+        ],
         statements: [
             [
                 function() {
@@ -9671,13 +9680,18 @@
         ]
     },
     versions: {
-        patterns: {
-            page: [
-                /<script[^>]+googleapis[^>]+jquery\/([0-9\.]+)\/jquery/i
-            ]
-        },
         references: [
             'window.jQuery.fn.jquery'
+        ],
+        shortcuts: [
+            {
+                key: 'query.script',
+                name: 'jQuery'
+            },
+            {
+                key: 'query.stylesheet',
+                name: 'jQuery'
+            }
         ]
     }
 }

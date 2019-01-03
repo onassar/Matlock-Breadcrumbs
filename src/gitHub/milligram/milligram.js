@@ -18,5 +18,13 @@
                 name: 'milligram'
             }
         ]
+    },
+    versions: {
+        shortcuts: [
+            {
+                key: 'query.stylesheet',
+                name: 'milligram'
+            }
+        ]
     }
 }

@@ -2982,7 +2982,8 @@
 {
     properties: {
         examples: [
-            'http://antenna.io/demo/jquery-bar-rating/examples/'
+            'http://antenna.io/demo/jquery-bar-rating/examples/',
+            'https://www.realtor.ca/'
         ],
         link: 'https://github.com/antennaio/jquery-bar-rating',
         name: 'jQuery Bar Rating Plugin',
@@ -6324,7 +6325,11 @@
         donate: {
             link: 'https://www.paypal.me/faisalman/'
         },
+        examples: [
+            'https://www.realtor.ca/'
+        ],
         link: 'https://github.com/faisalman/ua-parser-js',
+        name: 'UAParser.js',
         platform: 'GitHub',
         type: 'repository'
     },

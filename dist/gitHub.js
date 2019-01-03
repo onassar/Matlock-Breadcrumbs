@@ -3892,10 +3892,8 @@
 // src/gitHub/blivesta/animsition.js
 {
     properties: {
-        examples: [
-            'http://git.blivesta.com/animsition/'
-        ],
         link: 'https://github.com/blivesta/animsition',
+        name: 'Animsition',
         platform: 'GitHub',
         type: 'repository'
     },
@@ -9068,6 +9066,25 @@
         references: [
             [
                 'window.jQuery.fn.stickyTableHeaders'
+            ]
+        ]
+    }
+}
+,
+// src/gitHub/joaopereirawd/fakeLoader.js.js
+{
+    properties: {
+        examples: [
+            'http://joaopereirawd.github.io/fakeLoader.js/demo/demo1.html'
+        ],
+        link: 'https://github.com/joaopereirawd/fakeLoader.js',
+        platform: 'GitHub',
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.jQuery.fn.fakeLoader'
             ]
         ]
     }

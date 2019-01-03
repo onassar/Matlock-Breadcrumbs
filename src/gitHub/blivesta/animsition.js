@@ -1,9 +1,7 @@
 {
     properties: {
-        examples: [
-            'http://git.blivesta.com/animsition/'
-        ],
         link: 'https://github.com/blivesta/animsition',
+        name: 'Animsition',
         platform: 'GitHub',
         type: 'repository'
     },

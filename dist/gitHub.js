@@ -9593,11 +9593,11 @@
         ],
         shortcuts: [
             {
-                key: 'script',
+                key: 'query.script',
                 name: 'jQuery-ui'
             },
             {
-                key: 'stylesheet',
+                key: 'query.stylesheet',
                 name: 'jQuery-ui'
             }
         ]
@@ -9605,6 +9605,16 @@
     versions: {
         references: [
             'window.jQuery.ui.version'
+        ],
+        shortcuts: [
+            {
+                key: 'query.script',
+                name: 'jQuery-ui'
+            },
+            {
+                key: 'query.stylesheet',
+                name: 'jQuery-ui'
+            }
         ]
     }
 }

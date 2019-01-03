@@ -16752,7 +16752,11 @@
 // src/gitHub/zeroclipboard/zeroclipboard.js
 {
     properties: {
+        examples: [
+            'http://epochjs.github.io/epoch/'
+        ],
         link: 'https://github.com/zeroclipboard/zeroclipboard',
+        name: 'ZeroClipboard',
         platform: 'GitHub',
         type: 'repository'
     },

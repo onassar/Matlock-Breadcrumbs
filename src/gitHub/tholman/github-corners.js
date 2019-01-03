@@ -5,6 +5,7 @@
             'http://tholman.com/github-corners/'
         ],
         link: 'https://github.com/tholman/github-corners',
+        name: 'GitHub Corners',
         platform: 'GitHub',
         tags: [
             'icons'

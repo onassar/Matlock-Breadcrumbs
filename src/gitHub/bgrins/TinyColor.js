@@ -1,12 +1,12 @@
 {
     properties: {
+        examples: [
+            'https://bgrins.github.io/spectrum/'
+        ],
         link: 'https://github.com/bgrins/TinyColor',
         platform: 'GitHub',
         tags: [
             'color'
-        ],
-        examples: [
-            'https://bgrins.github.io/spectrum/'
         ],
         type: 'repository'
     },

@@ -3860,13 +3860,13 @@
 // src/gitHub/bgrins/TinyColor.js
 {
     properties: {
+        examples: [
+            'https://bgrins.github.io/spectrum/'
+        ],
         link: 'https://github.com/bgrins/TinyColor',
         platform: 'GitHub',
         tags: [
             'color'
-        ],
-        examples: [
-            'https://bgrins.github.io/spectrum/'
         ],
         type: 'repository'
     },
@@ -11763,6 +11763,7 @@
             'https://milligram.io/'
         ],
         link: 'https://github.com/milligram/milligram',
+        name: 'Milligram',
         platform: 'GitHub',
         tags: [
             'css-framework'
@@ -15230,6 +15231,7 @@
             'http://tholman.com/github-corners/'
         ],
         link: 'https://github.com/tholman/github-corners',
+        name: 'GitHub Corners',
         platform: 'GitHub',
         tags: [
             'icons'

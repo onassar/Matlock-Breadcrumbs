@@ -1345,6 +1345,7 @@
             'https://semantic-ui.com/'
         ],
         link: 'https://github.com/Semantic-Org/Semantic-UI',
+        name: 'Semantic UI',
         platform: 'GitHub',
         type: 'repository'
     },

@@ -1,10 +1,11 @@
 {
     properties: {
-        link: 'https://github.com/froala/wysiwyg-editor',
-        platform: 'GitHub',
         examples: [
             'https://www.froala.com/wysiwyg-editor'
         ],
+        link: 'https://github.com/froala/wysiwyg-editor',
+        name: 'Froala Editor',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {

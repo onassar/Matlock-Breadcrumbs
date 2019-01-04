@@ -5486,11 +5486,9 @@
 ,
 // src/gitHub/docpad/docpad.js
 {
-    dependencies: [
-        'https://github.com/nodejs/node'
-    ],
     properties: {
         examples: [
+            'https://docpad.org/',
             'https://semantic-ui.com/'
         ],
         link: 'https://github.com/docpad/docpad',

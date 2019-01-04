@@ -2381,6 +2381,7 @@
             'http://multi-level-push-menu.make.rs/demo/covermode/covermode.html'
         ],
         link: 'https://github.com/adgsm/multi-level-push-menu',
+        name: 'jQuery Multi-level-push-menu',
         platform: 'GitHub',
         type: 'repository'
     },

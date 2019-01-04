@@ -28,6 +28,11 @@
                 'window.ppxo.Button',
                 'window.ppxo.FUNDING'
             ]
+        ],
+        strings: [
+            [
+                ' action="https://www.paypal.com/'
+            ]
         ]
     },
     versions: {

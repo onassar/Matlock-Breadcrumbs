@@ -562,14 +562,18 @@
 // src/gitHub/Eonasdan/bootstrap-datetimepicker.js
 {
     properties: {
+        examples: [
+            'http://eonasdan.github.io/bootstrap-datetimepicker/'
+        ],
         link: 'https://github.com/Eonasdan/bootstrap-datetimepicker',
+        name: 'Bootstrap 3 Date/Time Picker',
         platform: 'GitHub',
         type: 'repository'
     },
     tests: {
-        statements: [
+        references: [
             [
-                'window.jQuery(\'body\').datetimepicker'
+                'window.jQuery.fn.datetimepicker'
             ]
         ]
     }

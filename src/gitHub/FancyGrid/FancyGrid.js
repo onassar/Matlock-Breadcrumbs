@@ -1,8 +1,14 @@
 {
     properties: {
         examples: [
-            'https://fancygrid.com/gallery/'
+            'https://fancygrid.com/dashboards/kia-usa-sales/'
         ],
+        licenses: {
+            commercial: {
+                currency: 'USD',
+                paid: true
+            }
+        },
         link: 'https://github.com/FancyGrid/FancyGrid',
         platform: 'GitHub',
         tags: [

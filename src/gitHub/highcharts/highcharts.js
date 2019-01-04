@@ -1,5 +1,9 @@
 {
     properties: {
+        examples: [
+            'https://www.tsn.ca/',
+            'https://fancygrid.com/dashboards/kia-usa-sales/'
+        ],
         licenses: {
             commercial: {
                 currency: 'USD',
@@ -19,10 +23,8 @@
             }
         },
         link: 'https://github.com/highcharts/highcharts',
+        name: 'Highcharts JS',
         platform: 'GitHub',
-        examples: [
-            'https://www.tsn.ca/'
-        ],
         type: 'repository'
     },
     tests: {

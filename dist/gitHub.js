@@ -579,8 +579,14 @@
 {
     properties: {
         examples: [
-            'https://fancygrid.com/gallery/'
+            'https://fancygrid.com/dashboards/kia-usa-sales/'
         ],
+        licenses: {
+            commercial: {
+                currency: 'USD',
+                paid: true
+            }
+        },
         link: 'https://github.com/FancyGrid/FancyGrid',
         platform: 'GitHub',
         tags: [
@@ -8467,6 +8473,10 @@
 // src/gitHub/highcharts/highcharts.js
 {
     properties: {
+        examples: [
+            'https://www.tsn.ca/',
+            'https://fancygrid.com/dashboards/kia-usa-sales/'
+        ],
         licenses: {
             commercial: {
                 currency: 'USD',
@@ -8486,10 +8496,8 @@
             }
         },
         link: 'https://github.com/highcharts/highcharts',
+        name: 'Highcharts JS',
         platform: 'GitHub',
-        examples: [
-            'https://www.tsn.ca/'
-        ],
         type: 'repository'
     },
     tests: {

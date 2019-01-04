@@ -10324,6 +10324,31 @@
     }
 }
 ,
+// src/gitHub/jschr/bootstrap-modal.js
+{
+    properties: {
+        examples: [
+            'http://jschr.github.io/bootstrap-modal/'
+        ],
+        link: 'https://github.com/jschr/bootstrap-modal',
+        name: 'Bootstrap-Modal',
+        platform: 'GitHub',
+        tags: [
+            'popup'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.jQuery.fn.modal',
+                'window.jQuery.fn.modal.defaults',
+                'window.jQuery.fn.modal.defaults.spinner'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/jsforce/jsforce.js
 {
     properties: {
@@ -15831,7 +15856,7 @@
             link: 'http://alexgorbatchev.com/SyntaxHighlighter/donate.html'
         },
         link: 'https://github.com/syntaxhighlighter/syntaxhighlighter',
-        name: 'SyntaxHighlighter 4',
+        name: 'SyntaxHighlighter v4',
         platform: 'GitHub',
         examples: [
             'http://alexgorbatchev.com/SyntaxHighlighter/'

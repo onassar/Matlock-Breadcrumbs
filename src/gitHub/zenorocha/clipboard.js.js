@@ -21,6 +21,10 @@
         references: [
             [
                 'window.ClipboardJS'
+            ],
+            [
+                'window.Clipboard',
+                'window.Clipboard.listenClick'
             ]
         ]
     },

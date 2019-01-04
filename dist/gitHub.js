@@ -3536,6 +3536,26 @@
     }
 }
 ,
+// src/gitHub/autoNumeric/autoNumeric.js
+{
+    properties: {
+        link: 'https://github.com/autoNumeric/autoNumeric',
+        name: 'AutoNumeric.js',
+        platform: 'GitHub',
+        tags: [
+            'validation'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.autoNumericGlobalList'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/auxiliary/rater.js
 {
     properties: {

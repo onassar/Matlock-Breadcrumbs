@@ -11,6 +11,11 @@
         type: 'repository'
     },
     tests: {
+        references: [
+            [
+                'window.django'
+            ]
+        ],
         strings: {
             page: [
                 [

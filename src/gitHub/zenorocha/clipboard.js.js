@@ -1,5 +1,8 @@
 {
     properties: {
+        examples: [
+            'https://bulma.io/'
+        ],
         link: 'https://github.com/zenorocha/clipboard.js',
         notes: [
             'https://i.imgur.com/RVXNiwf.jpg'
@@ -24,7 +27,7 @@
             ],
             [
                 'window.Clipboard',
-                'window.Clipboard.listenClick'
+                'window.Clipboard.prototype.listenClick'
             ]
         ]
     },

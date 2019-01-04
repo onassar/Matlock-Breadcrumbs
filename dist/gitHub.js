@@ -9796,6 +9796,28 @@
     }
 }
 ,
+// src/gitHub/johnpolacek/stacktable.js.js
+{
+    properties: {
+        examples: [
+            'http://johnpolacek.github.io/stacktable.js/'
+        ],
+        link: 'https://github.com/johnpolacek/stacktable.js',
+        platform: 'GitHub',
+        tags: [
+            'tables'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.jQuery.fn.stacktable'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/jondavidjohn/payform.js
 {
     properties: {

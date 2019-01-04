@@ -10481,7 +10481,11 @@
         link: 'https://github.com/less/less.js',
         name: 'Less.js',
         platform: 'GitHub',
-        type: 'repository'
+        type: 'repository',
+        wikiPedia: {
+            load: true,
+            title: 'Less_(stylesheet_language)'
+        }
     },
     tests: {
         references: [

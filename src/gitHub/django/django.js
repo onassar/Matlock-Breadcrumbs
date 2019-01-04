@@ -3,6 +3,9 @@
         'https://github.com/python/cpython'
     ],
     properties: {
+        examples: [
+            'https://www.eventbrite.ca/'
+        ],
         donate: {
             link: 'https://www.djangoproject.com/fundraising/'
         },
@@ -15,6 +18,13 @@
         }
     },
     tests: {
+        patterns: {
+            headers: [
+                [
+                    /_pxCaptcha/
+                ]
+            ]
+        },
         references: [
             [
                 'window.django'

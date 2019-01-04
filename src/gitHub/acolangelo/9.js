@@ -4,6 +4,7 @@
             'http://jpanelmenu.com/'
         ],
         link: 'https://github.com/acolangelo/9',
+        name: 'jPanelMenu',
         platform: 'GitHub',
         type: 'repository'
     },

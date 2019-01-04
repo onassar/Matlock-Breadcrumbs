@@ -121,7 +121,9 @@
                 ],
                 attribute: 'content',
                 pattern: true,
-                expression: /\s*WordPress\s*(.+)/i
+                expressions: [
+                    /\s*WordPress\s*(.+)/i
+                ]
             }
         ],
         patterns: {

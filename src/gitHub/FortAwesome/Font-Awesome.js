@@ -22,19 +22,20 @@
         }
     },
     tests: {
-        patterns: {
-            page: [
-                [
-                    /<link[^>]+fontawesome/i
-                ],
-                [
-                    /<link[^>]+font\-awesome/i
-                ],
-                [
-                    /href="https?:\/\/use\.fontawesome\.com/i
-                ]
-            ]
-        }
+        shortcuts: [
+            {
+                key: 'query.stylesheet',
+                name: '/font-awesome/'
+            },
+            {
+                key: 'query.stylesheet',
+                name: '/fontawesome/'
+            },
+            {
+                key: 'query.stylesheet',
+                name: 'use.fontawesome.com/'
+            }
+        ]
     },
     versions: {
         patterns: {

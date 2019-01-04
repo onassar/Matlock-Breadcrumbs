@@ -7532,6 +7532,25 @@
     }
 }
 ,
+// src/gitHub/globalizejs/globalize.js
+{
+    properties: {
+        link: 'https://github.com/globalizejs/globalize',
+        platform: 'GitHub',
+        tags: [
+            'i18n'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.Globalize'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/gocom/dense.js
 {
     properties: {

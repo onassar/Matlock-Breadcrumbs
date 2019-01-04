@@ -5,6 +5,7 @@
             'https://formvalidation.io/guide/api/reset-field/clear/Tachyons',
         ],
         link: 'https://github.com/mattboldt/typed.js',
+        name: 'Typed.js',
         platform: 'GitHub',
         tags: [
             'animations'

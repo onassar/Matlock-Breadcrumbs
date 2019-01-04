@@ -55,7 +55,9 @@
                 key: 'query.stylesheets',
                 names: [
                     'font-awesome',
-                    'fontawesome'
+                    'font-awesome-all',
+                    'fontawesome',
+                    'fontawesome-all'
                 ]
             }
         ]

@@ -15766,6 +15766,11 @@
         }
     },
     tests: {
+        references: [
+            [
+                'window.jQuery.fn.tooltip'
+            ]
+        ],
         shortcuts: [
             {
                 key: 'query.stylesheet',
@@ -15774,6 +15779,9 @@
         ]
     },
     versions: {
+        references: [
+            'window.jQuery.fn.tooltip.Constructor.VERSION'
+        ],
         shortcuts: [
             {
                 key: 'query.stylesheet',

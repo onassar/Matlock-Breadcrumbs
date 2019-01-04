@@ -1,9 +1,13 @@
 {
     properties: {
-        link: 'https://github.com/fengyuanchen/viewer',
-        platform: 'GitHub',
         examples: [
             'https://fengyuanchen.github.io/viewer/'
+        ],
+        link: 'https://github.com/fengyuanchen/viewer',
+        name: 'Viewer',
+        platform: 'GitHub',
+        tags: [
+            'lightbox'
         ],
         type: 'repository'
     },

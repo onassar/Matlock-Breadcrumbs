@@ -6687,10 +6687,14 @@
 // src/gitHub/fengyuanchen/viewer.js
 {
     properties: {
-        link: 'https://github.com/fengyuanchen/viewer',
-        platform: 'GitHub',
         examples: [
             'https://fengyuanchen.github.io/viewer/'
+        ],
+        link: 'https://github.com/fengyuanchen/viewer',
+        name: 'Viewer',
+        platform: 'GitHub',
+        tags: [
+            'lightbox'
         ],
         type: 'repository'
     },
@@ -16668,6 +16672,29 @@
     versions: {
         references: [
             'window.__VUEPRESS_VERSION__.version'
+        ]
+    }
+}
+,
+// src/gitHub/vvvmax/unitegallery.js
+{
+    properties: {
+        examples: [
+            'http://unitegallery.net/'
+        ],
+        link: 'https://github.com/vvvmax/unitegallery',
+        name: 'United Gallery',
+        platform: 'GitHub',
+        tags: [
+            'lightbox'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.jQuery.fn.unitegallery'
+            ]
         ]
     }
 }

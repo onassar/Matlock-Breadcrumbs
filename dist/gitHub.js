@@ -2308,13 +2308,13 @@
     }
 }
 ,
-// src/gitHub/acolangelo/9.js
+// src/gitHub/acolangelo/jPanelMenu.js
 {
     properties: {
         examples: [
             'http://jpanelmenu.com/'
         ],
-        link: 'https://github.com/acolangelo/9',
+        link: 'https://github.com/acolangelo/jPanelMenu',
         name: 'jPanelMenu',
         platform: 'GitHub',
         type: 'repository'

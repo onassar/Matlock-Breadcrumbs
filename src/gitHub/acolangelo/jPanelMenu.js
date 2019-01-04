@@ -3,7 +3,7 @@
         examples: [
             'http://jpanelmenu.com/'
         ],
-        link: 'https://github.com/acolangelo/9',
+        link: 'https://github.com/acolangelo/jPanelMenu',
         name: 'jPanelMenu',
         platform: 'GitHub',
         type: 'repository'

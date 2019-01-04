@@ -6465,6 +6465,22 @@
     }
 }
 ,
+// src/gitHub/ericelliott/h5Validate.js
+{
+    properties: {
+        link: 'https://github.com/ericelliott/h5Validate',
+        platform: 'GitHub',
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.jQuery.h5Validate'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/ermouth/jQuery.my.js
 {
     properties: {

@@ -11734,6 +11734,25 @@
     }
 }
 ,
+// src/gitHub/mcshaman/afterResize.js.js
+{
+    properties: {
+        examples: [
+            'http://unitegallery.net/'
+        ],
+        link: 'https://github.com/mcshaman/afterResize.js',
+        platform: 'GitHub',
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.jQuery.fn.afterResize'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/mediaelement/mediaelement.js
 {
     properties: {
@@ -16683,7 +16702,7 @@
             'http://unitegallery.net/'
         ],
         link: 'https://github.com/vvvmax/unitegallery',
-        name: 'United Gallery',
+        name: 'Unite Gallery',
         platform: 'GitHub',
         tags: [
             'lightbox'

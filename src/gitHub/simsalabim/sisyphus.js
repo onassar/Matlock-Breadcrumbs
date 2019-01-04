@@ -4,6 +4,7 @@
             'http://sisyphus-js.herokuapp.com/'
         ],
         link: 'https://github.com/simsalabim/sisyphus',
+        name: 'Sisyphus.js',
         platform: 'GitHub',
         type: 'repository'
     },

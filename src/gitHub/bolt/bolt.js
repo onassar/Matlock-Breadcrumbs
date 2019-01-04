@@ -15,7 +15,7 @@
         patterns: {
             headers: [
                 [
-                    /x\-koala\-status/
+                    /x\-koala\-status/i
                 ]
             ]
         }

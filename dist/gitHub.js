@@ -2308,6 +2308,25 @@
     }
 }
 ,
+// src/gitHub/acolangelo/9.js
+{
+    properties: {
+        examples: [
+            'http://jpanelmenu.com/'
+        ],
+        link: 'https://github.com/acolangelo/9',
+        platform: 'GitHub',
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.jQuery.jPanelMenu'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/adamwdraper/Numeral-js.js
 {
     properties: {

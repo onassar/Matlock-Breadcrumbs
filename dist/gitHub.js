@@ -5196,6 +5196,25 @@
     }
 }
 ,
+// src/gitHub/davidstutz/bootstrap-multiselect.js
+{
+    properties: {
+        examples: [
+            'http://davidstutz.de/bootstrap-multiselect/'
+        ],
+        link: 'https://github.com/davidstutz/bootstrap-multiselect',
+        name: 'Bootstrap Multiselect',
+        platform: 'GitHub'
+    },
+    tests: {
+        references: [
+            [
+                'window.jQuery.fn.multiselect'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/dbrekalo/simpleLightbox.js
 {
     properties: {

@@ -20,6 +20,12 @@
             [
                 'window._paq'
             ]
+        ],
+        shortcuts: [
+            {
+                key: 'query.meta.generator',
+                generator: 'Matomo'
+            }
         ]
     }
 }

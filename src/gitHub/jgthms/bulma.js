@@ -1,5 +1,8 @@
 {
     properties: {
+        donate: {
+            link: 'https://www.patreon.com/jgthms'
+        },
         examples: [
             'https://bulma.io/'
         ],

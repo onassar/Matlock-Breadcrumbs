@@ -9149,6 +9149,9 @@
 // src/gitHub/jgthms/bulma.js
 {
     properties: {
+        donate: {
+            link: 'https://www.patreon.com/jgthms'
+        },
         examples: [
             'https://bulma.io/'
         ],

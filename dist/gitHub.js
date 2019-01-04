@@ -10386,11 +10386,11 @@
         shortcuts: [
             {
                 key: 'query.script',
-                fileroot: 'jQuery'
+                fileroot: 'fuse'
             },
             {
                 key: 'query.stylesheet',
-                fileroot: 'jQuery'
+                fileroot: 'fuse'
             }
         ]
     }
@@ -10672,13 +10672,25 @@
             [
                 'window.lodash'
             ]
-        ]
+        ],
+        shortcuts: [
+            {
+                key: 'query.script',
+                fileroot: 'lodash'
+            }
+        ],
     },
     versions: {
         references: [
             'window._.VERSION',
             'window.__lodash.VERSION',
             'window.lodash.VERSION'
+        ],
+        shortcuts: [
+            {
+                key: 'query.script',
+                fileroot: 'lodash'
+            }
         ]
     }
 }

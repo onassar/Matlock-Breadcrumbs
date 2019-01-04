@@ -15,7 +15,7 @@
         shortcuts: [
             {
                 key: 'query.stylesheet',
-                name: 'normalize'
+                name: 'bulma'
             }
         ]
     },
@@ -23,7 +23,7 @@
         shortcuts: [
             {
                 key: 'query.stylesheet',
-                name: 'normalize'
+                name: 'bulma'
             }
         ]
     }

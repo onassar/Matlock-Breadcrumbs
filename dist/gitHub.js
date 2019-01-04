@@ -580,14 +580,12 @@
     properties: {
         examples: [
             'https://tim.fyi',
-            'https://getstencil.com/blog'
-        ],
-        link: 'https://github.com/FortAwesome/Font-Awesome',
-        notes: [
+            'https://getstencil.com/blog',
             'https://i.imgur.com/3AhoAeu.jpg',
             'https://i.imgur.com/z3zoICN.jpg',
             'https://i.imgur.com/nMIVbUf.jpg'
         ],
+        link: 'https://github.com/FortAwesome/Font-Awesome',
         platform: 'GitHub',
         tags: [
             'icons'
@@ -603,6 +601,7 @@
             [
                 {
                     selectors: [
+                        'link[rel="dns-prefetch"][href*="fonts.googleapis.com" i]',
                         'link[rel="stylesheet"][href*="font-awesome" i]',
                         'link[rel="stylesheet"][href*="font-awesome-all" i]',
                         'link[rel="stylesheet"][href*="fontawesome" i]',
@@ -636,7 +635,16 @@
                 /font\-awesome[^>]+ver=v([0-9\.]+)/i,
                 /fontawesome\/([0-9\.]+)\//i
             ]
-        }
+        },
+        shortcuts: [
+            {
+                key: 'query.stylesheets',
+                names: [
+                    'font-awesome',
+                    'fontawesome'
+                ]
+            }
+        ]
     }
 }
 ,

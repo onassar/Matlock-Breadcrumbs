@@ -13,7 +13,7 @@
     tests: {
         references: [
             [
-                'window.jQueray.fn.jqGrid'
+                'window.jQuery.fn.jqGrid'
             ]
         ]
     },

@@ -7607,6 +7607,7 @@
             'https://gromo.github.io/jquery.scrollbar/demo/basic.html'
         ],
         link: 'https://github.com/gromo/jquery.scrollbar',
+        name: 'jQuery Scrollbar',
         platform: 'GitHub',
         type: 'repository'
     },

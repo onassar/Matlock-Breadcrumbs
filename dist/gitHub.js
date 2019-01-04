@@ -9459,6 +9459,7 @@
             'https://jondavidjohn.github.io/payform/'
         ],
         link: 'https://github.com/jondavidjohn/payform',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {

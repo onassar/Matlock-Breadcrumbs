@@ -17727,7 +17727,11 @@
         link: 'https://github.com/woocommerce/woocommerce',
         name: 'WooCommerce',
         platform: 'GitHub',
-        type: 'repository'
+        type: 'repository',
+        wikiPedia: {
+            load: true,
+            title: 'WooCommerce'
+        }
     },
     tests: {
         references: [

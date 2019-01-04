@@ -17706,7 +17706,7 @@
         examples: [
             'https://thottingal.in/projects/js/jquery.i18n/demo/'
         ],
-        link: 'https://github.com/jquery.i18n',
+        link: 'https://github.com/wikimedia/jquery.i18n',
         name: 'jQuery i18n',
         platform: 'GitHub',
         type: 'repository'

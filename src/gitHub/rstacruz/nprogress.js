@@ -1,10 +1,11 @@
 {
     properties: {
-        link: 'https://github.com/rstacruz/nprogress',
-        platform: 'GitHub',
         examples: [
             'http://ricostacruz.com/nprogress/'
         ],
+        link: 'https://github.com/rstacruz/nprogress',
+        name: 'NProgress',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {

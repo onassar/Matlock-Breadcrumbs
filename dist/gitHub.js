@@ -11428,6 +11428,9 @@
 // src/gitHub/leongersen/noUiSlider.js
 {
     properties: {
+        examples: [
+            'https://ocs.ca/collections/dried-flower-cannabis?page=1'
+        ],
         link: 'https://github.com/leongersen/noUiSlider',
         platform: 'GitHub',
         type: 'repository'
@@ -11442,6 +11445,22 @@
     versions: {
         references: [
             'window.noUiSlider.version'
+        ]
+    }
+}
+,
+// src/gitHub/leongersen/wnumb.js
+{
+    properties: {
+        link: 'https://github.com/leongersen/wnumb',
+        platform: 'GitHub',
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.wNumb'
+            ]
         ]
     }
 }

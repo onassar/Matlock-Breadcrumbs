@@ -4425,7 +4425,7 @@
         examples: [
             'https://try.bolt.cm/'
         ],
-        link: 'https://github.com/eldy/awstats',
+        link: 'https://github.com/bolt/bolt',
         name: 'Bolt',
         platform: 'GitHub',
         see: [

@@ -6,7 +6,11 @@
         link: 'https://github.com/joomla/joomla-cms',
         name: 'Joomla!',
         platform: 'GitHub',
-        type: 'repository'
+        type: 'repository',
+        wikiPedia: {
+            load: true,
+            title: 'Joomla'
+        }
     },
     tests: {
         shortcuts: [

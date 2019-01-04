@@ -8,7 +8,11 @@
         },
         link: 'https://github.com/django/django',
         platform: 'GitHub',
-        type: 'repository'
+        type: 'repository',
+        wikiPedia: {
+            load: true,
+            title: 'Django_(web_framework)'
+        }
     },
     tests: {
         references: [

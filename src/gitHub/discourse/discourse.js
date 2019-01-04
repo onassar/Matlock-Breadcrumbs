@@ -6,7 +6,11 @@
         link: 'https://github.com/discourse/discourse',
         name: 'Discourse',
         platform: 'GitHub',
-        type: 'repository'
+        type: 'repository',
+        wikiPedia: {
+            load: true,
+            title: 'Discourse_(software)'
+        }
     },
     tests: {
         references: [

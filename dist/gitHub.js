@@ -5835,7 +5835,11 @@
         link: 'https://github.com/discourse/discourse',
         name: 'Discourse',
         platform: 'GitHub',
-        type: 'repository'
+        type: 'repository',
+        wikiPedia: {
+            load: true,
+            title: 'Discourse_(software)'
+        }
     },
     tests: {
         references: [
@@ -5872,7 +5876,11 @@
         },
         link: 'https://github.com/django/django',
         platform: 'GitHub',
-        type: 'repository'
+        type: 'repository',
+        wikiPedia: {
+            load: true,
+            title: 'Django_(web_framework)'
+        }
     },
     tests: {
         references: [
@@ -10301,7 +10309,11 @@
         link: 'https://github.com/joomla/joomla-cms',
         name: 'Joomla!',
         platform: 'GitHub',
-        type: 'repository'
+        type: 'repository',
+        wikiPedia: {
+            load: true,
+            title: 'Joomla'
+        }
     },
     tests: {
         shortcuts: [

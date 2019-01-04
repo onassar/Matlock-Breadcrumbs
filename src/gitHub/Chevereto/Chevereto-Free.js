@@ -9,6 +9,11 @@
         type: 'repository'
     },
     tests: {
+        references: [
+            [
+                'window.CHEVERETO'
+            ]
+        ],
         shortcuts: [
             {
                 key: 'query.meta.generator',
@@ -17,6 +22,9 @@
         ]
     },
     versions: {
+        references: [
+            'window.CHEVERETO.version'
+        ],
         shortcuts: [
             {
                 key: 'query.meta.generator',

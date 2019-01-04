@@ -343,6 +343,11 @@
         type: 'repository'
     },
     tests: {
+        references: [
+            [
+                'window.CHEVERETO'
+            ]
+        ],
         shortcuts: [
             {
                 key: 'query.meta.generator',
@@ -351,6 +356,9 @@
         ]
     },
     versions: {
+        references: [
+            'window.CHEVERETO.version'
+        ],
         shortcuts: [
             {
                 key: 'query.meta.generator',
@@ -2034,6 +2042,35 @@
             [
                 'window.jQuery(\'div\').theiaStickySidebar'
             ]
+        ]
+    }
+}
+,
+// src/gitHub/Web-Feet/coastercms.js
+{
+    properties: {
+        examples: [
+            'https://www.coastercms.org/'
+        ],
+        link: 'https://github.com/Web-Feet/coastercms',
+        name: 'Coaster CMS',
+        platform: 'GitHub',
+        type: 'repository'
+    },
+    tests: {
+        shortcuts: [
+            {
+                key: 'query.meta.generator',
+                generator: 'Coaster CMS'
+            }
+        ]
+    },
+    versions: {
+        shortcuts: [
+            {
+                key: 'query.meta.generator',
+                generator: 'Coaster CMS'
+            }
         ]
     }
 }

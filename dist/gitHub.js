@@ -12170,6 +12170,13 @@
         type: 'repository'
     },
     tests: {
+        references: [
+            [
+                'window.mui',
+                'window.mui.overlay',
+                'window.mui.tabs'
+            ]
+        ],,
         shortcuts: [
             {
                 key: 'query.script',

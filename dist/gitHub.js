@@ -4553,9 +4553,6 @@
 // src/gitHub/chriskempson/tomorrow-theme.js
 {
     properties: {
-        examples: [
-            'https://farbelous.io/bootstrap-colorpicker/'
-        ],
         link: 'https://github.com/chriskempson/tomorrow-theme',
         platform: 'GitHub',
         tags: [
@@ -4564,13 +4561,6 @@
         type: 'repository'
     },
     tests: {
-        patterns: {
-            page: [
-                [
-                    /<link[^>]+tomorrow.css[^>]+>/i
-                ]
-            ]
-        }
     }
 }
 ,

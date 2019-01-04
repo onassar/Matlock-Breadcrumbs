@@ -2113,6 +2113,7 @@
             'https://www.atrium.co/blog/founders-should-build-website-not-mobile-app/'
         ],
         link: 'https://github.com/WordPress/dashicons',
+        name: 'Dashicons',
         platform: 'GitHub',
         type: 'repository'
     },
@@ -10250,6 +10251,35 @@
                 '!window.jQuery.timepicker',
                 'window.jQuery.fn.timepicker'
             ]
+        ]
+    }
+}
+,
+// src/gitHub/joomla/joomla-cms.js
+{
+    properties: {
+        examples: [
+            'https://www.joomla.ca/'
+        ],
+        link: 'https://github.com/joomla/joomla-cms',
+        name: 'Hexo',
+        platform: 'GitHub',
+        type: 'repository'
+    },
+    tests: {
+        shortcuts: [
+            {
+                key: 'query.meta.generator',
+                generator: 'Joomla!'
+            }
+        ]
+    },
+    versions: {
+        shortcuts: [
+            {
+                key: 'query.meta.generator',
+                generator: 'Joomla!'
+            }
         ]
     }
 }

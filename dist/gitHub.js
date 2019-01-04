@@ -9428,6 +9428,29 @@
     }
 }
 ,
+// src/gitHub/jondavidjohn/payform.js
+{
+    properties: {
+        alternatives: [
+            'https://github.com/stripe/jquery.payment',
+            'https://github.com/nosir/cleave.js'
+        ],
+        examples: [
+            'https://jondavidjohn.github.io/payform/'
+        ],
+        link: 'https://github.com/jondavidjohn/payform',
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.payform',
+                'window.payform.numericInput'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/jonom/jquery-focuspoint.js
 {
     properties: {
@@ -12863,12 +12886,12 @@
 // src/gitHub/nosir/cleave.js.js
 {
     properties: {
+        alternatives: [
+            'https://github.com/stripe/jquery.payment'
+        ],
         examples: [
             'https://nosir.github.io/cleave.js/',
             'https://www.principles.com/#Part-1'
-        ],
-        alternatives: [
-            'https://github.com/stripe/jquery.payment'
         ],
         link: 'https://github.com/nosir/cleave.js',
         name: 'Cleave.js',

@@ -4157,6 +4157,23 @@
     }
 }
 ,
+// src/gitHub/boblemarin/jQuery.eraser.js
+{
+    properties: {
+        link: 'https://github.com/boblemarin/jQuery.eraser',
+        name: 'jQuery Eraser',
+        platform: 'GitHub',
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.jQuery.fn.eraser'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/bramstein/fontfaceobserver.js
 {
     properties: {
@@ -14200,6 +14217,23 @@
         references: [
             [
                 'window.jQuery.scrollDepth'
+            ]
+        ]
+    }
+}
+,
+// src/gitHub/robicch/jQueryGantt.js
+{
+    properties: {
+        link: 'https://github.com/robicch/jQueryGantt',
+        name: 'jQueryGantt',
+        platform: 'GitHub',
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.GanttMaster'
             ]
         ]
     }

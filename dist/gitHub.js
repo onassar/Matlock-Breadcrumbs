@@ -4428,13 +4428,16 @@
         link: 'https://github.com/eldy/awstats',
         name: 'Bolt',
         platform: 'GitHub',
+        see: [
+            'https://docs.bolt.cm/3.6/installation/webserver/nginx'
+        ],
         type: 'repository'
     },
     tests: {
         patterns: {
             headers: [
                 [
-                    /x-koala-status/
+                    /x\-koala\-status/
                 ]
             ]
         }

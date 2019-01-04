@@ -562,14 +562,18 @@
 // src/gitHub/Eonasdan/bootstrap-datetimepicker.js
 {
     properties: {
-        link: 'https://github.com/smalot/bootstrap-datetimepicker',
+        examples: [
+            'http://eonasdan.github.io/bootstrap-datetimepicker/'
+        ],
+        link: 'https://github.com/Eonasdan/bootstrap-datetimepicker',
+        name: 'Bootstrap 3 Date/Time Picker',
         platform: 'GitHub',
         type: 'repository'
     },
     tests: {
         references: [
             [
-                'window.dead.dead.dead'
+                'window.jQuery.fn.datetimepicker'
             ]
         ]
     }
@@ -15793,18 +15797,14 @@
 // src/gitHub/smalot/bootstrap-datetimepicker.js
 {
     properties: {
-        examples: [
-            'http://vitalets.github.io/x-editable/demo.html'
-        ],
-        link: 'https://github.com/jakerella/jquery-mockjax',
-        name: 'jQuery MockJax',
+        link: 'https://github.com/smalot/bootstrap-datetimepicker',
         platform: 'GitHub',
         type: 'repository'
     },
     tests: {
         references: [
             [
-                'window.jQuery.mockjax'
+                'window.dead.dead.dead'
             ]
         ]
     }

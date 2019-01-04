@@ -1,17 +1,13 @@
 {
     properties: {
-        examples: [
-            'http://vitalets.github.io/x-editable/demo.html'
-        ],
-        link: 'https://github.com/jakerella/jquery-mockjax',
-        name: 'jQuery MockJax',
+        link: 'https://github.com/smalot/bootstrap-datetimepicker',
         platform: 'GitHub',
         type: 'repository'
     },
     tests: {
         references: [
             [
-                'window.jQuery.mockjax'
+                'window.dead.dead.dead'
             ]
         ]
     }

@@ -1,7 +1,8 @@
 {
     properties: {
         examples: [
-            'https://developer.paypal.com/demo/checkout/#/pattern/client'
+            'https://developer.paypal.com/demo/checkout/#/pattern/client',
+            'https://bulma.io/'
         ],
         link: 'https://github.com/paypal/paypal-checkout',
         platform: 'GitHub',
@@ -29,11 +30,13 @@
                 'window.ppxo.FUNDING'
             ]
         ],
-        strings: [
-            [
-                ' action="https://www.paypal.com/'
+        strings: {
+            page: [
+                [
+                    ' action="https://www.paypal.com/'
+                ]
             ]
-        ]
+        }
     },
     versions: {
         references: [

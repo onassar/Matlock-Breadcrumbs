@@ -14,7 +14,9 @@
     tests: {
         references: [
             [
-                'window.jQuery.fn.i18n'
+                'window.jQuery.i18n',
+                'window.jQuery.i18n.parser',
+                'window.jQuery.fn.i18n',
             ]
         ]
     }

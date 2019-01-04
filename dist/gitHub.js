@@ -9740,10 +9740,6 @@
             {
                 key: 'query.script',
                 fileroot: 'jQuery'
-            },
-            {
-                key: 'query.stylesheet',
-                fileroot: 'jQuery'
             }
         ],
         statements: [
@@ -9766,10 +9762,6 @@
         shortcuts: [
             {
                 key: 'query.script',
-                fileroot: 'jQuery'
-            },
-            {
-                key: 'query.stylesheet',
                 fileroot: 'jQuery'
             }
         ]

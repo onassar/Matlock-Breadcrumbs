@@ -5,6 +5,7 @@
             'https://www.float.com/'
         ],
         link: 'https://github.com/visionmedia/move.js',
+        name: 'Move.js',
         platform: 'GitHub',
         type: 'repository'
     },

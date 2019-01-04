@@ -1,10 +1,10 @@
 {
     properties: {
-        link: 'https://github.com/hakimel/Avgrund',
-        platform: 'GitHub',
         examples: [
             'https://lab.hakim.se/avgrund/'
         ],
+        link: 'https://github.com/hakimel/Avgrund',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {

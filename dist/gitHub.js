@@ -7934,11 +7934,11 @@
 // src/gitHub/hakimel/Avgrund.js
 {
     properties: {
-        link: 'https://github.com/hakimel/Avgrund',
-        platform: 'GitHub',
         examples: [
             'https://lab.hakim.se/avgrund/'
         ],
+        link: 'https://github.com/hakimel/Avgrund',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {
@@ -16997,6 +16997,30 @@
         references: [
             [
                 'window.jQuery.fn.jScrollPane'
+            ]
+        ]
+    }
+}
+,
+// src/gitHub/voronianski/jquery.avgrund.js.js
+{
+    properties: {
+        examples: [
+            'http://labs.voronianski.com/jquery.avgrund.js/'
+        ],
+        link: 'https://github.com/jschr/jquery.avgrund.js',
+        name: 'jQuery Avgrund',
+        platform: 'GitHub',
+        tags: [
+            'modal',
+            'popup'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.jQuery.fn.avgrund'
             ]
         ]
     }

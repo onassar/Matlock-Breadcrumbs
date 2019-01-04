@@ -8306,6 +8306,26 @@
     }
 }
 ,
+// src/gitHub/hhurz/tableExport.jquery.plugin.js
+{
+    properties: {
+        link: 'https://github.com/hhurz/tableExport.jquery.plugin',
+        name: 'jQuery tableExport Plugin',
+        platform: 'GitHub',
+        tags: [
+            'tables'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.jQuery.fn.tableExport'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/hiddentao/fast-levenshtein.js
 {
     properties: {
@@ -9748,6 +9768,29 @@
         references: [
             [
                 'window.jQuery.fn.superfish'
+            ]
+        ]
+    }
+}
+,
+// src/gitHub/joequery/Stupid-Table-Plugin.js
+{
+    properties: {
+        examples: [
+            'http://joequery.github.io/Stupid-Table-Plugin/'
+        ],
+        link: 'https://github.com/joequery/Stupid-Table-Plugin',
+        name: 'jQuery Stupid Table Sort',
+        platform: 'GitHub',
+        tags: [
+            'tables'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.jQuery.fn.stupidtable'
             ]
         ]
     }

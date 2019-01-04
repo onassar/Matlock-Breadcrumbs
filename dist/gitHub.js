@@ -602,12 +602,11 @@
         shortcuts: [
             {
                 key: 'query.stylesheets',
-                stylesheets: [
+                names: [
                     '/font-awesome/',
-                    '/font-awesome/',
-                    '/fontawesome-all/',
                     '/font-awesome-all/',
                     '/fontawesome/',
+                    '/fontawesome-all/',
                     'use.fontawesome.com/',
                 ]
             }

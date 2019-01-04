@@ -3,21 +3,15 @@
         examples: [
             'http://vitalets.github.io/x-editable/demo.html'
         ],
-        link: 'https://github.com/xing/wysihtml5',
+        link: 'https://github.com/jhollingworth/bootstrap-wysihtml5',
         platform: 'GitHub',
         type: 'repository'
     },
     tests: {
         references: [
             [
-                'window.wysihtml5',
-                'window.wysihtml5.commands'
+                'window.jQuery.fn.wysihtml5'
             ]
-        ]
-    },
-    versions: {
-        references: [
-            'window.wysihtml5.version'
         ]
     }
 }

@@ -9859,6 +9859,25 @@
     }
 }
 ,
+// src/gitHub/jhollingworth/bootstrap-wysihtml5.js
+{
+    properties: {
+        examples: [
+            'http://vitalets.github.io/x-editable/demo.html'
+        ],
+        link: 'https://github.com/jhollingworth/bootstrap-wysihtml5',
+        platform: 'GitHub',
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.jQuery.fn.wysihtml5'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/jimmynotjim/scrollnav.js
 {
     properties: {
@@ -18232,31 +18251,6 @@
             [
                 'window.Jodit'
             ]
-        ]
-    }
-}
-,
-// src/gitHub/xing/wysihtml5.js
-{
-    properties: {
-        examples: [
-            'http://vitalets.github.io/x-editable/demo.html'
-        ],
-        link: 'https://github.com/xing/wysihtml5',
-        platform: 'GitHub',
-        type: 'repository'
-    },
-    tests: {
-        references: [
-            [
-                'window.wysihtml5',
-                'window.wysihtml5.commands'
-            ]
-        ]
-    },
-    versions: {
-        references: [
-            'window.wysihtml5.version'
         ]
     }
 }

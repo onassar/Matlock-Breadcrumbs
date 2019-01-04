@@ -9695,6 +9695,25 @@
     }
 }
 ,
+// src/gitHub/joaopereirawd/animatedModal.js.js
+{
+    properties: {
+        examples: [
+            'https://joaopereirawd.github.io/animatedModal.js/'
+        ],
+        link: 'https://github.com/joaopereirawd/animatedModal.js',
+        platform: 'GitHub',
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.jQuery.fn.animatedModal'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/joaopereirawd/fakeLoader.js.js
 {
     properties: {

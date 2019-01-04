@@ -9763,9 +9763,6 @@
         ]
     },
     versions: {
-        references: [
-            'window.jQuery.fn.jquery'
-        ],
         shortcuts: [
             {
                 key: 'query.script',
@@ -15858,6 +15855,9 @@
         ]
     },
     versions: {
+        references: [
+            'window.jQuery.fn.tooltip.Constructor.VERSION'
+        ],
         shortcuts: [
             {
                 key: 'query.stylesheet',

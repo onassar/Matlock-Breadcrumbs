@@ -29,6 +29,9 @@
         ]
     },
     versions: {
+        references: [
+            'window.jQuery.fn.tooltip.Constructor.VERSION'
+        ],
         shortcuts: [
             {
                 key: 'query.stylesheet',

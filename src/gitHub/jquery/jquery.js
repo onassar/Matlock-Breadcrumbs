@@ -54,9 +54,6 @@
         ]
     },
     versions: {
-        references: [
-            'window.jQuery.fn.jquery'
-        ],
         shortcuts: [
             {
                 key: 'query.script',

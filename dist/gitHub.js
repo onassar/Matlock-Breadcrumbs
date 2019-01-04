@@ -4084,6 +4084,7 @@
 {
     properties: {
         link: 'https://github.com/blueimp/jQuery-File-Upload',
+        name: 'jQuery File Upload Plugin',
         platform: 'GitHub',
         type: 'repository'
     },
@@ -5860,6 +5861,26 @@
             [
                 'window.favicon',
                 'window.favicon.badge'
+            ]
+        ]
+    }
+}
+,
+// src/gitHub/elclanrs/jq-idealforms.js
+{
+    properties: {
+        examples: [
+            'http://192.241.132.92/idealforms3-demo/'
+        ],
+        link: 'https://github.com/elclanrs/jq-idealforms',
+        name: 'Ideal Forms',
+        platform: 'GitHub',
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.jQuery.idealforms'
             ]
         ]
     }

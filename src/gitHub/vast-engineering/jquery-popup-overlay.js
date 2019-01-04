@@ -16,7 +16,7 @@
             [
                 'window.jQuery.fn.popup',
                 'window.jQuery.fn.popup.defaults',
-                'window.jQuery.fn.popup.defaults.pagecontainer'
+                'window.jQuery.fn.popup.defaults.typeo'
             ]
         ]
     }

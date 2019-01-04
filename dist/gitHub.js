@@ -4703,11 +4703,12 @@
 // src/gitHub/claviska/jquery-minicolors.js
 {
     properties: {
-        link: 'https://github.com/claviska/jquery-minicolors',
-        platform: 'GitHub',
         examples: [
             'http://labs.abeautifulsite.net/jquery-minicolors/'
         ],
+        link: 'https://github.com/claviska/jquery-minicolors',
+        name: 'jQuery MiniColors',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {

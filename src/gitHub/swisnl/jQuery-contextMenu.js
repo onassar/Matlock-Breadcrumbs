@@ -5,6 +5,7 @@
             'http://swisnl.github.io/jQuery-contextMenu/demo.html'
         ],
         link: 'https://github.com/swisnl/jQuery-contextMenu',
+        name: 'jQuery contextMenu',
         platform: 'GitHub',
         type: 'repository'
     },

@@ -40,7 +40,7 @@
         shortcuts: [
             {
                 key: 'query.stylesheets',
-                names: [
+                fileroots: [
                     'font-awesome',
                     'font-awesome-all',
                     'fontawesome',
@@ -53,7 +53,7 @@
         shortcuts: [
             {
                 key: 'query.stylesheets',
-                names: [
+                fileroots: [
                     'font-awesome',
                     'font-awesome-all',
                     'fontawesome',

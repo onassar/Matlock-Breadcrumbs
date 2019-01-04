@@ -20,7 +20,7 @@
         shortcuts: [
             {
                 key: 'query.stylesheet',
-                name: 'semantic'
+                fileroot: 'semantic'
             }
         ]
     }

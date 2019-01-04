@@ -24,11 +24,11 @@
         shortcuts: [
             {
                 key: 'query.script',
-                name: 'jQuery-ui'
+                fileroot: 'jQuery-ui'
             },
             {
                 key: 'query.stylesheet',
-                name: 'jQuery-ui'
+                fileroot: 'jQuery-ui'
             }
         ]
     },
@@ -39,11 +39,11 @@
         shortcuts: [
             {
                 key: 'query.script',
-                name: 'jQuery-ui'
+                fileroot: 'jQuery-ui'
             },
             {
                 key: 'query.stylesheet',
-                name: 'jQuery-ui'
+                fileroot: 'jQuery-ui'
             }
         ]
     }

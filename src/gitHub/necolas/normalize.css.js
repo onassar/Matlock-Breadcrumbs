@@ -12,7 +12,7 @@
         shortcuts: [
             {
                 key: 'query.stylesheet',
-                name: 'normalize'
+                fileroot: 'normalize'
             }
         ]
     },
@@ -20,7 +20,7 @@
         shortcuts: [
             {
                 key: 'query.stylesheet',
-                name: 'normalize'
+                fileroot: 'normalize'
             }
         ]
     }

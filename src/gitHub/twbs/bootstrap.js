@@ -24,7 +24,7 @@
         shortcuts: [
             {
                 key: 'query.stylesheet',
-                name: 'bootstrap'
+                fileroot: 'bootstrap'
             }
         ]
     },
@@ -35,7 +35,7 @@
         shortcuts: [
             {
                 key: 'query.stylesheet',
-                name: 'bootstrap'
+                fileroot: 'bootstrap'
             }
         ]
     }

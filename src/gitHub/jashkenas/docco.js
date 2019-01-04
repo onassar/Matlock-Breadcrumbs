@@ -11,7 +11,7 @@
         shortcuts: [
             {
                 key: 'query.stylesheet',
-                name: 'docco'
+                fileroot: 'docco'
             }
         ]
     },
@@ -19,7 +19,7 @@
         shortcuts: [
             {
                 key: 'query.stylesheet',
-                name: 'docco'
+                fileroot: 'docco'
             }
         ]
     }

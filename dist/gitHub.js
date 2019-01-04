@@ -618,7 +618,7 @@
         shortcuts: [
             {
                 key: 'query.stylesheets',
-                names: [
+                fileroots: [
                     'font-awesome',
                     'font-awesome-all',
                     'fontawesome',
@@ -631,7 +631,7 @@
         shortcuts: [
             {
                 key: 'query.stylesheets',
-                names: [
+                fileroots: [
                     'font-awesome',
                     'font-awesome-all',
                     'fontawesome',
@@ -1377,7 +1377,7 @@
         shortcuts: [
             {
                 key: 'query.stylesheet',
-                name: 'semantic'
+                fileroot: 'semantic'
             }
         ]
     }
@@ -8921,7 +8921,7 @@
         shortcuts: [
             {
                 key: 'query.stylesheet',
-                name: 'docco'
+                fileroot: 'docco'
             }
         ]
     },
@@ -8929,7 +8929,7 @@
         shortcuts: [
             {
                 key: 'query.stylesheet',
-                name: 'docco'
+                fileroot: 'docco'
             }
         ]
     }
@@ -9211,7 +9211,7 @@
         shortcuts: [
             {
                 key: 'query.stylesheet',
-                name: 'bulma'
+                fileroot: 'bulma'
             }
         ]
     },
@@ -9219,7 +9219,7 @@
         shortcuts: [
             {
                 key: 'query.stylesheet',
-                name: 'bulma'
+                fileroot: 'bulma'
             }
         ]
     }
@@ -9681,11 +9681,11 @@
         shortcuts: [
             {
                 key: 'query.script',
-                name: 'jQuery-ui'
+                fileroot: 'jQuery-ui'
             },
             {
                 key: 'query.stylesheet',
-                name: 'jQuery-ui'
+                fileroot: 'jQuery-ui'
             }
         ]
     },
@@ -9696,11 +9696,11 @@
         shortcuts: [
             {
                 key: 'query.script',
-                name: 'jQuery-ui'
+                fileroot: 'jQuery-ui'
             },
             {
                 key: 'query.stylesheet',
-                name: 'jQuery-ui'
+                fileroot: 'jQuery-ui'
             }
         ]
     }
@@ -9739,11 +9739,11 @@
         shortcuts: [
             {
                 key: 'query.script',
-                name: 'jQuery'
+                fileroot: 'jQuery'
             },
             {
                 key: 'query.stylesheet',
-                name: 'jQuery'
+                fileroot: 'jQuery'
             }
         ],
         statements: [
@@ -9766,11 +9766,11 @@
         shortcuts: [
             {
                 key: 'query.script',
-                name: 'jQuery'
+                fileroot: 'jQuery'
             },
             {
                 key: 'query.stylesheet',
-                name: 'jQuery'
+                fileroot: 'jQuery'
             }
         ]
     }
@@ -10386,11 +10386,11 @@
         shortcuts: [
             {
                 key: 'query.script',
-                name: 'jQuery'
+                fileroot: 'jQuery'
             },
             {
                 key: 'query.stylesheet',
-                name: 'jQuery'
+                fileroot: 'jQuery'
             }
         ]
     }
@@ -11875,7 +11875,7 @@
         shortcuts: [
             {
                 key: 'query.stylesheet',
-                name: 'milligram'
+                fileroot: 'milligram'
             }
         ]
     },
@@ -11883,7 +11883,7 @@
         shortcuts: [
             {
                 key: 'query.stylesheet',
-                name: 'milligram'
+                fileroot: 'milligram'
             }
         ]
     }
@@ -12245,11 +12245,11 @@
         shortcuts: [
             {
                 key: 'query.script',
-                name: 'mui'
+                fileroot: 'mui'
             },
             {
                 key: 'query.stylesheet',
-                name: 'mui'
+                fileroot: 'mui'
             }
         ]
     },
@@ -12257,11 +12257,11 @@
         shortcuts: [
             {
                 key: 'query.script',
-                name: 'mui'
+                fileroot: 'mui'
             },
             {
                 key: 'query.stylesheet',
-                name: 'mui'
+                fileroot: 'mui'
             }
         ]
     }
@@ -12401,7 +12401,7 @@
         shortcuts: [
             {
                 key: 'query.stylesheet',
-                name: 'normalize'
+                fileroot: 'normalize'
             }
         ]
     },
@@ -12409,7 +12409,7 @@
         shortcuts: [
             {
                 key: 'query.stylesheet',
-                name: 'normalize'
+                fileroot: 'normalize'
             }
         ]
     }
@@ -15850,7 +15850,7 @@
         shortcuts: [
             {
                 key: 'query.stylesheet',
-                name: 'bootstrap'
+                fileroot: 'bootstrap'
             }
         ]
     },
@@ -15861,7 +15861,7 @@
         shortcuts: [
             {
                 key: 'query.stylesheet',
-                name: 'bootstrap'
+                fileroot: 'bootstrap'
             }
         ]
     }

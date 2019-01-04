@@ -19,11 +19,11 @@
         shortcuts: [
             {
                 key: 'query.script',
-                name: 'mui'
+                fileroot: 'mui'
             },
             {
                 key: 'query.stylesheet',
-                name: 'mui'
+                fileroot: 'mui'
             }
         ]
     },
@@ -31,11 +31,11 @@
         shortcuts: [
             {
                 key: 'query.script',
-                name: 'mui'
+                fileroot: 'mui'
             },
             {
                 key: 'query.stylesheet',
-                name: 'mui'
+                fileroot: 'mui'
             }
         ]
     }

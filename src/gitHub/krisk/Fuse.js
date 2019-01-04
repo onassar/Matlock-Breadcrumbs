@@ -31,11 +31,11 @@
         shortcuts: [
             {
                 key: 'query.script',
-                name: 'jQuery'
+                fileroot: 'jQuery'
             },
             {
                 key: 'query.stylesheet',
-                name: 'jQuery'
+                fileroot: 'jQuery'
             }
         ]
     }

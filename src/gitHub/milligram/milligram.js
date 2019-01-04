@@ -15,7 +15,7 @@
         shortcuts: [
             {
                 key: 'query.stylesheet',
-                name: 'milligram'
+                fileroot: 'milligram'
             }
         ]
     },
@@ -23,7 +23,7 @@
         shortcuts: [
             {
                 key: 'query.stylesheet',
-                name: 'milligram'
+                fileroot: 'milligram'
             }
         ]
     }

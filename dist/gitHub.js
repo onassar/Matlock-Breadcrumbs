@@ -11422,6 +11422,28 @@
     }
 }
 ,
+// src/gitHub/ludo/jquery-treetable.js
+{
+    properties: {
+        examples: [
+            'http://ludo.cubicphuse.nl/jquery-treetable/'
+        ],
+        link: 'https://github.com/ludo/jquery-treetable',
+        platform: 'GitHub',
+        tags: [
+            'tables'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.jQuery.fn.treetable'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/lukaszfiszer/selectnav.js.js
 {
     properties: {
@@ -16032,6 +16054,7 @@
 {
     properties: {
         examples: [
+            'http://js-grid.com/demos/basic.html',
             'http://js-grid.com/demos/batch-delete.html'
         ],
         link: 'https://github.com/tabalinas/jsgrid',

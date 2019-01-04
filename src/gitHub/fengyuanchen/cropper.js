@@ -1,6 +1,7 @@
 {
     properties: {
         link: 'https://github.com/fengyuanchen/cropper',
+        name: 'Cropper',
         platform: 'GitHub',
         type: 'repository'
     },

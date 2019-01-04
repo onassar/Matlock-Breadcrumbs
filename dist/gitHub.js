@@ -6609,6 +6609,7 @@
 {
     properties: {
         link: 'https://github.com/fengyuanchen/cropper',
+        name: 'Cropper',
         platform: 'GitHub',
         type: 'repository'
     },
@@ -7326,6 +7327,26 @@
     versions: {
         references: [
             'window.chroma.version'
+        ]
+    }
+}
+,
+// src/gitHub/gocom/dense.js
+{
+    properties: {
+        examples: [
+            'http://dense.rah.pw/'
+        ],
+        link: 'https://github.com/gocom/dense',
+        name: 'Dense.js',
+        platform: 'GitHub',
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.jQuery.fn.dense'
+            ]
         ]
     }
 }

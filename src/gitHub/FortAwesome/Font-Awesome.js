@@ -50,14 +50,6 @@
         ]
     },
     versions: {
-        patterns: {
-            page: [
-                /<link[^>]+font\-awesome\/([0-9\.]+)\//i,
-                /Font\-Awesome\/v([0-9\.]+)\//i,
-                /font\-awesome[^>]+ver=v([0-9\.]+)/i,
-                /fontawesome\/([0-9\.]+)\//i
-            ]
-        },
         shortcuts: [
             {
                 key: 'query.stylesheets',

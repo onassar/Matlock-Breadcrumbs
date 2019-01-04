@@ -18,8 +18,8 @@
             [
                 {
                     selectors: [
-                        'path[class="octo-body" i]',
-                        'path[class="octocat-body" i]'
+                        'path[class*="octo-body" i]',
+                        'path[class*="octocat-body" i]'
                     ],
                     length: {
                         operator: '>',

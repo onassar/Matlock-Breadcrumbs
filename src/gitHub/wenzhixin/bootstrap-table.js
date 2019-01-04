@@ -1,10 +1,11 @@
 {
     properties: {
-        link: 'https://github.com/wenzhixin/bootstrap-table',
-        platform: 'GitHub',
         examples: [
             'https://www.accountdock.com/'
         ],
+        link: 'https://github.com/wenzhixin/bootstrap-table',
+        name: 'Bootstrap Table',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {

@@ -6689,11 +6689,11 @@
 // src/gitHub/facebook/react.js
 {
     properties: {
-        link: 'https://github.com/facebook/react',
-        platform: 'GitHub',
         examples: [
             'https://www.cbc.ca/'
         ],
+        link: 'https://github.com/facebook/react',
+        platform: 'GitHub',
         type: 'repository',
         wikiPedia: {
             load: true,
@@ -13445,14 +13445,18 @@
 ,
 // src/gitHub/nfl/react-helmet.js
 {
+    dependencies: [
+        'https://github.com/facebook/react'
+    ],
     properties: {
+        examples: [
+            'https://www.cbc.ca/',
+            'https://votesaveamerica.com/'
+        ],
         link: 'https://github.com/nfl/react-helmet',
         platform: 'GitHub',
         tags: [
             'react'
-        ],
-        examples: [
-            'https://www.cbc.ca/'
         ],
         type: 'repository'
     },

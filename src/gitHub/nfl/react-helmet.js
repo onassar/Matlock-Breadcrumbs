@@ -1,12 +1,16 @@
 {
+    dependencies: [
+        'https://github.com/facebook/react'
+    ],
     properties: {
+        examples: [
+            'https://www.cbc.ca/',
+            'https://votesaveamerica.com/'
+        ],
         link: 'https://github.com/nfl/react-helmet',
         platform: 'GitHub',
         tags: [
             'react'
-        ],
-        examples: [
-            'https://www.cbc.ca/'
         ],
         type: 'repository'
     },

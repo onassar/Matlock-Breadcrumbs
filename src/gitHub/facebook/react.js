@@ -1,10 +1,10 @@
 {
     properties: {
-        link: 'https://github.com/facebook/react',
-        platform: 'GitHub',
         examples: [
             'https://www.cbc.ca/'
         ],
+        link: 'https://github.com/facebook/react',
+        platform: 'GitHub',
         type: 'repository',
         wikiPedia: {
             load: true,

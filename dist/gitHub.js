@@ -9188,6 +9188,25 @@
     }
 }
 ,
+// src/gitHub/jeremenichelli/scrollProgress.js
+{
+    properties: {
+        examples: [
+            'https://jeremenichelli.io/scrollProgress/'
+        ],
+        link: 'https://github.com/jeremenichelli/scrollProgress',
+        platform: 'GitHub',
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.ScrollProgress'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/jeresig/jquery.hotkeys.js
 {
     properties: {

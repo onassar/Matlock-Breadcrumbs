@@ -562,18 +562,14 @@
 // src/gitHub/Eonasdan/bootstrap-datetimepicker.js
 {
     properties: {
-        examples: [
-            'http://eonasdan.github.io/bootstrap-datetimepicker/'
-        ],
-        link: 'https://github.com/Eonasdan/bootstrap-datetimepicker',
-        name: 'Bootstrap 3 Date/Time Picker',
+        link: 'https://github.com/smalot/bootstrap-datetimepicker',
         platform: 'GitHub',
         type: 'repository'
     },
     tests: {
         references: [
             [
-                'window.jQuery.fn.datetimepicker'
+                'window.dead.dead.dead'
             ]
         ]
     }
@@ -15794,6 +15790,26 @@
     }
 }
 ,
+// src/gitHub/smalot/bootstrap-datetimepicker.js
+{
+    properties: {
+        examples: [
+            'http://vitalets.github.io/x-editable/demo.html'
+        ],
+        link: 'https://github.com/jakerella/jquery-mockjax',
+        name: 'jQuery MockJax',
+        platform: 'GitHub',
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.jQuery.mockjax'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/snapappointments/bootstrap-select.js
 {
     properties: {
@@ -17364,11 +17380,11 @@
 // src/gitHub/uxsolutions/bootstrap-datepicker.js
 {
     properties: {
-        link: 'https://github.com/uxsolutions/bootstrap-datepicker',
-        platform: 'GitHub',
         examples: [
             'https://uxsolutions.github.io/bootstrap-datepicker/?markup=input&format=&weekStart=&startDate=&endDate=&startView=0&minViewMode=0&maxViewMode=4&todayBtn=false&clearBtn=false&language=en&orientation=auto&multidate=&multidateSeparator=&keyboardNavigation=on&forceParse=on#sandbox'
         ],
+        link: 'https://github.com/uxsolutions/bootstrap-datepicker',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {

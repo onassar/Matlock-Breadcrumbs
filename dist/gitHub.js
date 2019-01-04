@@ -12749,7 +12749,7 @@
         examples: [
             'http://mkoryak.github.io/floatThead/'
         ],
-        link: 'https://github.com/fooplugins/FooTable',
+        link: 'https://github.com/mkoryak/floatThead',
         name: 'jQuery floatThead',
         platform: 'GitHub',
         tags: [

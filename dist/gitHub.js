@@ -9565,6 +9565,26 @@
     }
 }
 ,
+// src/gitHub/joeldbirch/superfish.js
+{
+    properties: {
+        examples: [
+            'https://superfish.joelbirch.co/'
+        ],
+        link: 'https://github.com/joeldbirch/superfish',
+        name: 'jQuery Superfish',
+        platform: 'GitHub',
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.jQuery.fn.superfish'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/jondavidjohn/payform.js
 {
     properties: {

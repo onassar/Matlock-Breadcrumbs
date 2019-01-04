@@ -580,8 +580,7 @@
     properties: {
         examples: [
             'https://tim.fyi',
-            'https://getstencil.com/blog',
-            'https://lodash.com/docs/4.17.11'
+            'https://getstencil.com/blog'
         ],
         link: 'https://github.com/FortAwesome/Font-Awesome',
         notes: [
@@ -10354,11 +10353,32 @@
         type: 'repository'
     },
     tests: {
+        references: [
+            [
+                'window.Fuse',
+                'window.Fuse.prototype.search'
+            ]
+        ],
         statements: [
             [
                 'new window.Fuse([], {}).options',
                 'new window.Fuse([], {}).search'
             ]
+        ]
+    },
+    versions: {
+        references: [
+            'window.Fuse.VERSION'
+        ],
+        shortcuts: [
+            {
+                key: 'query.script',
+                name: 'jQuery'
+            },
+            {
+                key: 'query.stylesheet',
+                name: 'jQuery'
+            }
         ]
     }
 }

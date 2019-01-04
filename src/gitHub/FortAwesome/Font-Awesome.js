@@ -2,8 +2,7 @@
     properties: {
         examples: [
             'https://tim.fyi',
-            'https://getstencil.com/blog',
-            'https://lodash.com/docs/4.17.11'
+            'https://getstencil.com/blog'
         ],
         link: 'https://github.com/FortAwesome/Font-Awesome',
         notes: [

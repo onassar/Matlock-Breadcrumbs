@@ -8446,6 +8446,27 @@
     }
 }
 ,
+// src/gitHub/hubspot/vex.js
+{
+    properties: {
+        examples: [
+            'https://github.hubspot.com/vex/docs/welcome/'
+        ],
+        link: 'https://github.com/hubspot/vex',
+        name: 'vex',
+        platform: 'GitHub',
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.vex',
+                'window.vex.open'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/iamcal/js-emoji.js
 {
     properties: {

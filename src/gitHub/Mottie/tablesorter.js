@@ -1,11 +1,12 @@
 {
     properties: {
-        link: 'https://github.com/Mottie/tablesorter',
-        platform: 'GitHub',
         examples: [
             'https://newscapegroup.com/',
             'https://mottie.github.io/tablesorter/docs/'
         ],
+        link: 'https://github.com/Mottie/tablesorter',
+        name: 'jQuery tablesorter',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {

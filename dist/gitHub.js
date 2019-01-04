@@ -1071,12 +1071,13 @@
 // src/gitHub/Mottie/tablesorter.js
 {
     properties: {
-        link: 'https://github.com/Mottie/tablesorter',
-        platform: 'GitHub',
         examples: [
             'https://newscapegroup.com/',
             'https://mottie.github.io/tablesorter/docs/'
         ],
+        link: 'https://github.com/Mottie/tablesorter',
+        name: 'jQuery tablesorter',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {
@@ -8371,7 +8372,7 @@
 {
     properties: {
         examples: [
-            'http://www.guriddo.net/demo/guriddojs/loading_data/rest_million/index.html'
+            'http://highcharttable.org/'
         ],
         link: 'https://github.com/highchartTable/jquery-highchartTable-plugin',
         platform: 'GitHub',

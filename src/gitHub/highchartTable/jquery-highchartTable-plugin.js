@@ -1,7 +1,7 @@
 {
     properties: {
         examples: [
-            'http://www.guriddo.net/demo/guriddojs/loading_data/rest_million/index.html'
+            'http://highcharttable.org/'
         ],
         link: 'https://github.com/highchartTable/jquery-highchartTable-plugin',
         platform: 'GitHub',

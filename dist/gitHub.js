@@ -11422,6 +11422,9 @@
     }
 }
 ,
+// src/gitHub/ludo copy/jqGrid.js
+
+,
 // src/gitHub/ludo/jquery-treetable.js
 {
     properties: {
@@ -11429,6 +11432,7 @@
             'http://ludo.cubicphuse.nl/jquery-treetable/'
         ],
         link: 'https://github.com/ludo/jquery-treetable',
+        name: 'jQuery treetable',
         platform: 'GitHub',
         tags: [
             'tables'

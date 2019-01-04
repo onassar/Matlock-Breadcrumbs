@@ -601,16 +601,15 @@
     tests: {
         shortcuts: [
             {
-                key: 'query.stylesheet',
-                name: '/font-awesome/'
-            },
-            {
-                key: 'query.stylesheet',
-                name: '/fontawesome/'
-            },
-            {
-                key: 'query.stylesheet',
-                name: 'use.fontawesome.com/'
+                key: 'query.stylesheets',
+                stylesheets: [
+                    '/font-awesome/',
+                    '/font-awesome/',
+                    '/fontawesome-all/',
+                    '/font-awesome-all/',
+                    '/fontawesome/',
+                    'use.fontawesome.com/',
+                ]
             }
         ]
     },

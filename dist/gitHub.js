@@ -17027,7 +17027,7 @@
         examples: [
             'http://labs.voronianski.com/jquery.avgrund.js/'
         ],
-        link: 'https://github.com/jschr/jquery.avgrund.js',
+        link: 'https://github.com/voronianski/jquery.avgrund.js',
         name: 'jQuery Avgrund',
         platform: 'GitHub',
         tags: [

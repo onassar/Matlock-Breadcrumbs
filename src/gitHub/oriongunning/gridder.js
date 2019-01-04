@@ -11,7 +11,7 @@
     tests: {
         references: [
             [
-                'jQuery.fn.gridderExpander'
+                'window.jQuery.fn.gridderExpander'
             ]
         ]
     }

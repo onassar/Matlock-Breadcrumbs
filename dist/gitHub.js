@@ -4553,6 +4553,23 @@
     }
 }
 ,
+// src/gitHub/chartify/jquery-linechart.js
+{
+    properties: {
+        link: 'https://github.com/chartify/jquery-linechart',
+        name: 'jQuery Linechart',
+        platform: 'GitHub',
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.jQuery.fn.linechart'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/chartjs/Chart.js.js
 {
     properties: {
@@ -13282,7 +13299,7 @@
     tests: {
         references: [
             [
-                'jQuery.fn.gridderExpander'
+                'window.jQuery.fn.gridderExpander'
             ]
         ]
     }

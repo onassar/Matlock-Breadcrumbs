@@ -3,7 +3,7 @@
         examples: [
             'http://www.guriddo.net/demo/guriddojs/loading_data/rest_million/index.html'
         ],
-        link: 'https://github.com/tonytomov/jqGrid',
+        link: 'https://github.com/highchartTable/jquery-highchartTable-plugin',
         platform: 'GitHub',
         tags: [
             'tables'
@@ -13,13 +13,8 @@
     tests: {
         references: [
             [
-                'window.jQuery.fn.jqGrid'
+                'window.jQuery.fn.highchartTable'
             ]
-        ]
-    },
-    versions: {
-        references: [
-            'window.jQuery.jgrid.version'
         ]
     }
 }

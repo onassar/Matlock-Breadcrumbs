@@ -21,15 +21,31 @@
         }
     },
     tests: {
+        queries: [
+            [
+                {
+                    selectors: [
+                        'link[rel="stylesheet"][href*="font-awesome" i]',
+                        'link[rel="stylesheet"][href*="font-awesome-all" i]',
+                        'link[rel="stylesheet"][href*="fontawesome" i]',
+                        'link[rel="stylesheet"][href*="fontawesome-all" i]',
+                        'link[rel="stylesheet"][href*="use.fontawesome.com" i]',
+                    ],
+                    length: {
+                        operator: '>',
+                        value: 0
+                    }
+                }
+            ]
+        ],
         shortcuts: [
             {
                 key: 'query.stylesheets',
                 names: [
-                    '/font-awesome/',
-                    '/font-awesome-all/',
-                    '/fontawesome/',
-                    '/fontawesome-all/',
-                    'use.fontawesome.com/',
+                    'font-awesome',
+                    'font-awesome-all',
+                    'fontawesome',
+                    'fontawesome-all'
                 ]
             }
         ]

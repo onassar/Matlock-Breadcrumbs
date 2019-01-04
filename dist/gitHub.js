@@ -2106,6 +2106,34 @@
     }
 }
 ,
+// src/gitHub/WordPress/dashicons.js
+{
+    properties: {
+        examples: [
+            'https://www.atrium.co/blog/founders-should-build-website-not-mobile-app/'
+        ],
+        link: 'https://github.com/WordPress/dashicons',
+        platform: 'GitHub',
+        type: 'repository'
+    },
+    tests: {
+        shortcuts: [
+            {
+                key: 'query.stylesheet',
+                fileroot: 'dashicons'
+            }
+        ]
+    },
+    versions: {
+        shortcuts: [
+            {
+                key: 'query.stylesheet',
+                fileroot: 'dashicons'
+            }
+        ]
+    }
+}
+,
 // src/gitHub/WordPress/secure-swfupload.js
 {
     properties: {

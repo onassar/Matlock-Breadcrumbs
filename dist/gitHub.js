@@ -15933,7 +15933,11 @@
 // src/gitHub/typekit/webfontloader.js
 {
     properties: {
+        examples: [
+            'https://bulma.io/'
+        ],
         link: 'https://github.com/typekit/webfontloader',
+        name: 'Web Font Loader',
         platform: 'GitHub',
         type: 'repository'
     },
@@ -15941,6 +15945,9 @@
         references: [
             [
                 'window.WebFont'
+            ],
+            [
+                'window.WebFontConfig'
             ]
         ]
     }

@@ -16746,7 +16746,7 @@
             [
                 'window.jQuery.fn.popup',
                 'window.jQuery.fn.popup.defaults',
-                'window.jQuery.fn.popup.defaults.typeo'
+                'window.jQuery.fn.popup.defaults.type'
             ]
         ]
     }

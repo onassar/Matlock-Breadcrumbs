@@ -15,7 +15,8 @@
     tests: {
         references: [
             [
-                'window.Globalize'
+                'window.Globalize',
+                'window.Globalize.locale'
             ]
         ]
     }

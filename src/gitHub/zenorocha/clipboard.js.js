@@ -28,6 +28,10 @@
             [
                 'window.Clipboard',
                 'window.Clipboard.prototype.listenClick'
+            ],
+            [
+                'window.ClipboardJS',
+                'window.ClipboardJS.prototype.listenClick'
             ]
         ]
     },

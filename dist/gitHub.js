@@ -7274,6 +7274,24 @@
     }
 }
 ,
+// src/gitHub/formvalidation/formvalidation.js
+{
+    properties: {
+        link: 'https://github.com/formvalidation/formvalidation',
+        name: 'FormValidation',
+        platform: 'GitHub',
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.FormValidation',
+                'window.FormValidation.formValidation'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/froala/wysiwyg-editor.js
 {
     properties: {
@@ -17338,6 +17356,9 @@
 // src/gitHub/victorjonsson/jQuery-Form-Validator.js
 {
     properties: {
+        examples: [
+            'http://www.formvalidator.net/#date-validators'
+        ],
         link: 'https://github.com/victorjonsson/jQuery-Form-Validator',
         platform: 'GitHub',
         type: 'repository'

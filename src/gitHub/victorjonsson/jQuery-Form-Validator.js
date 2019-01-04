@@ -1,5 +1,8 @@
 {
     properties: {
+        examples: [
+            'http://www.formvalidator.net/#date-validators'
+        ],
         link: 'https://github.com/victorjonsson/jQuery-Form-Validator',
         platform: 'GitHub',
         type: 'repository'

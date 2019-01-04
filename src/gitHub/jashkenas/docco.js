@@ -8,12 +8,19 @@
         type: 'repository'
     },
     tests: {
-        patterns: {
-            page: [
-                [
-                    /<link[^>]+docco.css[^>]+>/i
-                ]
-            ]
-        }
+        shortcuts: [
+            {
+                key: 'query.stylesheet',
+                name: 'docco'
+            }
+        ]
+    },
+    versions: {
+        shortcuts: [
+            {
+                key: 'query.stylesheet',
+                name: 'docco'
+            }
+        ]
     }
 }

@@ -8455,6 +8455,9 @@
         link: 'https://github.com/hubspot/vex',
         name: 'vex',
         platform: 'GitHub',
+        tags: [
+            'modals'
+        ],
         type: 'repository'
     },
     tests: {
@@ -11389,6 +11392,7 @@
             'https://github.com/jquery/jquery'
         ],
         link: 'https://github.com/madrobby/zepto',
+        name: 'Zepto.js',
         platform: 'GitHub',
         type: 'repository'
     },
@@ -13261,6 +13265,29 @@
         references: [
             [
                 'window.$nuxt'
+            ]
+        ]
+    }
+}
+,
+// src/gitHub/object505/tipso.js
+{
+    properties: {
+        examples: [
+            'https://tipso.object505.com/'
+        ],
+        link: 'https://github.com/object505/tipso',
+        name: 'Tipso',
+        platform: 'GitHub',
+        tags: [
+            'tooltip'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.jQuery.fn.tipso'
             ]
         ]
     }

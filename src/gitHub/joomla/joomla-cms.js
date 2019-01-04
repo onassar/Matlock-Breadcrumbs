@@ -4,7 +4,7 @@
             'https://www.joomla.ca/'
         ],
         link: 'https://github.com/joomla/joomla-cms',
-        name: 'Hexo',
+        name: 'Joomla!',
         platform: 'GitHub',
         type: 'repository'
     },

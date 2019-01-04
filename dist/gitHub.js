@@ -8510,7 +8510,7 @@
             'https://hexo.io/'
         ],
         link: 'https://github.com/hexojs/hexo',
-        name: 'Joomla!',
+        name: 'Hexo',
         platform: 'GitHub',
         type: 'repository'
     },
@@ -10262,7 +10262,7 @@
             'https://www.joomla.ca/'
         ],
         link: 'https://github.com/joomla/joomla-cms',
-        name: 'Hexo',
+        name: 'Joomla!',
         platform: 'GitHub',
         type: 'repository'
     },

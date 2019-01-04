@@ -7,7 +7,7 @@
             'https://hexo.io/'
         ],
         link: 'https://github.com/hexojs/hexo',
-        name: 'Joomla!',
+        name: 'Hexo',
         platform: 'GitHub',
         type: 'repository'
     },

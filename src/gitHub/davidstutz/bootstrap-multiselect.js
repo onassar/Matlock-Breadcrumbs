@@ -5,7 +5,8 @@
         ],
         link: 'https://github.com/davidstutz/bootstrap-multiselect',
         name: 'Bootstrap Multiselect',
-        platform: 'GitHub'
+        platform: 'GitHub',
+        type: 'repository'
     },
     tests: {
         references: [

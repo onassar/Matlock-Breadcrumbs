@@ -5,7 +5,8 @@
         ],
         link: 'https://github.com/Microsoft/monaco-editor',
         name: 'Monaco Editor',
-        platform: 'GitHub'
+        platform: 'GitHub',
+        type: 'repository'
     },
     tests: {
         references: [

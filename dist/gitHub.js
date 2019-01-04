@@ -937,7 +937,8 @@
         ],
         link: 'https://github.com/Microsoft/monaco-editor',
         name: 'Monaco Editor',
-        platform: 'GitHub'
+        platform: 'GitHub',
+        type: 'repository'
     },
     tests: {
         references: [
@@ -5204,7 +5205,8 @@
         ],
         link: 'https://github.com/davidstutz/bootstrap-multiselect',
         name: 'Bootstrap Multiselect',
-        platform: 'GitHub'
+        platform: 'GitHub',
+        type: 'repository'
     },
     tests: {
         references: [

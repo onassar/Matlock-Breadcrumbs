@@ -15750,15 +15750,15 @@
 // src/gitHub/twbs/bootstrap.js
 {
     properties: {
+        examples: [
+            'https://www.bootstrapcdn.com/'
+        ],
         link: 'https://github.com/twbs/bootstrap',
         name: 'Bootstrap',
         notes: [
             'https://i.imgur.com/BrbdjkX.jpg'
         ],
         platform: 'GitHub',
-        examples: [
-            'https://www.bootstrapcdn.com/'
-        ],
         type: 'repository',
         wikiPedia: {
             load: true,
@@ -15766,27 +15766,19 @@
         }
     },
     tests: {
-        patterns: {
-            page: [
-                [
-                    /<link[^>]+\/bootstrap\//i
-                ]
-            ]
-        },
-        references: [
-            [
-                'window.jQuery.fn.tooltip'
-            ]
+        shortcuts: [
+            {
+                key: 'query.stylesheet',
+                name: 'bootstrap'
+            }
         ]
     },
     versions: {
-        patterns: {
-            page: [
-                /\<link[^>]+\/bootstrap\/([0-9\.]+)\//i
-            ]
-        },
-        references: [
-            'window.jQuery.fn.tooltip.Constructor.VERSION'
+        shortcuts: [
+            {
+                key: 'query.stylesheet',
+                name: 'bootstrap'
+            }
         ]
     }
 }

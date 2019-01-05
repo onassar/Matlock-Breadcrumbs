@@ -12535,7 +12535,7 @@
 {
     properties: {
         examples: [
-            'http://pieroxy.net/blog/2012/10/22/index_of_the_media_queries_articles.html'
+            'https://script.aculo.us/'
         ],
         link: 'https://github.com/prototypejs/prototype',
         name: 'Prototype',
@@ -12558,9 +12558,10 @@
 ,
 // src/gitHub/madrobby/scriptaculous.js
 {
+    isolate: true,
     properties: {
         examples: [
-            'http://pieroxy.net/blog/2012/10/22/index_of_the_media_queries_articles.html'
+            'https://script.aculo.us/'
         ],
         link: 'https://github.com/madrobby/scriptaculous',
         name: 'script.aculo.us',

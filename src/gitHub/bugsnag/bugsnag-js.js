@@ -10,7 +10,8 @@
     tests: {
         references: [
             [
-                'window.bugsnagClient'
+                'window.bugsnagClient',
+                'window.Bugsnag'
             ]
         ]
     },

@@ -1,6 +1,10 @@
 {
     properties: {
+        examples: [
+            'https://dashboard.stripe.com/dashboard'
+        ],
         link: 'https://github.com/bestiejs/platform.js',
+        name: 'Platform.js',
         platform: 'GitHub',
         tags: [
             'detection'

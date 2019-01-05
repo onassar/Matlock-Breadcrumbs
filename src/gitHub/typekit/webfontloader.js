@@ -1,5 +1,8 @@
 {
     properties: {
+        alternatives: [
+            'https://github.com/bramstein/fontfaceobserver'
+        ],
         examples: [
             'https://bulma.io/'
         ],

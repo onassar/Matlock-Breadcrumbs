@@ -8,6 +8,12 @@
         type: 'repository'
     },
     tests: {
+        references: [
+            [
+                'window.Redoc',
+                'window.Redoc.init'
+            ]
+        ],
         shortcuts: [
             {
                 key: 'query.meta.generator',
@@ -16,6 +22,9 @@
         ]
     },
     versions: {
+        references: [
+            'window.Redoc.version'
+        ],
         shortcuts: [
             {
                 key: 'query.meta.generator',

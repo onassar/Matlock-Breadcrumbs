@@ -4825,11 +4825,13 @@
 // src/gitHub/bugsnag/bugsnag-js.js
 {
     properties: {
-        link: 'https://github.com/bugsnag/bugsnag-js',
-        platform: 'GitHub',
         examples: [
-            'https://mailchimp.com/'
+            'https://mailchimp.com/',
+            'https://jobs.lever.co/lever/7a97d133-dd56-4a86-a935-fd4354ad534f'
         ],
+        link: 'https://github.com/bugsnag/bugsnag-js',
+        name: 'BugSnag',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {

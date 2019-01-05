@@ -1,6 +1,10 @@
 {
     properties: {
+        examples: [
+            'http://indigovolunteers.org/'
+        ],
         link: 'https://github.com/dojo/framework',
+        name: 'DoJo Framework',
         platform: 'GitHub',
         type: 'repository'
     },

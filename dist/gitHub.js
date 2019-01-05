@@ -14799,7 +14799,7 @@
         ],
         shortcuts: [
             {
-                key: 'html.comment.string',
+                key: 'string.page.htmlComment',
                 comments: [
                     '<!-- OWA Helper Tag Tags -->',
                     '<!-- Start Open Web Analytics Tracker -->',

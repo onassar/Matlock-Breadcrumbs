@@ -1,8 +1,11 @@
 {
     uses: [
-        'gitHub/nodeca/pako'
+        'https://github.com/nodeca/pako'
     ],
     properties: {
+        alternatives: [
+            'https://github.com/gildas-lormeau/zip.js'
+        ],
         link: 'https://github.com/Stuk/jszip',
         platform: 'GitHub',
         type: 'repository'

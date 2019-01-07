@@ -7,7 +7,7 @@
     ],
     properties: {
         alternatives: [
-            'gitHub/onassar/Stencil'
+            'https://github.com/onassar/Stencil'
         ],
         examples: [],
         link: 'https://github.com/username/name',

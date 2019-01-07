@@ -1252,6 +1252,36 @@
     }
 }
 ,
+// src/gitHub/MrRio/jsPDF.js
+{
+    properties: {
+        examples: [
+            'https://funretro.io/'
+        ],
+        link: 'https://github.com/MrRio/jsPDF',
+        platform: 'GitHub',
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.jspdf',
+                'window.jspdf.API'
+            ],
+            [
+                'window.jsPDF',
+                'window.jsPDF.API'
+            ]
+        ]
+    },
+    versions: {
+        references: [
+            'window.jspdf.version',
+            'window.jsPDF.version'
+        ]
+    }
+}
+,
 // src/gitHub/NYTimes/backbone.stickit.js
 {
     properties: {
@@ -1825,9 +1855,12 @@
 // src/gitHub/Stuk/jszip.js
 {
     uses: [
-        'gitHub/nodeca/pako'
+        'https://github.com/nodeca/pako'
     ],
     properties: {
+        alternatives: [
+            'https://github.com/gildas-lormeau/zip.js'
+        ],
         link: 'https://github.com/Stuk/jszip',
         platform: 'GitHub',
         type: 'repository'
@@ -5050,11 +5083,11 @@
 // src/gitHub/cburgmer/rasterizeHTML.js.js
 {
     properties: {
-        link: 'https://github.com/cburgmer/rasterizeHTML.js',
-        platform: 'GitHub',
         examples: [
             'http://cburgmer.github.io/rasterizeHTML.js/'
         ],
+        link: 'https://github.com/cburgmer/rasterizeHTML.js',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {
@@ -8187,6 +8220,30 @@
             [
                 'window.jQuery.fn.toc',
                 'window.jQuery.fn.toc.defaults'
+            ]
+        ]
+    }
+}
+,
+// src/gitHub/gildas-lormeau/zip.js.js
+{
+    properties: {
+        alternatives: [
+            'https://github.com/Stuk/jszip'
+        ],
+        examples: [
+            'http://gildas-lormeau.github.io/zip.js/demos/demo1.html'
+        ],
+        link: 'https://github.com/gildas-lormeau/zip.js',
+        platform: 'GitHub',
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.zip',
+                'window.zip.Reader',
+                'window.zip.Writer'
             ]
         ]
     }
@@ -12558,7 +12615,7 @@
 ,
 // src/gitHub/madrobby/scriptaculous.js
 {
-    isolate: true,
+
     properties: {
         examples: [
             'https://script.aculo.us/'
@@ -18622,11 +18679,11 @@
 // src/gitHub/webpack/webpack.js
 {
     properties: {
-        link: 'https://github.com/webpack/webpack',
-        platform: 'GitHub',
         examples: [
             'https://www.cbc.ca/'
         ],
+        link: 'https://github.com/webpack/webpack',
+        platform: 'GitHub',
         type: 'repository',
         wikiPedia: {
             load: true,

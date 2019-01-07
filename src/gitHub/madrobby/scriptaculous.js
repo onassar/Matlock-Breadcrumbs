@@ -1,5 +1,5 @@
 {
-    isolate: true,
+
     properties: {
         examples: [
             'https://script.aculo.us/'

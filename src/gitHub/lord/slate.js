@@ -14,7 +14,7 @@
                     /Documentation Powered by Slate/i
                 ]
             ]
-        }
+        },
         queries: [
             [
                 {

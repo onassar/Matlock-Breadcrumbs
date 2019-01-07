@@ -1,4 +1,7 @@
 {
+    dependencies: [
+        'https://github.com/rails/rails'
+    ],
     properties: {
         examples: [
             'https://www.instacart.com/opensource'

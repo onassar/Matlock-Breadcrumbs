@@ -1,14 +1,9 @@
 {
     properties: {
-        link: 'https://github.com/AlloyTeam/AlloyFinger',
+        link: 'https://github.com/rails/rails',
         platform: 'GitHub',
         type: 'repository'
     },
     tests: {
-        references: [
-            [
-                'window.AlloyFinger'
-            ]
-        ]
     }
 }

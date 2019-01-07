@@ -3419,6 +3419,9 @@
 ,
 // src/gitHub/ankane/ahoy.js
 {
+    dependencies: [
+        'https://github.com/rails/rails'
+    ],
     properties: {
         examples: [
             'https://www.instacart.com/opensource'
@@ -15711,16 +15714,11 @@
 // src/gitHub/rails/rails.js
 {
     properties: {
-        link: 'https://github.com/AlloyTeam/AlloyFinger',
+        link: 'https://github.com/rails/rails',
         platform: 'GitHub',
         type: 'repository'
     },
     tests: {
-        references: [
-            [
-                'window.AlloyFinger'
-            ]
-        ]
     }
 }
 ,

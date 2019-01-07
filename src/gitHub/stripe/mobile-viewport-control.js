@@ -11,7 +11,8 @@
     tests: {
         references: [
             [
-                'window.mobileViewportControl'
+                'window.mobileViewportControl',
+                'window.mobileViewportControl.isolate'
             ]
         ]
     },

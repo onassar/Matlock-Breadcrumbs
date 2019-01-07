@@ -12383,11 +12383,11 @@
 // src/gitHub/lord/slate.js
 {
     properties: {
-        link: 'https://github.com/lord/slate',
-        platform: 'GitHub',
         examples: [
             'https://docs.dwolla.com/'
         ],
+        link: 'https://github.com/lord/slate',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {
@@ -12398,6 +12398,20 @@
                 ]
             ]
         }
+        queries: [
+            [
+                {
+                    selectors: [
+                        '.page-wrapper .dark-box #lang-selector',
+                        '.page-wrapper .dark-box .lang-selector'
+                    ],
+                    length: {
+                        operator: '>',
+                        value: 0
+                    }
+                }
+            ]
+        ]
     }
 }
 ,

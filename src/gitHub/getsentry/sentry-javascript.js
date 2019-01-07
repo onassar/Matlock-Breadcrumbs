@@ -1,10 +1,12 @@
 {
     properties: {
-        link: 'https://github.com/getsentry/sentry-javascript',
-        platform: 'GitHub',
         examples: [
-            'https://getstencil.com/app'
+            'https://getstencil.com/app',
+            'https://funretro.io/'
         ],
+        link: 'https://github.com/getsentry/sentry-javascript',
+        name: 'Sentry (JavaScript SDK)',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {

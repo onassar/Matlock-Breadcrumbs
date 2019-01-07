@@ -1,10 +1,10 @@
 {
     properties: {
-        link: 'https://github.com/Valve/fingerprintjs2',
-        platform: 'GitHub',
         examples: [
             'http://valve.github.io/fingerprintjs2/'
         ],
+        link: 'https://github.com/Valve/fingerprintjs2',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {

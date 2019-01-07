@@ -12617,7 +12617,7 @@
 ,
 // src/gitHub/madrobby/scriptaculous.js
 {
-
+    isolate: true,
     properties: {
         examples: [
             'https://script.aculo.us/'

@@ -6,6 +6,9 @@
         donate: {
             link: 'https://openresty.org/en/donate-online.html'
         },
+        examples: [
+            'https://openresty.org/en/'
+        ],
         link: 'https://github.com/openresty/openresty',
         name: 'OpenResty',
         platform: 'GitHub',

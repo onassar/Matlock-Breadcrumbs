@@ -3567,6 +3567,9 @@
         donate: {
             link: 'https://www.apache.org/foundation/contributing.html'
         },
+        examples: [
+            ''
+        ],
         link: 'https://github.com/apache/tomcat',
         platform: 'GitHub',
         type: 'repository',
@@ -3576,20 +3579,20 @@
         }
     },
     tests: {
-        patterns: {
-            headers: [
-                [
-                    /server\: apache\-coyote/i
-                ]
-            ]
-        }
+        shortcuts: [
+            {
+                key: 'header.server',
+                name: 'Apache-Coyote'
+            }
+        ]
     },
     versions: {
-        patterns: {
-            headers: [
-                /server\: apache\-coyote\/([0-9\.]+)/i
-            ]
-        }
+        shortcuts: [
+            {
+                key: 'header.server',
+                name: 'Apache-Coyote'
+            }
+        ]
     }
 }
 ,
@@ -14941,6 +14944,9 @@
         donate: {
             link: 'https://openresty.org/en/donate-online.html'
         },
+        examples: [
+            'https://openresty.org/en/'
+        ],
         link: 'https://github.com/openresty/openresty',
         name: 'OpenResty',
         platform: 'GitHub',

@@ -1,6 +1,7 @@
 {
     properties: {
         examples: [
+            'https://www.ubuntu.com/',
             'https://thenounproject.com/'
         ],
         link: 'https://github.com/benoitc/gunicorn',

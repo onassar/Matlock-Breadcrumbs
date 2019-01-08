@@ -18,19 +18,19 @@
         }
     },
     tests: {
-        patterns: {
-            headers: [
-                [
-                    /server\: nginx/i
-                ]
-            ]
-        }
+        shortcuts: [
+            {
+                key: 'header.server',
+                name: 'nginx'
+            }
+        ]
     },
     versions: {
-        patterns: {
-            headers: [
-                /server\: nginx\/([0-9\.]+)/i
-            ]
-        }
+        shortcuts: [
+            {
+                key: 'header.server',
+                name: 'nginx'
+            }
+        ]
     }
 }

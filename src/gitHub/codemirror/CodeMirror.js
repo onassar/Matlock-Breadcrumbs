@@ -1,8 +1,15 @@
 {
     properties: {
+        examples: [
+            'https://regexr.com/34pe5'
+        ],
         link: 'https://github.com/codemirror/CodeMirror',
         platform: 'GitHub',
-        type: 'repository'
+        type: 'repository',
+        wikiPedia: {
+            load: true,
+            title: 'CodeMirror'
+        }
     },
     tests: {
         references: [

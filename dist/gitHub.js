@@ -2523,14 +2523,14 @@
 // src/gitHub/aFarkas/html5shiv.js
 {
     properties: {
+        examples: [
+            'https://ca.octobersveryown.com'
+        ],
         link: 'https://github.com/aFarkas/html5shiv',
         notes: [
             'https://i.imgur.com/VaUooX0.png'
         ],
         platform: 'GitHub',
-        examples: [
-            'https://ca.octobersveryown.com'
-        ],
         type: 'repository',
         wikiPedia: {
             load: true,

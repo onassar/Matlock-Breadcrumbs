@@ -7,6 +7,7 @@
             'https://www.oschina.net/'
         ],
         link: 'https://github.com/alibaba/tengine',
+        name: 'Tengine',
         platform: 'GitHub',
         tags: [
             'server'

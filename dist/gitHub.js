@@ -3046,6 +3046,7 @@
             'https://www.oschina.net/'
         ],
         link: 'https://github.com/alibaba/tengine',
+        name: 'Tengine',
         platform: 'GitHub',
         tags: [
             'server'
@@ -14392,11 +14393,11 @@
 // src/gitHub/netlify/netlify-cms.js
 {
     properties: {
-        link: 'https://github.com/netlify/netlify-cms',
-        platform: 'GitHub',
         examples: [
             'https://www.netlifycms.org/'
         ],
+        link: 'https://github.com/netlify/netlify-cms',
+        platform: 'GitHub',
         type: 'repository',
         wikiPedia: {
             load: true,
@@ -14404,13 +14405,20 @@
         }
     },
     tests: {
-        patterns: {
-            headers: [
-                [
-                    /server\: Netlify/i
-                ]
-            ]
-        }
+        shortcuts: [
+            {
+                key: 'header.server',
+                name: 'Netlify'
+            }
+        ]
+    },
+    versions: {
+        shortcuts: [
+            {
+                key: 'header.server',
+                name: 'Netlify'
+            }
+        ]
     }
 }
 ,

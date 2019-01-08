@@ -3436,6 +3436,45 @@
     }
 }
 ,
+// src/gitHub/angular/material.js
+{
+    properties: {
+        examples: [
+            'https://analytics.google.com/analytics/web/#/report-home/a35893957w63834918p65499463'
+        ],
+        link: 'https://github.com/angular/material',
+        platform: 'GitHub',
+        tags: [
+            'angular'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.ngMaterial'
+            ]
+        ],
+        shortcuts: [
+            {
+                key: 'statement.angular.module',
+                name: 'ngMaterial'
+            }
+        ]
+    },
+    versions: {
+        references: [
+            'window.ngMaterial.version.full'
+        ],
+        shortcuts: [
+            {
+                key: 'statement.angular.module',
+                name: 'ngMaterial'
+            }
+        ]
+    }
+}
+,
 // src/gitHub/angular/zone.js.js
 {
     properties: {
@@ -16471,6 +16510,37 @@
             [
                 'window.jQuery.fn.lightSlider'
             ]
+        ]
+    }
+}
+,
+// src/gitHub/sachinchoolur/ngclipboard.js
+{
+    properties: {
+        examples: [
+            'https://analytics.google.com/analytics/web/#/report-home/a35893957w63834918p65499463'
+        ],
+        link: 'https://github.com/sachinchoolur/ngclipboard',
+        platform: 'GitHub',
+        tags: [
+            'angular'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        shortcuts: [
+            {
+                key: 'statement.angular.module',
+                name: 'ngclipboard'
+            }
+        ]
+    },
+    versions: {
+        shortcuts: [
+            {
+                key: 'statement.angular.module',
+                name: 'ngclipboard'
+            }
         ]
     }
 }

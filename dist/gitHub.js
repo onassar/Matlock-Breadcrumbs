@@ -7322,6 +7322,9 @@
 ,
 // src/gitHub/expressjs/express.js
 {
+    dependencies: [
+        'https://github.com/nodejs/node'
+    ],
     properties: {
         examples: [
             'https://www.nbcnews.com/politics/national-security/russians-launched-pro-jill-stein-social-media-blitz-help-trump-n951166'

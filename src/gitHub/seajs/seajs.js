@@ -1,6 +1,7 @@
 {
     properties: {
         examples: [
+            'https://seajs.github.io/seajs/docs/',
             'https://www.alibaba.com/'
         ],
         link: 'https://github.com/seajs/seajs',

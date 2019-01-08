@@ -14558,18 +14558,29 @@
 // src/gitHub/nienines/cowboy.js
 {
     properties: {
+        examples: [
+            'https://unsplash.com/'
+        ],
         link: 'https://github.com/ninenines/cowboy',
+        name: 'Cowboy',
         platform: 'GitHub',
         type: 'repository'
     },
     tests: {
-        patterns: {
-            headers: [
-                [
-                    /server\: cowboy/i
-                ]
-            ]
-        }
+        shortcuts: [
+            {
+                key: 'header.server',
+                name: 'cowboy'
+            }
+        ]
+    },
+    versions: {
+        shortcuts: [
+            {
+                key: 'header.server',
+                name: 'cowboy'
+            }
+        ]
     }
 }
 ,
@@ -16583,6 +16594,7 @@
 {
     properties: {
         examples: [
+            'https://seajs.github.io/seajs/docs/',
             'https://www.alibaba.com/'
         ],
         link: 'https://github.com/seajs/seajs',

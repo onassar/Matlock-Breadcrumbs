@@ -1409,6 +1409,9 @@
         ],
         link: 'https://github.com/Pikaday/Pikaday',
         platform: 'GitHub',
+        tags: [
+            'date-picker'
+        ],
         type: 'repository'
     },
     tests: {
@@ -3256,6 +3259,8 @@
         link: 'https://github.com/amsul/pickadate.js',
         platform: 'GitHub',
         tags: [
+            'date-picker',
+            'time-picker',
             'datetime-picker'
         ],
         type: 'repository'
@@ -6072,8 +6077,14 @@
 // src/gitHub/datejs/Datejs.js
 {
     properties: {
+        alternatives: [
+            'https://github.com/moment/moment'
+        ],
         link: 'https://github.com/datejs/Datejs',
         platform: 'GitHub',
+        tags: [
+            'date-manipulation'
+        ],
         type: 'repository'
     },
     tests: {
@@ -14261,9 +14272,15 @@
 // src/gitHub/moment/moment.js
 {
     properties: {
+        alternatives: [
+            'https://github.com/datejs/Datejs'
+        ],
         link: 'https://github.com/moment/moment',
         name: 'Moment.js',
         platform: 'GitHub',
+        tags: [
+            'date-manipulation'
+        ],
         type: 'repository'
     },
     tests: {

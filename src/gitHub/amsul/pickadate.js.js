@@ -6,6 +6,8 @@
         link: 'https://github.com/amsul/pickadate.js',
         platform: 'GitHub',
         tags: [
+            'date-picker',
+            'time-picker',
             'datetime-picker'
         ],
         type: 'repository'

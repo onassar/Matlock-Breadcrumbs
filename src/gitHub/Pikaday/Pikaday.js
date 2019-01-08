@@ -5,6 +5,9 @@
         ],
         link: 'https://github.com/Pikaday/Pikaday',
         platform: 'GitHub',
+        tags: [
+            'date-picker'
+        ],
         type: 'repository'
     },
     tests: {

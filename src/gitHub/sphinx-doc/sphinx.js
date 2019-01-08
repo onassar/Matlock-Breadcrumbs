@@ -1,13 +1,15 @@
 {
     properties: {
+        examples: [
+            'http://varnish-cache.org/',
+            'http://docs.gunicorn.org/en/stable/run.html'
+        ],
         link: 'https://github.com/sphinx-doc/sphinx',
+        name: 'Sphinx',
         notes: [
             'https://i.imgur.com/vTzFde7.jpg'
         ],
         platform: 'GitHub',
-        examples: [
-            'http://varnish-cache.org/'
-        ],
         type: 'repository'
     },
     tests: {

@@ -1,10 +1,11 @@
 {
     properties: {
+        examples: [
+            'https://torontolife.com/food/torontos-best-pies/',
+            'http://docs.gunicorn.org/en/stable/run.html'
+        ],
         link: 'https://github.com/jashkenas/underscore',
         platform: 'GitHub',
-        examples: [
-            'https://torontolife.com/food/torontos-best-pies/'
-        ],
         type: 'repository',
         wikiPedia: {
             load: true,
@@ -22,13 +23,19 @@
                 'window._u',
                 'window._u.each',
                 '!window._u.at'
+            ],
+            [
+                'window.$u',
+                'window.$u.each',
+                '!window.$u.at'
             ]
         ]
     },
     versions: {
         references: [
             'window._.VERSION',
-            'window._u.VERSION'
+            'window._u.VERSION',
+            'window.$u.VERSION'
         ]
     }
 }

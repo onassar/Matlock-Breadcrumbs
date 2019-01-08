@@ -4243,6 +4243,9 @@
 // src/gitHub/benoitc/gunicorn.js
 {
     properties: {
+        examples: [
+            ''
+        ],
         link: 'https://github.com/benoitc/gunicorn',
         platform: 'GitHub',
         type: 'repository'
@@ -10310,11 +10313,12 @@
 // src/gitHub/jashkenas/underscore.js
 {
     properties: {
+        examples: [
+            'https://torontolife.com/food/torontos-best-pies/',
+            'http://docs.gunicorn.org/en/stable/run.html'
+        ],
         link: 'https://github.com/jashkenas/underscore',
         platform: 'GitHub',
-        examples: [
-            'https://torontolife.com/food/torontos-best-pies/'
-        ],
         type: 'repository',
         wikiPedia: {
             load: true,
@@ -10332,13 +10336,19 @@
                 'window._u',
                 'window._u.each',
                 '!window._u.at'
+            ],
+            [
+                'window.$u',
+                'window.$u.each',
+                '!window.$u.at'
             ]
         ]
     },
     versions: {
         references: [
             'window._.VERSION',
-            'window._u.VERSION'
+            'window._u.VERSION',
+            'window.$u.VERSION'
         ]
     }
 }
@@ -16971,14 +16981,16 @@
 // src/gitHub/sphinx-doc/sphinx.js
 {
     properties: {
+        examples: [
+            'http://varnish-cache.org/',
+            'http://docs.gunicorn.org/en/stable/run.html'
+        ],
         link: 'https://github.com/sphinx-doc/sphinx',
+        name: 'Sphinx',
         notes: [
             'https://i.imgur.com/vTzFde7.jpg'
         ],
         platform: 'GitHub',
-        examples: [
-            'http://varnish-cache.org/'
-        ],
         type: 'repository'
     },
     tests: {

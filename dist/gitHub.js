@@ -4243,6 +4243,9 @@
 // src/gitHub/benoitc/gunicorn.js
 {
     properties: {
+        examples: [
+            'https://thenounproject.com/'
+        ],
         link: 'https://github.com/benoitc/gunicorn',
         platform: 'GitHub',
         type: 'repository'

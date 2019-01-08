@@ -3594,7 +3594,7 @@
 ,
 // src/gitHub/apache/tomcat.js
 {
-    enabled: false,
+    enabled: true,
     properties: {
         donate: {
             link: 'https://www.apache.org/foundation/contributing.html'
@@ -13122,6 +13122,25 @@
                 'window.jQuery.serializeJSON',
                 'window.jQuery.serializeJSON.defaultOptions',
                 'window.jQuery.fn.serializeJSON'
+            ]
+        ]
+    }
+}
+,
+// src/gitHub/marionettejs/backbone.babysitter.js
+{
+    properties: {
+        examples: [
+            'https://www.thebay.com/'
+        ],
+        link: 'https://github.com/marionettejs/backbone.babysitter',
+        platform: 'GitHub',
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.Backbone.ChildViewContainer'
             ]
         ]
     }

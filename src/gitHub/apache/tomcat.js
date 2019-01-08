@@ -1,5 +1,5 @@
 {
-    enabled: false,
+    enabled: true,
     properties: {
         donate: {
             link: 'https://www.apache.org/foundation/contributing.html'

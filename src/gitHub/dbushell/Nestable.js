@@ -11,6 +11,9 @@
         references: [
             [
                 'window.jQuery.fn.nestable'
+            ],
+            [
+                'window.Zepto.fn.nestable'
             ]
         ]
     }

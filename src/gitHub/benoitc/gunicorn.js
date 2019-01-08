@@ -1,8 +1,5 @@
 {
     properties: {
-        examples: [
-            ''
-        ],
         link: 'https://github.com/benoitc/gunicorn',
         platform: 'GitHub',
         type: 'repository'

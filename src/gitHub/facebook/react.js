@@ -1,7 +1,8 @@
 {
     properties: {
         examples: [
-            'https://www.cbc.ca/'
+            'https://www.cbc.ca/',
+            'https://www.meetup.com/'
         ],
         link: 'https://github.com/facebook/react',
         platform: 'GitHub',
@@ -31,6 +32,9 @@
             ],
             [
                 'window.ReactDOM'
+            ],
+            [
+                'window.react_lib'
             ]
         ]
     },

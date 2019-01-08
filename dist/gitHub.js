@@ -2127,6 +2127,7 @@
             'http://valve.github.io/fingerprintjs2/'
         ],
         link: 'https://github.com/Valve/fingerprintjs2',
+        name: 'Fingerprintjs2',
         platform: 'GitHub',
         type: 'repository'
     },

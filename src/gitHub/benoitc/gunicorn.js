@@ -5,19 +5,19 @@
         type: 'repository'
     },
     tests: {
-        patterns: {
-            headers: [
-                [
-                    /server\: gunicorn\//i
-                ]
-            ]
-        }
+        shortcuts: [
+            {
+                key: 'header.server',
+                name: 'gunicorn'
+            }
+        ]
     },
     versions: {
-        patterns: {
-            headers: [
-                /server\: gunicorn\/([0-9\.]+)/i
-            ]
-        }
+        shortcuts: [
+            {
+                key: 'header.server',
+                name: 'gunicorn'
+            }
+        ]
     }
 }

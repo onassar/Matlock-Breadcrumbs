@@ -2098,11 +2098,11 @@
 // src/gitHub/Valve/fingerprintjs2.js
 {
     properties: {
-        link: 'https://github.com/Valve/fingerprintjs2',
-        platform: 'GitHub',
         examples: [
             'http://valve.github.io/fingerprintjs2/'
         ],
+        link: 'https://github.com/Valve/fingerprintjs2',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {
@@ -4248,20 +4248,20 @@
         type: 'repository'
     },
     tests: {
-        patterns: {
-            headers: [
-                [
-                    /server\: gunicorn\//i
-                ]
-            ]
-        }
+        shortcuts: [
+            {
+                key: 'header.server',
+                name: 'gunicorn'
+            }
+        ]
     },
     versions: {
-        patterns: {
-            headers: [
-                /server\: gunicorn\/([0-9\.]+)/i
-            ]
-        }
+        shortcuts: [
+            {
+                key: 'header.server',
+                name: 'gunicorn'
+            }
+        ]
     }
 }
 ,
@@ -13984,11 +13984,11 @@
 // src/gitHub/mootools/mootools-core.js
 {
     properties: {
-        link: 'https://github.com/mootools/mootools-core',
-        platform: 'GitHub',
         examples: [
             'https://updates.getstencil.com/60+-new-google-fonts-83564'
         ],
+        link: 'https://github.com/mootools/mootools-core',
+        platform: 'GitHub',
         type: 'repository',
         wikiPedia: {
             load: true,
@@ -15304,7 +15304,7 @@
 {
     properties: {
         examples: [
-            'https://philogb.github.io/jit/demos.html'
+            'https://philogb.github.io/jit/static/v20/Jit/Examples/Sunburst/example2.html'
         ],
         link: 'https://github.com/philogb/jit',
         name: 'JavaScript InfoVis Toolkit',
@@ -19186,6 +19186,9 @@
 ,
 // src/gitHub/woocommerce/woocommerce.js
 {
+    dependencies: [
+        'https://github.com/WordPress/WordPress'
+    ],
     properties: {
         examples: [
             'https://woocommerce.com/flexslider/'

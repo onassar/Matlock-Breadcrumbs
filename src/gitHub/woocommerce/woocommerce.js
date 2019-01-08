@@ -1,4 +1,7 @@
 {
+    dependencies: [
+        'https://github.com/WordPress/WordPress'
+    ],
     properties: {
         examples: [
             'https://woocommerce.com/flexslider/'

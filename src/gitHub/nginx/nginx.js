@@ -3,6 +3,9 @@
         donate: {
             link: 'https://www.apache.org/foundation/contributing.html'
         },
+        examples: [
+            'https://bitbucket.org/'
+        ],
         link: 'https://github.com/nginx/nginx',
         platform: 'GitHub',
         related: [

@@ -3053,13 +3053,20 @@
         type: 'repository'
     },
     tests: {
-        patterns: {
-            headers: [
-                [
-                    /server\: tengine/i
-                ]
-            ]
-        }
+        shortcuts: [
+            {
+                key: 'header.server',
+                name: 'tengine'
+            }
+        ]
+    },
+    versions: {
+        shortcuts: [
+            {
+                key: 'header.server',
+                name: 'tengine'
+            }
+        ]
     }
 }
 ,
@@ -14469,6 +14476,9 @@
         donate: {
             link: 'https://www.apache.org/foundation/contributing.html'
         },
+        examples: [
+            'https://bitbucket.org/'
+        ],
         link: 'https://github.com/nginx/nginx',
         platform: 'GitHub',
         related: [

@@ -5,7 +5,8 @@
     properties: {
         examples: [
             'https://www.gatsbyjs.org/',
-            'https://insomnia.rest/blog/sustainable-profit'
+            'https://insomnia.rest/blog/sustainable-profit',
+            'https://www.netlifycms.org/'
         ],
         link: 'https://github.com/gatsbyjs/gatsby',
         name: 'Gatsby',

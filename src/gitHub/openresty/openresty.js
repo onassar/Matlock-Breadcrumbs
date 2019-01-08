@@ -12,12 +12,19 @@
         type: 'repository'
     },
     tests: {
-        patterns: {
-            headers: [
-                [
-                    /server\: openresty/i
-                ]
-            ]
-        }
+        shortcuts: [
+            {
+                key: 'header.server',
+                name: 'openresty'
+            }
+        ]
+    },
+    versions: {
+        shortcuts: [
+            {
+                key: 'header.server',
+                name: 'openresty'
+            }
+        ]
     }
 }

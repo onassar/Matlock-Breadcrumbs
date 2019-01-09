@@ -9300,7 +9300,15 @@
         references: [
             [
                 'window.GreenSockGlobals'
+            ],
+            [
+                'window.TweenMax'
             ]
+        ]
+    },
+    versions: {
+        references: [
+            'window.TweenMax.version'
         ]
     }
 }

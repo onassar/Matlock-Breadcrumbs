@@ -4,6 +4,7 @@
             'http://thompsonemerson.github.io/zoomove/'
         ],
         link: 'https://github.com/google/code-prettify',
+        name: 'Google Code Prettify',
         platform: 'GitHub',
         type: 'repository'
     },

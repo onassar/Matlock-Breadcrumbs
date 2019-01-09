@@ -1328,6 +1328,25 @@
     }
 }
 ,
+// src/gitHub/MrSaints/Morphext.js
+{
+    properties: {
+        examples: [
+            'https://morphext.fyianlai.com/'
+        ],
+        link: 'https://github.com/MrSaints/Morphext',
+        platform: 'GitHub',
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.jQuery.fn.Morphext'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/NYTimes/backbone.stickit.js
 {
     properties: {

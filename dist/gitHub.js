@@ -8810,6 +8810,24 @@
                 'window.MaterialButton',
                 'window.MaterialCheckbox'
             ]
+        ],
+        shortcuts: [
+            {
+                key: 'query.stylesheets',
+                fileroots: [
+                    'material'
+                ]
+            }
+        ]
+    },
+    versions: {
+        shortcuts: [
+            {
+                key: 'query.stylesheets',
+                fileroots: [
+                    'material'
+                ]
+            }
         ]
     }
 }

@@ -8128,6 +8128,28 @@
     }
 }
 ,
+// src/gitHub/feimosi/baguetteBox.js.js
+{
+    properties: {
+        examples: [
+            'https://feimosi.github.io/baguetteBox.js/'
+        ],
+        link: 'https://github.com/feimosi/baguetteBox.js',
+        platform: 'GitHub',
+        tags: [
+            'lightbox'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.baguetteBox'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/fengyuanchen/cropper.js
 {
     properties: {
@@ -19054,7 +19076,8 @@
         examples: [
             'http://thompsonemerson.github.io/zoomove/',
             'http://tholman.com/github-corners/',
-            'https://milligram.io/'
+            'https://milligram.io/',
+            'http://react-autosuggest.js.org/'
         ],
         link: 'https://github.com/tholman/github-corners',
         name: 'GitHub Corners',

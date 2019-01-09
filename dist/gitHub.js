@@ -1330,6 +1330,9 @@
 ,
 // src/gitHub/MrSaints/Morphext.js
 {
+    dependencies: [
+        'https://github.com/daneden/animate.css'
+    ],
     properties: {
         examples: [
             'https://morphext.fyianlai.com/'

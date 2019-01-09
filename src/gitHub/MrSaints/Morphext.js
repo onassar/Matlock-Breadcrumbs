@@ -1,4 +1,7 @@
 {
+    dependencies: [
+        'https://github.com/daneden/animate.css'
+    ],
     properties: {
         examples: [
             'https://morphext.fyianlai.com/'

@@ -7,7 +7,11 @@
         link: 'https://github.com/yui/yui3',
         name: 'YUI 3',
         platform: 'GitHub',
-        type: 'repository'
+        type: 'repository',
+        wikiPedia: {
+            load: true,
+            title: 'YUI_Library'
+        }
     },
     tests: {
         references: [

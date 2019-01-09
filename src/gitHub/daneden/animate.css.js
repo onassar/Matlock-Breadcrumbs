@@ -1,7 +1,7 @@
 {
     properties: {
         examples: [
-            'https://daneden.github.io/animate.css/'
+            'https://js.foundation/blog'
         ],
         link: 'https://github.com/daneden/animate.css',
         platform: 'GitHub',

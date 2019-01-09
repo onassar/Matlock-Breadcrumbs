@@ -15525,6 +15525,34 @@
     }
 }
 ,
+// src/gitHub/pagekit/vue-event-manager.js
+{
+    dependencies: [
+        'https://github.com/vuejs/vue'
+    ],
+    properties: {
+        examples: [
+            ''
+        ],
+        link: 'https://github.com/pagekit/vue-event-manager',
+        name: 'Vue Event Manager',
+        platform: 'GitHub',
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.VueEventManager'
+            ]
+        ]
+    },
+    versions: {
+        references: [
+            'window.VueEventManager.version'
+        ]
+    }
+}
+,
 // src/gitHub/palantir/plottable.js
 {
     properties: {
@@ -19329,6 +19357,9 @@
 ,
 // src/gitHub/vuejs/vue-router.js
 {
+    dependencies: [
+        'https://github.com/vuejs/vue'
+    ],
     properties: {
         donate: {
             link: 'https://vuejs.org/support-vuejs/'
@@ -19400,6 +19431,9 @@
 ,
 // src/gitHub/vuejs/vuepress.js
 {
+    dependencies: [
+        'https://github.com/vuejs/vue'
+    ],
     properties: {
         donate: {
             link: 'https://vuejs.org/support-vuejs/'

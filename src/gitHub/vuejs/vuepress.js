@@ -1,4 +1,7 @@
 {
+    dependencies: [
+        'https://github.com/vuejs/vue'
+    ],
     properties: {
         donate: {
             link: 'https://vuejs.org/support-vuejs/'

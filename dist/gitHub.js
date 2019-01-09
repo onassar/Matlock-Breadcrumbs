@@ -18289,6 +18289,25 @@
     }
 }
 ,
+// src/gitHub/stacktracejs/stacktrace.js.js
+{
+    properties: {
+        examples: [
+            'https://www.stacktracejs.com/'
+        ],
+        link: 'https://github.com/stacktracejs/stacktrace.js',
+        platform: 'GitHub',
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.StackTrace'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/staltz/xstream.js
 {
     properties: {

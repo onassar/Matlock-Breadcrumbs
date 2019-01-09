@@ -20393,6 +20393,25 @@
     }
 }
 ,
+// src/gitHub/wilsonpage/fastdom.js
+{
+    properties: {
+        examples: [
+            'http://wilsonpage.github.io/fastdom/examples/animation.html'
+        ],
+        link: 'https://github.com/wilsonpage/fastdom',
+        platform: 'GitHub',
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.fastdom'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/winmarkltd/BootstrapFormHelpers.js
 {
     properties: {

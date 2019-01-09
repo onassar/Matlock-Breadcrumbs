@@ -2621,6 +2621,31 @@
     }
 }
 ,
+// src/gitHub/a8m/angular-filter.js
+{
+    properties: {
+        link: 'https://github.com/a8m/angular-filter',
+        platform: 'GitHub',
+        type: 'repository'
+    },
+    tests: {
+        shortcuts: [
+            {
+                key: 'statement.angular.module',
+                name: 'angular.filter'
+            }
+        ]
+    },
+    versions: {
+        shortcuts: [
+            {
+                key: 'statement.angular.module',
+                name: 'angular.filter'
+            }
+        ]
+    }
+}
+,
 // src/gitHub/aFarkas/html5shiv.js
 {
     properties: {
@@ -13722,6 +13747,31 @@
     versions: {
         references: [
             'window.SelectBox.prototype.version'
+        ]
+    }
+}
+,
+// src/gitHub/marcorinck/angular-growl.js
+{
+    properties: {
+        link: 'https://github.com/marcorinck/angular-growl',
+        platform: 'GitHub',
+        type: 'repository'
+    },
+    tests: {
+        shortcuts: [
+            {
+                key: 'statement.angular.module',
+                name: 'angular-growl'
+            }
+        ]
+    },
+    versions: {
+        shortcuts: [
+            {
+                key: 'statement.angular.module',
+                name: 'angular-growl'
+            }
         ]
     }
 }

@@ -11419,6 +11419,23 @@
     }
 }
 ,
+// src/gitHub/jpillora/notifyjs.js
+{
+    properties: {
+        link: 'https://github.com/jpillora/notifyjs',
+        platform: 'GitHub',
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.jQuery.notify',
+                'window.jQuery.notify.defaults'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/jplayer/jPlayer.js
 {
     properties: {

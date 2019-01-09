@@ -18121,7 +18121,7 @@
     dependencies: [
         'https://github.com/php/php-src'
     ],
-    properties: {p
+    properties: {
         link: 'https://github.com/symfony/symfony',
         name: 'Symfony',
         platform: 'GitHub',

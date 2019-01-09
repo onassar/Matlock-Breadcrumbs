@@ -1,10 +1,10 @@
 {
     properties: {
-        link: 'https://github.com/mathiasbynens/jquery-placeholder',
-        platform: 'GitHub',
         examples: [
             'https://mathiasbynens.github.io/jquery-placeholder/'
         ],
+        link: 'https://github.com/mathiasbynens/jquery-placeholder',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {

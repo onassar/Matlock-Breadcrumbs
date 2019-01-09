@@ -13,9 +13,9 @@
             [
                 {
                     selectors: [
-                        'link[rel="stylesheet" i][href*="typo3confg" i]',
+                        'link[rel="stylesheet" i][href*="typo3conf" i]',
                         'link[rel="stylesheet" i][href*="typo3temp" i]',
-                        'img[src*="typo3confg" i]',
+                        'img[src*="typo3conf" i]',
                         'img[src*="typo3temp" i]'
                     ],
                     length: {

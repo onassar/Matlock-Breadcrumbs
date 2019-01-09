@@ -1,9 +1,13 @@
 {
     properties: {
+        alternatives: [
+            'https://github.com/transloadit/uppy'
+        ],
         examples: [
             'https://embedjs.readme.io/docs'
         ],
         link: 'https://github.com/flowjs/flow.js',
+        name: 'Flow.js',
         platform: 'GitHub',
         type: 'repository'
     },

@@ -8276,10 +8276,14 @@
 // src/gitHub/flowjs/flow.js.js
 {
     properties: {
+        alternatives: [
+            'https://github.com/transloadit/uppy'
+        ],
         examples: [
             'https://embedjs.readme.io/docs'
         ],
         link: 'https://github.com/flowjs/flow.js',
+        name: 'Flow.js',
         platform: 'GitHub',
         type: 'repository'
     },
@@ -18866,6 +18870,9 @@
 // src/gitHub/transloadit/uppy.js
 {
     properties: {
+        alternatives: [
+            'https://github.com/flowjs/flow.js'
+        ],
         link: 'https://github.com/transloadit/uppy',
         platform: 'GitHub',
         type: 'repository'

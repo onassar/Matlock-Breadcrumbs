@@ -4,6 +4,7 @@
             'https://addyosmani.com/basket.js/'
         ],
         link: 'https://github.com/tildeio/rsvp.js',
+        name: 'RSVP.js',
         platform: 'GitHub',
         type: 'repository'
     },

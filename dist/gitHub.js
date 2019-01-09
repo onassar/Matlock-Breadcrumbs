@@ -14934,6 +14934,7 @@
             'https://www.plupload.com/docs/'
         ],
         link: 'https://github.com/moxiecode/plupload',
+        name: 'Plupload',
         platform: 'GitHub',
         type: 'repository'
     },

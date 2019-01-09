@@ -8132,7 +8132,8 @@
 {
     properties: {
         examples: [
-            'https://feimosi.github.io/baguetteBox.js/'
+            'https://feimosi.github.io/baguetteBox.js/',
+            'https://typo3.org/'
         ],
         link: 'https://github.com/feimosi/baguetteBox.js',
         platform: 'GitHub',
@@ -17797,6 +17798,25 @@
     versions: {
         references: [
             'window.analytics.VERSION'
+        ]
+    }
+}
+,
+// src/gitHub/seiyria/bootstrap-slider.js
+{
+    properties: {
+        examples: [
+            'https://seiyria.com/bootstrap-slider/#example-1'
+        ],
+        link: 'https://github.com/seiyria/bootstrap-slider',
+        platform: 'GitHub',
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.jQuery.fn.bootstrapSlider'
+            ]
         ]
     }
 }

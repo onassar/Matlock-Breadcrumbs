@@ -6012,6 +6012,41 @@
     }
 }
 ,
+// src/gitHub/daneden/animate.css.js
+{
+    properties: {
+        examples: [
+            'https://daneden.github.io/animate.css/'
+        ],
+        link: 'https://github.com/daneden/animate.css',
+        platform: 'GitHub',
+        tags: [
+            'css'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        shortcuts: [
+            {
+                key: 'query.stylesheets',
+                fileroots: [
+                    'animate'
+                ]
+            }
+        ]
+    },
+    versions: {
+        shortcuts: [
+            {
+                key: 'query.stylesheets',
+                fileroots: [
+                    'animate'
+                ]
+            }
+        ]
+    }
+}
+,
 // src/gitHub/dangrossman/daterangepicker.js
 {
     properties: {
@@ -11423,8 +11458,7 @@
 {
     properties: {
         examples: [
-            'https://notifyjs.jpillora.com/',
-            'https://en.wikipedia.org/wiki/Matomo_(software)'
+            'https://notifyjs.jpillora.com/'
         ],
         link: 'https://github.com/jpillora/notifyjs',
         name: 'Notify.js',

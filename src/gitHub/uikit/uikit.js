@@ -1,7 +1,9 @@
 {
     properties: {
         examples: [
-            'https://xdsoft.net/jodit/examples/intergration/joomla-jodit.html'
+            'https://getuikit.com/',
+            'https://xdsoft.net/jodit/examples/intergration/joomla-jodit.html',
+            'https://missionworkshop.com/'
         ],
         link: 'https://github.com/uikit/uikit',
         name: 'UIkit',
@@ -12,12 +14,16 @@
         references: [
             [
                 'window.UIkit'
+            ],
+            [
+                'window.rwUIkit'
             ]
         ]
     },
     versions: {
         references: [
-            'window.UIkit.version'
+            'window.UIkit.version',
+            'window.rwUIkit.version'
         ]
     }
 }

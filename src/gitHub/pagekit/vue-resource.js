@@ -6,21 +6,16 @@
         examples: [
             'https://yootheme.com/'
         ],
-        link: 'https://github.com/pagekit/vue-event-manager',
-        name: 'Vue Event Manager',
+        link: 'https://github.com/pagekit/vue-resource',
+        name: 'Vue Resource',
         platform: 'GitHub',
         type: 'repository'
     },
     tests: {
         references: [
             [
-                'window.VueEventManager'
+                'window.VueResource'
             ]
-        ]
-    },
-    versions: {
-        references: [
-            'window.VueEventManager.version'
         ]
     }
 }

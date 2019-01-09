@@ -7980,9 +7980,6 @@
 // src/gitHub/fgnass/spin.js.js
 {
     properties: {
-        examples: [
-            'https://siftery.com/'
-        ],
         link: 'https://github.com/fgnass/spin.js',
         platform: 'GitHub',
         type: 'repository'
@@ -7991,7 +7988,7 @@
         references: [
             [
                 'window.Spinner',
-                'window.Spinner.prototype.start'
+                'window.Spinner.prototype.spin'
             ]
         ]
     }

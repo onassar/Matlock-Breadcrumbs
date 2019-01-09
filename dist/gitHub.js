@@ -19333,11 +19333,13 @@
         donate: {
             link: 'https://vuejs.org/support-vuejs/'
         },
-        link: 'https://github.com/vuejs/vue-router',
-        platform: 'GitHub',
         examples: [
-            'https://element.eleme.io/#/en-US'
+            'https://element.eleme.io/#/en-US',
+            'https://getuikit.com/'
         ],
+        link: 'https://github.com/vuejs/vue-router',
+        name: 'Vue Router',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {

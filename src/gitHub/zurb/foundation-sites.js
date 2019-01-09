@@ -1,10 +1,10 @@
 {
     properties: {
-        link: 'https://github.com/zurb/foundation-sites',
-        platform: 'GitHub',
         examples: [
             'https://foundation.zurb.com/'
         ],
+        link: 'https://github.com/zurb/foundation-sites',
+        platform: 'GitHub',
         type: 'repository',
         wikiPedia: {
             load: true,

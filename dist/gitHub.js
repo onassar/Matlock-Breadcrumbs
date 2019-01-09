@@ -2501,11 +2501,11 @@
 // src/gitHub/ZaDarkSide/simpleStorage.js
 {
     properties: {
-        link: 'https://github.com/ZaDarkSide/simpleStorage',
-        platform: 'GitHub',
         examples: [
             'http://tahvel.info/simpleStorage/example/'
         ],
+        link: 'https://github.com/ZaDarkSide/simpleStorage',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {
@@ -19927,11 +19927,11 @@
 // src/gitHub/xdan/jodit.js
 {
     properties: {
-        link: 'https://github.com/xdan/jodit',
-        platform: 'GitHub',
         examples: [
             'https://xdsoft.net/jodit/'
         ],
+        link: 'https://github.com/xdan/jodit',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {
@@ -19946,11 +19946,11 @@
 // src/gitHub/xoxco/jQuery-Tags-Input.js
 {
     properties: {
-        link: 'https://github.com/xoxco/jQuery-Tags-Input',
-        platform: 'GitHub',
         examples: [
             'http://xoxco.com/projects/code/tagsinput/example.html'
         ],
+        link: 'https://github.com/xoxco/jQuery-Tags-Input',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {
@@ -20209,11 +20209,11 @@
 // src/gitHub/zloirock/core-js.js
 {
     properties: {
-        link: 'https://github.com/zloirock/core-js',
-        platform: 'GitHub',
         examples: [
             'https://trello.com/b/Gh237agh/indigo-me'
         ],
+        link: 'https://github.com/zloirock/core-js',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {
@@ -20273,11 +20273,11 @@
 // src/gitHub/zurb/foundation-sites.js
 {
     properties: {
-        link: 'https://github.com/zurb/foundation-sites',
-        platform: 'GitHub',
         examples: [
             'https://foundation.zurb.com/'
         ],
+        link: 'https://github.com/zurb/foundation-sites',
+        platform: 'GitHub',
         type: 'repository',
         wikiPedia: {
             load: true,

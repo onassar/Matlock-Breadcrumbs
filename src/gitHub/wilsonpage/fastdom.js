@@ -10,7 +10,8 @@
     tests: {
         references: [
             [
-                'window.fastdom'
+                'window.fastdom',
+                'window.fastdom.measure'
             ]
         ]
     }

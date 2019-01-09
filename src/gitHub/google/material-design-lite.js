@@ -6,7 +6,11 @@
         link: 'https://github.com/google/material-design-lite',
         name: 'Material Design Lite',
         platform: 'GitHub',
-        type: 'repository'
+        type: 'repository',
+        wikiPedia: {
+            load: true,
+            title: 'Material_Design'
+        }
     },
     tests: {
         references: [

@@ -15527,13 +15527,19 @@
 ,
 // src/gitHub/pagekit/pagekit.js
 {
+    dependencies: [
+        'https://github.com/symfony/symfony'
+    ],
     properties: {
         examples: [
             'https://pagekit.com/'
         ],
         link: 'https://github.com/pagekit/pagekit',
-        name: 'Pagekit',
+        name: 'Pagekit CMS',
         platform: 'GitHub',
+        tags: [
+            'cms'
+        ],
         type: 'repository'
     },
     tests: {
@@ -18107,6 +18113,23 @@
                 'window.jQuery.fn.imagesCompare'
             ]
         ]
+    }
+}
+,
+// src/gitHub/symfony/symfony.js
+{
+    dependencies: [
+        'https://github.com/php/php-src'
+    ],
+    properties: {p
+        link: 'https://github.com/symfony/symfony',
+        name: 'Symfony',
+        platform: 'GitHub',
+        type: 'repository',
+        wikiPedia: {
+            load: true,
+            title: 'Symfony'
+        }
     }
 }
 ,

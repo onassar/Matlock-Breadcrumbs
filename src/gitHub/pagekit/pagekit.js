@@ -1,11 +1,17 @@
 {
+    dependencies: [
+        'https://github.com/symfony/symfony'
+    ],
     properties: {
         examples: [
             'https://pagekit.com/'
         ],
         link: 'https://github.com/pagekit/pagekit',
-        name: 'Pagekit',
+        name: 'Pagekit CMS',
         platform: 'GitHub',
+        tags: [
+            'cms'
+        ],
         type: 'repository'
     },
     tests: {

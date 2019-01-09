@@ -3,11 +3,13 @@
         donate: {
             link: 'https://vuejs.org/support-vuejs/'
         },
-        link: 'https://github.com/vuejs/vuepress',
-        platform: 'GitHub',
         examples: [
-            'https://vuepress.vuejs.org/'
+            'https://vuepress.vuejs.org/',
+            'https://router.vuejs.org/'
         ],
+        link: 'https://github.com/vuejs/vuepress',
+        name: 'VuePress',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {

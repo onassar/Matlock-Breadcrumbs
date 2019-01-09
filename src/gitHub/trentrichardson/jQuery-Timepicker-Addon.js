@@ -1,8 +1,5 @@
 {
     properties: {
-        donate: {
-            link: 'https://www.paypal.com/donate/?token=XOz3coWbCo2CW4hvRauWxGGQ2IggCD83heFfGMQrA7OmisaLaxaDbws6n3RdPQPz1bRhN0&country.x=US&locale.x=US'
-        },
         examples: [
             'https://www.merlinspotions.com/',
             'https://trentrichardson.com/examples/timepicker/'

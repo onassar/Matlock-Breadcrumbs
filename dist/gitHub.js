@@ -7528,9 +7528,6 @@
 // src/gitHub/enyo/dropzone.js
 {
     properties: {
-        donate: {
-            link: 'https://www.paypal.com/donate/?token=mu0A9N-XyO2nAhmbMz8GfqaK-S9FRvd_3o4xiMvNXyb1sdq7IiIC5cbArisq96_ELC6ClW'
-        },
         link: 'https://github.com/enyo/dropzone',
         platform: 'GitHub',
         type: 'repository'
@@ -14585,14 +14582,11 @@
 // src/gitHub/michelson/Dante.js
 {
     properties: {
-        donate: {
-            link: 'https://www.paypal.com/donate/?token=ZN8qFse7x5V0u6lkZukifIViHBdMyZHw_U00485i77q8yOsy6lgP1iPMaGcbO8ENH1sKRW&country.x=AL&locale.x=AL'
-        },
-        link: 'https://github.com/michelson/Dante',
-        platform: 'GitHub',
         examples: [
             'http://michelson.github.io/Dante/'
         ],
+        link: 'https://github.com/michelson/Dante',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {
@@ -18334,9 +18328,6 @@
 // src/gitHub/stevenwanderski/bxslider-4.js
 {
     properties: {
-        donate: {
-            link: 'https://www.paypal.com/donate/?token=bti78nz8RfevSXRreIZ3rUyu4rN_WtMPj9CTHsHqv0FLMg4cUwe9SwzccnEAzitTlcR0cW&country.x=US&locale.x=US'
-        },
         examples: [
             'https://bxslider.com/',
             'https://www.unhcr.org/news/stories/2018/12/5c2345a64/kigali-sees-economic-sense-helping-refugee-entrepreneurs.html'
@@ -19253,9 +19244,6 @@
 // src/gitHub/trentrichardson/jQuery-Timepicker-Addon.js
 {
     properties: {
-        donate: {
-            link: 'https://www.paypal.com/donate/?token=XOz3coWbCo2CW4hvRauWxGGQ2IggCD83heFfGMQrA7OmisaLaxaDbws6n3RdPQPz1bRhN0&country.x=US&locale.x=US'
-        },
         examples: [
             'https://www.merlinspotions.com/',
             'https://trentrichardson.com/examples/timepicker/'

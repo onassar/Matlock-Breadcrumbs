@@ -1,6 +1,7 @@
 {
     dependencies: [
-        'https://github.com/symfony/symfony'
+        'https://github.com/symfony/symfony',
+        'https://github.com/vuejs/vue'
     ],
     properties: {
         examples: [

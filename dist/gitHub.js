@@ -15528,7 +15528,8 @@
 // src/gitHub/pagekit/pagekit.js
 {
     dependencies: [
-        'https://github.com/symfony/symfony'
+        'https://github.com/symfony/symfony',
+        'https://github.com/vuejs/vue'
     ],
     properties: {
         examples: [

@@ -1231,6 +1231,11 @@
         examples: [
             'https://alertifyjs.com/examples.html'
         ],
+        licenses: {
+            commercial: {
+                paid: true
+            }
+        },
         link: 'https://github.com/MohammadYounes/AlertifyJS',
         platform: 'GitHub',
         type: 'repository'
@@ -4334,6 +4339,26 @@
         references: [
             [
                 'window.jQuery.fn.syntaxHighlight'
+            ]
+        ]
+    }
+}
+,
+// src/gitHub/baryshev/ect.js
+{
+    properties: {
+        examples: [
+            'http://ectjs.com/'
+        ],
+        link: 'https://github.com/baryshev/ect',
+        name: 'ECT',
+        platform: 'GitHub',
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.ECT'
             ]
         ]
     }

@@ -7,7 +7,7 @@
             'https://www.marketo.com/'
         ],
         link: 'https://github.com/silverstripe/silverstripe-framework',
-        name: 'SilverStripe',
+        name: 'SilverStripe Framework',
         platform: 'GitHub',
         type: 'repository'
     },

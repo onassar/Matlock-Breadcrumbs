@@ -1,11 +1,11 @@
 {
     properties: {
-        link: 'https://github.com/SoapBox/linkifyjs',
-        name: 'Linkify',
-        platform: 'GitHub',
         examples: [
             'https://soapbox.github.io/linkifyjs/'
         ],
+        link: 'https://github.com/SoapBox/linkifyjs',
+        name: 'Linkify',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {

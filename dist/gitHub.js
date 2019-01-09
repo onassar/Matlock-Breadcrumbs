@@ -1829,12 +1829,12 @@
 // src/gitHub/SoapBox/linkifyjs.js
 {
     properties: {
-        link: 'https://github.com/SoapBox/linkifyjs',
-        name: 'Linkify',
-        platform: 'GitHub',
         examples: [
             'https://soapbox.github.io/linkifyjs/'
         ],
+        link: 'https://github.com/SoapBox/linkifyjs',
+        name: 'Linkify',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {
@@ -17190,7 +17190,7 @@
             'https://www.marketo.com/'
         ],
         link: 'https://github.com/silverstripe/silverstripe-framework',
-        name: 'SilverStripe',
+        name: 'SilverStripe Framework',
         platform: 'GitHub',
         type: 'repository'
     },

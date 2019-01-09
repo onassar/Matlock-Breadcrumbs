@@ -3,7 +3,7 @@
         examples: [
             'https://www.ontario.ca/page/driving-and-roads'
         ],
-        link: 'https://github.com/angular-translate/angular-translate',
+        link: 'https://github.com/ocombe/ocLazyLoad',
         platform: 'GitHub',
         tags: [
             'angular'
@@ -14,7 +14,7 @@
         shortcuts: [
             {
                 key: 'statement.angular.module',
-                name: 'pascalprecht.translate'
+                name: 'oc.lazyLoad'
             }
         ]
     },
@@ -22,7 +22,7 @@
         shortcuts: [
             {
                 key: 'statement.angular.module',
-                name: 'pascalprecht.translate'
+                name: 'oc.lazyLoad'
             }
         ]
     }

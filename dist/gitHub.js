@@ -3497,7 +3497,7 @@
 {
     properties: {
         examples: [
-            'http://angular-ui.github.io/bootstrap/'
+            'https://www.ontario.ca/page/driving-and-roads'
         ],
         link: 'https://github.com/angular-translate/angular-translate',
         platform: 'GitHub',
@@ -15654,6 +15654,37 @@
             {
                 key: 'statement.angular.module',
                 name: 'duScroll'
+            }
+        ]
+    }
+}
+,
+// src/gitHub/ocombe/ocLazyLoad.js
+{
+    properties: {
+        examples: [
+            'https://www.ontario.ca/page/driving-and-roads'
+        ],
+        link: 'https://github.com/ocombe/ocLazyLoad',
+        platform: 'GitHub',
+        tags: [
+            'angular'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        shortcuts: [
+            {
+                key: 'statement.angular.module',
+                name: 'oc.lazyLoad'
+            }
+        ]
+    },
+    versions: {
+        shortcuts: [
+            {
+                key: 'statement.angular.module',
+                name: 'oc.lazyLoad'
             }
         ]
     }

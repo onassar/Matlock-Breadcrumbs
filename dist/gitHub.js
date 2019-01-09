@@ -9715,6 +9715,7 @@
             'http://hay.github.io/stapes/'
         ],
         link: 'https://github.com/hay/stapes',
+        name: 'Stapes.js',
         platform: 'GitHub',
         type: 'repository'
     },

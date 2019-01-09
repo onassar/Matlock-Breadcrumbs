@@ -1,6 +1,7 @@
 {
     properties: {
         examples: [
+            'https://typo3.org/',
             'http://www.italia.it/en/home.html'
         ],
         link: 'https://github.com/TYPO3/TYPO3.CMS',

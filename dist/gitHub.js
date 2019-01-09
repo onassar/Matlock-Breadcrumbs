@@ -1645,6 +1645,24 @@
     }
 }
 ,
+// src/gitHub/ReactiveX/rxjs.js
+{
+    properties: {
+        link: 'https://github.com/ReactiveX/rxjs',
+        name: 'RxJS',
+        platform: 'GitHub',
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.Rx',
+                'window.Rx.CompositeDisposable'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/Rebilly/ReDoc.js
 {
     properties: {
@@ -1993,6 +2011,7 @@
 {
     properties: {
         examples: [
+            'https://typo3.org/',
             'http://www.italia.it/en/home.html'
         ],
         link: 'https://github.com/TYPO3/TYPO3.CMS',

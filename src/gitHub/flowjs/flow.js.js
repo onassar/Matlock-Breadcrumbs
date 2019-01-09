@@ -1,6 +1,7 @@
 {
     properties: {
         alternatives: [
+            'https://github.com/moxiecode/plupload',
             'https://github.com/transloadit/uppy'
         ],
         examples: [

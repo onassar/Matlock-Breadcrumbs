@@ -8489,6 +8489,7 @@
 {
     properties: {
         alternatives: [
+            'https://github.com/moxiecode/plupload',
             'https://github.com/transloadit/uppy'
         ],
         examples: [
@@ -14925,6 +14926,10 @@
 // src/gitHub/moxiecode/plupload.js
 {
     properties: {
+        alternatives: [
+            'https://github.com/flowjs/flow.js',
+            'https://github.com/transloadit/uppy'
+        ],
         examples: [
             'https://www.plupload.com/docs/'
         ],
@@ -19206,7 +19211,8 @@
 {
     properties: {
         alternatives: [
-            'https://github.com/flowjs/flow.js'
+            'https://github.com/flowjs/flow.js',
+            'https://github.com/moxiecode/plupload'
         ],
         link: 'https://github.com/transloadit/uppy',
         platform: 'GitHub',

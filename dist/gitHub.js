@@ -19358,10 +19358,12 @@
     tests: {
         references: [
             [
-                'window.UIkit'
+                'window.UIkit',
+                'window.UIkit.alert'
             ],
             [
-                'window.rwUIkit'
+                'window.rwUIkit',
+                'window.rwUIkit.alert'
             ]
         ]
     },

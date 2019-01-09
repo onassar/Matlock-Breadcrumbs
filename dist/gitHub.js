@@ -18494,7 +18494,8 @@
 {
     properties: {
         examples: [
-            'https://morphext.fyianlai.com/'
+            'https://morphext.fyianlai.com/',
+            'http://imulus.github.io/retinajs/'
         ],
         link: 'https://github.com/strues/retinajs',
         platform: 'GitHub',
@@ -18507,8 +18508,7 @@
                 'window.Retina.isRetina'
             ],
             [
-                'window.Retina',
-                'window.Retina.isRetina'
+                'window.retinajs'
             ]
         ]
     }

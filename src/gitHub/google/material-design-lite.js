@@ -17,7 +17,7 @@
         ],
         shortcuts: [
             {
-                key: 'query.stylesheets',
+                key: 'query.scripts',
                 fileroots: [
                     'material'
                 ]
@@ -27,7 +27,7 @@
     versions: {
         shortcuts: [
             {
-                key: 'query.stylesheets',
+                key: 'query.scripts',
                 fileroots: [
                     'material'
                 ]

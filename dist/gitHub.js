@@ -16610,6 +16610,22 @@
     }
 }
 ,
+// src/gitHub/ritz078/embed-js.js
+{
+    properties: {
+        link: 'https://github.com/ritz078/embed-js',
+        platform: 'GitHub',
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.EmbedJS'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/rmm5t/jquery-timeago.js
 {
     properties: {

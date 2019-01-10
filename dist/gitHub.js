@@ -147,6 +147,26 @@
     }
 }
 ,
+// src/gitHub/Automattic/Iris.js
+{
+    properties: {
+        link: 'https://github.com/Automattic/Iris',
+        name: 'Iris',
+        platform: 'GitHub',
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.Color',
+                'window.Color.fn.clone',
+                'window.Color.fn.darken',
+                'window.Color.fn.toString'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/BafS/Gutenberg.js
 {
     properties: {

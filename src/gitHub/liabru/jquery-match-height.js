@@ -1,11 +1,12 @@
 {
     properties: {
-        link: 'https://github.com/liabru/jquery-match-height',
-        platform: 'GitHub',
         examples: [
             'https://www.london.gov.uk/',
             'http://brm.io/jquery-match-height-demo/'
         ],
+        link: 'https://github.com/liabru/jquery-match-height',
+        name: 'jQuery matchHeight',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {

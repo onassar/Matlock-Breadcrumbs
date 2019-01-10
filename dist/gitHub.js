@@ -16696,6 +16696,22 @@
     }
 }
 ,
+// src/gitHub/pieroxy/lz-string.js
+{
+    properties: {
+        link: 'https://github.com/pieroxy/lz-string',
+        platform: 'GitHub',
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.LZString'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/pimcore/pimcore.js
 {
     dependencies: [

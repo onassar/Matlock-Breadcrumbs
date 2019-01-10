@@ -6074,6 +6074,27 @@
     }
 }
 ,
+// src/gitHub/cowboy/jquery-throttle-debounce.js
+{
+    properties: {
+        examples: [
+            'https://www.twilio.com/console'
+        ],
+        link: 'https://github.com/cowboy/jquery-throttle-debounce',
+        name: 'jQuery Throttle / Debounce',
+        platform: 'GitHub',
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.jQuery.throttle',
+                'window.jQuery.debounce'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/cowboy/jquery-tiny-pubsub.js
 {
     properties: {

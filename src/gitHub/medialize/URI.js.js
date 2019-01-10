@@ -1,7 +1,8 @@
 {
     properties: {
         examples: [
-            'http://medialize.github.io/URI.js/'
+            'http://medialize.github.io/URI.js/',
+            'https://www.twilio.com/console'
         ],
         link: 'https://github.com/medialize/URI.js',
         platform: 'GitHub',
@@ -10,6 +11,10 @@
     tests: {
         references: [
             [
+                'window.urijs',
+                'window.urijs.addQuery'
+            ],
+            [
                 'window.URI',
                 'window.URI.addQuery'
             ]
@@ -17,6 +22,7 @@
     },
     versions: {
         references: [
+            'window.urijs.version',
             'window.URI.version'
         ]
     }

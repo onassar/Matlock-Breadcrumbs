@@ -14411,7 +14411,8 @@
 {
     properties: {
         examples: [
-            'http://medialize.github.io/URI.js/'
+            'http://medialize.github.io/URI.js/',
+            'https://www.twilio.com/console'
         ],
         link: 'https://github.com/medialize/URI.js',
         platform: 'GitHub',
@@ -14420,6 +14421,10 @@
     tests: {
         references: [
             [
+                'window.urijs',
+                'window.urijs.addQuery'
+            ],
+            [
                 'window.URI',
                 'window.URI.addQuery'
             ]
@@ -14427,6 +14432,7 @@
     },
     versions: {
         references: [
+            'window.urijs.version',
             'window.URI.version'
         ]
     }
@@ -18609,6 +18615,26 @@
     versions: {
         references: [
             'window.mobileViewportControl.version'
+        ]
+    }
+}
+,
+// src/gitHub/stritti/log4js.js
+{
+    properties: {
+        examples: [
+            'https://www.twilio.com/console'
+        ],
+        link: 'https://github.com/stritti/log4js',
+        name: 'Log4js',
+        platform: 'GitHub',
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.log4js'
+            ]
         ]
     }
 }

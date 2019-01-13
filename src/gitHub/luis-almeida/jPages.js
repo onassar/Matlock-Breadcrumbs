@@ -3,7 +3,7 @@
         examples: [
             'http://luis-almeida.github.io/jPages/defaults.html'
         ],
-        link: 'https://github.com/luis-almeida/filtrify',
+        link: 'https://github.com/luis-almeida/jPages',
         platform: 'GitHub',
         type: 'repository'
     },

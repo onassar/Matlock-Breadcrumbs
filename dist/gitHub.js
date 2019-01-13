@@ -13579,6 +13579,44 @@
     }
 }
 ,
+// src/gitHub/luis-almeida/filtrify.js
+{
+    properties: {
+        examples: [
+            'http://luis-almeida.github.io/filtrify/music.html'
+        ],
+        link: 'https://github.com/luis-almeida/filtrify',
+        platform: 'GitHub',
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.jQuery.filtrify'
+            ]
+        ]
+    }
+}
+,
+// src/gitHub/luis-almeida/jPages.js
+{
+    properties: {
+        examples: [
+            'http://luis-almeida.github.io/jPages/defaults.html'
+        ],
+        link: 'https://github.com/luis-almeida/filtrify',
+        platform: 'GitHub',
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.jQuery.fn.jPages'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/luis-almeida/unveil.js
 {
     properties: {

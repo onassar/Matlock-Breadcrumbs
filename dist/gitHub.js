@@ -8225,6 +8225,37 @@
     }
 }
 ,
+// src/gitHub/feathericons/feather.js
+{
+    properties: {
+        examples: [
+            'https://feathericons.com/'
+        ],
+        link: 'https://github.com/feathericons/feather',
+        platform: 'GitHub',
+        tags: [
+            'icons'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        shortcuts: [
+            {
+                key: 'query.stylesheet',
+                fileroot: 'feather-icons'
+            }
+        ]
+    },
+    versions: {
+        shortcuts: [
+            {
+                key: 'query.stylesheet',
+                fileroot: 'feather-icons'
+            }
+        ]
+    }
+}
+,
 // src/gitHub/feimosi/baguetteBox.js.js
 {
     properties: {
@@ -10743,13 +10774,13 @@
 // src/gitHub/ionic-team/ionicons.js
 {
     properties: {
-        link: 'https://github.com/ionic-team/ionicons',
-        platform: 'GitHub',
         examples: [
             'https://lto.network/',
             'https://ionicons.com/',
             'http://cloudean.com/'
         ],
+        link: 'https://github.com/ionic-team/ionicons',
+        platform: 'GitHub',
         tags: [
             'icons'
         ],

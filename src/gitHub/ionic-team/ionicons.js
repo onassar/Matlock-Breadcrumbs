@@ -1,12 +1,12 @@
 {
     properties: {
-        link: 'https://github.com/ionic-team/ionicons',
-        platform: 'GitHub',
         examples: [
             'https://lto.network/',
             'https://ionicons.com/',
             'http://cloudean.com/'
         ],
+        link: 'https://github.com/ionic-team/ionicons',
+        platform: 'GitHub',
         tags: [
             'icons'
         ],

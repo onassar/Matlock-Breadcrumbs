@@ -13579,6 +13579,26 @@
     }
 }
 ,
+// src/gitHub/luis-almeida/unveil.js
+{
+    properties: {
+        examples: [
+            'https://pixabay.com/'
+        ],
+        link: 'https://github.com/luis-almeida/unveil',
+        name: 'Unveil.js',
+        platform: 'GitHub',
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.jQuery.fn.unveil'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/lukaszfiszer/selectnav.js.js
 {
     properties: {

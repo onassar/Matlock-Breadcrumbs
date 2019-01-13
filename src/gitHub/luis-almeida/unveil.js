@@ -12,6 +12,9 @@
         references: [
             [
                 'window.jQuery.fn.unveil'
+            ],
+            [
+                'window.Zepto.fn.unveil'
             ]
         ]
     }

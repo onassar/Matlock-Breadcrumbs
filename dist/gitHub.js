@@ -8239,6 +8239,16 @@
         type: 'repository'
     },
     tests: {
+        patterns: {
+            page: [
+                [
+                    /\bfeather feather-\b/i
+                ],
+                [
+                    /\bicon feather-\b/i
+                ]
+            ]
+        },
         shortcuts: [
             {
                 key: 'query.stylesheet',

@@ -10747,7 +10747,8 @@
         platform: 'GitHub',
         examples: [
             'https://lto.network/',
-            'https://ionicons.com/'
+            'https://ionicons.com/',
+            'http://cloudean.com/'
         ],
         tags: [
             'icons'
@@ -10759,9 +10760,26 @@
             page: [
                 [
                     /\bion ion-\b/i
+                ],
+                [
+                    /\bicon ion-\b/i
                 ]
             ]
-        }
+        },
+        shortcuts: [
+            {
+                key: 'query.stylesheet',
+                fileroot: 'ionicons'
+            }
+        ]
+    },
+    versions: {
+        shortcuts: [
+            {
+                key: 'query.stylesheet',
+                fileroot: 'ionicons'
+            }
+        ]
     }
 }
 ,

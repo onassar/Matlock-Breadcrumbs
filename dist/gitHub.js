@@ -3673,6 +3673,38 @@
     }
 }
 ,
+// src/gitHub/angular-ui/ui-mask.js
+{
+    properties: {
+        examples: [
+            'https://my.wealthsimple.com/app/withdrawals'
+        ],
+        link: 'https://github.com/angular-ui/ui-mask',
+        name: 'AngularJS ui-mask',
+        platform: 'GitHub',
+        tags: [
+            'angular'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        shortcuts: [
+            {
+                key: 'statement.angular.module',
+                name: 'ui.mask'
+            }
+        ]
+    },
+    versions: {
+        shortcuts: [
+            {
+                key: 'statement.angular.module',
+                name: 'ui.mask'
+            }
+        ]
+    }
+}
+,
 // src/gitHub/angular-ui/ui-select.js
 {
     properties: {
@@ -17763,6 +17795,37 @@
             [
                 'window.jQuery.fn.trunk8'
             ]
+        ]
+    }
+}
+,
+// src/gitHub/sachinchoolur/ladda-angular.js
+{
+    properties: {
+        examples: [
+            'https://my.wealthsimple.com/app/withdrawals'
+        ],
+        link: 'https://github.com/sachinchoolur/ladda-angular',
+        platform: 'GitHub',
+        tags: [
+            'angular'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        shortcuts: [
+            {
+                key: 'statement.angular.module',
+                name: 'ladda'
+            }
+        ]
+    },
+    versions: {
+        shortcuts: [
+            {
+                key: 'statement.angular.module',
+                name: 'ladda'
+            }
         ]
     }
 }

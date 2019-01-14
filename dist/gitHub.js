@@ -1167,11 +1167,11 @@
 // src/gitHub/MikeMcl/big.js.js
 {
     properties: {
-        link: 'https://github.com/MikeMcl/big.js',
-        platform: 'GitHub',
         examples: [
             'http://mikemcl.github.io/big.js/'
         ],
+        link: 'https://github.com/MikeMcl/big.js',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {
@@ -1185,6 +1185,25 @@
     versions: {
         references: [
             'window.Big.version'
+        ]
+    }
+}
+,
+// src/gitHub/MikeMcl/bignumber.js.js
+{
+    properties: {
+        examples: [
+            'http://mikemcl.github.io/bignumber.js/'
+        ],
+        link: 'https://github.com/MikeMcl/bignumber.js',
+        platform: 'GitHub',
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.BigNumber'
+            ]
         ]
     }
 }

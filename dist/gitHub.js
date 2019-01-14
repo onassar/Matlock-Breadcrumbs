@@ -1665,6 +1665,7 @@
 ,
 // src/gitHub/PrismJS/prism.js
 {
+    isolate: true,
     properties: {
         examples: [
             'https://prismjs.com/'

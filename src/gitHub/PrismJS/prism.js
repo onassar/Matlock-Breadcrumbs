@@ -1,4 +1,5 @@
 {
+    isolate: true,
     properties: {
         examples: [
             'https://prismjs.com/'

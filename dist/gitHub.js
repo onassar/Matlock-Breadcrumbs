@@ -765,6 +765,12 @@
                     }
                 }
             ]
+        ],
+        shortcuts: [
+            {
+                key: 'query.script',
+                fileroot: 'polyfill'
+            }
         ]
     }
 }
@@ -12564,6 +12570,17 @@
         }
     },
     tests: {
+        references: [
+            [
+                'window.jQuery' 
+            ]
+        ],
+        shortcuts: [
+            {
+                key: 'query.script',
+                fileroot: 'jQuery'
+            }
+        ],
         statements: [
             [
                 function() {

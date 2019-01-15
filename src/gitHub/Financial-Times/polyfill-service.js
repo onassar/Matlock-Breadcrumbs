@@ -22,6 +22,12 @@
                     }
                 }
             ]
+        ],
+        shortcuts: [
+            {
+                key: 'query.script',
+                fileroot: 'polyfill'
+            }
         ]
     }
 }

@@ -6352,6 +6352,24 @@
     }
 }
 ,
+// src/gitHub/csnover/TraceKit.js
+{
+    properties: {
+        examples: [
+        ],
+        link: 'https://github.com/csnover/TraceKit',
+        platform: 'GitHub',
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.TraceKit' 
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/csstools/sanitize.css.js
 {
     properties: {

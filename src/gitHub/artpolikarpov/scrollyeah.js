@@ -1,17 +1,16 @@
 {
     properties: {
         examples: [
-            'https://www.ucalgary.ca/'
+            'http://fotorama.io/'
         ],
-        link: 'https://github.com/lunametrics/scroll',
-        name: 'Scroll Tracker',
+        link: 'https://github.com/artpolikarpov/scrollyeah',
         platform: 'GitHub',
         type: 'repository'
     },
     tests: {
         references: [
             [
-                'window.ScrollTracker'
+                'window.jQuery.fn.scrollyeah'
             ]
         ]
     }

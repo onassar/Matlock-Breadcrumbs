@@ -9,7 +9,7 @@
     tests: {
         references: [
             [
-                'window.TraceKit' 
+                'window.TraceKit'
             ]
         ]
     }

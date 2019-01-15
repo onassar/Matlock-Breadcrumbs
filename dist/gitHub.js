@@ -1782,6 +1782,28 @@
     }
 }
 ,
+// src/gitHub/RobLoach/jquery-once.js
+{
+    properties: {
+        examples: [
+            'https://www.bounteous.com/insights/2017/09/27/scroll-tracking-recipe-gtm/?ns=l'
+        ],
+        link: 'https://github.com/RobLoach/jquery-once',
+        name: 'jQuery Once',
+        platform: 'GitHub',
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.jQuery.fn.once',
+                'window.jQuery.fn.findOnce',
+                'window.jQuery.fn.removeOnce'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/RobinHerbots/Inputmask.js
 {
     properties: {
@@ -4230,17 +4252,16 @@
 {
     properties: {
         examples: [
-            'https://www.ucalgary.ca/'
+            'http://fotorama.io/'
         ],
-        link: 'https://github.com/lunametrics/scroll',
-        name: 'Scroll Tracker',
+        link: 'https://github.com/artpolikarpov/scrollyeah',
         platform: 'GitHub',
         type: 'repository'
     },
     tests: {
         references: [
             [
-                'window.ScrollTracker'
+                'window.jQuery.fn.scrollyeah'
             ]
         ]
     }
@@ -6365,7 +6386,7 @@
     tests: {
         references: [
             [
-                'window.TraceKit' 
+                'window.TraceKit'
             ]
         ]
     }
@@ -12634,7 +12655,7 @@
     tests: {
         references: [
             [
-                'window.jQuery' 
+                'window.jQuery'
             ]
         ],
         shortcuts: [
@@ -14040,15 +14061,17 @@
 {
     properties: {
         examples: [
+            'https://www.ucalgary.ca/'
         ],
-        link: 'https://github.com/csnover/TraceKit',
+        link: 'https://github.com/lunametrics/scroll',
+        name: 'Scroll Tracker',
         platform: 'GitHub',
         type: 'repository'
     },
     tests: {
         references: [
             [
-                'window.TraceKit' 
+                'window.ScrollTracker'
             ]
         ]
     }

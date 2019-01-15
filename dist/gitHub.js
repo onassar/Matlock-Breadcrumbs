@@ -14102,7 +14102,7 @@
     },
     versions: {
         references: [
-            'window.S2.version'
+            'window.S2.Version'
         ]
     }
 }

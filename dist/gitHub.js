@@ -7502,7 +7502,7 @@
     tests: {
         references: [
             [
-                'window.jQuery.multiDatesPicker'
+                'window.jQuery.fn.multiDatesPicker'
             ]
         ]
     },

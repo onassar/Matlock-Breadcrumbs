@@ -12234,6 +12234,34 @@
     }
 }
 ,
+// src/gitHub/jonsuh/hamburgers.js
+{
+    properties: {
+        examples: [
+            'https://jonsuh.com/hamburgers/'
+        ],
+        link: 'https://github.com/jonsuh/hamburgers',
+        name: 'Hamburgers',
+        platform: 'GitHub',
+        type: 'repository'
+    },
+    tests: {
+        queries: [
+            [
+                {
+                    selectors: [
+                        '.hamburger .hamburger-box .hamburger-inner'
+                    ],
+                    length: {
+                        operator: '>',
+                        value: 0
+                    }
+                }
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/jonthornton/jquery-timepicker.js
 {
     properties: {
@@ -13054,11 +13082,11 @@
 // src/gitHub/jwplayer/jwplayer.js
 {
     properties: {
-        link: 'https://github.com/jwplayer/jwplayer',
-        platform: 'GitHub',
         examples: [
             'http://www.news-gazette.com/'
         ],
+        link: 'https://github.com/jwplayer/jwplayer',
+        platform: 'GitHub',
         type: 'repository',
         wikiPedia: {
             load: true,

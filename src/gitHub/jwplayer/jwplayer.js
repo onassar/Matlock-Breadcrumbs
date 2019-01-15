@@ -1,10 +1,10 @@
 {
     properties: {
-        link: 'https://github.com/jwplayer/jwplayer',
-        platform: 'GitHub',
         examples: [
             'http://www.news-gazette.com/'
         ],
+        link: 'https://github.com/jwplayer/jwplayer',
+        platform: 'GitHub',
         type: 'repository',
         wikiPedia: {
             load: true,

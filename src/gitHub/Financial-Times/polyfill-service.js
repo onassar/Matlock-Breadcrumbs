@@ -29,5 +29,13 @@
                 fileroot: 'polyfill'
             }
         ]
+    },
+    versions: {
+        shortcuts: [
+            {
+                key: 'query.script',
+                fileroot: 'polyfill'
+            }
+        ]
     }
 }

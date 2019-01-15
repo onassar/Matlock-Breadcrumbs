@@ -5678,6 +5678,9 @@
         link: 'https://github.com/cbeyls/slimbox',
         name: 'jQuery Slimbox2',
         platform: 'GitHub',
+        tags: [
+            'lightbox'
+        ],
         type: 'repository'
     },
     tests: {
@@ -6593,6 +6596,26 @@
     }
 }
 ,
+// src/gitHub/darcyclarke/Detect.js.js
+{
+    properties: {
+        alternatives: [
+            'https://www.hollisterco.ca/shop/ca'
+        ],
+        link: 'https://github.com/darcyclarke/Detect.js',
+        platform: 'GitHub',
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.detect',
+                'window.detect.parse'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/darklow/social-share-kit.js
 {
     properties: {
@@ -6690,6 +6713,26 @@
         references: [
             [
                 'window.jQuery.fn.lettering'
+            ]
+        ]
+    }
+}
+,
+// src/gitHub/davetayls/jquery.kinetic.js
+{
+    properties: {
+        examples: [
+            'https://www.hollisterco.ca/shop/ca'
+        ],
+        link: 'https://github.com/davetayls/jquery.kinetic',
+        name: 'jQuery Kinetic',
+        platform: 'GitHub',
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.jQuery.fn.kinetic'
             ]
         ]
     }
@@ -14042,6 +14085,28 @@
     }
 }
 ,
+// src/gitHub/madrobby/scripty2.js
+{
+    properties: {
+        link: 'https://github.com/madrobby/scripty2',
+        platform: 'GitHub',
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.S2',
+                'window.S2.Extensions'
+            ]
+        ]
+    },
+    versions: {
+        references: [
+            'window.S2.version'
+        ]
+    }
+}
+,
 // src/gitHub/madrobby/zepto.js
 {
     properties: {
@@ -19029,6 +19094,26 @@
         references: [
             [
                 'window.jQuery.fn.bxSlider'
+            ]
+        ]
+    }
+}
+,
+// src/gitHub/stowball/jQuery-rwdImageMaps.js
+{
+    properties: {
+        alternatives: [
+            'https://www.hollisterco.ca/shop/ca'
+        ],
+        link: 'https://github.com/stowball/jQuery-rwdImageMaps',
+        name: 'jQuery RWD Image Maps',
+        platform: 'GitHub',
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.jQuery.fn.rwdImageMaps'
             ]
         ]
     }

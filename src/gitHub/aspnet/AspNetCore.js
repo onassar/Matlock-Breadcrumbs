@@ -32,7 +32,7 @@
     versions: {
         patterns: {
             headers: [
-                /X\-AspNetMvc\-Version:\b([\d.]+)/i
+                /X\-AspNetMvc\-Version:.*\b([\d.]+)/i
             ]
         }
     }

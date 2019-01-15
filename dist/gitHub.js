@@ -7491,7 +7491,6 @@
 {
     properties: {
         examples: [
-            'https://dubrox.github.io/Multiple-Dates-Picker-for-jQuery-UI/',
             'https://www.rover.com/ca/'
         ],
         link: 'https://github.com/dubrox/Multiple-Dates-Picker-for-jQuery-UI',

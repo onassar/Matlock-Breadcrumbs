@@ -5,6 +5,9 @@
         ],
         link: 'https://github.com/aspnet/AspNetCore',
         name: 'ASP.NET Core',
+        notes: [
+            'https://i.imgur.com/DdQiPjS.png'
+        ],
         platform: 'GitHub',
         type: 'repository',
         wikiPedia: {
@@ -14,10 +17,22 @@
     },
     tests: {
         patterns: {
+            headers: [
+                [
+                    /X\-AspNetMvc\-Version/i
+                ]
+            ],
             cookies: [
                 [
                     /__ControllerTempData/i
                 ]
+            ]
+        }
+    },
+    versions: {
+        patterns: {
+            headers: [
+                /X\-AspNetMvc\-Version:\b([\d.]+)/i
             ]
         }
     }

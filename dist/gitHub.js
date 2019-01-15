@@ -6352,6 +6352,33 @@
     }
 }
 ,
+// src/gitHub/csstools/sanitize.css.js
+{
+    properties: {
+        examples: [
+        ],
+        link: 'https://github.com/csstools/sanitize.css',
+        platform: 'GitHub',
+        type: 'repository'
+    },
+    tests: {
+        shortcuts: [
+            {
+                key: 'query.stylesheet',
+                fileroot: 'sanitize'
+            }
+        ]
+    },
+    versions: {
+        shortcuts: [
+            {
+                key: 'query.stylesheet',
+                fileroot: 'sanitize'
+            }
+        ]
+    }
+}
+,
 // src/gitHub/cubecart/v6.js
 {
     properties: {

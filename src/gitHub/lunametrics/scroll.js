@@ -1,17 +1,15 @@
 {
     properties: {
         examples: [
-            'https://www.ucalgary.ca/'
         ],
-        link: 'https://github.com/lunametrics/scroll',
-        name: 'Scroll Tracker',
+        link: 'https://github.com/csnover/TraceKit',
         platform: 'GitHub',
         type: 'repository'
     },
     tests: {
         references: [
             [
-                'window.ScrollTracker'
+                'window.TraceKit' 
             ]
         ]
     }

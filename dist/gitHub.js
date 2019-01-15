@@ -4229,17 +4229,18 @@
 // src/gitHub/artpolikarpov/scrollyeah.js
 {
     properties: {
-        link: 'https://github.com/artpolikarpov/scrollyeah',
-        platform: 'GitHub',
         examples: [
-            'http://fotorama.io/'
+            'https://www.ucalgary.ca/'
         ],
+        link: 'https://github.com/lunametrics/scroll',
+        name: 'Scroll Tracker',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {
         references: [
             [
-                'window.jQuery.fn.scrollyeah'
+                'window.ScrollTracker'
             ]
         ]
     }
@@ -14030,6 +14031,24 @@
             [
                 'window.jQuery.scrollify',
                 'window.jQuery.scrollify.move'
+            ]
+        ]
+    }
+}
+,
+// src/gitHub/lunametrics/scroll.js
+{
+    properties: {
+        examples: [
+        ],
+        link: 'https://github.com/csnover/TraceKit',
+        platform: 'GitHub',
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.TraceKit' 
             ]
         ]
     }

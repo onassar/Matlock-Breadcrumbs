@@ -7,6 +7,9 @@
         link: 'https://github.com/cbeyls/slimbox',
         name: 'jQuery Slimbox2',
         platform: 'GitHub',
+        tags: [
+            'lightbox'
+        ],
         type: 'repository'
     },
     tests: {

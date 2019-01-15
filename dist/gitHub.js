@@ -4252,7 +4252,7 @@
 {
     properties: {
         examples: [
-            'http://fotorama.io/'
+            'https://ilyabirman.ru/'
         ],
         link: 'https://github.com/artpolikarpov/scrollyeah',
         platform: 'GitHub',

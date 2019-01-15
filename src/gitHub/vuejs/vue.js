@@ -3,6 +3,9 @@
         donate: {
             link: 'https://vuejs.org/support-vuejs/'
         },
+        examples: [
+            ''
+        ],
         link: 'https://github.com/vuejs/vue',
         name: 'Vue.js',
         platform: 'GitHub',
@@ -25,7 +28,8 @@
         },
         references: [
             [
-                'window.Vue'
+                'window.Vue',
+                'window.Vue.extend'
             ],
             [
                 'window.__VUE_HOT_MAP__'

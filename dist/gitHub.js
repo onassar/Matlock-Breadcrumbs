@@ -8340,7 +8340,8 @@
     properties: {
         examples: [
             'https://www.cbc.ca/',
-            'https://www.meetup.com/'
+            'https://www.meetup.com/',
+            'https://developers.facebook.com/'
         ],
         link: 'https://github.com/facebook/react',
         platform: 'GitHub',
@@ -8374,7 +8375,14 @@
             [
                 'window.react_lib'
             ]
-        ]
+        ],
+        strings: {
+            page: [
+                [
+                    'react-mount-point'
+                ]
+            ]
+        }
     },
     versions: {
         references: [

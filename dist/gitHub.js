@@ -4259,7 +4259,8 @@
         link: 'https://github.com/aspnet/AspNetCore',
         name: 'ASP.NET Core',
         notes: [
-            'https://i.imgur.com/DdQiPjS.png'
+            'https://i.imgur.com/DdQiPjS.png',
+            '.*? makes it non-greedy, otherwise 5.2 is matched as "2"'
         ],
         platform: 'GitHub',
         type: 'repository',
@@ -4285,7 +4286,6 @@
     versions: {
         patterns: {
             headers: [
-                // .*? makes it non-greedy, otherwise 5.2 is matched as "2"
                 /X\-AspNetMvc\-Version:.*?\b([\d.]+)/i
             ]
         }

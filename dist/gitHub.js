@@ -4285,7 +4285,8 @@
     versions: {
         patterns: {
             headers: [
-                /X\-AspNetMvc\-Version:.*\b([\d.]+)/i
+                // .*? makes it non-greedy, otherwise 5.2 is matched as "2"
+                /X\-AspNetMvc\-Version:.*?\b([\d.]+)/i
             ]
         }
     }

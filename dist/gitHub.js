@@ -20550,6 +20550,10 @@
                 'window.UIkit.alert'
             ],
             [
+                'window.UIkit2',
+                'window.UIkit2.alert'
+            ],
+            [
                 'window.rwUIkit',
                 'window.rwUIkit.alert'
             ]
@@ -20558,6 +20562,7 @@
     versions: {
         references: [
             'window.UIkit.version',
+            'window.UIkit2.version',
             'window.rwUIkit.version'
         ]
     }

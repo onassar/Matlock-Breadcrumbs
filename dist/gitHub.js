@@ -3314,7 +3314,8 @@
 {
     properties: {
         examples: [
-            'https://www.algolia.com/'
+            'https://www.algolia.com/',
+            'https://postmake.io/results?q=%23idea&tag=mvp'
         ],
         link: 'https://github.com/algolia/algoliasearch-client-javascript',
         platform: 'GitHub',
@@ -3329,12 +3330,16 @@
         references: [
             [
                 'window.algoliasearch'
+            ],
+            [
+                'window.__algolia.algoliasearch'
             ]
         ]
     },
     versions: {
         references: [
-            'window.algoliasearch.version'
+            'window.algoliasearch.version',
+            'window.__algolia.algoliasearch.version'
         ]
     }
 }
@@ -16452,6 +16457,9 @@
 ,
 // src/gitHub/nuxt/nuxt.js.js
 {
+    dependencies: [
+        'https://github.com/vuejs/vue'
+    ],
     properties: {
         link: 'https://github.com/nuxt/nuxt.js',
         platform: 'GitHub',

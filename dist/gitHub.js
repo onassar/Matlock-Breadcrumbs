@@ -11029,6 +11029,7 @@
             [
                 'window.BN',
                 'window.BN.isBN',
+                'window.BN.mont',
                 'window.BN.red'
             ]
         ]

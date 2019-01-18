@@ -6196,14 +6196,35 @@
     }
 }
 ,
+// src/gitHub/cloudflare/backgrid.js
+{
+    properties: {
+        examples: [
+            'http://backgridjs.com/'
+        ],
+        link: 'https://github.com/cloudflare/backgrid',
+        name: 'Backgrid.js',
+        platform: 'GitHub',
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.Backgrid',
+                'window.Backgrid.Extension'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/cloudinary/cloudinary_js.js
 {
     properties: {
-        link: 'https://github.com/cloudinary/cloudinary_js',
-        platform: 'GitHub',
         examples: [
             'https://cloudinary.com/console'
         ],
+        link: 'https://github.com/cloudinary/cloudinary_js',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {

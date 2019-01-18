@@ -1,10 +1,10 @@
 {
     properties: {
-        link: 'https://github.com/cloudinary/cloudinary_js',
-        platform: 'GitHub',
         examples: [
             'https://cloudinary.com/console'
         ],
+        link: 'https://github.com/cloudinary/cloudinary_js',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {

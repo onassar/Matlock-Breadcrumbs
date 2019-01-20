@@ -16,5 +16,18 @@
         }
     },
     tests: {
+        shortcuts: [
+            {
+                key: 'header.server',
+                name: 'GitHub.com'
+            }
+        ],
+        patterns: {
+            headers: [
+                [
+                    /x\-github\-request\-id/i
+                ]
+            ]
+        }
     }
 }

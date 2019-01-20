@@ -22194,6 +22194,9 @@
 ,
 // src/gitHub/zopefoundation/ZServer.js
 {
+    dependencies: [
+        'https://github.com/python/cpython'
+    ],
     properties: {
         examples: [
             'https://www.imi-n.org/publications/money-matters-the-role-of-funding-in-migration-governance'
@@ -22222,6 +22225,9 @@
 ,
 // src/gitHub/zopefoundation/Zope.js
 {
+    dependencies: [
+        'https://github.com/python/cpython'
+    ],
     properties: {
         examples: [
             'https://www.imi-n.org/publications/money-matters-the-role-of-funding-in-migration-governance'

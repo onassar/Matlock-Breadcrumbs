@@ -1,4 +1,7 @@
 {
+    dependencies: [
+        'https://github.com/python/cpython'
+    ],
     properties: {
         examples: [
             'https://www.imi-n.org/publications/money-matters-the-role-of-funding-in-migration-governance'

@@ -21051,6 +21051,44 @@
     }
 }
 ,
+// src/gitHub/viljamis/ResponsiveSlides.js.js
+{
+    properties: {
+        examples: [
+            'http://responsiveslides.com/'
+        ],
+        link: 'https://github.com/viljamis/ResponsiveSlides.js',
+        platform: 'GitHub',
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.jQuery.fn.responsiveSlides'
+            ]
+        ]
+    }
+}
+,
+// src/gitHub/viljamis/TinyNav.js.js
+{
+    properties: {
+        examples: [
+            'http://tinynav.com/'
+        ],
+        link: 'https://github.com/viljamis/TinyNav.js',
+        platform: 'GitHub',
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.jQuery.fn.tinyNav'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/viljamis/responsive-nav.js.js
 {
     properties: {

@@ -477,7 +477,7 @@
         examples: [
             'https://www.infowars.com/'
         ],
-        link: 'https://github.com/dailymotion/hls.js',
+        link: 'https://github.com/Dash-Industry-Forum/dash.js',
         platform: 'GitHub',
         type: 'repository'
     },

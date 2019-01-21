@@ -6619,6 +6619,26 @@
     }
 }
 ,
+// src/gitHub/dailymotion/hls.js.js
+{
+    properties: {
+        examples: [
+            'https://www.infowars.com/'
+        ],
+        link: 'https://github.com/dailymotion/hls.js',
+        platform: 'GitHub',
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.Hls',
+                'window.Hls.Events'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/daneden/animate.css.js
 {
     properties: {

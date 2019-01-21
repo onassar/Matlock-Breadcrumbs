@@ -21089,6 +21089,26 @@
     }
 }
 ,
+// src/gitHub/viljamis/feature.js.js
+{
+    properties: {
+        examples: [
+            'http://featurejs.com/'
+        ],
+        link: 'https://github.com/viljamis/feature.js',
+        platform: 'GitHub',
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.feature',
+                'window.feature.testAll'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/viljamis/responsive-nav.js.js
 {
     properties: {

@@ -17,5 +17,10 @@
                 'window.jQuery.terminal.escape_brackets'
             ]
         ]
+    },
+    versions: {
+        references: [
+            'window.jQuery.terminal.version'
+        ]
     }
 }

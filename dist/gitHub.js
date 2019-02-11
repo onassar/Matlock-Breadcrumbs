@@ -2864,11 +2864,7 @@
             'https://i.imgur.com/VaUooX0.png'
         ],
         platform: 'GitHub',
-        type: 'repository',
-        wikiPedia: {
-            load: true,
-            title: 'HTML5_Shiv'
-        }
+        type: 'repository'
     },
     tests: {
         patterns: {

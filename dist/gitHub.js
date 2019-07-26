@@ -7169,7 +7169,7 @@
     properties: {
         examples: [
             'https://masonry.desandro.com/',
-            'https://analytics.google.com/analytics/web/#/report-home/a35893957w63834918p65499463',
+            'https://analytics.google.com/analytics/web/#/report-home/a35893957w63834918p65499463'
         ],
         link: 'https://github.com/desandro/masonry',
         name: 'Masonry',
@@ -7621,7 +7621,7 @@
         platform: 'GitHub',
         tags: [
             'company',
-            'truncate',
+            'truncate'
         ],
         examples: [
             'https://www.washingtonpost.com/local/legal-issues/russian-maria-butina-pleads-guilty-in-effort-to-forge-kremlin-bond-with-us-conservatives/2018/12/13/c27f2d26-fe4f-11e8-ad40-cdfd0e0dd65a_story.html?utm_term=.f0ae9474d229',
@@ -12452,7 +12452,7 @@
     properties: {
         examples: [
             'http://jonthornton.github.io/jquery-timepicker/',
-            'https://demo.matomo.org/index.php?module=CoreHome&action=index&idSite=62&period=day&date=yesterday#?idSite=62&period=day&date=yesterday&category=Dashboard_Dashboard&subcategory=1',
+            'https://demo.matomo.org/index.php?module=CoreHome&action=index&idSite=62&period=day&date=yesterday#?idSite=62&period=day&date=yesterday&category=Dashboard_Dashboard&subcategory=1'
         ],
         link: 'https://github.com/jonthornton/jquery-timepicker',
         name: 'jQuery Timepicker Plugin',
@@ -15122,7 +15122,7 @@
     properties: {
         examples: [
             'https://mattboldt.com/demos/typed-js/',
-            'https://formvalidation.io/guide/api/reset-field/clear/Tachyons',
+            'https://formvalidation.io/guide/api/reset-field/clear/Tachyons'
         ],
         link: 'https://github.com/mattboldt/typed.js',
         name: 'Typed.js',

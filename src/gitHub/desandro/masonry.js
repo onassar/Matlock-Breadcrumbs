@@ -2,7 +2,7 @@
     properties: {
         examples: [
             'https://masonry.desandro.com/',
-            'https://analytics.google.com/analytics/web/#/report-home/a35893957w63834918p65499463',
+            'https://analytics.google.com/analytics/web/#/report-home/a35893957w63834918p65499463'
         ],
         link: 'https://github.com/desandro/masonry',
         name: 'Masonry',

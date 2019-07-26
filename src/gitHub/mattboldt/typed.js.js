@@ -2,7 +2,7 @@
     properties: {
         examples: [
             'https://mattboldt.com/demos/typed-js/',
-            'https://formvalidation.io/guide/api/reset-field/clear/Tachyons',
+            'https://formvalidation.io/guide/api/reset-field/clear/Tachyons'
         ],
         link: 'https://github.com/mattboldt/typed.js',
         name: 'Typed.js',

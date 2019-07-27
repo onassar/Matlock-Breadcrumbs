@@ -8498,19 +8498,6 @@
         }
     },
     tests: {
-        patterns: {
-            page: [
-                [
-                    /data\-reactroot/i
-                ],
-                [
-                    /data\-reactid/i
-                ],
-                [
-                    /react\-root/i
-                ]
-            ]
-        },
         references: [
             [
                 'window.React'
@@ -8521,14 +8508,7 @@
             [
                 'window.react_lib'
             ]
-        ],
-        strings: {
-            page: [
-                [
-                    'react-mount-point'
-                ]
-            ]
-        }
+        ]
     },
     versions: {
         references: [

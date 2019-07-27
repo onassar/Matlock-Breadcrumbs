@@ -7922,7 +7922,7 @@
     }
 }
 ,
-// src/gitHub/eligrey/FileSaver.js
+// src/gitHub/eligrey/FileSaver.js.js
 {
     properties: {
         link: 'https://github.com/eligrey/FileSaver.js',

@@ -1,27 +1,18 @@
 {
     properties: {
-        examples: [
-            'http://jquerymy.com/'
-        ],
-        link: 'https://github.com/ermouth/jQuery.my',
+        link: 'https://github.com/tapmodo/Jcrop',
         platform: 'GitHub',
         tags: [
-            'data-binding'
+            'cropping'
         ],
         type: 'repository'
     },
     tests: {
         references: [
             [
-                'window.jQuery.my',
-                'window.jQuery.my.ajax',
-                'window.jQuery.my.modal'
+                'window.Jcrop',
+                'window.Jcrop.defaults'
             ]
-        ]
-    },
-    versions: {
-        statements: [
-            'window.jQuery.my.version()'
         ]
     }
 }

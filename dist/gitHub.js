@@ -2761,7 +2761,7 @@
 // src/gitHub/Yomguithereal/gexf.js
 {
     properties: {
-        link: 'https://github.com/Yomguithereal/gexf.js',
+        link: 'https://github.com/Yomguithereal/gexf',
         examples: [
             'http://sigmajs.org/'
         ],

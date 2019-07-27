@@ -1925,30 +1925,6 @@
     }
 }
 ,
-// src/gitHub/SginalR/SginalR.js
-{
-    properties: {
-        link: 'https://github.com/SignalR/SignalR',
-        platform: 'GitHub',
-        examples: [
-            'https://www.wsj.com/'
-        ],
-        type: 'repository'
-    },
-    tests: {
-        references: [
-            [
-                'window.jQuery.signalR'
-            ]
-        ]
-    },
-    versions: {
-        references: [
-            'window.jQuery.signalR.version'
-        ]
-    }
-}
-,
 // src/gitHub/SheetJS/js-xlsx.js
 {
     properties: {
@@ -1970,6 +1946,30 @@
     versions: {
         references: [
             'window.XLSX.version'
+        ]
+    }
+}
+,
+// src/gitHub/SignalR/SignalR.js
+{
+    properties: {
+        link: 'https://github.com/SignalR/SignalR',
+        platform: 'GitHub',
+        examples: [
+            'https://www.wsj.com/'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.jQuery.signalR'
+            ]
+        ]
+    },
+    versions: {
+        references: [
+            'window.jQuery.signalR.version'
         ]
     }
 }

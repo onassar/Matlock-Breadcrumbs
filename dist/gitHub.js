@@ -7080,6 +7080,25 @@
     }
 }
 ,
+// src/gitHub/ded/reqwest.js
+{
+    properties: {
+        link: 'https://github.com/ded/reqwest',
+        platform: 'GitHub',
+        examples: [
+            'https://ngryman.sh/obelisk-buildr/'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.reqwest'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/defunkt/facebox.js
 {
     properties: {
@@ -7115,25 +7134,6 @@
             [
                 'window.jQuery.pjax',
                 'window.jQuery.pjax.reload'
-            ]
-        ]
-    }
-}
-,
-// src/gitHub/defunkt/reqwest.js
-{
-    properties: {
-        link: 'https://github.com/ded/reqwest',
-        platform: 'GitHub',
-        examples: [
-            'https://ngryman.sh/obelisk-buildr/'
-        ],
-        type: 'repository'
-    },
-    tests: {
-        references: [
-            [
-                'window.reqwest'
             ]
         ]
     }

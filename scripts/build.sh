@@ -46,6 +46,16 @@ rm -rf scripts/build/
 
 
 ## 
+## Version control
+## 
+## 
+git add dist/gitHub.js \
+&& git commit -m "[AUTOMATED] Build" \
+&& git push \
+&& git checkout -- dist/gitHub.js
+
+
+## 
 ## Done
 ## 
 ## 

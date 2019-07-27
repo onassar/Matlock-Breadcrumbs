@@ -6866,6 +6866,7 @@
 {
     properties: {
         alternatives: [
+            'https://github.com/iamkun/dayjs',
             'https://github.com/moment/moment'
         ],
         link: 'https://github.com/datejs/Datejs',
@@ -10849,6 +10850,10 @@
 // src/gitHub/iamkun/dayjs.js
 {
     properties: {
+        alternatives: [
+            'https://github.com/datejs/Datejs',
+            'https://github.com/moment/moment'
+        ],
         link: 'https://github.com/iamkun/dayjs',
         platform: 'GitHub',
         tags: [
@@ -15814,7 +15819,8 @@
 {
     properties: {
         alternatives: [
-            'https://github.com/datejs/Datejs'
+            'https://github.com/datejs/Datejs',
+            'https://github.com/iamkun/dayjs'
         ],
         link: 'https://github.com/moment/moment',
         name: 'Moment.js',

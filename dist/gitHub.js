@@ -12958,28 +12958,6 @@
     }
 }
 ,
-// src/gitHub/jrburke/requirejs.js
-{
-    properties: {
-        link: 'https://github.com/requirejs/requirejs',
-        name: 'RequireJS',
-        platform: 'GitHub',
-        type: 'repository'
-    },
-    tests: {
-        references: [
-            [
-                'window.requirejs'
-            ]
-        ]
-    },
-    versions: {
-        references: [
-            'window.requirejs.version'
-        ]
-    }
-}
-,
 // src/gitHub/js-cookie/js-cookie.js
 {
     properties: {
@@ -18126,6 +18104,28 @@
             [
                 'window.jQuery.fn.easyPieChart'
             ]
+        ]
+    }
+}
+,
+// src/gitHub/requirejs/requirejs.js
+{
+    properties: {
+        link: 'https://github.com/requirejs/requirejs',
+        name: 'RequireJS',
+        platform: 'GitHub',
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.requirejs'
+            ]
+        ]
+    },
+    versions: {
+        references: [
+            'window.requirejs.version'
         ]
     }
 }

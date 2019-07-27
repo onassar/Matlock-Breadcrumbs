@@ -4670,31 +4670,6 @@
     }
 }
 ,
-// src/gitHub/balupton/history.js.js
-{
-    properties: {
-        examples: [
-            'http://browserstate.github.io/history.js/demo/'
-        ],
-        link: 'https://github.com/browserstate/history.js',
-        platform: 'GitHub',
-        tags: [
-            'navigation'
-        ],
-        type: 'repository'
-    },
-    tests: {
-        references: [
-            [
-                'window.History',
-                'window.History.back',
-                'window.History.getHash',
-                'window.History.pushState'
-            ]
-        ]
-    }
-}
-,
 // src/gitHub/balupton/jquery-lightbox.js
 {
     properties: {
@@ -5562,6 +5537,31 @@
                 key: 'query.meta.generator',
                 generator: 'BrowserCMS'
             }
+        ]
+    }
+}
+,
+// src/gitHub/browserstate/history.js.js
+{
+    properties: {
+        examples: [
+            'http://browserstate.github.io/history.js/demo/'
+        ],
+        link: 'https://github.com/browserstate/history.js',
+        platform: 'GitHub',
+        tags: [
+            'navigation'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.History',
+                'window.History.back',
+                'window.History.getHash',
+                'window.History.pushState'
+            ]
         ]
     }
 }

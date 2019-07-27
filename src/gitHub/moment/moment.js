@@ -1,7 +1,8 @@
 {
     properties: {
         alternatives: [
-            'https://github.com/datejs/Datejs'
+            'https://github.com/datejs/Datejs',
+            'https://github.com/iamkun/dayjs'
         ],
         link: 'https://github.com/moment/moment',
         name: 'Moment.js',

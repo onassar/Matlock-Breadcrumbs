@@ -10555,7 +10555,7 @@
     }
 }
 ,
-// src/gitHub/hgoebl/mobile-detect.js
+// src/gitHub/hgoebl/mobile-detect.js.js
 {
     properties: {
         link: 'https://github.com/hgoebl/mobile-detect.js',
@@ -11088,7 +11088,7 @@
     }
 }
 ,
-// src/gitHub/impress/impress.js
+// src/gitHub/impress/impress.js.js
 {
     properties: {
         link: 'https://github.com/impress/impress.js',
@@ -11155,7 +11155,7 @@
     }
 }
 ,
-// src/gitHub/infusion/Fraction.js
+// src/gitHub/infusion/Fraction.js.js
 {
     properties: {
         link: 'https://github.com/infusion/Fraction.js',
@@ -11592,7 +11592,7 @@
     }
 }
 ,
-// src/gitHub/janl/mustache.js
+// src/gitHub/janl/mustache.js.js
 {
     properties: {
         link: 'https://github.com/janl/mustache.js',
@@ -14179,33 +14179,6 @@
     }
 }
 ,
-// src/gitHub/ludo/jqGrid.js
-{
-    properties: {
-        examples: [
-            'http://www.guriddo.net/demo/guriddojs/loading_data/rest_million/index.html'
-        ],
-        link: 'https://github.com/tonytomov/jqGrid',
-        platform: 'GitHub',
-        tags: [
-            'tables'
-        ],
-        type: 'repository'
-    },
-    tests: {
-        references: [
-            [
-                'window.jQuery.fn.jqGrid'
-            ]
-        ]
-    },
-    versions: {
-        references: [
-            'window.jQuery.jgrid.version'
-        ]
-    }
-}
-,
 // src/gitHub/ludo/jquery-treetable.js
 {
     properties: {
@@ -14477,31 +14450,6 @@
     }
 }
 ,
-// src/gitHub/madrobby/prototype.js
-{
-    properties: {
-        examples: [
-            'https://script.aculo.us/'
-        ],
-        link: 'https://github.com/prototypejs/prototype',
-        name: 'Prototype',
-        platform: 'GitHub',
-        type: 'repository'
-    },
-    tests: {
-        references: [
-            [
-                'window.Prototype'
-            ]
-        ]
-    },
-    versions: {
-        references: [
-            'window.Prototype.Version'
-        ]
-    }
-}
-,
 // src/gitHub/madrobby/scriptaculous.js
 {
     properties: {
@@ -14673,7 +14621,7 @@
     }
 }
 ,
-// src/gitHub/mapbox/mapbox.js
+// src/gitHub/mapbox/mapbox.js.js
 {
     properties: {
         link: 'https://github.com/mapbox/mapbox.js',
@@ -15474,6 +15422,30 @@
     }
 }
 ,
+// src/gitHub/metafizzy/isotope.js
+{
+    properties: {
+        examples: [
+            'https://isotope.metafizzy.co/'
+        ],
+        link: 'https://github.com/metafizzy/isotope',
+        name: 'Isotope',
+        platform: 'GitHub',
+        tags: [
+            'filtering',
+            'layouts'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.jQuery.fn.isotope'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/metafizzy/packery.js
 {
     properties: {
@@ -15552,30 +15524,6 @@
                 'window.destroyStash',
                 'window.removeClasses',
                 'window.flushDataAttributes'
-            ]
-        ]
-    }
-}
-,
-// src/gitHub/mezzoblue/isotope.js
-{
-    properties: {
-        examples: [
-            'https://isotope.metafizzy.co/'
-        ],
-        link: 'https://github.com/metafizzy/isotope',
-        name: 'Isotope',
-        platform: 'GitHub',
-        tags: [
-            'filtering',
-            'layouts'
-        ],
-        type: 'repository'
-    },
-    tests: {
-        references: [
-            [
-                'window.jQuery.fn.isotope'
             ]
         ]
     }
@@ -16097,7 +16045,7 @@
     }
 }
 ,
-// src/gitHub/mrdoob/three.js
+// src/gitHub/mrdoob/three.js.js
 {
     properties: {
         link: 'https://github.com/mrdoob/three.js',
@@ -16492,7 +16440,23 @@
     }
 }
 ,
-// src/gitHub/nienines/cowboy.js
+// src/gitHub/niklasvh/html2canvas.js
+{
+    properties: {
+        link: 'https://github.com/niklasvh/html2canvas',
+        platform: 'GitHub',
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.html2canvas'
+            ]
+        ]
+    }
+}
+,
+// src/gitHub/ninenines/cowboy.js
 {
     properties: {
         examples: [
@@ -16517,22 +16481,6 @@
                 key: 'header.server',
                 name: 'cowboy'
             }
-        ]
-    }
-}
-,
-// src/gitHub/niklasvh/html2canvas.js
-{
-    properties: {
-        link: 'https://github.com/niklasvh/html2canvas',
-        platform: 'GitHub',
-        type: 'repository'
-    },
-    tests: {
-        references: [
-            [
-                'window.html2canvas'
-            ]
         ]
     }
 }
@@ -17739,6 +17687,31 @@
     versions: {
         references: [
             'window.pbjs.version'
+        ]
+    }
+}
+,
+// src/gitHub/prototypejs/prototype.js
+{
+    properties: {
+        examples: [
+            'https://script.aculo.us/'
+        ],
+        link: 'https://github.com/prototypejs/prototype',
+        name: 'Prototype',
+        platform: 'GitHub',
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.Prototype'
+            ]
+        ]
+    },
+    versions: {
+        references: [
+            'window.Prototype.Version'
         ]
     }
 }
@@ -19510,7 +19483,7 @@
     }
 }
 ,
-// src/gitHub/srobbin/approach.js
+// src/gitHub/srobbin/jquery-approach.js
 {
     properties: {
         link: 'https://github.com/srobbin/jquery-approach',
@@ -20507,6 +20480,33 @@
     }
 }
 ,
+// src/gitHub/tonytomov/jqGrid.js
+{
+    properties: {
+        examples: [
+            'http://www.guriddo.net/demo/guriddojs/loading_data/rest_million/index.html'
+        ],
+        link: 'https://github.com/tonytomov/jqGrid',
+        platform: 'GitHub',
+        tags: [
+            'tables'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.jQuery.fn.jqGrid'
+            ]
+        ]
+    },
+    versions: {
+        references: [
+            'window.jQuery.jgrid.version'
+        ]
+    }
+}
+,
 // src/gitHub/totaljs/Tangular.js
 {
     properties: {
@@ -20997,7 +20997,7 @@
     }
 }
 ,
-// src/gitHub/usablica/progressJs.js
+// src/gitHub/usablica/progress.js.js
 {
     properties: {
         link: 'https://github.com/usablica/progress.js',
@@ -22285,7 +22285,7 @@
     }
 }
 ,
-// src/gitHub/zachleat/BixText.js
+// src/gitHub/zachleat/BigText.js
 {
     properties: {
         link: 'https://github.com/zachleat/BigText',

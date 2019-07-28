@@ -3168,6 +3168,31 @@
     }
 }
 ,
+// src/gitHub/airbnb/lottie-web.js
+{
+    properties: {
+        link: 'https://github.com/airbnb/lottie-web',
+        platform: 'GitHub',
+        examples: [
+            'https://www.airoav.com/'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.bodymovin',
+                'window.bodymovin.pause'
+            ]
+        ]
+    },
+    versions: {
+        references: [
+            'window.bodymovin.version'
+        ]
+    }
+}
+,
 // src/gitHub/airbnb/polyglot.js.js
 {
     properties: {
@@ -7568,6 +7593,31 @@
                 key: 'query.meta.generator',
                 generator: 'DocPad'
             }
+        ]
+    }
+}
+,
+// src/gitHub/docsifyjs/docsify.js
+{
+    properties: {
+        link: 'https://github.com/docsifyjs/docsify',
+        platform: 'GitHub',
+        examples: [
+            'http://airbnb.io/lottie/'
+        ],
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.Docsify',
+                'window.Docsify.util'
+            ]
+        ]
+    },
+    versions: {
+        references: [
+            'window.Docsify.version'
         ]
     }
 }

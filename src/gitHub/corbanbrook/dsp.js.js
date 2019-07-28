@@ -11,7 +11,7 @@
         references: [
             [
                 'window.FFT',
-                'window.FFT.prototype.calculateReverseTable',
+                'window.FFT.prototype.calculateReverseTable'
             ]
         ]
     }

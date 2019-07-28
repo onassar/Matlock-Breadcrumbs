@@ -31,7 +31,7 @@
                 key: 'query.script',
                 fileroot: 'lodash'
             }
-        ],
+        ]
     },
     versions: {
         references: [

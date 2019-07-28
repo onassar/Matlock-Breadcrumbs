@@ -16,7 +16,7 @@
             [
                 'window.Date.today',
                 'window.Date.monday',
-                'window.Date.march',
+                'window.Date.march'
             ]
         ]
     }

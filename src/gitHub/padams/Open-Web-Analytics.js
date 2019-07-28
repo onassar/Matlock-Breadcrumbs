@@ -16,7 +16,7 @@
             [
                 'window.OWA',
                 'window.OWA.config',
-                'window.OWA.config.baseUrl',
+                'window.OWA.config.baseUrl'
             ],
             [
                 'window.owa_baseUrl'

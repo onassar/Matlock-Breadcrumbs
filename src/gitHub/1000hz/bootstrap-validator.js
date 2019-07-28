@@ -16,7 +16,7 @@
                 'window.jQuery.fn.validator.noConflict',
                 'window.jQuery.fn.validator.Constructor',
                 'window.jQuery.fn.validator.Constructor.DEFAULTS',
-                'window.jQuery.fn.validator.Constructor.VALIDATORS',
+                'window.jQuery.fn.validator.Constructor.VALIDATORS'
             ]
         ]
     }

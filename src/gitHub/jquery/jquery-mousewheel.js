@@ -15,7 +15,7 @@
         references: [
             [
                 'window.jQuery.fn.mousewheel',
-                'window.jQuery.fn.unmousewheel',
+                'window.jQuery.fn.unmousewheel'
             ]
         ]
     },

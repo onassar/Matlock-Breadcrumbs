@@ -28,7 +28,7 @@
                         'link[rel="stylesheet"][href*="font-awesome-all" i]',
                         'link[rel="stylesheet"][href*="fontawesome" i]',
                         'link[rel="stylesheet"][href*="fontawesome-all" i]',
-                        'link[rel="stylesheet"][href*="use.fontawesome.com" i]',
+                        'link[rel="stylesheet"][href*="use.fontawesome.com" i]'
                     ],
                     length: {
                         operator: '>',

@@ -11,5 +11,5 @@
                 'window.smoothScroll'
             ]
         ]
-    },
+    }
 }

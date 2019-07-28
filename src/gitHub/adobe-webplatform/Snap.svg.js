@@ -11,7 +11,7 @@
         references: [
             [
                 'window.Snap',
-                'window.Snap.parseTransformString',
+                'window.Snap.parseTransformString'
             ]
         ]
     },

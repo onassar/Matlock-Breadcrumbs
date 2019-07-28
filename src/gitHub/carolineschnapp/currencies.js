@@ -13,7 +13,7 @@
             [
                 'window.Currency',
                 'window.Currency.cookie',
-                'window.Currency.cookie.configuration',
+                'window.Currency.cookie.configuration'
             ]
         ]
     }

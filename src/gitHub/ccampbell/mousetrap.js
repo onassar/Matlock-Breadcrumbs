@@ -19,5 +19,5 @@
                 'window.Mousetrap.init'
             ]
         ]
-    },
+    }
 }

@@ -14,23 +14,23 @@
         references: [
             [
                 'window.swal',
-                'window.swal.setDefaults',
+                'window.swal.setDefaults'
             ],
             [
                 'window.Swal',
-                'window.Swal.setDefaults',
+                'window.Swal.setDefaults'
             ],
             [
                 'window.sweetAlert',
-                'window.sweetAlert.setDefaults',
+                'window.sweetAlert.setDefaults'
             ],
             [
                 'window.SweetAlert',
-                'window.SweetAlert.setDefaults',
+                'window.SweetAlert.setDefaults'
             ],
             [
                 'window.Sweetalert2',
-                'window.Sweetalert2.setDefaults',
+                'window.Sweetalert2.setDefaults'
             ]
         ]
     },

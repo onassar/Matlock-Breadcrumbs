@@ -14,5 +14,5 @@
                 'window.Gator.prototype.off'
             ]
         ]
-    },
+    }
 }

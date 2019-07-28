@@ -16,7 +16,9 @@
         ],
         strings: {
             page: [
-                ['g-recaptcha']
+                [
+                    'g-recaptcha'
+                ]
             ]
         }
     }

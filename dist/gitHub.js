@@ -18,7 +18,7 @@
                 'window.jQuery.fn.validator.noConflict',
                 'window.jQuery.fn.validator.Constructor',
                 'window.jQuery.fn.validator.Constructor.DEFAULTS',
-                'window.jQuery.fn.validator.Constructor.VALIDATORS',
+                'window.jQuery.fn.validator.Constructor.VALIDATORS'
             ]
         ]
     }
@@ -839,7 +839,7 @@
                         'link[rel="stylesheet"][href*="font-awesome-all" i]',
                         'link[rel="stylesheet"][href*="fontawesome" i]',
                         'link[rel="stylesheet"][href*="fontawesome-all" i]',
-                        'link[rel="stylesheet"][href*="use.fontawesome.com" i]',
+                        'link[rel="stylesheet"][href*="use.fontawesome.com" i]'
                     ],
                     length: {
                         operator: '>',
@@ -3134,7 +3134,7 @@
         references: [
             [
                 'window.Snap',
-                'window.Snap.parseTransformString',
+                'window.Snap.parseTransformString'
             ]
         ]
     },
@@ -3491,7 +3491,7 @@
                 'window.smoothScroll'
             ]
         ]
-    },
+    }
 }
 ,
 // src/gitHub/alizahid/slinky.js
@@ -5850,7 +5850,7 @@
             [
                 'window.Currency',
                 'window.Currency.cookie',
-                'window.Currency.cookie.configuration',
+                'window.Currency.cookie.configuration'
             ]
         ]
     }
@@ -5940,7 +5940,7 @@
                 'window.Gator.prototype.off'
             ]
         ]
-    },
+    }
 }
 ,
 // src/gitHub/ccampbell/mousetrap.js
@@ -5965,7 +5965,7 @@
                 'window.Mousetrap.init'
             ]
         ]
-    },
+    }
 }
 ,
 // src/gitHub/ccampbell/rainbow.js
@@ -5983,7 +5983,7 @@
                 'window.Rainbow.extend'
             ]
         ]
-    },
+    }
 }
 ,
 // src/gitHub/cferdinandi/smooth-scroll.js
@@ -6428,7 +6428,7 @@
         references: [
             [
                 'window.FFT',
-                'window.FFT.prototype.calculateReverseTable',
+                'window.FFT.prototype.calculateReverseTable'
             ]
         ]
     }
@@ -6930,7 +6930,7 @@
             [
                 'window.Date.today',
                 'window.Date.monday',
-                'window.Date.march',
+                'window.Date.march'
             ]
         ]
     }
@@ -8562,7 +8562,8 @@
         examples: [
             'https://www.cbc.ca/',
             'https://www.meetup.com/',
-            'https://developers.facebook.com/'
+            'https://developers.facebook.com/',
+            'https://www.saashub.com/'
         ],
         link: 'https://github.com/facebook/react',
         platform: 'GitHub',
@@ -8582,6 +8583,9 @@
             ],
             [
                 'window.react_lib'
+            ],
+            [
+                'window.ReactRailsUJS'
             ]
         ]
     },
@@ -9942,7 +9946,9 @@
         ],
         strings: {
             page: [
-                ['g-recaptcha']
+                [
+                    'g-recaptcha'
+                ]
             ]
         }
     }
@@ -11038,7 +11044,7 @@
     properties: {
         link: 'https://github.com/imakewebthings/jquery-waypoints',
         notes: [
-            "Marked the reference as dead.dead.dead since this repo does not exist anymore but is still referenced. Find a better way to mark this as dead"
+            'Marked the reference as dead.dead.dead since this repo does not exist anymore but is still referenced. Find a better way to mark this as dead'
         ],
         platform: 'GitHub',
         type: 'repository'
@@ -12873,7 +12879,7 @@
         references: [
             [
                 'window.jQuery.fn.mousewheel',
-                'window.jQuery.fn.unmousewheel',
+                'window.jQuery.fn.unmousewheel'
             ]
         ]
     },
@@ -14073,7 +14079,7 @@
                 key: 'query.script',
                 fileroot: 'lodash'
             }
-        ],
+        ]
     },
     versions: {
         references: [
@@ -17085,7 +17091,7 @@
             [
                 'window.OWA',
                 'window.OWA.config',
-                'window.OWA.config.baseUrl',
+                'window.OWA.config.baseUrl'
             ],
             [
                 'window.owa_baseUrl'
@@ -19961,23 +19967,23 @@
         references: [
             [
                 'window.swal',
-                'window.swal.setDefaults',
+                'window.swal.setDefaults'
             ],
             [
                 'window.Swal',
-                'window.Swal.setDefaults',
+                'window.Swal.setDefaults'
             ],
             [
                 'window.sweetAlert',
-                'window.sweetAlert.setDefaults',
+                'window.sweetAlert.setDefaults'
             ],
             [
                 'window.SweetAlert',
-                'window.SweetAlert.setDefaults',
+                'window.SweetAlert.setDefaults'
             ],
             [
                 'window.Sweetalert2',
-                'window.Sweetalert2.setDefaults',
+                'window.Sweetalert2.setDefaults'
             ]
         ]
     },
@@ -21778,7 +21784,7 @@
             [
                 'window.jQuery.i18n',
                 'window.jQuery.i18n.parser',
-                'window.jQuery.fn.i18n',
+                'window.jQuery.fn.i18n'
             ]
         ]
     }

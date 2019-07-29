@@ -3,7 +3,8 @@
         examples: [
             'https://www.cbc.ca/',
             'https://www.meetup.com/',
-            'https://developers.facebook.com/'
+            'https://developers.facebook.com/',
+            'https://www.saashub.com/'
         ],
         link: 'https://github.com/facebook/react',
         platform: 'GitHub',
@@ -23,6 +24,9 @@
             ],
             [
                 'window.react_lib'
+            ],
+            [
+                'window.ReactRailsUJS'
             ]
         ]
     },

@@ -3,9 +3,7 @@
         donate: {
             link: 'https://vuejs.org/support-vuejs/'
         },
-        examples: [
-            ''
-        ],
+        examples: [],
         link: 'https://github.com/vuejs/vue',
         name: 'Vue.js',
         platform: 'GitHub',

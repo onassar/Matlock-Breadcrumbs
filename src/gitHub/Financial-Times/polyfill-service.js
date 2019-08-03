@@ -1,8 +1,6 @@
 {
     properties: {
-        examples: [
-            ''
-        ],
+        examples: [],
         link: 'https://github.com/Financial-Times/polyfill-service',
         name: 'Polyfill Service (by Financial Times)',
         platform: 'GitHub',

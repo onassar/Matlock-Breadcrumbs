@@ -768,9 +768,7 @@
 // src/gitHub/Financial-Times/polyfill-service.js
 {
     properties: {
-        examples: [
-            ''
-        ],
+        examples: [],
         link: 'https://github.com/Financial-Times/polyfill-service',
         name: 'Polyfill Service (by Financial Times)',
         platform: 'GitHub',
@@ -21538,9 +21536,7 @@
         donate: {
             link: 'https://vuejs.org/support-vuejs/'
         },
-        examples: [
-            ''
-        ],
+        examples: [],
         link: 'https://github.com/vuejs/vue',
         name: 'Vue.js',
         platform: 'GitHub',

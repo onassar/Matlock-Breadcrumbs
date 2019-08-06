@@ -6101,6 +6101,9 @@
 // src/gitHub/chartjs/Chart.js.js
 {
     properties: {
+        examples: [
+            'https://transferwise.com/ca'
+        ],
         link: 'https://github.com/chartjs/Chart.js',
         platform: 'GitHub',
         type: 'repository'

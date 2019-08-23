@@ -3,7 +3,8 @@
         examples: [
             'https://lto.network/',
             'https://ionicons.com/',
-            'http://cloudean.com/'
+            'http://cloudean.com/',
+            'https://getstencil.com/blog/'
         ],
         link: 'https://github.com/ionic-team/ionicons',
         platform: 'GitHub',

@@ -11332,6 +11332,30 @@
     }
 }
 ,
+// src/gitHub/instantpage/instant.page.js
+{
+    properties: {
+        examples: [
+            'https://instant.page',
+            'https://yoast.com'
+        ],
+        link: 'https://github.com/instantpage/instant.page',
+        platform: 'GitHub',
+        tags: [],
+        type: 'repository'
+    },
+    tests: {
+        shortcuts: [
+            {
+                key: 'query',
+                selectors: [
+                    'script[src*="//instant.page"][type="module"]'
+                ]
+            }
+        ]
+    }
+}
+,
 // src/gitHub/iodide-project/iodide.js
 {
     properties: {
@@ -11377,7 +11401,8 @@
         examples: [
             'https://lto.network/',
             'https://ionicons.com/',
-            'http://cloudean.com/'
+            'http://cloudean.com/',
+            'https://getstencil.com/blog/'
         ],
         link: 'https://github.com/ionic-team/ionicons',
         platform: 'GitHub',

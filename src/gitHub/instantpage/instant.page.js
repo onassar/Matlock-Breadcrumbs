@@ -18,5 +18,13 @@
                 ]
             }
         ]
+    },
+    versions: {
+        statements: [
+            function() {
+                var version = '123';
+                return version;
+            }
+        ]
     }
 }

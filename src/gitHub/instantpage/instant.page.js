@@ -1,7 +1,6 @@
 {
     properties: {
         examples: [
-            'https://instant.page',
             'https://yoast.com'
         ],
         link: 'https://github.com/instantpage/instant.page',

@@ -9705,6 +9705,26 @@
     }
 }
 ,
+// src/gitHub/glidejs/glide.js
+{
+    properties: {
+        link: 'https://github.com/glidejs/glide',
+        name: 'Glide.js',
+        platform: 'GitHub',
+        tags: [],
+        type: 'repository'
+    },
+    tests: {
+        references: [
+            [
+                'window.Glide',
+                'window.Glide.prototype',
+                'window.Glide.prototype.constructor'
+            ]
+        ]
+    }
+}
+,
 // src/gitHub/globalizejs/globalize.js
 {
     properties: {
@@ -11356,7 +11376,6 @@
 {
     properties: {
         examples: [
-            'https://instant.page',
             'https://yoast.com'
         ],
         link: 'https://github.com/instantpage/instant.page',

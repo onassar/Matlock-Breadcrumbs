@@ -12440,6 +12440,12 @@
     tests: {
         references: [
             [
+                'window.jQuery',
+                'window.jQuery.fakeLoader'
+            ],
+            [
+                'window.jQuery',
+                'window.jQuery.fn',
                 'window.jQuery.fn.fakeLoader'
             ]
         ]
@@ -12449,6 +12455,9 @@
 // src/gitHub/joeldbirch/superfish.js
 {
     properties: {
+        donate: {
+            link: 'https://superfish.joelbirch.design'
+        },
         examples: [
             'https://superfish.joelbirch.co/'
         ],

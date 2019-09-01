@@ -1,5 +1,8 @@
 {
     properties: {
+        donate: {
+            link: 'https://superfish.joelbirch.design'
+        },
         examples: [
             'https://superfish.joelbirch.co/'
         ],

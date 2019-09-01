@@ -10,6 +10,12 @@
     tests: {
         references: [
             [
+                'window.jQuery',
+                'window.jQuery.fakeLoader'
+            ],
+            [
+                'window.jQuery',
+                'window.jQuery.fn',
                 'window.jQuery.fn.fakeLoader'
             ]
         ]

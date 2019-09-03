@@ -7,6 +7,7 @@
             'https://jekyllrb.com/'
         ],
         link: 'https://github.com/jekyll/jekyll',
+        name: 'Jekyll',
         platform: 'GitHub',
         type: 'repository',
         wikiPedia: {

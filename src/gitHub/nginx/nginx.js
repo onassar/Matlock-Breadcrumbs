@@ -7,6 +7,7 @@
             'https://bitbucket.org/'
         ],
         link: 'https://github.com/nginx/nginx',
+        name: 'Nginx',
         platform: 'GitHub',
         related: [
             'https://github.com/apache/httpd'

@@ -7,6 +7,7 @@
             'https://github.com/gildas-lormeau/zip.js'
         ],
         link: 'https://github.com/Stuk/jszip',
+        name: 'JSZip',
         platform: 'GitHub',
         type: 'repository'
     },

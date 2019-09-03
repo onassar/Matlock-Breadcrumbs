@@ -10,6 +10,7 @@
             'https://authentication.logmeininc.com/login?service=https%3A%2F%2Fauthentication.logmeininc.com%2Foauth%2Fapprove%3Fclient_id%3Db5821983-e640-42b4-86cd-5e7efadcc8f0%26response_type%3Dtoken%26redirect_uri%3Dhttps%253A%252F%252Fglobal.gotomeeting.com&theme=g2m'
         ],
         link: 'https://github.com/apache/tomcat',
+        name: 'Apache Tomcat',
         platform: 'GitHub',
         type: 'repository',
         wikiPedia: {

@@ -1,10 +1,11 @@
 {
     properties: {
         link: 'https://github.com/ajaxorg/ace',
-        platform: 'GitHub',
         examples: [
             'https://ace.c9.io/'
         ],
+        name: 'Ace (Ajax.org Cloud9 Editor)',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {

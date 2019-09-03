@@ -6,6 +6,7 @@
             'https://appsumo.com/stencil-2018/',
             'https://account.microsoft.com/privacy/ad-settings/signedout'
         ],
+        name: 'Velocity',
         type: 'repository',
         wikiPedia: {
             load: true,

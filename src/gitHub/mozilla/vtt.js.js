@@ -4,6 +4,7 @@
             link: 'https://donate.mozilla.org/en-US/'
         },
         link: 'https://github.com/mozilla/vtt.js',
+        name: 'WebVTT',
         platform: 'GitHub',
         examples: [
             'https://videojs.com/'

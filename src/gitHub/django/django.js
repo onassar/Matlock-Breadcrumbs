@@ -10,6 +10,7 @@
             link: 'https://www.djangoproject.com/fundraising/'
         },
         link: 'https://github.com/django/django',
+        name: 'Django',
         platform: 'GitHub',
         type: 'repository',
         wikiPedia: {

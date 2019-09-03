@@ -5,6 +5,7 @@
             'https://getmatlock.github.io/'
         ],
         link: 'https://github.com/ruby/ruby',
+        name: 'Ruby',
         platform: 'GitHub',
         tags: [
             'programming-language'

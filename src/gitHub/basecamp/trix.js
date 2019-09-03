@@ -1,10 +1,11 @@
 {
     properties: {
-        link: 'https://github.com/basecamp/trix',
-        platform: 'GitHub',
         examples: [
             'https://trix-editor.org/'
         ],
+        link: 'https://github.com/basecamp/trix',
+        name: 'Trix',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {

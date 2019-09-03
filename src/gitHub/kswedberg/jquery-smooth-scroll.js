@@ -4,6 +4,7 @@
             'https://bitmovin.com/'
         ],
         link: 'https://github.com/kswedberg/jquery-smooth-scroll',
+        name: 'jQuery Smooth Scroll Plugin',
         platform: 'GitHub',
         type: 'repository'
     },

@@ -1,6 +1,7 @@
 {
     properties: {
         link: 'https://github.com/enyo/dropzone',
+        name: 'Dropzone.js',
         platform: 'GitHub',
         type: 'repository'
     },

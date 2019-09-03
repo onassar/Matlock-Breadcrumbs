@@ -4,6 +4,7 @@
             'https://trello.com/b/Gh237agh/indigo-me'
         ],
         link: 'https://github.com/zloirock/core-js',
+        name: 'Core.js',
         platform: 'GitHub',
         type: 'repository'
     },

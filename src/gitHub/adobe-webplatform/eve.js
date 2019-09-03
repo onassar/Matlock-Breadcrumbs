@@ -1,6 +1,7 @@
 {
     properties: {
         link: 'https://github.com/adobe-webplatform/eve',
+        name: 'Eve',
         platform: 'GitHub',
         type: 'repository'
     },

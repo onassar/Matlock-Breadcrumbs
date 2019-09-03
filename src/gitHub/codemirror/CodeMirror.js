@@ -4,6 +4,7 @@
             'https://regexr.com/34pe5'
         ],
         link: 'https://github.com/codemirror/CodeMirror',
+        name: 'CodeMirror',
         platform: 'GitHub',
         type: 'repository',
         wikiPedia: {

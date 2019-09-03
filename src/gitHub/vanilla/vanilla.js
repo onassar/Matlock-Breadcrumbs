@@ -5,6 +5,7 @@
         examples: [
             'https://open.vanillaforums.com/'
         ],
+        name: 'Vanilla Forums',
         type: 'repository',
         wikiPedia: {
             load: true,

@@ -4,6 +4,7 @@
     ],
     properties: {
         link: 'https://github.com/jashkenas/backbone',
+        name: 'Backbone.js',
         platform: 'GitHub',
         type: 'repository',
         wikiPedia: {

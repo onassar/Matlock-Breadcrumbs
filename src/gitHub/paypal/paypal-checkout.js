@@ -5,6 +5,7 @@
             'https://bulma.io/'
         ],
         link: 'https://github.com/paypal/paypal-checkout',
+        name: 'PayPal Checkout',
         platform: 'GitHub',
         type: 'repository',
         wikiPedia: {

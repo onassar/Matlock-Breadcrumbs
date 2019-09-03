@@ -1,6 +1,7 @@
 {
     properties: {
         link: 'https://github.com/google/recaptcha',
+        name: 'ReCAPTCHA',
         platform: 'GitHub',
         type: 'repository',
         wikiPedia: {

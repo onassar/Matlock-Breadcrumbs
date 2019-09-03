@@ -4,6 +4,7 @@
             'https://theannex.com/'
         ],
         link: 'https://github.com/matomo-org/matomo',
+        name: 'Matomo',
         platform: 'GitHub',
         type: 'repository',
         wikiPedia: {

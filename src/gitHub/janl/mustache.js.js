@@ -1,7 +1,7 @@
 {
     properties: {
         link: 'https://github.com/janl/mustache.js',
-        name: 'mustache.js',
+        name: 'Mustache.js',
         platform: 'GitHub',
         type: 'repository',
         wikiPedia: {

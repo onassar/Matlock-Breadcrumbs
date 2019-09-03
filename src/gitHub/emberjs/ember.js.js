@@ -5,6 +5,7 @@
         },
         link: 'https://github.com/emberjs/ember.js',
         platform: 'GitHub',
+        name: 'Ember.js',
         type: 'repository',
         wikiPedia: {
             load: true,

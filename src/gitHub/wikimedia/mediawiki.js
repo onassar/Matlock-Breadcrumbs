@@ -7,6 +7,7 @@
             'https://en.wikipedia.org/wiki/Fire_at_Sea'
         ],
         link: 'https://github.com/wikimedia/mediawiki',
+        name: 'MediaWiki',
         platform: 'GitHub',
         type: 'repository',
         wikiPedia: {

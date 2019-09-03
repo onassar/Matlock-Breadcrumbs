@@ -8,6 +8,7 @@
             'http://www.cbc.radio-canada.ca/en/'
         ],
         link: 'https://github.com/openssl/openssl',
+        name: 'OpenSSL',
         platform: 'GitHub',
         type: 'repository',
         wikiPedia: {

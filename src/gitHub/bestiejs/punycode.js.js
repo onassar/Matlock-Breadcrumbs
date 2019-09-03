@@ -4,6 +4,7 @@
             'https://imgur.com/FURy2EZ'
         ],
         link: 'https://github.com/bestiejs/punycode.js',
+        name: 'Punycode.js',
         platform: 'GitHub',
         tags: [
             'converter'

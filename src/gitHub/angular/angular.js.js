@@ -1,6 +1,7 @@
 {
     properties: {
         link: 'https://github.com/angular/angular.js',
+        name: 'AngularJS',
         platform: 'GitHub',
         type: 'repository',
         wikiPedia: {

@@ -11,6 +11,7 @@
             'https://stackoverflow.com/'
         ],
         link: 'https://github.com/jquery/jquery',
+        name: 'jQuery',
         notes: [
             'https://i.imgur.com/6QH50iS.jpg'
         ],

@@ -7,6 +7,7 @@
             link: 'https://wordpressfoundation.org/donate/'
         },
         link: 'https://github.com/WordPress/WordPress',
+        name: 'WordPress',
         platform: 'GitHub',
         tags: [
             'blogging'

@@ -1,6 +1,7 @@
 {
     properties: {
         link: 'https://github.com/Polymer/polymer',
+        name: 'Polymer',
         platform: 'GitHub',
         type: 'repository',
         wikiPedia: {

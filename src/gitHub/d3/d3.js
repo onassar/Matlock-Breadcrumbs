@@ -5,6 +5,7 @@
         examples: [
             'https://bower.io/'
         ],
+        name: 'D3.js',
         type: 'repository',
         wikiPedia: {
             load: true,

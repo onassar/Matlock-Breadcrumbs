@@ -7,6 +7,7 @@
             'https://www.saashub.com/'
         ],
         link: 'https://github.com/facebook/react',
+        name: 'React',
         platform: 'GitHub',
         type: 'repository',
         wikiPedia: {

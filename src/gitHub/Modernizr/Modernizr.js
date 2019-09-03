@@ -4,6 +4,7 @@
             link: 'https://www.paypal.me/modernizr'
         },
         link: 'https://github.com/Modernizr/Modernizr',
+        name: 'Modernizr',
         platform: 'GitHub',
         type: 'repository',
         wikiPedia: {

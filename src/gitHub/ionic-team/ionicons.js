@@ -7,6 +7,7 @@
             'https://getstencil.com/blog/'
         ],
         link: 'https://github.com/ionic-team/ionicons',
+        name: 'Ionicons',
         platform: 'GitHub',
         tags: [
             'icons'

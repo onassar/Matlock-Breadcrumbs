@@ -7,6 +7,7 @@
             'https://www.nbcnews.com/politics/national-security/russians-launched-pro-jill-stein-social-media-blitz-help-trump-n951166'
         ],
         link: 'https://github.com/expressjs/express',
+        name: 'Express.js',
         platform: 'GitHub',
         type: 'repository',
         wikiPedia: {

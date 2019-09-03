@@ -4,6 +4,7 @@
             'https://getstencil.com/blog'
         ],
         link: 'https://github.com/google/fonts',
+        name: 'Google Fonts',
         notes: [
             'https://i.imgur.com/5G51k7k.jpg'
         ],

@@ -4,6 +4,7 @@
             'https://foundation.zurb.com/'
         ],
         link: 'https://github.com/zurb/foundation-sites',
+        name: 'Foundation',
         platform: 'GitHub',
         type: 'repository',
         wikiPedia: {

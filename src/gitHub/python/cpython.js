@@ -7,6 +7,7 @@
             'https://www.imi-n.org/publications/money-matters-the-role-of-funding-in-migration-governance'
         ],
         link: 'https://github.com/python/cpython',
+        name: 'Python',
         platform: 'GitHub',
         type: 'repository',
         wikiPedia: {

@@ -4,6 +4,7 @@
             'http://www.news-gazette.com/'
         ],
         link: 'https://github.com/jwplayer/jwplayer',
+        name: 'JW Player',
         platform: 'GitHub',
         type: 'repository',
         wikiPedia: {

@@ -4,6 +4,7 @@
             'https://updates.getstencil.com/60+-new-google-fonts-83564'
         ],
         link: 'https://github.com/mootools/mootools-core',
+        name: 'MooTools',
         platform: 'GitHub',
         type: 'repository',
         wikiPedia: {

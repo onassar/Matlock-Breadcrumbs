@@ -7,6 +7,7 @@
             'https://qunitjs.com/resources/example-index.html'
         ],
         link: 'https://github.com/qunitjs/qunit',
+        name: 'QUnit',
         platform: 'GitHub',
         type: 'repository',
         wikiPedia: {

@@ -8,6 +8,7 @@
             'https://i.imgur.com/nMIVbUf.jpg'
         ],
         link: 'https://github.com/FortAwesome/Font-Awesome',
+        name: 'Font Awesome',
         platform: 'GitHub',
         tags: [
             'icons'

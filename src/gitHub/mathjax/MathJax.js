@@ -5,6 +5,7 @@
         examples: [
             'https://www.mathjax.org/'
         ],
+        name: 'MathJax',
         type: 'repository',
         wikiPedia: {
             load: true,

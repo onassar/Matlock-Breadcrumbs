@@ -4,6 +4,7 @@
             'https://www.netlifycms.org/'
         ],
         link: 'https://github.com/netlify/netlify-cms',
+        name: 'Netlify CMS',
         platform: 'GitHub',
         type: 'repository',
         wikiPedia: {

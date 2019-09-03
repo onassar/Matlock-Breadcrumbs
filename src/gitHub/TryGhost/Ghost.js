@@ -7,6 +7,7 @@
             'https://blog.ghost.org/'
         ],
         link: 'https://github.com/TryGhost/Ghost',
+        name: 'Ghost',
         platform: 'GitHub',
         type: 'repository',
         wikiPedia: {

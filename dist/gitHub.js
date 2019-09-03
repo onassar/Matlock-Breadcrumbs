@@ -391,11 +391,12 @@
 // src/gitHub/CodeSeven/toastr.js
 {
     properties: {
-        link: 'https://github.com/CodeSeven/toastr',
-        platform: 'GitHub',
         examples: [
             'https://appsumo.com/stencil-2018/'
         ],
+        link: 'https://github.com/CodeSeven/toastr',
+        name: 'Toastr',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {
@@ -817,6 +818,7 @@
             'https://i.imgur.com/nMIVbUf.jpg'
         ],
         link: 'https://github.com/FortAwesome/Font-Awesome',
+        name: 'Font Awesome',
         platform: 'GitHub',
         tags: [
             'icons'
@@ -1147,6 +1149,7 @@
         examples: [
             'https://www.meteor.com/'
         ],
+        name: 'Leaflet',
         type: 'repository',
         wikiPedia: {
             load: true,
@@ -1309,6 +1312,7 @@
             link: 'https://www.paypal.me/modernizr'
         },
         link: 'https://github.com/Modernizr/Modernizr',
+        name: 'Modernizr',
         platform: 'GitHub',
         type: 'repository',
         wikiPedia: {
@@ -1621,6 +1625,7 @@
 {
     properties: {
         link: 'https://github.com/Polymer/polymer',
+        name: 'Polymer',
         platform: 'GitHub',
         type: 'repository',
         wikiPedia: {
@@ -2098,6 +2103,7 @@
             'https://github.com/gildas-lormeau/zip.js'
         ],
         link: 'https://github.com/Stuk/jszip',
+        name: 'JSZip',
         platform: 'GitHub',
         type: 'repository'
     },
@@ -2350,6 +2356,7 @@
             'https://blog.ghost.org/'
         ],
         link: 'https://github.com/TryGhost/Ghost',
+        name: 'Ghost',
         platform: 'GitHub',
         type: 'repository',
         wikiPedia: {
@@ -2632,6 +2639,7 @@
             link: 'https://wordpressfoundation.org/donate/'
         },
         link: 'https://github.com/WordPress/WordPress',
+        name: 'WordPress',
         platform: 'GitHub',
         tags: [
             'blogging'
@@ -3147,6 +3155,7 @@
 {
     properties: {
         link: 'https://github.com/adobe-webplatform/eve',
+        name: 'Eve',
         platform: 'GitHub',
         type: 'repository'
     },
@@ -3241,10 +3250,11 @@
 {
     properties: {
         link: 'https://github.com/ajaxorg/ace',
-        platform: 'GitHub',
         examples: [
             'https://ace.c9.io/'
         ],
+        name: 'Ace (Ajax.org Cloud9 Editor)',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {
@@ -3418,6 +3428,7 @@
 {
     properties: {
         link: 'https://github.com/algolia/instantsearch.js',
+        name: 'Algolia InstantSearch.js',
         platform: 'GitHub',
         type: 'repository',
         wikiPedia: {
@@ -3889,6 +3900,7 @@
 {
     properties: {
         link: 'https://github.com/angular/angular',
+        name: 'Angular',
         platform: 'GitHub',
         type: 'repository',
         wikiPedia: {
@@ -3924,6 +3936,7 @@
 {
     properties: {
         link: 'https://github.com/angular/angular.js',
+        name: 'AngularJS',
         platform: 'GitHub',
         type: 'repository',
         wikiPedia: {
@@ -4115,6 +4128,7 @@
             link: 'https://www.apache.org/foundation/contributing.html'
         },
         link: 'https://github.com/apache/httpd',
+        name: 'Apache HTTP Server',
         platform: 'GitHub',
         type: 'repository',
         wikiPedia: {
@@ -4153,6 +4167,7 @@
             'https://authentication.logmeininc.com/login?service=https%3A%2F%2Fauthentication.logmeininc.com%2Foauth%2Fapprove%3Fclient_id%3Db5821983-e640-42b4-86cd-5e7efadcc8f0%26response_type%3Dtoken%26redirect_uri%3Dhttps%253A%252F%252Fglobal.gotomeeting.com&theme=g2m'
         ],
         link: 'https://github.com/apache/tomcat',
+        name: 'Apache Tomcat',
         platform: 'GitHub',
         type: 'repository',
         wikiPedia: {
@@ -4806,11 +4821,12 @@
 // src/gitHub/basecamp/trix.js
 {
     properties: {
-        link: 'https://github.com/basecamp/trix',
-        platform: 'GitHub',
         examples: [
             'https://trix-editor.org/'
         ],
+        link: 'https://github.com/basecamp/trix',
+        name: 'Trix',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {
@@ -5050,6 +5066,7 @@
             'https://imgur.com/FURy2EZ'
         ],
         link: 'https://github.com/bestiejs/punycode.js',
+        name: 'Punycode.js',
         platform: 'GitHub',
         tags: [
             'converter'
@@ -5102,13 +5119,14 @@
 // src/gitHub/bevacqua/dragula.js
 {
     properties: {
+        examples: [
+            'https://bevacqua.github.io/dragula/'
+        ],
         link: 'https://github.com/bevacqua/dragula',
+        name: 'Dragula',
         platform: 'GitHub',
         tags: [
             'drag-and-drop'
-        ],
-        examples: [
-            'https://bevacqua.github.io/dragula/'
         ],
         type: 'repository'
     },
@@ -6342,6 +6360,7 @@
             'https://regexr.com/34pe5'
         ],
         link: 'https://github.com/codemirror/CodeMirror',
+        name: 'CodeMirror',
         platform: 'GitHub',
         type: 'repository',
         wikiPedia: {
@@ -6669,6 +6688,7 @@
         examples: [
             'https://bower.io/'
         ],
+        name: 'D3.js',
         type: 'repository',
         wikiPedia: {
             load: true,
@@ -6752,6 +6772,7 @@
             'http://www.daterangepicker.com/'
         ],
         link: 'https://github.com/dangrossman/daterangepicker',
+        name: 'Date Range Picker',
         platform: 'GitHub',
         type: 'repository'
     },
@@ -7478,6 +7499,7 @@
             link: 'https://www.djangoproject.com/fundraising/'
         },
         link: 'https://github.com/django/django',
+        name: 'Django',
         platform: 'GitHub',
         type: 'repository',
         wikiPedia: {
@@ -7784,6 +7806,7 @@
             'https://www.drupal.org/'
         ],
         link: 'https://github.com/drupal/drupal',
+        name: 'Drupal',
         platform: 'GitHub',
         type: 'repository',
         wikiPedia: {
@@ -8079,6 +8102,7 @@
         },
         link: 'https://github.com/emberjs/ember.js',
         platform: 'GitHub',
+        name: 'Ember.js',
         type: 'repository',
         wikiPedia: {
             load: true,
@@ -8165,6 +8189,7 @@
 {
     properties: {
         link: 'https://github.com/enyo/dropzone',
+        name: 'Dropzone.js',
         platform: 'GitHub',
         type: 'repository'
     },
@@ -8425,6 +8450,7 @@
             'https://www.nbcnews.com/politics/national-security/russians-launched-pro-jill-stein-social-media-blitz-help-trump-n951166'
         ],
         link: 'https://github.com/expressjs/express',
+        name: 'Express.js',
         platform: 'GitHub',
         type: 'repository',
         wikiPedia: {
@@ -8567,6 +8593,7 @@
             'https://www.saashub.com/'
         ],
         link: 'https://github.com/facebook/react',
+        name: 'React',
         platform: 'GitHub',
         type: 'repository',
         wikiPedia: {
@@ -8689,6 +8716,7 @@
             'https://farbelous.io/bootstrap-colorpicker/'
         ],
         link: 'https://github.com/farbelous/bootstrap-colorpicker',
+        name: 'Bootstrap Colorpicker',
         platform: 'GitHub',
         tags: [
             'color-picker'
@@ -9800,6 +9828,7 @@
             'https://www.louisdurrant.co.uk/'
         ],
         link: 'https://github.com/gohugoio/hugo',
+        name: 'Hugo',
         platform: 'GitHub',
         type: 'repository',
         wikiPedia: {
@@ -9898,6 +9927,7 @@
             'https://getstencil.com/blog'
         ],
         link: 'https://github.com/google/fonts',
+        name: 'Google Fonts',
         notes: [
             'https://i.imgur.com/5G51k7k.jpg'
         ],
@@ -9930,12 +9960,12 @@
 {
     properties: {
         link: 'https://github.com/google/material-design-icons',
-        name: 'Material design icons',
-        platform: 'GitHub',
         examples: [
             'https://lto.network/',
             'https://ionicons.com/'
         ],
+        name: 'Material design icons',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {
@@ -9996,6 +10026,7 @@
 {
     properties: {
         link: 'https://github.com/google/recaptcha',
+        name: 'ReCAPTCHA',
         platform: 'GitHub',
         type: 'repository',
         wikiPedia: {
@@ -11487,6 +11518,7 @@
             'https://getstencil.com/blog/'
         ],
         link: 'https://github.com/ionic-team/ionicons',
+        name: 'Ionicons',
         platform: 'GitHub',
         tags: [
             'icons'
@@ -11791,7 +11823,7 @@
 {
     properties: {
         link: 'https://github.com/janl/mustache.js',
-        name: 'mustache.js',
+        name: 'Mustache.js',
         platform: 'GitHub',
         type: 'repository',
         wikiPedia: {
@@ -11866,6 +11898,7 @@
     ],
     properties: {
         link: 'https://github.com/jashkenas/backbone',
+        name: 'Backbone.js',
         platform: 'GitHub',
         type: 'repository',
         wikiPedia: {
@@ -11923,6 +11956,7 @@
             'http://docs.gunicorn.org/en/stable/run.html'
         ],
         link: 'https://github.com/jashkenas/underscore',
+        name: 'Underscore.js',
         platform: 'GitHub',
         type: 'repository',
         wikiPedia: {
@@ -12185,6 +12219,7 @@
             'https://jekyllrb.com/'
         ],
         link: 'https://github.com/jekyll/jekyll',
+        name: 'Jekyll',
         platform: 'GitHub',
         type: 'repository',
         wikiPedia: {
@@ -13095,6 +13130,7 @@
             'https://stackoverflow.com/'
         ],
         link: 'https://github.com/jquery/jquery',
+        name: 'jQuery',
         notes: [
             'https://i.imgur.com/6QH50iS.jpg'
         ],
@@ -13405,6 +13441,7 @@
             'https://appsumo.com/stencil-2018/',
             'https://account.microsoft.com/privacy/ad-settings/signedout'
         ],
+        name: 'Velocity',
         type: 'repository',
         wikiPedia: {
             load: true,
@@ -13489,6 +13526,7 @@
             'http://www.news-gazette.com/'
         ],
         link: 'https://github.com/jwplayer/jwplayer',
+        name: 'JW Player',
         platform: 'GitHub',
         type: 'repository',
         wikiPedia: {
@@ -13931,6 +13969,7 @@
             'https://bitmovin.com/'
         ],
         link: 'https://github.com/kswedberg/jquery-smooth-scroll',
+        name: 'jQuery Smooth Scroll Plugin',
         platform: 'GitHub',
         type: 'repository'
     },
@@ -14192,6 +14231,7 @@
             'http://danieltao.com/lazy.js/'
         ],
         link: 'https://github.com/lodash/lodash',
+        name: 'Lodash.js',
         platform: 'GitHub',
         type: 'repository',
         wikiPedia: {
@@ -15107,6 +15147,7 @@
 {
     properties: {
         link: 'https://github.com/markedjs/marked',
+        name: 'Marked',
         platform: 'GitHub',
         type: 'repository'
     },
@@ -15206,6 +15247,7 @@
         examples: [
             'https://www.mathjax.org/'
         ],
+        name: 'MathJax',
         type: 'repository',
         wikiPedia: {
             load: true,
@@ -15233,6 +15275,7 @@
             'https://theannex.com/'
         ],
         link: 'https://github.com/matomo-org/matomo',
+        name: 'Matomo',
         platform: 'GitHub',
         type: 'repository',
         wikiPedia: {
@@ -15683,6 +15726,7 @@
         examples: [
             'https://www.meteor.com/'
         ],
+        name: 'Meteor',
         type: 'repository',
         wikiPedia: {
             load: true,
@@ -16070,6 +16114,7 @@
             'https://updates.getstencil.com/60+-new-google-fonts-83564'
         ],
         link: 'https://github.com/mootools/mootools-core',
+        name: 'MooTools',
         platform: 'GitHub',
         type: 'repository',
         wikiPedia: {
@@ -16210,6 +16255,7 @@
             link: 'https://donate.mozilla.org/en-US/'
         },
         link: 'https://github.com/mozilla/vtt.js',
+        name: 'WebVTT',
         platform: 'GitHub',
         examples: [
             'https://videojs.com/'
@@ -16258,6 +16304,7 @@
         examples: [
             'http://goinghome.302chanwoo.com/'
         ],
+        name: 'Three.js',
         type: 'repository',
         wikiPedia: {
             load: true,
@@ -16497,6 +16544,7 @@
             'https://www.netlifycms.org/'
         ],
         link: 'https://github.com/netlify/netlify-cms',
+        name: 'Netlify CMS',
         platform: 'GitHub',
         type: 'repository',
         wikiPedia: {
@@ -16588,6 +16636,7 @@
             'https://bitbucket.org/'
         ],
         link: 'https://github.com/nginx/nginx',
+        name: 'Nginx',
         platform: 'GitHub',
         related: [
             'https://github.com/apache/httpd'
@@ -17122,6 +17171,7 @@
             'http://www.cbc.radio-canada.ca/en/'
         ],
         link: 'https://github.com/openssl/openssl',
+        name: 'OpenSSL',
         platform: 'GitHub',
         type: 'repository',
         wikiPedia: {
@@ -17435,6 +17485,7 @@
             'https://bulma.io/'
         ],
         link: 'https://github.com/paypal/paypal-checkout',
+        name: 'PayPal Checkout',
         platform: 'GitHub',
         type: 'repository',
         wikiPedia: {
@@ -17691,8 +17742,8 @@
             'https://www.meowmix.com/'
         ],
         link: 'https://github.com/pimcore/pimcore',
-        platform: 'GitHub',
         name: 'Pimcore CMS',
+        platform: 'GitHub',
         type: 'repository',
         wikiPedia: {
             load: true,
@@ -18106,6 +18157,7 @@
             'https://www.imi-n.org/publications/money-matters-the-role-of-funding-in-migration-governance'
         ],
         link: 'https://github.com/python/cpython',
+        name: 'Python',
         platform: 'GitHub',
         type: 'repository',
         wikiPedia: {
@@ -18190,6 +18242,7 @@
             'https://qunitjs.com/resources/example-index.html'
         ],
         link: 'https://github.com/qunitjs/qunit',
+        name: 'QUnit',
         platform: 'GitHub',
         type: 'repository',
         wikiPedia: {
@@ -18659,6 +18712,7 @@
             'https://getmatlock.github.io/'
         ],
         link: 'https://github.com/ruby/ruby',
+        name: 'Ruby',
         platform: 'GitHub',
         tags: [
             'programming-language'
@@ -18768,8 +18822,9 @@
 {
     properties: {
         link: 'https://github.com/sachinchoolur/lightGallery',
-        platform: 'GitHub',
         examples: [],
+        name: 'lightGallery jQuery Plugin',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {
@@ -21288,6 +21343,7 @@
             'https://uxsolutions.github.io/bootstrap-datepicker/?markup=input&format=&weekStart=&startDate=&endDate=&startView=0&minViewMode=0&maxViewMode=4&todayBtn=false&clearBtn=false&language=en&orientation=auto&multidate=&multidateSeparator=&keyboardNavigation=on&forceParse=on#sandbox'
         ],
         link: 'https://github.com/uxsolutions/bootstrap-datepicker',
+        name: 'Bootstrap Datepicker',
         platform: 'GitHub',
         type: 'repository'
     },
@@ -21313,6 +21369,7 @@
         examples: [
             'https://open.vanillaforums.com/'
         ],
+        name: 'Vanilla Forums',
         type: 'repository',
         wikiPedia: {
             load: true,
@@ -21873,6 +21930,7 @@
             'https://www.cbc.ca/'
         ],
         link: 'https://github.com/webpack/webpack',
+        name: 'Webpack',
         platform: 'GitHub',
         type: 'repository',
         wikiPedia: {
@@ -21966,6 +22024,7 @@
             'https://en.wikipedia.org/wiki/Fire_at_Sea'
         ],
         link: 'https://github.com/wikimedia/mediawiki',
+        name: 'MediaWiki',
         platform: 'GitHub',
         type: 'repository',
         wikiPedia: {
@@ -22055,6 +22114,7 @@
             'https://www.airoav.com/'
         ],
         link: 'https://github.com/willmcpo/body-scroll-lock',
+        name: 'Body scroll lock',
         platform: 'GitHub',
         type: 'repository'
     },
@@ -22564,6 +22624,7 @@
 {
     properties: {
         link: 'https://github.com/zeit/next.js',
+        name: 'Next.js',
         platform: 'GitHub',
         type: 'repository'
     },
@@ -22660,6 +22721,7 @@
             'https://trello.com/b/Gh237agh/indigo-me'
         ],
         link: 'https://github.com/zloirock/core-js',
+        name: 'Core.js',
         platform: 'GitHub',
         type: 'repository'
     },
@@ -22736,6 +22798,7 @@
             'https://www.imi-n.org/publications/money-matters-the-role-of-funding-in-migration-governance'
         ],
         link: 'https://github.com/zopefoundation/Zope',
+        name: 'Zope',
         platform: 'GitHub',
         type: 'repository',
         wikiPedia: {
@@ -22790,6 +22853,7 @@
             'https://foundation.zurb.com/'
         ],
         link: 'https://github.com/zurb/foundation-sites',
+        name: 'Foundation',
         platform: 'GitHub',
         type: 'repository',
         wikiPedia: {

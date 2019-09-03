@@ -7,6 +7,7 @@
             'https://www.imi-n.org/publications/money-matters-the-role-of-funding-in-migration-governance'
         ],
         link: 'https://github.com/zopefoundation/Zope',
+        name: 'Zope',
         platform: 'GitHub',
         type: 'repository',
         wikiPedia: {

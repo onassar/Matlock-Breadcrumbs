@@ -1,6 +1,7 @@
 {
     properties: {
         link: 'https://github.com/zeit/next.js',
+        name: 'Next.js',
         platform: 'GitHub',
         type: 'repository'
     },

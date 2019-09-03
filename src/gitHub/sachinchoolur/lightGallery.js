@@ -1,8 +1,9 @@
 {
     properties: {
         link: 'https://github.com/sachinchoolur/lightGallery',
-        platform: 'GitHub',
         examples: [],
+        name: 'lightGallery jQuery Plugin',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {

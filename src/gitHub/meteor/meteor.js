@@ -5,6 +5,7 @@
         examples: [
             'https://www.meteor.com/'
         ],
+        name: 'Meteor',
         type: 'repository',
         wikiPedia: {
             load: true,

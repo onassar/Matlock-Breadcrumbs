@@ -5,6 +5,7 @@
             'https://www.louisdurrant.co.uk/'
         ],
         link: 'https://github.com/gohugoio/hugo',
+        name: 'Hugo',
         platform: 'GitHub',
         type: 'repository',
         wikiPedia: {

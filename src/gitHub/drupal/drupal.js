@@ -10,6 +10,7 @@
             'https://www.drupal.org/'
         ],
         link: 'https://github.com/drupal/drupal',
+        name: 'Drupal',
         platform: 'GitHub',
         type: 'repository',
         wikiPedia: {

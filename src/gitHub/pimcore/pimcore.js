@@ -7,8 +7,8 @@
             'https://www.meowmix.com/'
         ],
         link: 'https://github.com/pimcore/pimcore',
-        platform: 'GitHub',
         name: 'Pimcore CMS',
+        platform: 'GitHub',
         type: 'repository',
         wikiPedia: {
             load: true,

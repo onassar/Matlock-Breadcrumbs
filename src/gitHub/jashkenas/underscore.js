@@ -5,6 +5,7 @@
             'http://docs.gunicorn.org/en/stable/run.html'
         ],
         link: 'https://github.com/jashkenas/underscore',
+        name: 'Underscore.js',
         platform: 'GitHub',
         type: 'repository',
         wikiPedia: {

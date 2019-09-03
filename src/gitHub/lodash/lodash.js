@@ -5,6 +5,7 @@
             'http://danieltao.com/lazy.js/'
         ],
         link: 'https://github.com/lodash/lodash',
+        name: 'Lodash.js',
         platform: 'GitHub',
         type: 'repository',
         wikiPedia: {

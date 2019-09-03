@@ -5,6 +5,7 @@
         examples: [
             'http://goinghome.302chanwoo.com/'
         ],
+        name: 'Three.js',
         type: 'repository',
         wikiPedia: {
             load: true,

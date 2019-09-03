@@ -1,12 +1,12 @@
 {
     properties: {
         link: 'https://github.com/google/material-design-icons',
-        name: 'Material design icons',
-        platform: 'GitHub',
         examples: [
             'https://lto.network/',
             'https://ionicons.com/'
         ],
+        name: 'Material design icons',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {

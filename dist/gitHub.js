@@ -5615,6 +5615,7 @@
             'http://browserstate.github.io/history.js/demo/'
         ],
         link: 'https://github.com/browserstate/history.js',
+        name: 'History.js',
         platform: 'GitHub',
         tags: [
             'navigation'
@@ -14106,6 +14107,7 @@
 {
     properties: {
         link: 'https://github.com/leongersen/wnumb',
+        name: 'wNumb',
         platform: 'GitHub',
         type: 'repository'
     },
@@ -18487,6 +18489,7 @@
 {
     properties: {
         link: 'https://github.com/robflaherty/jquery-scrolldepth',
+        name: 'jQuery Scroll Depth',
         platform: 'GitHub',
         tags: [
             'google analytics',
@@ -21572,14 +21575,15 @@
 // src/gitHub/vimeo/player.js.js
 {
     properties: {
+        examples: [
+            'https://snappa.com/'
+        ],
         link: 'https://github.com/vimeo/player.js',
+        name: 'Vimeo Player API',
         platform: 'GitHub',
         tags: [
             'video',
             'vimeo'
-        ],
-        examples: [
-            'https://snappa.com/'
         ],
         type: 'repository'
     },

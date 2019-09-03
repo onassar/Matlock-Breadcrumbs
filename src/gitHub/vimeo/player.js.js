@@ -1,13 +1,14 @@
 {
     properties: {
+        examples: [
+            'https://snappa.com/'
+        ],
         link: 'https://github.com/vimeo/player.js',
+        name: 'Vimeo Player API',
         platform: 'GitHub',
         tags: [
             'video',
             'vimeo'
-        ],
-        examples: [
-            'https://snappa.com/'
         ],
         type: 'repository'
     },

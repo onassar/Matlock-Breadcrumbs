@@ -4,6 +4,7 @@
             'http://browserstate.github.io/history.js/demo/'
         ],
         link: 'https://github.com/browserstate/history.js',
+        name: 'History.js',
         platform: 'GitHub',
         tags: [
             'navigation'

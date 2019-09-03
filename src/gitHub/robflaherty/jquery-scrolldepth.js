@@ -1,6 +1,7 @@
 {
     properties: {
         link: 'https://github.com/robflaherty/jquery-scrolldepth',
+        name: 'jQuery Scroll Depth',
         platform: 'GitHub',
         tags: [
             'google analytics',

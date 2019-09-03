@@ -9,6 +9,7 @@
             }
         },
         link: 'https://github.com/fancyapps/fancyBox',
+        name: 'fancyBox',
         platform: 'GitHub',
         type: 'repository'
     },

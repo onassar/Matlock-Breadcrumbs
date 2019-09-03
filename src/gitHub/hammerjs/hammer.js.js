@@ -1,11 +1,12 @@
 {
     properties: {
-        link: 'https://github.com/hammerjs/hammer.js',
-        platform: 'GitHub',
-        tags: [],
         examples: [
             'https://www.wired.co.uk/article/yuval-noah-harari-extract-21-lessons-for-the-21st-century'
         ],
+        link: 'https://github.com/hammerjs/hammer.js',
+        name: 'hammer.js',
+        platform: 'GitHub',
+        tags: [],
         type: 'repository'
     },
     tests: {

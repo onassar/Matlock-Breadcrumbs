@@ -3531,6 +3531,7 @@
 {
     properties: {
         link: 'https://github.com/alvarotrigo/fullPage.js',
+        name: 'fullPage.js',
         platform: 'GitHub',
         type: 'repository'
     },
@@ -7356,6 +7357,7 @@
 {
     properties: {
         link: 'https://github.com/dimsemenov/Magnific-Popup',
+        name: 'Magnific Popup',
         platform: 'GitHub',
         type: 'repository'
     },
@@ -11031,6 +11033,7 @@
 {
     properties: {
         link: 'https://github.com/iamcal/js-emoji',
+        name: 'JS Emoji',
         platform: 'GitHub',
         type: 'repository'
     },
@@ -19948,6 +19951,7 @@
             'https://github.com/nosir/cleave.js'
         ],
         link: 'https://github.com/stripe/jquery.payment',
+        name: 'jQuery.payment',
         platform: 'GitHub',
         type: 'repository'
     },

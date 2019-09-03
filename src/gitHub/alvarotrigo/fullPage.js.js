@@ -1,6 +1,7 @@
 {
     properties: {
         link: 'https://github.com/alvarotrigo/fullPage.js',
+        name: 'fullPage.js',
         platform: 'GitHub',
         type: 'repository'
     },

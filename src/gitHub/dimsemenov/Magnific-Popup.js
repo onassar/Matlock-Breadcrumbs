@@ -1,6 +1,7 @@
 {
     properties: {
         link: 'https://github.com/dimsemenov/Magnific-Popup',
+        name: 'Magnific Popup',
         platform: 'GitHub',
         type: 'repository'
     },

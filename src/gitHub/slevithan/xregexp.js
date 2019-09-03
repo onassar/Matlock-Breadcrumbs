@@ -1,6 +1,7 @@
 {
     properties: {
         link: 'https://github.com/slevithan/xregexp',
+        name: 'XRegExp',
         platform: 'GitHub',
         type: 'repository'
     },

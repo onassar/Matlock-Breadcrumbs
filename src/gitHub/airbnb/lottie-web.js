@@ -1,10 +1,11 @@
 {
     properties: {
-        link: 'https://github.com/airbnb/lottie-web',
-        platform: 'GitHub',
         examples: [
             'https://www.airoav.com/'
         ],
+        link: 'https://github.com/airbnb/lottie-web',
+        name: 'Lottie for Web',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {

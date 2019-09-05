@@ -1,10 +1,11 @@
 {
     properties: {
-        link: 'https://github.com/malsup/blockui',
-        platform: 'GitHub',
         examples: [
             'https://www.bestbuy.ca/'
         ],
+        link: 'https://github.com/malsup/blockui',
+        name: 'jQuery BlockUI Plugin',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {

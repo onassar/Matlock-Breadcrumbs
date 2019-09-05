@@ -4,6 +4,7 @@
             'https://www.allrecipes.com/recipes/367/desserts/pies/'
         ],
         link: 'https://github.com/grevory/angular-local-storage',
+        name: 'AngularJS Local Storage Module',
         platform: 'GitHub',
         type: 'repository'
     },

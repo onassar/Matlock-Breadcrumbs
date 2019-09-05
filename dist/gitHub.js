@@ -4002,11 +4002,12 @@
 // src/gitHub/angular/zone.js.js
 {
     properties: {
-        link: 'https://github.com/angular/zone.js',
-        platform: 'GitHub',
         examples: [
             'https://ui-router.github.io/sample-app-angular/#/home'
         ],
+        link: 'https://github.com/angular/zone.js',
+        name: 'Zone.js',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {
@@ -8692,6 +8693,7 @@
             }
         },
         link: 'https://github.com/fancyapps/fancyBox',
+        name: 'fancyBox',
         platform: 'GitHub',
         type: 'repository'
     },
@@ -9694,13 +9696,14 @@
 // src/gitHub/gionkunz/chartist-js.js
 {
     properties: {
+        examples: [
+            'http://gionkunz.github.io/chartist-js/'
+        ],
         link: 'https://github.com/gionkunz/chartist-js',
+        name: 'Chartist.js',
         platform: 'GitHub',
         tags: [
             'charts'
-        ],
-        examples: [
-            'http://gionkunz.github.io/chartist-js/'
         ],
         type: 'repository'
     },
@@ -10192,6 +10195,7 @@
             'https://www.allrecipes.com/recipes/367/desserts/pies/'
         ],
         link: 'https://github.com/grevory/angular-local-storage',
+        name: 'AngularJS Local Storage Module',
         platform: 'GitHub',
         type: 'repository'
     },
@@ -10542,12 +10546,13 @@
 // src/gitHub/hammerjs/hammer.js.js
 {
     properties: {
-        link: 'https://github.com/hammerjs/hammer.js',
-        platform: 'GitHub',
-        tags: [],
         examples: [
             'https://www.wired.co.uk/article/yuval-noah-harari-extract-21-lessons-for-the-21st-century'
         ],
+        link: 'https://github.com/hammerjs/hammer.js',
+        name: 'hammer.js',
+        platform: 'GitHub',
+        tags: [],
         type: 'repository'
     },
     tests: {
@@ -14770,11 +14775,12 @@
 // src/gitHub/malsup/blockui.js
 {
     properties: {
-        link: 'https://github.com/malsup/blockui',
-        platform: 'GitHub',
         examples: [
             'https://www.bestbuy.ca/'
         ],
+        link: 'https://github.com/malsup/blockui',
+        name: 'jQuery BlockUI Plugin',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {
@@ -15337,12 +15343,13 @@
 // src/gitHub/mattbryson/TouchSwipe-Jquery-Plugin.js
 {
     properties: {
-        link: 'https://github.com/mattbryson/TouchSwipe-Jquery-Plugin',
-        platform: 'GitHub',
         examples: [
             'https://www.tsx.com/',
             'http://www.africa-business.com/news-africa/wp-content/plugins/bwp-minify/cache/minify_jquery.themepunch.tools.min,jquery.themepunch.revolution.min_68fa8acd2b8e0474c1b74ef316b329fa'
         ],
+        link: 'https://github.com/mattbryson/TouchSwipe-Jquery-Plugin',
+        name: 'TouchSwipe jQuery Plugin',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {
@@ -20496,11 +20503,12 @@
 // src/gitHub/ten1seven/what-input.js
 {
     properties: {
-        link: 'https://github.com/ten1seven/what-input',
-        platform: 'GitHub',
         examples: [
             'https://ten1seven.github.io/what-input/'
         ],
+        link: 'https://github.com/ten1seven/what-input',
+        name: 'What Input?',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {
@@ -21245,6 +21253,7 @@
             'https://genius.com/'
         ],
         link: 'https://github.com/urish/angular-moment',
+        name: 'AngularJS Moment.js Module',
         platform: 'GitHub',
         tags: [
             'angularjs',

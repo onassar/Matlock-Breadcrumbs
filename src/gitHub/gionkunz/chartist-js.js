@@ -1,12 +1,13 @@
 {
     properties: {
+        examples: [
+            'http://gionkunz.github.io/chartist-js/'
+        ],
         link: 'https://github.com/gionkunz/chartist-js',
+        name: 'Chartist.js',
         platform: 'GitHub',
         tags: [
             'charts'
-        ],
-        examples: [
-            'http://gionkunz.github.io/chartist-js/'
         ],
         type: 'repository'
     },

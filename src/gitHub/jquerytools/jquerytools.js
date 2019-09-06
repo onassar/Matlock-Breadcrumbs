@@ -1,10 +1,11 @@
 {
     properties: {
-        link: 'https://github.com/jquerytools/jquerytools',
-        platform: 'GitHub',
         examples: [
             'http://jquerytools.org/'
         ],
+        link: 'https://github.com/jquerytools/jquerytools',
+        name: 'jQuery Tools',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {

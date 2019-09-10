@@ -4,6 +4,7 @@
             'http://demos.flesler.com/jquery/scrollTo/'
         ],
         link: 'https://github.com/flesler/jquery.scrollTo',
+        name: 'jQuery.scrollTo',
         platform: 'GitHub',
         tags: [
             'scrolling'

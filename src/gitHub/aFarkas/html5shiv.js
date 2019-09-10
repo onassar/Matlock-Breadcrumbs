@@ -4,6 +4,7 @@
             'https://ca.octobersveryown.com'
         ],
         link: 'https://github.com/aFarkas/html5shiv',
+        name: 'HTML5 Shiv',
         notes: [
             'https://i.imgur.com/VaUooX0.png'
         ],

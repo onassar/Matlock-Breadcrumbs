@@ -8,6 +8,7 @@
             'https://votesaveamerica.com/'
         ],
         link: 'https://github.com/nfl/react-helmet',
+        name: 'React Helmet',
         platform: 'GitHub',
         tags: [
             'react'

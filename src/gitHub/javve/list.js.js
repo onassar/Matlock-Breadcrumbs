@@ -1,10 +1,11 @@
 {
     properties: {
-        link: 'https://github.com/javve/list.js',
-        platform: 'GitHub',
         examples: [
             'https://listjs.com/examples/add-get-remove/'
         ],
+        link: 'https://github.com/javve/list.js',
+        name: 'List.js',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {

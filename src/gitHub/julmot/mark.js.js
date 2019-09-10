@@ -5,6 +5,7 @@
             'https://www.congress.gov/'
         ],
         link: 'https://github.com/julmot/mark.js',
+        name: 'mark.js',
         platform: 'GitHub',
         type: 'repository'
     },

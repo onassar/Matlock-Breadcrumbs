@@ -1,10 +1,11 @@
 {
     properties: {
-        link: 'https://github.com/jaysalvat/vegas',
-        platform: 'GitHub',
         examples: [
             'http://vegas.jaysalvat.com/'
         ],
+        link: 'https://github.com/jaysalvat/vegas',
+        name: 'Vegas',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {

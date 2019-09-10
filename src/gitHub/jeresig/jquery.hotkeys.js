@@ -1,10 +1,11 @@
 {
     properties: {
-        link: 'https://github.com/jeresig/jquery.hotkeys',
-        platform: 'GitHub',
         examples: [
             'https://rawgit.com/jeresig/jquery.hotkeys/master/test-static-01.html'
         ],
+        link: 'https://github.com/jeresig/jquery.hotkeys',
+        platform: 'jQuery Hotkeys',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {

@@ -1,10 +1,11 @@
 {
     properties: {
-        link: 'https://github.com/janpaepke/ScrollMagic',
-        platform: 'GitHub',
         examples: [
             'http://scrollmagic.io/'
         ],
+        link: 'https://github.com/janpaepke/ScrollMagic',
+        name: 'ScrollMagic',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {

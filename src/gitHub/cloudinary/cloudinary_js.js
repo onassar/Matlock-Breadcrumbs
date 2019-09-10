@@ -4,6 +4,7 @@
             'https://cloudinary.com/console'
         ],
         link: 'https://github.com/cloudinary/cloudinary_js',
+        name: 'Cloudinary Client Side JavaScript Library',
         platform: 'GitHub',
         type: 'repository'
     },

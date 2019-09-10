@@ -1,6 +1,7 @@
 {
     properties: {
         link: 'https://github.com/greensock/GreenSock-JS',
+        name: 'GSAP (GreenSock Animation Platform)',
         platform: 'GitHub',
         type: 'repository'
     },

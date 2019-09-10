@@ -1,10 +1,11 @@
 {
     properties: {
-        link: 'https://github.com/akamai/boomerang',
-        platform: 'GitHub',
         examples: [
             'https://www.cbc.ca/'
         ],
+        link: 'https://github.com/akamai/boomerang',
+        name: 'boomerang',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {

@@ -1,10 +1,11 @@
 {
     properties: {
-        link: 'https://github.com/w3co/jcf',
-        platform: 'GitHub',
         examples: [
             'https://www.psd2html.com/js-custom-forms/'
         ],
+        link: 'https://github.com/w3co/jcf',
+        name: 'JCF - JavaScript Custom Forms',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {

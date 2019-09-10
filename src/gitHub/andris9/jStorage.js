@@ -1,6 +1,7 @@
 {
     properties: {
         link: 'https://github.com/andris9/jStorage',
+        name: 'jStorage',
         platform: 'GitHub',
         type: 'repository'
     },

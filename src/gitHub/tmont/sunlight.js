@@ -1,10 +1,11 @@
 {
     properties: {
-        link: 'https://github.com/tmont/sunlight',
-        platform: 'GitHub',
         examples: [
             'http://sunlightjs.com/'
         ],
+        link: 'https://github.com/tmont/sunlight',
+        name: 'Sunlight',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {

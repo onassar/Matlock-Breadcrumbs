@@ -1,10 +1,11 @@
 {
     properties: {
-        link: 'https://github.com/brianreavis/sifter.js',
-        platform: 'GitHub',
         examples: [
             'http://selectize.github.io/selectize.js/'
         ],
+        link: 'https://github.com/brianreavis/sifter.js',
+        name: 'sifter.js',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {

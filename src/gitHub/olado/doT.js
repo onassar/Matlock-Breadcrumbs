@@ -1,10 +1,11 @@
 {
     properties: {
-        link: 'https://github.com/olado/doT',
-        platform: 'GitHub',
         examples: [
             'http://olado.github.io/doT/'
         ],
+        link: 'https://github.com/olado/doT',
+        name: 'doT',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {

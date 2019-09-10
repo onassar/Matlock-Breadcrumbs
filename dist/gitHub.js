@@ -220,6 +220,7 @@
             'http://borismoore.github.io/jquery-tmpl/demos/step-by-step/0_tmpl-read-only/0_local-data.html'
         ],
         link: 'https://github.com/BorisMoore/jquery-tmpl',
+        name: 'jQuery Templates plugin',
         platform: 'GitHub',
         tags: [
             'templating'
@@ -1462,11 +1463,12 @@
 // src/gitHub/NYTimes/backbone.stickit.js
 {
     properties: {
-        link: 'https://github.com/NYTimes/backbone.stickit',
-        platform: 'GitHub',
         examples: [
             'https://nytimes.github.io/backbone.stickit/'
         ],
+        link: 'https://github.com/NYTimes/backbone.stickit',
+        name: 'backbone.stickit',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {
@@ -2462,6 +2464,7 @@
 {
     properties: {
         link: 'https://github.com/VincentGarreau/particles.js',
+        name: 'particles.js',
         platform: 'GitHub',
         type: 'repository'
     },
@@ -2509,11 +2512,12 @@
 // src/gitHub/WeCodePixels/theia-sticky-sidebar.js
 {
     properties: {
-        link: 'https://github.com/WeCodePixels/theia-sticky-sidebar',
-        platform: 'GitHub',
         examples: [
             'http://htmlpreview.github.io/?https://github.com/liviucmg/theia-sticky-sidebar/blob/master/examples/4-columns.html'
         ],
+        link: 'https://github.com/WeCodePixels/theia-sticky-sidebar',
+        name: 'Theia Sticky Sidebar',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {
@@ -2866,6 +2870,7 @@
             'https://ca.octobersveryown.com'
         ],
         link: 'https://github.com/aFarkas/html5shiv',
+        name: 'HTML5 Shiv',
         notes: [
             'https://i.imgur.com/VaUooX0.png'
         ],
@@ -3276,11 +3281,12 @@
 // src/gitHub/akamai/boomerang.js
 {
     properties: {
-        link: 'https://github.com/akamai/boomerang',
-        platform: 'GitHub',
         examples: [
             'https://www.cbc.ca/'
         ],
+        link: 'https://github.com/akamai/boomerang',
+        name: 'boomerang',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {
@@ -3301,6 +3307,7 @@
 {
     properties: {
         link: 'https://github.com/alexanderdickson/waitForImages',
+        name: 'waitForImages',
         platform: 'GitHub',
         type: 'repository'
     },
@@ -3690,6 +3697,7 @@
 {
     properties: {
         link: 'https://github.com/andris9/jStorage',
+        name: 'jStorage',
         platform: 'GitHub',
         type: 'repository'
     },
@@ -5563,11 +5571,12 @@
 // src/gitHub/brianreavis/sifter.js.js
 {
     properties: {
-        link: 'https://github.com/brianreavis/sifter.js',
-        platform: 'GitHub',
         examples: [
             'http://selectize.github.io/selectize.js/'
         ],
+        link: 'https://github.com/brianreavis/sifter.js',
+        name: 'sifter.js',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {
@@ -6340,6 +6349,7 @@
             'https://cloudinary.com/console'
         ],
         link: 'https://github.com/cloudinary/cloudinary_js',
+        name: 'Cloudinary Client Side JavaScript Library',
         platform: 'GitHub',
         type: 'repository'
     },
@@ -9132,6 +9142,7 @@
             'http://demos.flesler.com/jquery/localScroll/'
         ],
         link: 'https://github.com/flesler/jquery.localScroll',
+        name: 'jQuery.localScroll',
         platform: 'GitHub',
         tags: [
             'scrolling'
@@ -9154,6 +9165,7 @@
             'http://demos.flesler.com/jquery/scrollTo/'
         ],
         link: 'https://github.com/flesler/jquery.scrollTo',
+        name: 'jQuery.scrollTo',
         platform: 'GitHub',
         tags: [
             'scrolling'
@@ -10119,6 +10131,7 @@
 {
     properties: {
         link: 'https://github.com/greensock/GreenSock-JS',
+        name: 'GSAP (GreenSock Animation Platform)',
         platform: 'GitHub',
         type: 'repository'
     },
@@ -10693,11 +10706,12 @@
 // src/gitHub/hernansartorio/jquery-nice-select.js
 {
     properties: {
-        link: 'https://github.com/hernansartorio/jquery-nice-select',
-        platform: 'GitHub',
         examples: [
             'https://www.jesusfilm.org/'
         ],
+        link: 'https://github.com/hernansartorio/jquery-nice-select',
+        name: 'jQuery Nice Select',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {
@@ -11858,11 +11872,12 @@
 // src/gitHub/janpaepke/ScrollMagic.js
 {
     properties: {
-        link: 'https://github.com/janpaepke/ScrollMagic',
-        platform: 'GitHub',
         examples: [
             'http://scrollmagic.io/'
         ],
+        link: 'https://github.com/janpaepke/ScrollMagic',
+        name: 'ScrollMagic',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {
@@ -12069,11 +12084,12 @@
 // src/gitHub/javve/list.js.js
 {
     properties: {
-        link: 'https://github.com/javve/list.js',
-        platform: 'GitHub',
         examples: [
             'https://listjs.com/examples/add-get-remove/'
         ],
+        link: 'https://github.com/javve/list.js',
+        name: 'List.js',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {
@@ -12132,11 +12148,12 @@
 // src/gitHub/jaysalvat/vegas.js
 {
     properties: {
-        link: 'https://github.com/jaysalvat/vegas',
-        platform: 'GitHub',
         examples: [
             'http://vegas.jaysalvat.com/'
         ],
+        link: 'https://github.com/jaysalvat/vegas',
+        name: 'Vegas',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {
@@ -12290,11 +12307,12 @@
 // src/gitHub/jeresig/jquery.hotkeys.js
 {
     properties: {
-        link: 'https://github.com/jeresig/jquery.hotkeys',
-        platform: 'GitHub',
         examples: [
             'https://rawgit.com/jeresig/jquery.hotkeys/master/test-static-01.html'
         ],
+        link: 'https://github.com/jeresig/jquery.hotkeys',
+        platform: 'jQuery Hotkeys',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {
@@ -13490,6 +13508,7 @@
             'https://www.congress.gov/'
         ],
         link: 'https://github.com/julmot/mark.js',
+        name: 'mark.js',
         platform: 'GitHub',
         type: 'repository'
     },
@@ -15240,6 +15259,7 @@
             'https://mathiasbynens.github.io/jquery-placeholder/'
         ],
         link: 'https://github.com/mathiasbynens/jquery-placeholder',
+        name: 'HTML5 Placeholder jQuery Plugin',
         platform: 'GitHub',
         type: 'repository'
     },
@@ -15710,16 +15730,17 @@
 // src/gitHub/metafizzy/packery.js
 {
     properties: {
+        examples: [
+            'https://packery.metafizzy.co/'
+        ],
         licenses: {
             commercial: {
                 paid: true
             }
         },
         link: 'https://github.com/metafizzy/packery',
+        name: 'Packery',
         platform: 'GitHub',
-        examples: [
-            'https://packery.metafizzy.co/'
-        ],
         type: 'repository'
     },
     tests: {
@@ -16623,6 +16644,7 @@
             'https://votesaveamerica.com/'
         ],
         link: 'https://github.com/nfl/react-helmet',
+        name: 'React Helmet',
         platform: 'GitHub',
         tags: [
             'react'
@@ -17045,11 +17067,12 @@
 // src/gitHub/olado/doT.js
 {
     properties: {
-        link: 'https://github.com/olado/doT',
-        platform: 'GitHub',
         examples: [
             'http://olado.github.io/doT/'
         ],
+        link: 'https://github.com/olado/doT',
+        name: 'doT',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {
@@ -18617,6 +18640,7 @@
 {
     properties: {
         link: 'https://github.com/rstacruz/jquery.transit',
+        name: 'jQuery Transit',
         platform: 'GitHub',
         type: 'repository'
     },
@@ -19861,6 +19885,7 @@
             'https://www.stacktracejs.com/#!/docs/stackframe'
         ],
         link: 'https://github.com/stacktracejs/stackframe',
+        name: 'stackframe',
         platform: 'GitHub',
         type: 'repository'
     },
@@ -19881,6 +19906,7 @@
             'https://www.stacktracejs.com/'
         ],
         link: 'https://github.com/stacktracejs/stacktrace.js',
+        name: 'stacktrace.js',
         platform: 'GitHub',
         type: 'repository'
     },
@@ -20242,6 +20268,7 @@
 {
     properties: {
         link: 'https://github.com/swfobject/swfobject',
+        name: 'SWFObject',
         platform: 'GitHub',
         type: 'repository'
     },
@@ -20724,11 +20751,12 @@
 // src/gitHub/tmont/sunlight.js
 {
     properties: {
-        link: 'https://github.com/tmont/sunlight',
-        platform: 'GitHub',
         examples: [
             'http://sunlightjs.com/'
         ],
+        link: 'https://github.com/tmont/sunlight',
+        name: 'Sunlight',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {
@@ -20894,14 +20922,15 @@
 // src/gitHub/travist/jsencrypt.js
 {
     properties: {
+        examples: [
+            'https://makitweb.com/take-screenshot-of-webpage-with-html2canvas/'
+        ],
         link: 'https://github.com/travist/jsencrypt',
+        name: 'JSEncrypt',
         platform: 'GitHub',
         tags: [
             'encryption',
             'security'
-        ],
-        examples: [
-            'https://makitweb.com/take-screenshot-of-webpage-with-html2canvas/'
         ],
         type: 'repository'
     },
@@ -21486,6 +21515,7 @@
 {
     properties: {
         link: 'https://github.com/videojs/video.js',
+        name: 'Video.js - HTML5 Video Player',
         platform: 'GitHub',
         type: 'repository'
     },
@@ -21879,11 +21909,12 @@
 // src/gitHub/w3co/jcf.js
 {
     properties: {
-        link: 'https://github.com/w3co/jcf',
-        platform: 'GitHub',
         examples: [
             'https://www.psd2html.com/js-custom-forms/'
         ],
+        link: 'https://github.com/w3co/jcf',
+        name: 'JCF - JavaScript Custom Forms',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {
@@ -22851,6 +22882,7 @@
             'https://cemerick.com/2009/03/24/why-mit-now-uses-python-instead-of-scheme-for-its-undergraduate-cs-program/'
         ],
         link: 'https://github.com/zuk/jquery.inview',
+        name: 'jQuery inview Plugin',
         platform: 'GitHub',
         tags: [
             'scrolling'
@@ -22909,6 +22941,7 @@
             'https://zurb.com/playground/twentytwenty'
         ],
         link: 'https://github.com/zurb/twentytwenty',
+        name: 'twentytwenty',
         platform: 'GitHub',
         tags: [
             'images'

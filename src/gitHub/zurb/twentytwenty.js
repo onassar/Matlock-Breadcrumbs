@@ -4,6 +4,7 @@
             'https://zurb.com/playground/twentytwenty'
         ],
         link: 'https://github.com/zurb/twentytwenty',
+        name: 'twentytwenty',
         platform: 'GitHub',
         tags: [
             'images'

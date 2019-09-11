@@ -2034,6 +2034,7 @@
             'https://www.intercom.com/'
         ],
         link: 'https://github.com/SlexAxton/yepnope.js',
+        name: 'yepnope.js',
         platform: 'GitHub',
         type: 'repository'
     },
@@ -3634,6 +3635,7 @@
             'http://amsul.ca/pickadate.js/'
         ],
         link: 'https://github.com/amsul/pickadate.js',
+        name: 'pickadate.js',
         platform: 'GitHub',
         tags: [
             'date-picker',
@@ -4275,11 +4277,12 @@
 // src/gitHub/arasatasaygin/is.js.js
 {
     properties: {
-        link: 'https://github.com/arasatasaygin/is.js',
-        platform: 'GitHub',
         examples: [
             'https://www.bundestag.de/en/'
         ],
+        link: 'https://github.com/arasatasaygin/is.js',
+        name: 'is.js',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {
@@ -6751,6 +6754,7 @@
             'https://js.foundation/blog'
         ],
         link: 'https://github.com/daneden/animate.css',
+        name: 'Animate.css',
         platform: 'GitHub',
         tags: [
             'css'
@@ -10585,13 +10589,13 @@
 // src/gitHub/hammerjs/jquery.hammer.js.js
 {
     properties: {
-        link: 'https://github.com/hammerjs/jquery.hammer.js',
-        platform: 'GitHub',
-        tags: [],
         examples: [
             'https://www.cnbc.com/'
         ],
-        examples: [],
+        link: 'https://github.com/hammerjs/jquery.hammer.js',
+        name: 'jQuery.hammer.js',
+        platform: 'GitHub',
+        tags: [],
         type: 'repository'
     },
     tests: {
@@ -13793,6 +13797,7 @@
             'https://variety.com/'
         ],
         link: 'https://github.com/kenwheeler/slick',
+        name: 'slick',
         platform: 'GitHub',
         type: 'repository'
     },
@@ -13848,6 +13853,7 @@
 {
     properties: {
         link: 'https://github.com/knockout/knockout',
+        name: 'Knockout',
         platform: 'GitHub',
         type: 'repository'
     },
@@ -14047,6 +14053,7 @@
 {
     properties: {
         link: 'https://github.com/lancedikson/bowser',
+        name: 'Bowser',
         platform: 'GitHub',
         test: [
             'https://www.bundestag.de/en/'
@@ -14824,6 +14831,7 @@
             'http://jquery.malsup.com/cycle/'
         ],
         link: 'https://github.com/malsup/cycle',
+        name: 'jQuery Cycle Plugin',
         platform: 'GitHub',
         type: 'repository'
     },
@@ -20222,11 +20230,12 @@
         donate: {
             link: 'https://www.patreon.com/limonte'
         },
-        link: 'https://github.com/sweetalert2/sweetalert2',
-        platform: 'GitHub',
         examples: [
             'https://sweetalert2.github.io/'
         ],
+        link: 'https://github.com/sweetalert2/sweetalert2',
+        name: 'sweetalert2',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {
@@ -20363,12 +20372,12 @@
         donate: {
             link: 'http://alexgorbatchev.com/SyntaxHighlighter/donate.html'
         },
-        link: 'https://github.com/syntaxhighlighter/syntaxhighlighter',
-        name: 'SyntaxHighlighter v4',
-        platform: 'GitHub',
         examples: [
             'http://alexgorbatchev.com/SyntaxHighlighter/'
         ],
+        link: 'https://github.com/syntaxhighlighter/syntaxhighlighter',
+        name: 'SyntaxHighlighter',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {
@@ -21540,6 +21549,7 @@
             'http://responsiveslides.com/'
         ],
         link: 'https://github.com/viljamis/ResponsiveSlides.js',
+        name: 'ResponsiveSlides.js',
         platform: 'GitHub',
         type: 'repository'
     },
@@ -22385,11 +22395,12 @@
 // src/gitHub/worseisbetter/galleria.js
 {
     properties: {
-        link: 'https://github.com/worseisbetter/galleria',
-        platform: 'GitHub',
         examples: [
             'https://galleria.io/'
         ],
+        link: 'https://github.com/worseisbetter/galleria',
+        name: 'Galleria',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {

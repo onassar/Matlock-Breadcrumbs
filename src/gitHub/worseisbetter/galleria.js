@@ -1,10 +1,11 @@
 {
     properties: {
-        link: 'https://github.com/worseisbetter/galleria',
-        platform: 'GitHub',
         examples: [
             'https://galleria.io/'
         ],
+        link: 'https://github.com/worseisbetter/galleria',
+        name: 'Galleria',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {

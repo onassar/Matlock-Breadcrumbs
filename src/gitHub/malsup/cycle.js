@@ -4,6 +4,7 @@
             'http://jquery.malsup.com/cycle/'
         ],
         link: 'https://github.com/malsup/cycle',
+        name: 'jQuery Cycle Plugin',
         platform: 'GitHub',
         type: 'repository'
     },

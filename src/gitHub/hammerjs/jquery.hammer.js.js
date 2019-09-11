@@ -1,12 +1,12 @@
 {
     properties: {
-        link: 'https://github.com/hammerjs/jquery.hammer.js',
-        platform: 'GitHub',
-        tags: [],
         examples: [
             'https://www.cnbc.com/'
         ],
-        examples: [],
+        link: 'https://github.com/hammerjs/jquery.hammer.js',
+        name: 'jQuery.hammer.js',
+        platform: 'GitHub',
+        tags: [],
         type: 'repository'
     },
     tests: {

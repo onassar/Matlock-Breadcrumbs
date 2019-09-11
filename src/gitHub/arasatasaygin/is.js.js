@@ -1,10 +1,11 @@
 {
     properties: {
-        link: 'https://github.com/arasatasaygin/is.js',
-        platform: 'GitHub',
         examples: [
             'https://www.bundestag.de/en/'
         ],
+        link: 'https://github.com/arasatasaygin/is.js',
+        name: 'is.js',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {

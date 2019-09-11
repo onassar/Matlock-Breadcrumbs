@@ -4,6 +4,7 @@
             'http://amsul.ca/pickadate.js/'
         ],
         link: 'https://github.com/amsul/pickadate.js',
+        name: 'pickadate.js',
         platform: 'GitHub',
         tags: [
             'date-picker',

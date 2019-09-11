@@ -3,11 +3,12 @@
         donate: {
             link: 'https://www.patreon.com/limonte'
         },
-        link: 'https://github.com/sweetalert2/sweetalert2',
-        platform: 'GitHub',
         examples: [
             'https://sweetalert2.github.io/'
         ],
+        link: 'https://github.com/sweetalert2/sweetalert2',
+        name: 'sweetalert2',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {

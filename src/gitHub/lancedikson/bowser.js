@@ -1,6 +1,7 @@
 {
     properties: {
         link: 'https://github.com/lancedikson/bowser',
+        name: 'Bowser',
         platform: 'GitHub',
         test: [
             'https://www.bundestag.de/en/'

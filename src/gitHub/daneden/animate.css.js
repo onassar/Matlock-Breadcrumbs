@@ -4,6 +4,7 @@
             'https://js.foundation/blog'
         ],
         link: 'https://github.com/daneden/animate.css',
+        name: 'Animate.css',
         platform: 'GitHub',
         tags: [
             'css'

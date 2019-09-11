@@ -4,6 +4,7 @@
             'http://responsiveslides.com/'
         ],
         link: 'https://github.com/viljamis/ResponsiveSlides.js',
+        name: 'ResponsiveSlides.js',
         platform: 'GitHub',
         type: 'repository'
     },

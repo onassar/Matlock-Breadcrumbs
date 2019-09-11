@@ -1,6 +1,7 @@
 {
     properties: {
         link: 'https://github.com/knockout/knockout',
+        name: 'Knockout',
         platform: 'GitHub',
         type: 'repository'
     },

@@ -1,10 +1,11 @@
 {
     properties: {
-        link: 'https://github.com/systemjs/systemjs',
-        platform: 'GitHub',
         examples: [
             'https://ng-semantic.herokuapp.com/#/'
         ],
+        link: 'https://github.com/systemjs/systemjs',
+        name: 'SystemJS',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {

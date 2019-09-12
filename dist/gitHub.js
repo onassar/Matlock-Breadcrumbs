@@ -2562,13 +2562,14 @@
 // src/gitHub/WickyNilliams/enquire.js.js
 {
     properties: {
+        examples: [
+            'http://wicky.nillia.ms/enquire.js/'
+        ],
         link: 'https://github.com/WickyNilliams/enquire.js',
+        name: 'enquire.js',
         platform: 'GitHub',
         tags: [
             'css'
-        ],
-        examples: [
-            'http://wicky.nillia.ms/enquire.js/'
         ],
         type: 'repository'
     },
@@ -20392,11 +20393,12 @@
 // src/gitHub/systemjs/systemjs.js
 {
     properties: {
-        link: 'https://github.com/systemjs/systemjs',
-        platform: 'GitHub',
         examples: [
             'https://ng-semantic.herokuapp.com/#/'
         ],
+        link: 'https://github.com/systemjs/systemjs',
+        name: 'SystemJS',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {

@@ -1,12 +1,13 @@
 {
     properties: {
+        examples: [
+            'http://wicky.nillia.ms/enquire.js/'
+        ],
         link: 'https://github.com/WickyNilliams/enquire.js',
+        name: 'enquire.js',
         platform: 'GitHub',
         tags: [
             'css'
-        ],
-        examples: [
-            'http://wicky.nillia.ms/enquire.js/'
         ],
         type: 'repository'
     },

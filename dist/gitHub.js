@@ -1933,11 +1933,12 @@
 // src/gitHub/SheetJS/js-xlsx.js
 {
     properties: {
-        link: 'https://github.com/SheetJS/js-xlsx',
-        platform: 'GitHub',
         examples: [
             'https://oss.sheetjs.com/'
         ],
+        link: 'https://github.com/SheetJS/js-xlsx',
+        name: 'SheetJS',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {
@@ -3978,6 +3979,7 @@
             'https://analytics.google.com/analytics/web/#/report-home/a35893957w63834918p65499463'
         ],
         link: 'https://github.com/angular/material',
+        name: 'Material design for AngularJS',
         platform: 'GitHub',
         tags: [
             'angular'
@@ -10765,6 +10767,7 @@
 {
     properties: {
         link: 'https://github.com/hgoebl/mobile-detect.js',
+        name: 'Mobile-detect.js',
         platform: 'GitHub',
         type: 'repository'
     },
@@ -13370,11 +13373,12 @@
 // src/gitHub/jsor/jcarousel.js
 {
     properties: {
-        link: 'https://github.com/jsor/jcarousel',
-        platform: 'GitHub',
         examples: [
             'https://sorgalla.com/jcarousel/'
         ],
+        link: 'https://github.com/jsor/jcarousel',
+        name: 'jCarousel',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {
@@ -14991,11 +14995,12 @@
 // src/gitHub/marcj/css-element-queries.js
 {
     properties: {
-        link: 'https://github.com/marcj/css-element-queries',
-        platform: 'GitHub',
         examples: [
             'http://htmlpreview.github.io/?https://github.com/liviucmg/theia-sticky-sidebar/blob/master/examples/4-columns.html'
         ],
+        link: 'https://github.com/marcj/css-element-queries',
+        name: 'CSS Element Queries',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {
@@ -15069,6 +15074,7 @@
             'https://www.twilio.com/console'
         ],
         link: 'https://github.com/marcuswestin/store.js',
+        name: 'Store.js',
         platform: 'GitHub',
         type: 'repository'
     },

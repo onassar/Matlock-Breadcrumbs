@@ -1,10 +1,11 @@
 {
     properties: {
-        link: 'https://github.com/jsor/jcarousel',
-        platform: 'GitHub',
         examples: [
             'https://sorgalla.com/jcarousel/'
         ],
+        link: 'https://github.com/jsor/jcarousel',
+        name: 'jCarousel',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {

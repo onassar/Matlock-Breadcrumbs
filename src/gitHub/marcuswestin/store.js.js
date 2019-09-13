@@ -4,6 +4,7 @@
             'https://www.twilio.com/console'
         ],
         link: 'https://github.com/marcuswestin/store.js',
+        name: 'Store.js',
         platform: 'GitHub',
         type: 'repository'
     },

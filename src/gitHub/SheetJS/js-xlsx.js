@@ -1,10 +1,11 @@
 {
     properties: {
-        link: 'https://github.com/SheetJS/js-xlsx',
-        platform: 'GitHub',
         examples: [
             'https://oss.sheetjs.com/'
         ],
+        link: 'https://github.com/SheetJS/js-xlsx',
+        name: 'SheetJS',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {

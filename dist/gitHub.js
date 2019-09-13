@@ -18794,16 +18794,17 @@
 // src/gitHub/running-coder/jquery-typeahead.js
 {
     properties: {
+        examples: [
+            'http://www.runningcoder.org/jquerytypeahead/'
+        ],
         link: 'https://github.com/running-coder/jquery-typeahead',
+        name: 'jQuery Typeahead',
         platform: 'GitHub',
         see: [
             'https://github.com/twitter/typeahead.js'
         ],
         tags: [
             'jQuery'
-        ],
-        examples: [
-            'http://www.runningcoder.org/jquerytypeahead/'
         ],
         type: 'repository'
     },

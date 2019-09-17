@@ -3,11 +3,12 @@
         'https://github.com/vuejs/vue'
     ],
     properties: {
-        link: 'https://github.com/nuxt/nuxt.js',
-        platform: 'GitHub',
         examples: [
             'https://nuxtjs.org/'
         ],
+        link: 'https://github.com/nuxt/nuxt.js',
+        name: 'Nuxt.js',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {

@@ -7215,12 +7215,13 @@
 // src/gitHub/defunkt/jquery-pjax.js
 {
     properties: {
-        link: 'https://github.com/defunkt/jquery-pjax',
-        platform: 'GitHub',
         examples: [
             'https://pjax.herokuapp.com/',
             'https://themeforest.net/item/soledad-multiconcept-blogmagazine-wp-theme/12945398'
         ],
+        link: 'https://github.com/defunkt/jquery-pjax',
+        name: 'jQuery pjax',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {
@@ -13541,13 +13542,14 @@
 // src/gitHub/jwagner/smartcrop.js.js
 {
     properties: {
+        examples: [
+            'https://29a.ch/sandbox/2014/smartcrop/examples/testsuite.html'
+        ],
         link: 'https://github.com/jwagner/smartcrop.js',
+        name: 'smartcrop.js',
         platform: 'GitHub',
         tags: [
             'cropping'
-        ],
-        examples: [
-            'https://29a.ch/sandbox/2014/smartcrop/examples/testsuite.html'
         ],
         type: 'repository'
     },
@@ -15709,6 +15711,7 @@
             }
         },
         link: 'https://github.com/metafizzy/infinite-scroll',
+        name: 'Infinite Scroll',
         platform: 'GitHub',
         type: 'repository'
     },
@@ -16957,11 +16960,12 @@
         'https://github.com/vuejs/vue'
     ],
     properties: {
-        link: 'https://github.com/nuxt/nuxt.js',
-        platform: 'GitHub',
         examples: [
             'https://nuxtjs.org/'
         ],
+        link: 'https://github.com/nuxt/nuxt.js',
+        name: 'Nuxt.js',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {
@@ -17855,6 +17859,7 @@
             'http://www.pixijs.com/'
         ],
         link: 'https://github.com/pixijs/pixi.js',
+        name: 'PixiJS',
         platform: 'GitHub',
         tags: [
             'animation',

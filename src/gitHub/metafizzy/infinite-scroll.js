@@ -9,6 +9,7 @@
             }
         },
         link: 'https://github.com/metafizzy/infinite-scroll',
+        name: 'Infinite Scroll',
         platform: 'GitHub',
         type: 'repository'
     },

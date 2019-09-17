@@ -4,6 +4,7 @@
             'http://www.pixijs.com/'
         ],
         link: 'https://github.com/pixijs/pixi.js',
+        name: 'PixiJS',
         platform: 'GitHub',
         tags: [
             'animation',

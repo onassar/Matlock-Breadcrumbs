@@ -4,6 +4,7 @@
             'http://evil-icons.io/'
         ],
         link: 'https://github.com/evil-icons/evil-icons',
+        name: 'Evil Icons',
         platform: 'GitHub',
         tags: [
             'icons'

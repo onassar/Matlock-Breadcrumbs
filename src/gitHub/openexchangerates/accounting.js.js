@@ -1,6 +1,7 @@
 {
     properties: {
         link: 'https://github.com/openexchangerates/accounting.js',
+        name: 'accounting.js',
         platform: 'GitHub',
         type: 'repository'
     },

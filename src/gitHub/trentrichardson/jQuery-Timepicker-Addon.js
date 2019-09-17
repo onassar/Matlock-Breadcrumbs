@@ -5,6 +5,7 @@
             'https://trentrichardson.com/examples/timepicker/'
         ],
         link: 'https://github.com/trentrichardson/jQuery-Timepicker-Addon',
+        name: 'jQuery Timepicker Addon',
         platform: 'GitHub',
         tags: [
             'date-picker'

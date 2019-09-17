@@ -1,12 +1,13 @@
 {
     properties: {
+        examples: [
+            'https://shr.one/'
+        ],
         link: 'https://github.com/sampotts/shr',
+        name: 'Shr',
         platform: 'GitHub',
         tags: [
             'social-media-links'
-        ],
-        examples: [
-            'https://shr.one/'
         ],
         type: 'repository'
     },

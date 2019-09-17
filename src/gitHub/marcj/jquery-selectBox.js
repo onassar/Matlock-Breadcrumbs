@@ -1,11 +1,12 @@
 {
     properties: {
-        link: 'https://github.com/marcj/jquery-selectBox',
-        platform: 'GitHub',
         examples: [
             'https://greensock.com/',
             'http://marcj.github.io/jquery-selectBox/'
         ],
+        link: 'https://github.com/marcj/jquery-selectBox',
+        name: 'jQuery selectBox',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {

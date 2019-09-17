@@ -5265,13 +5265,14 @@
 // src/gitHub/bgrins/spectrum.js
 {
     properties: {
+        examples: [
+            'https://bgrins.github.io/spectrum/'
+        ],
         link: 'https://github.com/bgrins/spectrum',
+        name: 'Spectrum',
         platform: 'GitHub',
         tags: [
             'color-pickers'
-        ],
-        examples: [
-            'https://bgrins.github.io/spectrum/'
         ],
         type: 'repository'
     },
@@ -8421,6 +8422,7 @@
             'http://evil-icons.io/'
         ],
         link: 'https://github.com/evil-icons/evil-icons',
+        name: 'Evil Icons',
         platform: 'GitHub',
         tags: [
             'icons'
@@ -15019,12 +15021,13 @@
 // src/gitHub/marcj/jquery-selectBox.js
 {
     properties: {
-        link: 'https://github.com/marcj/jquery-selectBox',
-        platform: 'GitHub',
         examples: [
             'https://greensock.com/',
             'http://marcj.github.io/jquery-selectBox/'
         ],
+        link: 'https://github.com/marcj/jquery-selectBox',
+        name: 'jQuery selectBox',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {
@@ -17142,6 +17145,7 @@
 {
     properties: {
         link: 'https://github.com/openexchangerates/accounting.js',
+        name: 'accounting.js',
         platform: 'GitHub',
         type: 'repository'
     },
@@ -19019,13 +19023,14 @@
 // src/gitHub/sampotts/shr.js
 {
     properties: {
+        examples: [
+            'https://shr.one/'
+        ],
         link: 'https://github.com/sampotts/shr',
+        name: 'Shr',
         platform: 'GitHub',
         tags: [
             'social-media-links'
-        ],
-        examples: [
-            'https://shr.one/'
         ],
         type: 'repository'
     },
@@ -20983,6 +20988,7 @@
             'https://trentrichardson.com/examples/timepicker/'
         ],
         link: 'https://github.com/trentrichardson/jQuery-Timepicker-Addon',
+        name: 'jQuery Timepicker Addon',
         platform: 'GitHub',
         tags: [
             'date-picker'

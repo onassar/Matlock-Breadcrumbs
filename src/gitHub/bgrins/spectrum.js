@@ -1,12 +1,13 @@
 {
     properties: {
+        examples: [
+            'https://bgrins.github.io/spectrum/'
+        ],
         link: 'https://github.com/bgrins/spectrum',
+        name: 'Spectrum',
         platform: 'GitHub',
         tags: [
             'color-pickers'
-        ],
-        examples: [
-            'https://bgrins.github.io/spectrum/'
         ],
         type: 'repository'
     },

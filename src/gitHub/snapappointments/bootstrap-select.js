@@ -1,13 +1,14 @@
 {
     properties: {
+        examples: [
+            'https://snappa.com/'
+        ],
         link: 'https://github.com/snapappointments/bootstrap-select',
+        name: 'bootstrap-select',
         platform: 'GitHub',
         tags: [
             'bootstrap',
             'dropdown'
-        ],
-        examples: [
-            'https://snappa.com/'
         ],
         type: 'repository'
     },

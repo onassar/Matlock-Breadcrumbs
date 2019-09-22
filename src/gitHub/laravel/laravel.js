@@ -4,6 +4,7 @@
     ],
     properties: {
         link: 'https://github.com/laravel/laravel',
+        name: 'Laravel',
         platform: 'GitHub',
         type: 'repository'
     },

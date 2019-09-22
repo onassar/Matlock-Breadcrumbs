@@ -4756,6 +4756,7 @@
             'http://balupton.github.io/jquery-lightbox/demo/'
         ],
         link: 'https://github.com/balupton/jquery-lightbox',
+        name: 'jQuery Lightbox',
         platform: 'GitHub',
         tags: [
             'lightbox'
@@ -7422,6 +7423,7 @@
 {
     properties: {
         link: 'https://github.com/dinbror/blazy',
+        name: 'bLazy.JS',
         platform: 'GitHub',
         type: 'repository'
     },
@@ -14089,6 +14091,7 @@
     ],
     properties: {
         link: 'https://github.com/laravel/laravel',
+        name: 'Laravel',
         platform: 'GitHub',
         type: 'repository'
     },
@@ -17011,6 +17014,7 @@
             'http://oblador.github.io/angular-scroll/'
         ],
         link: 'https://github.com/oblador/angular-scroll',
+        name: 'angular-scroll',
         platform: 'GitHub',
         tags: [
             'angular'
@@ -18280,6 +18284,7 @@
 {
     properties: {
         link: 'https://github.com/quilljs/quill',
+        name: 'Quill Rich Text Editor',
         platform: 'GitHub',
         type: 'repository'
     },
@@ -19590,14 +19595,15 @@
 // src/gitHub/snapappointments/bootstrap-select.js
 {
     properties: {
+        examples: [
+            'https://snappa.com/'
+        ],
         link: 'https://github.com/snapappointments/bootstrap-select',
+        name: 'bootstrap-select',
         platform: 'GitHub',
         tags: [
             'bootstrap',
             'dropdown'
-        ],
-        examples: [
-            'https://snappa.com/'
         ],
         type: 'repository'
     },
@@ -20177,14 +20183,15 @@
 // src/gitHub/summernote/summernote.js
 {
     properties: {
-        link: 'https://github.com/summernote/summernote',
-        platform: 'GitHub',
-        tags: [
-            'wysiwyg'
-        ],
         examples: [
             'https://www.buymeacoffee.com/robinherbots',
             'https://summernote.org/'
+        ],
+        link: 'https://github.com/summernote/summernote',
+        name: 'Summernote',
+        platform: 'GitHub',
+        tags: [
+            'wysiwyg'
         ],
         type: 'repository'
     },

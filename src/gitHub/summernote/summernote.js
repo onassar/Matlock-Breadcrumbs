@@ -1,13 +1,14 @@
 {
     properties: {
-        link: 'https://github.com/summernote/summernote',
-        platform: 'GitHub',
-        tags: [
-            'wysiwyg'
-        ],
         examples: [
             'https://www.buymeacoffee.com/robinherbots',
             'https://summernote.org/'
+        ],
+        link: 'https://github.com/summernote/summernote',
+        name: 'Summernote',
+        platform: 'GitHub',
+        tags: [
+            'wysiwyg'
         ],
         type: 'repository'
     },

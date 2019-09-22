@@ -5,6 +5,7 @@
             'http://oblador.github.io/angular-scroll/'
         ],
         link: 'https://github.com/oblador/angular-scroll',
+        name: 'angular-scroll',
         platform: 'GitHub',
         tags: [
             'angular'

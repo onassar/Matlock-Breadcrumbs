@@ -4,6 +4,7 @@
             'https://rrssb.netlify.com/'
         ],
         link: 'https://github.com/kni-labs/rrssb',
+        name: 'rrssb',
         platform: 'GitHub',
         tags: [
             'social-sharing'

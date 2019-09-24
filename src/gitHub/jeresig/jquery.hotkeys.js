@@ -4,7 +4,7 @@
             'https://rawgit.com/jeresig/jquery.hotkeys/master/test-static-01.html'
         ],
         link: 'https://github.com/jeresig/jquery.hotkeys',
-        platform: 'jQuery Hotkeys',
+        name: 'jQuery Hotkeys',
         platform: 'GitHub',
         type: 'repository'
     },

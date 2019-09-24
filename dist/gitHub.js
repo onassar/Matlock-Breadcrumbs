@@ -14357,11 +14357,12 @@
 // src/gitHub/lokesh/color-thief.js
 {
     properties: {
-        link: 'https://github.com/lokesh/color-thief',
-        platform: 'GitHub',
         examples: [
             'https://lokeshdhakar.com/projects/color-thief/'
         ],
+        link: 'https://github.com/lokesh/color-thief',
+        name: 'Color Thief',
+        platform: 'GitHub',
         tags: [
             'color-utils'
         ],

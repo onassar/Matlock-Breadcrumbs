@@ -4,6 +4,7 @@
     ],
     properties: {
         link: 'https://github.com/craftcms/cms',
+        name: 'Craft CMS',
         platform: 'GitHub',
         type: 'repository'
     },

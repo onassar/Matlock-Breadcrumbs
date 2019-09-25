@@ -7,6 +7,7 @@
             'https://shipshapecode.github.io/shepherd/docs/welcome/'
         ],
         link: 'https://github.com/shipshapecode/shepherd',
+        name: 'Shepherd',
         platform: 'GitHub',
         type: 'repository'
     },

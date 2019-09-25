@@ -4,6 +4,7 @@
             'https://yabwe.github.io/medium-editor/'
         ],
         link: 'https://github.com/yabwe/medium-editor',
+        name: 'MediumEditor',
         platform: 'GitHub',
         tags: [
             'wysiwyg'

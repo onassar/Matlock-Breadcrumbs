@@ -5368,12 +5368,13 @@
 // src/gitHub/blueimp/Gallery.js
 {
     properties: {
-        link: 'https://github.com/blueimp/Gallery',
-        platform: 'GitHub',
-        tags: [],
         examples: [
             'https://blueimp.github.io/Gallery/'
         ],
+        link: 'https://github.com/blueimp/Gallery',
+        name: 'blueimp Gallery',
+        platform: 'GitHub',
+        tags: [],
         type: 'repository'
     },
     tests: {
@@ -6740,6 +6741,7 @@
             'https://www.infowars.com/'
         ],
         link: 'https://github.com/dailymotion/hls.js',
+        name: 'JavaScript HLS client',
         platform: 'GitHub',
         type: 'repository'
     },
@@ -7650,11 +7652,12 @@
 // src/gitHub/docsifyjs/docsify.js
 {
     properties: {
-        link: 'https://github.com/docsifyjs/docsify',
-        platform: 'GitHub',
         examples: [
             'http://airbnb.io/lottie/'
         ],
+        link: 'https://github.com/docsifyjs/docsify',
+        name: 'docsify',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {
@@ -9246,11 +9249,12 @@
 // src/gitHub/flot/flot.js
 {
     properties: {
-        link: 'https://github.com/flot/flot',
-        platform: 'GitHub',
         examples: [
             'http://www.flotcharts.org/flot/examples/basic-usage/index.html'
         ],
+        link: 'https://github.com/flot/flot',
+        name: 'flot',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {
@@ -22596,6 +22600,7 @@
             'https://yabwe.github.io/medium-editor/'
         ],
         link: 'https://github.com/yabwe/medium-editor',
+        name: 'MediumEditor',
         platform: 'GitHub',
         tags: [
             'wysiwyg'

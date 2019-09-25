@@ -1,10 +1,11 @@
 {
     properties: {
-        link: 'https://github.com/docsifyjs/docsify',
-        platform: 'GitHub',
         examples: [
             'http://airbnb.io/lottie/'
         ],
+        link: 'https://github.com/docsifyjs/docsify',
+        name: 'docsify',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {

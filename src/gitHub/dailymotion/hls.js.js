@@ -4,6 +4,7 @@
             'https://www.infowars.com/'
         ],
         link: 'https://github.com/dailymotion/hls.js',
+        name: 'JavaScript HLS client',
         platform: 'GitHub',
         type: 'repository'
     },

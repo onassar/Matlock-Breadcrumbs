@@ -5,6 +5,7 @@
             'https://www.barnesandnoble.com/w/principles-ray-dalio/1125955035?ean=9781501124020#/'
         ],
         link: 'https://github.com/aFarkas/webshim',
+        name: 'Webshim',
         platform: 'GitHub',
         type: 'repository'
     },

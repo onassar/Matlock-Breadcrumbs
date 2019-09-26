@@ -438,6 +438,7 @@
             'http://slicknav.io/'
         ],
         link: 'https://github.com/ComputerWolf/SlickNav',
+        name: 'SlickNav',
         platform: 'GitHub',
         tags: [
             'slider'
@@ -1415,6 +1416,7 @@
             'https://funretro.io/'
         ],
         link: 'https://github.com/MrRio/jsPDF',
+        name: 'jsPDF',
         platform: 'GitHub',
         type: 'repository'
     },
@@ -6096,11 +6098,12 @@
 // src/gitHub/chancejs/chancejs.js
 {
     properties: {
-        link: 'https://github.com/chancejs/chancejs',
-        platform: 'GitHub',
         examples: [
             'http://chancejs.com/'
         ],
+        link: 'https://github.com/chancejs/chancejs',
+        name: 'Chance',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {
@@ -8960,6 +8963,7 @@
 {
     properties: {
         link: 'https://github.com/fgnass/spin.js',
+        name: 'spin.js',
         platform: 'GitHub',
         type: 'repository'
     },
@@ -10841,6 +10845,7 @@
 {
     properties: {
         link: 'https://github.com/hiddentao/fast-levenshtein',
+        name: 'fast-levenshtein',
         platform: 'GitHub',
         type: 'repository'
     },
@@ -18226,12 +18231,12 @@
 // src/gitHub/pusher/pusher-js.js
 {
     properties: {
-        link: 'https://github.com/pusher/pusher-js',
-        name: 'Pusher Javascript Client',
-        platform: 'GitHub',
         examples: [
             'https://www.nytimes.com/interactive/2016/sports/olympics/rio-olympics-photo-firehose.html'
         ],
+        link: 'https://github.com/pusher/pusher-js',
+        name: 'Pusher Javascript Client',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {
@@ -19164,6 +19169,7 @@
             'http://scottcheng.github.io/cropit/'
         ],
         link: 'https://github.com/scottcheng/cropit',
+        name: 'cropit',
         platform: 'GitHub',
         type: 'repository'
     },

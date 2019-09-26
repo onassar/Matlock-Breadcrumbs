@@ -4,6 +4,7 @@
             'http://slicknav.io/'
         ],
         link: 'https://github.com/ComputerWolf/SlickNav',
+        name: 'SlickNav',
         platform: 'GitHub',
         tags: [
             'slider'

@@ -1,6 +1,7 @@
 {
     properties: {
         link: 'https://github.com/fgnass/spin.js',
+        name: 'spin.js',
         platform: 'GitHub',
         type: 'repository'
     },

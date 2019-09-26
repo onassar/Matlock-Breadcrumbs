@@ -1,10 +1,11 @@
 {
     properties: {
-        link: 'https://github.com/chancejs/chancejs',
-        platform: 'GitHub',
         examples: [
             'http://chancejs.com/'
         ],
+        link: 'https://github.com/chancejs/chancejs',
+        name: 'Chance',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {

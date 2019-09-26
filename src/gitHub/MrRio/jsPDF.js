@@ -4,6 +4,7 @@
             'https://funretro.io/'
         ],
         link: 'https://github.com/MrRio/jsPDF',
+        name: 'jsPDF',
         platform: 'GitHub',
         type: 'repository'
     },

@@ -9,6 +9,7 @@
             }
         },
         link: 'https://github.com/PopupMaker/Popup-Maker',
+        name: 'Popup Maker',
         platform: 'GitHub',
         type: 'repository'
     },

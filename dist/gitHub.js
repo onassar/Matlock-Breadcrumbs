@@ -1663,6 +1663,7 @@
             }
         },
         link: 'https://github.com/PopupMaker/Popup-Maker',
+        name: 'Popup Maker',
         platform: 'GitHub',
         type: 'repository'
     },
@@ -5209,6 +5210,7 @@
 {
     properties: {
         link: 'https://github.com/bfintal/Counter-Up',
+        name: 'Counter-Up',
         platform: 'GitHub',
         type: 'repository'
     },
@@ -19225,6 +19227,7 @@
             'https://looplabs.com/beta'
         ],
         link: 'https://github.com/scottschiller/SoundManager2',
+        name: 'SoundManager 2',
         platform: 'GitHub',
         type: 'repository'
     },

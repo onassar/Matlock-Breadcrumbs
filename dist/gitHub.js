@@ -14735,6 +14735,7 @@
             'https://missionworkshop.com/'
         ],
         link: 'https://github.com/macek/jquery-serialize-object',
+        name: 'jQuery Serialize Object',
         platform: 'GitHub',
         tags: [
             'jQuery'

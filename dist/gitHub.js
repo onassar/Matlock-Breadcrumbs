@@ -10122,11 +10122,12 @@
 // src/gitHub/googleads/videojs-ima.js
 {
     properties: {
-        link: 'https://github.com/googleads/videojs-ima',
-        platform: 'GitHub',
         examples: [
             'https://www.mynbc5.com/article/trump-says-gen-mattis-to-retire-as-defense-secretary-in-early-2019/25647058'
         ],
+        link: 'https://github.com/googleads/videojs-ima',
+        name: 'IMA SDK Plugin for Video.js',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {
@@ -22741,6 +22742,7 @@
 {
     properties: {
         link: 'https://github.com/zachleat/BigText',
+        name: 'BigText',
         platform: 'GitHub',
         type: 'repository'
     },

@@ -1,6 +1,7 @@
 {
     properties: {
         link: 'https://github.com/zachleat/BigText',
+        name: 'BigText',
         platform: 'GitHub',
         type: 'repository'
     },

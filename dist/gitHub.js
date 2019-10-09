@@ -19685,11 +19685,12 @@
 // src/gitHub/socketio/socket.io.js
 {
     properties: {
-        link: 'https://github.com/socketio/socket.io',
-        platform: 'GitHub',
         examples: [
             'https://socket.io/'
         ],
+        link: 'https://github.com/socketio/socket.io',
+        name: 'socket.io',
+        platform: 'GitHub',
         type: 'repository'
     },
     tests: {
